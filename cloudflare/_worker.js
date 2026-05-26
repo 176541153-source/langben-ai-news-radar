@@ -104,7 +104,7 @@ async function triggerGithubWorkflow(env) {
         error: "missing_github_dispatch_config",
         missing: config.missing,
         generated_at: new Date().toISOString(),
-        message: `未接入 GitHub Actions：Cloudflare Pages 缺少 ${config.missing.join("、")}，当前只能刷新已发布数据。`,
+        message: "手动更新暂不可用：自动更新通道尚未接入。",
       },
       501
     );
@@ -132,6 +132,7 @@ async function triggerGithubWorkflow(env) {
         error: "github_dispatch_failed",
         status: response.status,
         detail: await response.text(),
+        message: "更新任务启动失败，请稍后再试。",
       },
       502
     );
@@ -141,7 +142,7 @@ async function triggerGithubWorkflow(env) {
     ok: true,
     mode: "workflow_dispatch",
     generated_at: new Date().toISOString(),
-    message: "已触发 GitHub Actions 更新任务；数据提交后页面会直接读取 GitHub 最新数据。",
+    message: "已提交更新任务；通常 1-3 分钟后刷新可见。",
   });
 }
 

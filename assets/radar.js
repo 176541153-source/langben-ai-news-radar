@@ -725,11 +725,10 @@ function setUpdateState(message, isError = false) {
 function updateSetupMessage(payload) {
   if (!payload || !updateStatusEl) return;
   if (payload.manual_update_configured) {
-    setUpdateState("已接入 GitHub Actions：后台每 30 分钟自动抓取；点击立即更新可触发一次云端更新。");
+    setUpdateState("自动更新已接入：每 30 分钟刷新一次；点击立即更新可马上发起刷新。");
     return;
   }
-  const missing = Array.isArray(payload.missing) && payload.missing.length ? payload.missing.join("、") : "GITHUB_TOKEN、GITHUB_OWNER、GITHUB_REPO";
-  setUpdateState(`未接入 GitHub Actions：Cloudflare Pages 缺少 ${missing}，当前只能刷新已发布数据。`, true);
+  setUpdateState("自动更新暂未接入：当前只能查看已发布数据。", true);
 }
 
 async function loadUpdateStatus() {
@@ -753,15 +752,15 @@ async function runManualUpdate() {
     const response = await fetch("./api/update", { method: "POST" });
     const payload = await response.json().catch(() => ({}));
     if (payload.mode === "manual_update_unconfigured") {
-      setUpdateState(payload.message || "云端手动更新未配置：请先配置 Cloudflare Pages 的 GitHub 环境变量。", true);
+      setUpdateState(payload.message || "手动更新暂不可用：请稍后再试。", true);
       await init();
       return;
     }
     if (!response.ok || !payload.ok) {
-      throw new Error(payload.message || payload.error || `HTTP ${response.status}`);
+      throw new Error(payload.message || "更新任务启动失败，请稍后再试。");
     }
     if (payload.mode === "workflow_dispatch") {
-      setUpdateState(payload.message || "已触发云端更新任务，通常 1-3 分钟后刷新可见。");
+      setUpdateState(payload.message || "已提交更新任务，通常 1-3 分钟后刷新可见。");
       return;
     }
     setUpdateState(`已更新：${fmtTime(payload.generated_at)}，正在刷新页面数据。`);
