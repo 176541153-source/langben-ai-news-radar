@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-26T08:32:50.683142Z
-- 24小时AI信号：1992 条
+- 生成时间：2026-05-26T08:57:36.704722Z
+- 24小时AI信号：1899 条
 - 源健康：14/14
-- 原始抓取：7232 条
+- 原始抓取：7236 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [拒绝空谈承诺！多国政府推行大模型“发布前安全评估”新机制](https://www.aibase.com/news/28349)
-   - 时间：1分钟前
+   - 时间：24分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [阿里 Qwen3.7-Max 编程能力全球登顶第二！Code Arena 1541 分，仅次 Claude，35 小时自主任务刷新生产力上限](https://www.aibase.com/news/28346)
-   - 时间：56分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Hyper3D Rodin Gen-2.5 发布：4 秒百万面、全球首款千万面级 3D 生成模型，细节直逼生产级资产](https://www.aibase.com/news/28345)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [代价昂贵的错误！“神奇小子”乔治·霍茨警告 AI 编程智能体成软件最大隐患](https://www.aibase.com/news/28348)
-   - 时间：1分钟前
+   - 时间：24分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [阿里云CTO阐述从云原生到智能体原生转型](https://x.com/alibaba_cloud/status/2059174528786268669)
@@ -107,11 +107,11 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [谷歌 AI 框架 AlphaProof Nexus 攻克 2 道悬置 56 年数学难题](https://www.ithome.com/0/955/261.htm)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Kling AI驱动《大卫之家》实现多项行业首创](https://x.com/Kling_ai/status/2059121691385622761)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [​育碧《孤岛惊魂 7》秘密测试生成式 AI 遭曝光](https://www.aibase.com/news/28328)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 1062/3702 | 28.7% | 高信号源，建议保留 |
-| Buzzing | 382/1604 | 23.8% | 高信号源，建议保留 |
-| Info Flow | 176/739 | 23.8% | 高信号源，建议保留 |
-| TechURLs | 90/279 | 32.3% | 高信号源，建议保留 |
+| TopHub | 971/3307 | 29.4% | 高信号源，建议保留 |
+| Buzzing | 386/1640 | 23.5% | 高信号源，建议保留 |
+| Info Flow | 178/762 | 23.4% | 高信号源，建议保留 |
+| TechURLs | 94/283 | 33.2% | 高信号源，建议保留 |
 | Zeli | 63/70 | 90.0% | 高信号源，建议保留 |
-| NewsNow | 55/272 | 20.2% | 高信号源，建议保留 |
-| AIbase | 48/48 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 53/268 | 19.8% | 高信号源，建议保留 |
+| AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 15/16 | 93.8% | 高信号源，建议保留 |
 
 ## 维护提示
