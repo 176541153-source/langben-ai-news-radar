@@ -599,13 +599,17 @@ function renderChinaHotItems(payload) {
   items.slice(0, 16).forEach((item, index) => {
     const topicLabels = Array.isArray(item.topic_labels) ? item.topic_labels.filter(Boolean) : [];
     const hitLabel = topicLabels[0] || (item.ai_is_related ? "关键词命中" : "热榜观察");
+    const displayRank = String(index + 1).padStart(2, "0");
+    const originalRank = Number(item.rank || 0);
+    const originalRankText = originalRank > 0 ? `原平台排名 #${originalRank}` : "原平台未提供排名";
     const link = document.createElement("a");
     link.className = `hot-item ${item.ai_is_related ? "ai-hit" : ""} ${toneFor(index)}`;
     link.href = itemHref(item);
     link.target = "_blank";
     link.rel = "noopener noreferrer";
+    link.title = `${item.source || "中文热榜"} · ${originalRankText}`;
     link.innerHTML = `
-      <span>${String(item.rank || index + 1).padStart(2, "0")}</span>
+      <span>${displayRank}</span>
       <div>
         <strong>${escapeHtml(itemTitle(item))}</strong>
         <em>${escapeHtml(item.source || "中文热榜")} · ${escapeHtml(hitLabel)}</em>
