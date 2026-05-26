@@ -1,63 +1,63 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-26T19:57:25.462083Z
-- 24小时AI信号：1936 条
+- 生成时间：2026-05-26T21:41:36.306640Z
+- 24小时AI信号：1987 条
 - 源健康：14/14
-- 原始抓取：7163 条
+- 原始抓取：6999 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [MiMo 2.5 Pro大幅降价，与DeepSeek V4 Pro同价](https://x.com/kimmonismus/status/2059354372643975490)
-   - 时间：35分钟前
+1. [Claude Code推出安全漏洞识别插件](https://x.com/ClaudeDevs/status/2059385239781384341)
+   - 时间：16分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [据报道Claude Mythos以"巧妙简洁的证明"解决了OpenAI里程碑式的Erdős问题](https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof)
-   - 时间：1小时前
+2. [Gemini Omni 视频提示词使用指南](https://x.com/GoogleAI/status/2059381218660270435)
+   - 时间：32分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [人类对局体验再升级！免费开源 AI 国际象棋引擎 Maia 3 正式发布](https://www.aibase.com/news/28353)
-   - 时间：5小时前
-   - 来源：AIbase
+3. [MiMo 2.5 Pro大幅降价，与DeepSeek V4 Pro同价](https://x.com/kimmonismus/status/2059354372643975490)
+   - 时间：2小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [事实性幻觉率降至3.3%！百川智能将发布新一代医疗大模型Baichuan-M4](https://www.aibase.com/news/28352)
-   - 时间：5小时前
-   - 来源：AIbase
+4. [据报道Claude Mythos以"巧妙简洁的证明"解决了OpenAI里程碑式的Erdős问题](https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof)
+   - 时间：3小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [百川智能发布 Baichuan-M4 大模型与“百小医”，AI 医疗从“咨询”转向“全科管家”](https://www.aibase.com/news/28350)
-   - 时间：5小时前
+5. [人类对局体验再升级！免费开源 AI 国际象棋引擎 Maia 3 正式发布](https://www.aibase.com/news/28353)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [我们如何对不同产品中的Claude进行隔离控制](https://www.anthropic.com/engineering/how-we-contain-claude)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [SenseNova-U1全训练代码开源，支持多模态多任务训练](https://x.com/SenseTime_AI/status/2059288013994406013)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Sundar Pichai 谈 AI、搜索的未来及网络的变化](https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [SynthID水印技术扩展合作，覆盖超千亿内容](https://x.com/GoogleDeepMind/status/2059235181274202500)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [代价昂贵的错误！“神奇小子”乔治·霍茨警告 AI 编程智能体成软件最大隐患](https://www.aibase.com/news/28348)
-   - 时间：11小时前
+   - 时间：昨天 16:32
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [微软亚洲研究院发起全球AI价值观挑战赛](https://x.com/MSFTResearch/status/2059273348232724565)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [最高年薪44. 5 万美元！OpenAI高薪招聘安全研究员](https://www.aibase.com/news/28327)
@@ -68,23 +68,23 @@
    - 时间：昨天 11:12
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [华为何庭波"韬定律"论文发布，逻辑折叠技术提升芯片性能](https://www.ithome.com/0/954/778.htm)
-   - 时间：05-25 12:27
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [现在每个组织都在向人工智能投入资金，但几乎没有一个组织知道他们的员工实际上在用它做什么”：研究显示员工在工作中使用他们的个人人工智能帐户，这引发了一系列问题](https://www.techradar.com/pro/every-organization-is-pouring-money-into-ai-right-now-and-almost-none-of-them-know-what-their-people-are-actually-doing-with-it-study-reveals-employees-are-using-their-personal-ai-accounts-at-work-raising-a-whole-host-of-issues)
+   - 时间：1小时前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [精读华为「韬（τ）定律」论文：逻辑折叠、AI 提速与投资转向](https://www.huxiu.com/article/4861797.html?f=rss)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [擎朗智能发布小尺寸人形机器人 XMAN-L1：轻量化“互动专家”正式上岗](https://www.aibase.com/news/28351)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [OpenRouter完成1.13亿美元B轮融资](https://x.com/OpenRouter/status/2059277623629664758)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [攻克悬置 56 年难题！谷歌AlphaProof Nexus颠覆数学界](https://www.aibase.com/news/28338)
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [Replit 应用添加登录的两种方式](https://x.com/Replit/status/2059303550375674139)
-   - 时间：3小时前
+21. [人类与AI分工：教育咨询及文学奖争议](https://x.com/emollick/status/2059363865536668040)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [未来展望：2026年5月的一些想法](https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may)
-   - 时间：4小时前
+22. [选择保持人性](https://www.oneusefulthing.org/p/choosing-to-stay-human)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [KPop 新方法让 Ring-2.6-1T 在 SWE-bench Verified 上突破 76 分](https://x.com/AntLingAGI/status/2059292063032918422)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Project Luxo：跨越AI媒体的恐怖谷](https://runwayml.com/news/project-luxo)
+23. [Replit 应用添加登录的两种方式](https://x.com/Replit/status/2059303550375674139)
    - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [四个月花光全年 AI 预算，Uber 总裁质疑 AI 投入合理性](https://www.ithome.com/0/955/563.htm)
-   - 时间：9小时前
+24. [未来展望：2026年5月的一些想法](https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [KPop 新方法让 Ring-2.6-1T 在 SWE-bench Verified 上突破 76 分](https://x.com/AntLingAGI/status/2059292063032918422)
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 948/3255 | 29.1% | 高信号源，建议保留 |
-| Buzzing | 402/1679 | 23.9% | 高信号源，建议保留 |
-| Info Flow | 189/780 | 24.2% | 高信号源，建议保留 |
-| TechURLs | 113/381 | 29.7% | 高信号源，建议保留 |
-| Zeli | 75/80 | 93.8% | 高信号源，建议保留 |
-| NewsNow | 45/233 | 19.3% | 高信号源，建议保留 |
+| TopHub | 982/3338 | 29.4% | 高信号源，建议保留 |
+| Buzzing | 409/1719 | 23.8% | 高信号源，建议保留 |
+| Info Flow | 190/782 | 24.3% | 高信号源，建议保留 |
+| TechURLs | 118/377 | 31.3% | 高信号源，建议保留 |
+| Zeli | 74/81 | 91.4% | 高信号源，建议保留 |
+| NewsNow | 45/235 | 19.1% | 高信号源，建议保留 |
 | AIbase | 39/39 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 23/24 | 95.8% | 高信号源，建议保留 |
+| AI HOT | 26/27 | 96.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
