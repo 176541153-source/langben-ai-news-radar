@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>狼贲AI｜AI 科技雷达</title>
+    <meta
+      name="description"
+      content="狼贲AI科技雷达，自动汇聚、筛选和归档 24 小时 AI 资讯、热榜与重点故事。"
+    />
+    <link rel="canonical" href="https://ainews.caodiu.com/" />
+    <meta property="og:title" content="狼贲AI｜AI 科技雷达" />
+    <meta
+      property="og:description"
+      content="狼贲AI科技雷达，自动汇聚、筛选和归档 24 小时 AI 资讯、热榜与重点故事。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ainews.caodiu.com/" />
+    <meta property="og:site_name" content="狼贲AI" />
+    <link rel="icon" href="./assets/logo.svg?v=langben-0526" type="image/svg+xml" />
+    <link rel="stylesheet" href="./assets/radar.css?v=github-actions-guide-0526" />
+  </head>
+  <body>
+    <main class="radar-shell">
+      <header class="topbar">
+        <a class="brand" href="./">
+          <img src="./assets/logo.svg?v=langben-0526" alt="狼贲AI" />
+          <span>狼贲AI</span>
+          <em>AI News Radar</em>
+        </a>
+        <nav class="nav-links" aria-label="Radar channels">
+          <a class="active" href="#today" data-channel="today">今日</a>
+          <a href="#today" data-channel="model">模型</a>
+          <a href="#today" data-channel="agent">Agent</a>
+          <a href="#today" data-channel="product">产品</a>
+          <a href="#today" data-channel="compute">算力</a>
+          <a href="#sources" data-channel="sources">来源</a>
+          <a href="#daily" data-channel="daily">日报</a>
+        </nav>
+        <label class="search-box" aria-label="搜索">
+          <input id="searchInput" type="search" placeholder="搜索关键词、公司、产品..." />
+          <span>⌕</span>
+        </label>
+        <div class="top-actions">
+          <button class="action-button primary" id="updateNowBtn" type="button">立即更新</button>
+          <a class="action-button" href="./data/daily-brief.zh.md" target="_blank" rel="noopener noreferrer">今日简报</a>
+        </div>
+      </header>
+
+      <section class="dashboard-grid" id="today">
+        <section class="brief-panel">
+          <div class="brief-title">
+            <div>
+              <p class="eyebrow">TODAY</p>
+              <h1>今日 <span>AI</span> 情报速递</h1>
+              <p class="hero-text">模型、Agent、产品、算力和研究动态统一汇入四源信号池，按 24 小时热度去重排序。</p>
+            </div>
+            <div class="time-chip">
+              <span>最后刷新</span>
+              <strong id="generatedAt">加载中</strong>
+            </div>
+          </div>
+          <div class="brief-controls" aria-label="Signal filters">
+            <span>24H</span>
+            <span>已去重</span>
+          </div>
+          <p class="update-status" id="updateStatus">未接入 GitHub Actions 时，按钮只会刷新已发布数据；配置 Cloudflare Pages 环境变量后可手动触发云端抓取。</p>
+          <div class="story-grid" id="storyGrid"></div>
+        </section>
+
+        <aside class="right-stack">
+          <section class="insight-panel">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow">PULSE</p>
+                <h2>今日脉冲</h2>
+              </div>
+            </div>
+            <section class="metric-grid" id="metricGrid" aria-label="Radar summary"></section>
+          </section>
+
+          <section class="insight-panel">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow">CHINA HOTLIST</p>
+                <h2>中文热榜</h2>
+              </div>
+            </div>
+            <div class="hot-list" id="chinaHotItems"></div>
+          </section>
+        </aside>
+      </section>
+
+      <section class="source-section" id="sources">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">SOURCE PICKER</p>
+            <h2>来源管理</h2>
+          </div>
+          <div class="source-actions">
+            <span id="sourceSummary">来源加载中</span>
+            <button class="section-action" id="resetSourcesBtn" type="button">恢复全部</button>
+          </div>
+        </div>
+        <p class="source-note">删除后会隐藏当前浏览器里的对应来源内容；下次打开仍保留你的选择。云端重抓配置接入 GitHub 后可同步写回。</p>
+        <div class="source-catalog" id="sourceCatalog"></div>
+      </section>
+
+      <section class="daily-section" id="daily">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">DAILY BRIEF</p>
+            <h2>狼贲AI日报</h2>
+          </div>
+          <a class="section-action" href="./data/daily-brief.zh.md" target="_blank" rel="noopener noreferrer">查看全文</a>
+        </div>
+        <div class="daily-brief" id="dailyBrief">
+          <div class="empty">日报加载中</div>
+        </div>
+      </section>
+
+      <section class="category-section" id="lanes">
+        <div class="section-head compact">
+          <div>
+            <p class="eyebrow">TOPIC LANES</p>
+            <h2>信号轨道</h2>
+          </div>
+        </div>
+        <div class="category-stack" id="categoryStack"></div>
+      </section>
+
+      <section class="table-section">
+        <div class="section-head compact">
+          <div>
+            <p class="eyebrow">LATEST PULSE</p>
+            <h2>新增脉冲</h2>
+          </div>
+        </div>
+        <div class="mini-list" id="newItems"></div>
+      </section>
+    </main>
+
+    <script src="./assets/radar.js?v=github-actions-guide-0526" defer></script>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">狼贲AI Logo</title>
+  <desc id="desc">狼贲AI科技雷达品牌标识</desc>
+  <defs>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1f22"/>
+      <stop offset="55%" stop-color="#071018"/>
+      <stop offset="100%" stop-color="#151027"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#45f0df"/>
+      <stop offset="52%" stop-color="#ffc257"/>
+      <stop offset="100%" stop-color="#a98cff"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="204" height="204" rx="42" fill="url(#panel)"/>
+  <rect x="12" y="12" width="196" height="196" rx="38" fill="none" stroke="url(#edge)" stroke-width="4"/>
+  <path d="M42 65 L79 38 L112 68 L145 38 L181 65 L158 164 L62 164 Z" fill="none" stroke="url(#edge)" stroke-width="9" stroke-linejoin="round" opacity="0.7"/>
+  <path d="M70 98 L107 68 L150 98 L131 130 L111 112 L91 130 Z" fill="#45f0df" opacity="0.14"/>
+  <circle cx="80" cy="97" r="5" fill="#45f0df" filter="url(#glow)"/>
+  <circle cx="140" cy="97" r="5" fill="#ffc257" filter="url(#glow)"/>
+  <text x="110" y="128" text-anchor="middle" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="64" font-weight="900" fill="#f8fbff">狼</text>
+  <text x="110" y="161" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="900" letter-spacing="3" fill="#45f0df">AI</text>
+</svg>

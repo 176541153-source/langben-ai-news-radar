@@ -1,0 +1,59 @@
+{
+  "sources": [
+    {
+      "id": "aihot",
+      "name": "AI HOT Skill",
+      "enabled": true,
+      "kind": "public_api",
+      "homepage": "https://aihot.virxact.com",
+      "items_url": "https://aihot.virxact.com/api/public/items?mode=selected&take=30",
+      "description": "公开 API 拉取 AI HOT 精选、分类和滚动时间窗。"
+    },
+    {
+      "id": "ai_news_radar",
+      "name": "AI News Radar",
+      "enabled": true,
+      "kind": "local_pipeline",
+      "homepage": "https://github.com/LearnPrompt/ai-news-radar",
+      "description": "本项目生成的 24 小时 AI 信号、源健康和日报数据。"
+    },
+    {
+      "id": "trendradar",
+      "name": "TrendRadar",
+      "enabled": true,
+      "kind": "newsnow_hotlist",
+      "homepage": "https://github.com/sansan0/TrendRadar",
+      "api_base": "https://newsnow.busiyi.world/api/s",
+      "max_platforms": 16,
+      "max_items": 480,
+      "platforms": [
+        { "id": "toutiao", "name": "今日头条" },
+        { "id": "baidu", "name": "百度" },
+        { "id": "wallstreetcn-hot", "name": "华尔街见闻" },
+        { "id": "thepaper", "name": "澎湃新闻" },
+        { "id": "bilibili", "name": "哔哩哔哩" },
+        { "id": "cls-hot", "name": "财联社热门" },
+        { "id": "ifeng", "name": "凤凰网" },
+        { "id": "weibo", "name": "微博" },
+        { "id": "douyin", "name": "抖音" },
+        { "id": "zhihu", "name": "知乎" },
+        { "id": "tencent", "name": "腾讯" },
+        { "id": "zaobao", "name": "早报" },
+        { "id": "36kr", "name": "36kr" },
+        { "id": "cankaoxiaoxi", "name": "参考消息" },
+        { "id": "iqiyi", "name": "爱奇艺" },
+        { "id": "ithome", "name": "it之家" }
+      ],
+      "description": "按 TrendRadar 的 NewsNow 热榜路径抓取多平台趋势。"
+    },
+    {
+      "id": "horizon",
+      "name": "Horizon",
+      "enabled": true,
+      "kind": "atom_feed",
+      "homepage": "https://thysrael.github.io/Horizon/",
+      "feed_url": "https://thysrael.github.io/Horizon/feed-zh.xml",
+      "description": "读取 Horizon 公开中文 Atom feed，承接其 0-10 评分和日报条目。"
+    }
+  ]
+}

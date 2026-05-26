@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>狼贲AI｜AI 新闻情报中控台</title>
+    <meta
+      name="description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <link rel="canonical" href="https://ainews.caodiu.com/" />
+    <meta property="og:title" content="狼贲AI｜AI 新闻情报中控台" />
+    <meta
+      property="og:description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ainews.caodiu.com/" />
+    <meta property="og:site_name" content="狼贲AI" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="狼贲AI｜AI 新闻情报中控台" />
+    <meta
+      name="twitter:description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <link rel="icon" href="./assets/logo.svg?v=langben-0526" type="image/svg+xml" />
+    <link rel="stylesheet" href="./assets/styles.css?v=tech-news-ui-0526" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar" aria-label="主导航">
+        <a class="brand" href="./index.html" aria-label="狼贲AI 首页">
+          <img class="brand-logo" src="./assets/logo.svg?v=langben-0526" alt="" />
+          <span>
+            <strong>狼贲AI</strong>
+            <small>AI NEWS RADAR</small>
+          </span>
+        </a>
+        <nav class="nav-links" aria-label="频道">
+          <a href="#bolePicksList">精选</a>
+          <a href="#newsList">信号流</a>
+          <a href="#coverageStrip">源覆盖</a>
+        </nav>
+        <a class="nav-action" href="./radar.html">打开雷达</a>
+      </header>
+
+      <section class="hero">
+        <div class="hero-main">
+          <div class="hero-chip-row" aria-label="站点能力">
+            <span>24H LIVE</span>
+            <span>MODEL · AGENT · TOOLING</span>
+            <span>SCOUT RANKING</span>
+          </div>
+          <p class="hero-tag">LANGBEN AI INTELLIGENCE DESK</p>
+          <h1>把 AI 世界的噪音，压缩成可行动的情报流</h1>
+          <p class="hero-sub">
+            面向 AI 从业者的新闻中控台：自动聚合官方更新、开发者工具、模型发布和社区热点，用评分、来源覆盖和时间线帮你先看最重要的信号。
+          </p>
+          <div class="hero-actions" aria-label="快捷入口">
+            <a class="hero-primary" id="briefLink" href="./data/daily-brief.zh.md" target="_blank" rel="noopener noreferrer">阅读今日简报</a>
+            <a class="hero-secondary" href="#newsList">进入信号流</a>
+          </div>
+        </div>
+
+        <aside class="hero-panel" aria-label="实时雷达概览">
+          <div class="hero-meta">
+            <span class="updated-label">SYSTEM SYNC</span>
+            <span class="updated" id="updatedAt">加载中...</span>
+          </div>
+          <div class="radar-visual" aria-hidden="true">
+            <div class="radar-grid"></div>
+            <div class="radar-sweep"></div>
+            <div class="radar-core">
+              <img src="./assets/logo.svg?v=langben-0526" alt="" />
+            </div>
+            <span class="radar-dot dot-a"></span>
+            <span class="radar-dot dot-b"></span>
+            <span class="radar-dot dot-c"></span>
+            <span class="radar-dot dot-d"></span>
+          </div>
+          <div class="radar-caption">
+            <span>Signal Density</span>
+            <strong>Realtime AI Pulse</strong>
+          </div>
+        </aside>
+
+        <section class="stats" id="stats"></section>
+
+        <section class="coverage-strip" id="coverageStrip" aria-label="Source coverage status"></section>
+      </section>
+
+      <section class="primary-controls">
+        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
+        <div class="mode-hint" id="modeHint">AI强相关</div>
+      </section>
+
+      <details class="advanced-panel">
+        <summary>
+          <span>高级筛选与源状态</span>
+          <span class="advanced-summary" id="advancedSummary">加载中...</span>
+        </summary>
+        <div class="advanced-content">
+          <div class="advanced-controls">
+            <label class="field">
+              <span>站点</span>
+              <select id="siteSelect">
+                <option value="">全部站点</option>
+              </select>
+            </label>
+            <div class="field">
+              <span>视图</span>
+              <div class="mode-switch">
+                <button id="modeAiBtn" class="mode-btn active" type="button">AI强相关</button>
+                <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
+              </div>
+            </div>
+            <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
+              <input id="allDedupeToggle" type="checkbox" checked />
+              <span class="all-dedupe-dot"></span>
+              <span id="allDedupeLabel">去重开</span>
+            </label>
+          </div>
+          <div class="source-health" id="sourceHealth">源状态加载中...</div>
+          <section class="site-pills" id="sitePills"></section>
+        </div>
+      </details>
+
+      <section class="bole-picks-wrap" aria-label="伯乐精选">
+        <div class="bole-picks-head">
+          <div>
+            <p class="section-eyebrow">BOLE PICKS</p>
+            <h2>伯乐精选</h2>
+          </div>
+          <span id="bolePicksMeta">按评分排序</span>
+        </div>
+        <div class="bole-picks-sub">从 24 小时信号池里挑出更值得先看的更新，展示发布时间线、评分和命中理由。</div>
+        <div id="bolePicksList" class="bole-board"></div>
+      </section>
+
+      <section class="waytoagi-wrap">
+        <div class="waytoagi-head">
+          <h2>WaytoAGI 更新日志</h2>
+          <div class="waytoagi-tools">
+            <div class="waytoagi-switch">
+              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button">最近更新日</button>
+              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button">近7日</button>
+            </div>
+            <span id="waytoagiUpdatedAt">加载中...</span>
+          </div>
+        </div>
+        <div id="waytoagiMeta" class="waytoagi-meta"></div>
+        <div id="waytoagiList" class="waytoagi-list"></div>
+      </section>
+
+      <section class="list-wrap">
+        <div class="list-head">
+          <h2 id="listTitle">AI 信号流</h2>
+          <span id="resultCount">0 条</span>
+        </div>
+        <div id="newsList" class="news-list"></div>
+      </section>
+
+    </main>
+
+    <template id="itemTpl">
+      <article class="news-card">
+        <div class="meta-row">
+          <span class="site"></span>
+          <span class="category"></span>
+          <span class="source"></span>
+          <time class="time"></time>
+        </div>
+        <a class="title" target="_blank" rel="noopener noreferrer"></a>
+      </article>
+    </template>
+
+    <script src="./assets/app.js?v=tech-news-ui-0526" defer></script>
+  </body>
+</html>
