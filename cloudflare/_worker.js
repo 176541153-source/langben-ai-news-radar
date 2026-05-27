@@ -142,7 +142,7 @@ async function triggerGithubWorkflow(env) {
     ok: true,
     mode: "workflow_dispatch",
     generated_at: new Date().toISOString(),
-    message: "已提交更新任务；通常 1-3 分钟后刷新可见。",
+    message: "已提交更新任务；通常 1-3 分钟后自动同步。",
   });
 }
 

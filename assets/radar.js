@@ -15,6 +15,7 @@ const navLinkEls = Array.from(document.querySelectorAll(".nav-links a[data-chann
 
 const tones = ["cyan", "amber", "violet", "green", "orange"];
 const sourceStorageKey = "langben-ai-disabled-sources-v1";
+const autoRefreshMs = 5 * 60 * 1000;
 const channelConfig = {
   today: { label: "今日", target: "today" },
   model: { label: "模型", target: "today" },
@@ -28,6 +29,7 @@ let currentPayload = null;
 let currentDailyMarkdown = "";
 let activeChannel = initialChannel();
 let disabledSourceKeys = loadDisabledSources();
+let autoRefreshTimer = null;
 
 function fmtNumber(value) {
   return new Intl.NumberFormat("zh-CN").format(value || 0);
@@ -542,10 +544,12 @@ function buildSmallItem(item, index = 0) {
   link.target = "_blank";
   link.rel = "noopener noreferrer";
   link.innerHTML = `
+    <span class="small-time">${escapeHtml(item.time_label || fmtTime(item.published_at))}</span>
     <i aria-hidden="true"></i>
-    <span>${escapeHtml(item.time_label || fmtTime(item.published_at))}</span>
-    <strong>${escapeHtml(itemTitle(item))}</strong>
-    <em>${escapeHtml(item.site_name || item.source || "来源")}</em>
+    <span class="small-main">
+      <strong>${escapeHtml(itemTitle(item))}</strong>
+      <em>${escapeHtml(item.site_name || item.source || "来源")}</em>
+    </span>
   `;
   return link;
 }
@@ -725,7 +729,7 @@ function setUpdateState(message, isError = false) {
 function updateSetupMessage(payload) {
   if (!payload || !updateStatusEl) return;
   if (payload.manual_update_configured) {
-    setUpdateState("自动更新已接入：每 30 分钟刷新一次；点击立即更新可马上发起刷新。");
+    setUpdateState("自动更新已接入：后台约 30 分钟刷新一次；当前页面会自动同步最新数据。");
     return;
   }
   setUpdateState("自动更新暂未接入：当前只能查看已发布数据。", true);
@@ -760,7 +764,8 @@ async function runManualUpdate() {
       throw new Error(payload.message || "更新任务启动失败，请稍后再试。");
     }
     if (payload.mode === "workflow_dispatch") {
-      setUpdateState(payload.message || "已提交更新任务，通常 1-3 分钟后刷新可见。");
+      setUpdateState(payload.message || "已提交更新任务，通常 1-3 分钟后自动同步。");
+      queueFollowupRefresh();
       return;
     }
     setUpdateState(`已更新：${fmtTime(payload.generated_at)}，正在刷新页面数据。`);
@@ -773,23 +778,57 @@ async function runManualUpdate() {
   }
 }
 
+async function loadDashboardData() {
+  const stamp = Date.now();
+  const [radarRes, dailyRes] = await Promise.all([
+    fetch(`./data/radar-brief.json?t=${stamp}`, { cache: "no-store" }),
+    fetch(`./data/daily-brief.zh.md?t=${stamp}`, { cache: "no-store" }),
+  ]);
+  if (!radarRes.ok) throw new Error(`加载 radar-brief.json 失败: ${radarRes.status}`);
+  return {
+    payload: await radarRes.json(),
+    dailyMarkdown: dailyRes.ok ? await dailyRes.text() : "",
+  };
+}
+
+function applyDashboardData(payload, dailyMarkdown = currentDailyMarkdown) {
+  currentPayload = payload;
+  currentDailyMarkdown = dailyMarkdown;
+  renderDashboard(visiblePayload(payload));
+}
+
+async function refreshDataIfChanged({ force = false } = {}) {
+  if (!force && document.hidden) return;
+  try {
+    const { payload, dailyMarkdown } = await loadDashboardData();
+    const currentGeneratedAt = currentPayload?.generated_at || "";
+    if (!force && payload.generated_at === currentGeneratedAt) return;
+    applyDashboardData(payload, dailyMarkdown);
+    if (currentGeneratedAt) {
+      setUpdateState(`已自动同步：${fmtTime(payload.generated_at)}。`);
+    }
+  } catch {
+    // Keep the current dashboard visible when a background refresh misses.
+  }
+}
+
+function startAutoRefresh() {
+  if (autoRefreshTimer) clearInterval(autoRefreshTimer);
+  autoRefreshTimer = setInterval(() => refreshDataIfChanged(), autoRefreshMs);
+}
+
+function queueFollowupRefresh() {
+  [45_000, 90_000, 150_000].forEach((delay) => {
+    window.setTimeout(() => refreshDataIfChanged({ force: true }), delay);
+  });
+}
+
 async function init() {
   try {
-    const stamp = Date.now();
-    const [radarRes, dailyRes] = await Promise.all([
-      fetch(`./data/radar-brief.json?t=${stamp}`),
-      fetch(`./data/daily-brief.zh.md?t=${stamp}`),
-    ]);
-    if (!radarRes.ok) throw new Error(`加载 radar-brief.json 失败: ${radarRes.status}`);
-    const payload = await radarRes.json();
-    currentPayload = payload;
-    if (dailyRes.ok) {
-      currentDailyMarkdown = await dailyRes.text();
-    } else if (dailyBriefEl) {
-      currentDailyMarkdown = "";
-    }
-    renderDashboard(visiblePayload(payload));
+    const { payload, dailyMarkdown } = await loadDashboardData();
+    applyDashboardData(payload, dailyMarkdown);
     await loadUpdateStatus();
+    startAutoRefresh();
   } catch (error) {
     generatedAtEl.textContent = "加载失败";
     storyGridEl.innerHTML = `<div class="empty">${escapeHtml(error.message)}</div>`;
@@ -797,15 +836,15 @@ async function init() {
 }
 
 function renderDashboard(payload) {
-    generatedAtEl.textContent = fmtTime(payload.generated_at);
-    renderActiveNav();
-    renderMetrics(payload);
-    renderStories(payload);
-    renderCategories(payload);
-    renderChinaHotItems(payload);
-    renderNewItems(payload);
-    renderDailySection(payload);
-    if (currentPayload) renderSourceCatalog(currentPayload);
+  generatedAtEl.textContent = fmtTime(payload.generated_at);
+  renderActiveNav();
+  renderMetrics(payload);
+  renderStories(payload);
+  renderCategories(payload);
+  renderChinaHotItems(payload);
+  renderNewItems(payload);
+  renderDailySection(payload);
+  if (currentPayload) renderSourceCatalog(currentPayload);
 }
 
 function renderActiveNav() {
@@ -867,5 +906,7 @@ if (resetSourcesBtnEl) {
     if (currentPayload) renderDashboard(visiblePayload(currentPayload));
   });
 }
+
+window.addEventListener("focus", () => refreshDataIfChanged());
 
 init();
