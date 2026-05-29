@@ -1,63 +1,63 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-29T04:54:57.003980Z
-- 24小时AI信号：2230 条
+- 生成时间：2026-05-29T08:48:41.412572Z
+- 24小时AI信号：2157 条
 - 源健康：14/14
-- 原始抓取：7221 条
+- 原始抓取：7271 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [防作弊出硬招！多家AI大模型高考期间“限时上锁”，掐断秒级解题通道](https://www.aibase.com/news/28455)
+1. [端侧大模型迎突破！Liquid AI 开源混合专家模型 LFM2.5](https://www.aibase.com/news/28474)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [“百镜大战”迎来重磅玩家！科大讯飞发布AI眼镜， 40 克轻量机身搭载超级助理](https://www.aibase.com/news/28454)
+2. [饱受争议！美国最强模型 Opus 4.8 被指“蒸馏”中国开源大模型](https://www.aibase.com/news/28470)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [速度翻倍！阶跃星辰开源 Step 3.7 Flash 大模型](https://www.aibase.com/news/28449)
+3. [微软拟于下周Build大会发布全新自研代码及多场景AI模型](https://www.aibase.com/news/28466)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [代码硬伤狂减75%！Anthropic推出Claude Opus 4.8，速度飙升2. 5 倍力压行业竞品](https://www.aibase.com/news/28446)
+4. [大模型赛道春风吹拂！港股概念股集体爆发，智谱暴涨超17%](https://www.aibase.com/news/28465)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [揪出漏洞的终极利器？欧盟急切谈判 Anthropic，拟引入地表最强网安大模型](https://www.aibase.com/news/28445)
-   - 时间：1分钟前
+5. [防作弊出硬招！多家AI大模型高考期间“限时上锁”，掐断秒级解题通道](https://www.aibase.com/news/28455)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [小红书 PC 端上线 AI 搜索助手“点点”：基于海量真实笔记支持多轮对话与收藏导入](https://www.aibase.com/news/28453)
+6. [携手 OpenAI！三菱日联金融集团推行全员 AI 化转型](https://www.aibase.com/news/28477)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Cursor 团队发布《开发者习惯报告》](https://x.com/shao__meng/status/2060167182777249886)
-   - 时间：3小时前
-   - 来源：AI HOT
+7. [阿里云百炼全面CLI化并开源:一行命令打通AI Agent全栈能力编排](https://www.aibase.com/news/28476)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率](https://x.com/StepFun_ai/status/2060149124117475791)
-   - 时间：4小时前
-   - 来源：AI HOT
+8. [Grok Build 0.2.7 重磅更新：/usage、/login 上线，多子代理共享终端 + 图像理解大提升](https://www.aibase.com/news/28468)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Replit Canvas：智能体设计工具发布](https://x.com/Replit/status/2060097656207413613)
-   - 时间：8小时前
-   - 来源：AI HOT
+9. [​Step 3.7 Flash 重磅发布：Agent 效率新时代真正到来](https://www.aibase.com/news/28467)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [MiniMax M2.7 免费智能体编程限时开放](https://x.com/MiniMax_AI/status/2060071852970844377)
-   - 时间：10小时前
+10. [阿里云开源百炼 CLI，Agent 可调用全套模型和应用能力](https://www.ithome.com/0/957/149.htm)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [5 篇AI生成数学论文被接收！ 00 后顶尖华人少女退学创业，斩获 14 亿巨额融资](https://www.aibase.com/news/28462)
-   - 时间：1分钟前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Data Formulator 推出企业数据 AI 分析工具](https://x.com/MSFTResearch/status/2060028999229735199)
@@ -68,58 +68,58 @@
    - 时间：昨天 18:47
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [阿里语音大模型霸榜国际权威榜单，夺得国产语音 AI“三冠王”](https://www.aibase.com/news/28419)
-   - 时间：昨天 16:28
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [刘庆峰：有信心，讯飞 AI 眼镜会成为每个人眼前的超级助理](https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzqccq0843261.shtml)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [AI 研究人员对不同 AI 模型控制的世界进行了 15 天的模拟：Claude Sonnet 4.6 记录了零犯罪，而 Gemini 3 Flash 的犯罪记录最多，为 683（Jake Angelo/财富）](https://www.techmeme.com/260528/p66)
-   - 时间：3小时前
+   - 时间：7小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [暴赚 470 亿美元！Anthropic年化收入狂飙，Claude企业级应用迎来大爆发](https://www.aibase.com/news/28463)
+16. [暴增三倍！企业级 AI 搜索独角兽 Glean 年营收突破 3 亿美元](https://www.aibase.com/news/28480)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [上市前狂飙！Anthropic 融资 650 亿美元估值直逼万亿](https://www.aibase.com/news/28461)
+17. [史上最大芯片租赁交易诞生！阿波罗携黑石筹资 360 亿美元，为Anthropic疯狂扫货谷歌TPU](https://www.aibase.com/news/28475)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [精简架构专注 AI：网络安全公司 SentinelOne 宣布裁员 8%](https://www.aibase.com/news/28459)
+18. [科技圈变天：MiniMax企业客户破百万，创想三维叩开港股大门](https://www.aibase.com/news/28473)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Anthropic完成650亿美元H轮融资，发布Claude Opus4.8模型且估值逼近1万亿美元](https://www.aibase.com/news/28451)
+19. [未雨绸缪！Mistral AI 首席执行官称研发自研芯片是迟早的事](https://www.aibase.com/news/28471)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [​IBM 与红帽联合投资 50 亿美元，提升开源软件安全性](https://www.aibase.com/news/28450)
+20. [日本基础设施企业 Datasection 携手 OpenAI](https://www.aibase.com/news/28464)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [谷歌推出端侧AI开发板Coral Board，支持Gemma3本地运行](https://www.aibase.com/news/28460)
+21. [Oculus创始人再创业！对话式AI新星Sesame推出iOS应用，主打“边想边说”](https://www.aibase.com/news/28478)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI卷向电商治理！拼多多上半年出台 40 余项举措，高科技作弊成打击重点](https://www.aibase.com/news/28458)
+22. [鹰眼2. 0 来了！NBA将引入AI系统替代人工出界判罚](https://www.aibase.com/news/28472)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [黄仁勋力挺 AI 应用：浪费点钱没关系，千万别浪费时间](https://www.aibase.com/news/28457)
+23. [小米宣布 MiMo-V2-Pro/Omni 将于2026年6月下线，全面切换 V2.5系列](https://www.aibase.com/news/28469)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [苹果用户稳了！腾讯上线Mac版电脑管家，首创AI安全沙箱专治Prompt攻击](https://www.aibase.com/news/28456)
-   - 时间：1分钟前
+24. [谷歌推出端侧AI开发板Coral Board，支持Gemma3本地运行](https://www.aibase.com/news/28460)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [背刺流媒体巨头！YouTube播客甩出AI大招，新增自动调速专治说话慢](https://www.aibase.com/news/28452)
-   - 时间：1分钟前
+25. [AI卷向电商治理！拼多多上半年出台 40 余项举措，高科技作弊成打击重点](https://www.aibase.com/news/28458)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 911/3171 | 28.7% | 高信号源，建议保留 |
-| Buzzing | 578/2006 | 28.8% | 高信号源，建议保留 |
-| Info Flow | 260/915 | 28.4% | 高信号源，建议保留 |
-| TechURLs | 185/480 | 38.5% | 高信号源，建议保留 |
-| Zeli | 64/75 | 85.3% | 高信号源，建议保留 |
-| NewsNow | 46/206 | 22.3% | 高信号源，建议保留 |
-| AIbase | 39/39 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 39/40 | 97.5% | 高信号源，建议保留 |
+| TopHub | 857/2938 | 29.2% | 高信号源，建议保留 |
+| Buzzing | 571/1931 | 29.6% | 高信号源，建议保留 |
+| Info Flow | 247/908 | 27.2% | 高信号源，建议保留 |
+| TechURLs | 178/486 | 36.6% | 高信号源，建议保留 |
+| Zeli | 71/83 | 85.5% | 高信号源，建议保留 |
+| NewsNow | 48/202 | 23.8% | 高信号源，建议保留 |
+| AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 37/39 | 94.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
