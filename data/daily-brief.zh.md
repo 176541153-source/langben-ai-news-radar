@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-30T09:31:12.891289Z
-- 24小时AI信号：1774 条
+- 生成时间：2026-05-30T11:01:00.405974Z
+- 24小时AI信号：1793 条
 - 源健康：14/14
-- 原始抓取：7257 条
+- 原始抓取：7266 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Show HN： Tiny-vLLM--基于 C 和 CUDA 的高性能大型语言模型推理引擎](https://github.com/jmaczan/tiny-vllm)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [阿里云与Qwen成为UEFA多年全球AI合作伙伴](https://x.com/alibaba_cloud/status/2060520586489770167)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [ComfyUI现已支持OpenRouter模型直接调用](https://x.com/OpenRouter/status/2060511136932315259)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [ChatGPT对话目录功能现已上线](https://x.com/ChatGPTapp/status/2060467129066070182)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Codex可自主管理对话线程与并行任务](https://x.com/gdb/status/2060486309886443787)
-   - 时间：11小时前
+   - 时间：今天 06:19
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Luma Agents 自动生成宣传图，输入内容即可](https://x.com/LumaLabsAI/status/2060461313713909783)
@@ -60,31 +60,31 @@
    - 时间：今天 02:58
    - 来源：Follow Builders
    - 评分：8.4/10 · matched_tracked_ai_keyword
-12. [Nat. Commun. | 大科学与人工智能时代的知识传承：可持续科学研究的策略](https://hub.baai.ac.cn/view/55092)
-   - 时间：2小时前
+12. [没有人工智能，开发人员将无法工作。研究表明，这可能会让情况变得更糟。](https://thenextweb.com/news/developers-refuse-work-without-ai-coding-productivity-paradox)
+   - 时间：1小时前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [Nat. Commun. | 大科学与人工智能时代的知识传承：可持续科学研究的策略](https://hub.baai.ac.cn/view/55092)
+   - 时间：3小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [开发者机会雷达 #1：10万美元的人工智能资助金、两项研究员奖学金以及人工智能代理资源](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3)
-   - 时间：7小时前
+14. [开发者机会雷达 #1：10万美元的人工智能资助金、两项研究员奖学金以及人工智能代理资源](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3)
+   - 时间：8小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [1 个 AI 天才值 1 亿美元？Meta 抢人不是疯，45 年前一篇论文早算清了](https://hub.baai.ac.cn/view/55078)
-   - 时间：9小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [AI 智选工具深度评测：从参数解析到实战边界](https://blog.csdn.net/qq_42603590/article/details/161456141)
-   - 时间：今天 03:12
+15. [1 个 AI 天才值 1 亿美元？Meta 抢人不是疯，45 年前一篇论文早算清了](https://hub.baai.ac.cn/view/55078)
+   - 时间：10小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [最后一次技术面试](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [xAI放弃JAX GPU转向自研训练框架](https://x.com/SemiAnalysis_/status/2060571944575963482)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [当公司过于"AI上瘾"时会发生什么？](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。](https://x.com/hongming731/status/2060487110906527820)
-   - 时间：11小时前
+   - 时间：今天 06:23
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Canvas新功能与Clerk自定义登录介绍](https://x.com/Replit/status/2060390354910859401)
@@ -118,23 +118,23 @@
    - 时间：昨天 20:24
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [智谱和Minimax，为何市值差了4000多亿港元？](https://view.inews.qq.com/a/20260529A096EU00)
-   - 时间：今天 17:32
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [中央网信办等四部门：提升全民人工智能素养，加快人才培育、深化普及应用](https://www.ithome.com/0/957/319.htm)
+   - 时间：昨天 18:21
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 760/2816 | 27.0% | 高信号源，建议保留 |
-| Buzzing | 486/1639 | 29.7% | 高信号源，建议保留 |
-| Info Flow | 152/654 | 23.2% | 高信号源，建议保留 |
-| TechURLs | 125/352 | 35.5% | 高信号源，建议保留 |
-| Zeli | 75/90 | 83.3% | 高信号源，建议保留 |
-| NewsNow | 43/170 | 25.3% | 高信号源，建议保留 |
-| AI HOT | 28/29 | 96.6% | 高信号源，建议保留 |
-| OPML RSS | 11/21 | 52.4% | 高信号源，建议保留 |
+| TopHub | 802/2993 | 26.8% | 高信号源，建议保留 |
+| Buzzing | 479/1656 | 28.9% | 高信号源，建议保留 |
+| Info Flow | 142/630 | 22.5% | 高信号源，建议保留 |
+| TechURLs | 121/360 | 33.6% | 高信号源，建议保留 |
+| Zeli | 74/86 | 86.0% | 高信号源，建议保留 |
+| NewsNow | 46/183 | 25.1% | 高信号源，建议保留 |
+| AI HOT | 27/27 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 8/17 | 47.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
