@@ -1,33 +1,33 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-30T11:01:00.405974Z
-- 24小时AI信号：1793 条
+- 生成时间：2026-05-30T12:09:20.197406Z
+- 24小时AI信号：1775 条
 - 源健康：14/14
-- 原始抓取：7266 条
+- 原始抓取：7265 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Show HN： Tiny-vLLM--基于 C 和 CUDA 的高性能大型语言模型推理引擎](https://github.com/jmaczan/tiny-vllm)
-   - 时间：7小时前
+1. [Nano Banana Pro与Nano Banana 2正式发布](https://x.com/googleaidevs/status/2060685345738375640)
+   - 时间：38分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [阿里云与Qwen成为UEFA多年全球AI合作伙伴](https://x.com/alibaba_cloud/status/2060520586489770167)
-   - 时间：10小时前
+2. [小即是美：开源多模态模型发布](https://x.com/StepFun_ai/status/2060678753030947226)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [ComfyUI现已支持OpenRouter模型直接调用](https://x.com/OpenRouter/status/2060511136932315259)
+3. [Show HN： Tiny-vLLM--基于 C 和 CUDA 的高性能大型语言模型推理引擎](https://github.com/jmaczan/tiny-vllm)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [阿里云与Qwen成为UEFA多年全球AI合作伙伴](https://x.com/alibaba_cloud/status/2060520586489770167)
    - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [ChatGPT对话目录功能现已上线](https://x.com/ChatGPTapp/status/2060467129066070182)
-   - 时间：今天 05:03
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI推出实时翻译模型，支持70+语言输入](https://x.com/gdb/status/2060452095279415725)
-   - 时间：今天 04:03
+5. [ComfyUI现已支持OpenRouter模型直接调用](https://x.com/OpenRouter/status/2060511136932315259)
+   - 时间：今天 07:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -60,31 +60,31 @@
    - 时间：今天 02:58
    - 来源：Follow Builders
    - 评分：8.4/10 · matched_tracked_ai_keyword
-12. [没有人工智能，开发人员将无法工作。研究表明，这可能会让情况变得更糟。](https://thenextweb.com/news/developers-refuse-work-without-ai-coding-productivity-paradox)
-   - 时间：1小时前
+12. [Claude Opus 4.8 深度评测：混合推理、动态工作流与诚实性突破，重新定义前沿大模型能力边界](https://blog.csdn.net/nmdbbzcl/article/details/161519190)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [查论文AI率是一场闹剧吗](https://search.bilibili.com/all?keyword=%E6%9F%A5%E8%AE%BA%E6%96%87AI%E7%8E%87%E6%98%AF%E4%B8%80%E5%9C%BA%E9%97%B9%E5%89%A7%E5%90%97)
+   - 时间：25分钟前
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [前 DeepMind 研究人员筹集了 5000 万美元来构建人工智能，以找出哪些科学问题值得提出](https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science)
+   - 时间：36分钟前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [Nat. Commun. | 大科学与人工智能时代的知识传承：可持续科学研究的策略](https://hub.baai.ac.cn/view/55092)
-   - 时间：3小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [开发者机会雷达 #1：10万美元的人工智能资助金、两项研究员奖学金以及人工智能代理资源](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3)
-   - 时间：8小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [1 个 AI 天才值 1 亿美元？Meta 抢人不是疯，45 年前一篇论文早算清了](https://hub.baai.ac.cn/view/55078)
-   - 时间：10小时前
-   - 来源：TopHub
+15. [没有人工智能，开发人员将无法工作。研究表明，这可能会让情况变得更糟。](https://thenextweb.com/news/developers-refuse-work-without-ai-coding-productivity-paradox)
+   - 时间：2小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [最后一次技术面试](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [xAI放弃JAX GPU转向自研训练框架](https://x.com/SemiAnalysis_/status/2060571944575963482)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [当公司过于"AI上瘾"时会发生什么？](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled)
@@ -95,7 +95,7 @@
    - 时间：昨天 20:24
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [波士顿儿童医院利用AI解锁新诊断](https://openai.com/index/boston-childrens-hospital)
+20. [Braintrust如何用Codex将客户请求转化为代码](https://openai.com/index/braintrust)
    - 时间：昨天 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -118,23 +118,23 @@
    - 时间：昨天 20:24
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [中央网信办等四部门：提升全民人工智能素养，加快人才培育、深化普及应用](https://www.ithome.com/0/957/319.htm)
-   - 时间：昨天 18:21
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [智谱和Minimax，为何市值差了4000多亿港元？](https://view.inews.qq.com/a/20260529A096EU00)
+   - 时间：今天 20:10
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 802/2993 | 26.8% | 高信号源，建议保留 |
-| Buzzing | 479/1656 | 28.9% | 高信号源，建议保留 |
-| Info Flow | 142/630 | 22.5% | 高信号源，建议保留 |
-| TechURLs | 121/360 | 33.6% | 高信号源，建议保留 |
-| Zeli | 74/86 | 86.0% | 高信号源，建议保留 |
-| NewsNow | 46/183 | 25.1% | 高信号源，建议保留 |
-| AI HOT | 27/27 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 8/17 | 47.1% | 高信号源，建议保留 |
+| TopHub | 829/3134 | 26.5% | 高信号源，建议保留 |
+| Buzzing | 458/1619 | 28.3% | 高信号源，建议保留 |
+| Info Flow | 139/599 | 23.2% | 高信号源，建议保留 |
+| TechURLs | 113/352 | 32.1% | 高信号源，建议保留 |
+| Zeli | 72/84 | 85.7% | 高信号源，建议保留 |
+| NewsNow | 40/157 | 25.5% | 高信号源，建议保留 |
+| AI HOT | 26/26 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 7/30 | 23.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
