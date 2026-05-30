@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-30T18:42:07.999535Z
-- 24小时AI信号：1683 条
+- 生成时间：2026-05-30T20:13:37.435469Z
+- 24小时AI信号：1639 条
 - 源健康：14/14
-- 原始抓取：7171 条
+- 原始抓取：7082 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Nano Banana Pro与Nano Banana 2正式发布](https://x.com/googleaidevs/status/2060685345738375640)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [小即是美：开源多模态模型发布](https://x.com/StepFun_ai/status/2060678753030947226)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Show HN： Tiny-vLLM--基于 C 和 CUDA 的高性能大型语言模型推理引擎](https://github.com/jmaczan/tiny-vllm)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. ["开玩笑吧"：GitHub Copilot 新的基于 token 的计费模式引发开发者不满](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [免费领取6个月ChatGPT Pro及AI工具思考](https://x.com/AYi_AInotes/status/2060740414273941874)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [DynoSim：模拟帕累托前沿](https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier)
@@ -56,35 +56,35 @@
 
 ### 论文研究与评测
 
-11. [人们半开玩笑地使用“人工智能精神病”这个词，但我实际上很想看到一些关于大量人工智能使用对人类心理影响的研究，就像在多个年龄之间不断切换上下文一样……](https://x.com/zarazhangrui/status/2060435594334130467)
-   - 时间：昨天 02:58
-   - 来源：Follow Builders
-   - 评分：8.4/10 · matched_tracked_ai_keyword
-12. [Claude Opus 4.8 深度评测：混合推理、动态工作流与诚实性突破，重新定义前沿大模型能力边界](https://blog.csdn.net/nmdbbzcl/article/details/161519190)
-   - 时间：6小时前
+11. [Claude Opus 4.8 深度评测：混合推理、动态工作流与诚实性突破，重新定义前沿大模型能力边界](https://blog.csdn.net/nmdbbzcl/article/details/161519190)
+   - 时间：8小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [前 DeepMind 研究人员筹集了 5000 万美元来构建人工智能，以找出哪些科学问题值得提出](https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science)
-   - 时间：7小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [没有人工智能，开发人员将无法工作。研究表明，这可能会让情况变得更糟。](https://thenextweb.com/news/developers-refuse-work-without-ai-coding-productivity-paradox)
+12. [前 DeepMind 研究人员筹集了 5000 万美元来构建人工智能，以找出哪些科学问题值得提出](https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science)
    - 时间：8小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Nat. Commun. | 大科学与人工智能时代的知识传承：可持续科学研究的策略](https://hub.baai.ac.cn/view/55092)
-   - 时间：11小时前
+13. [没有人工智能，开发人员将无法工作。研究表明，这可能会让情况变得更糟。](https://thenextweb.com/news/developers-refuse-work-without-ai-coding-productivity-paradox)
+   - 时间：10小时前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [Nat. Commun. | 大科学与人工智能时代的知识传承：可持续科学研究的策略](https://hub.baai.ac.cn/view/55092)
+   - 时间：昨天 15:30
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [开发者机会雷达 #1：10万美元的人工智能资助金、两项研究员奖学金以及人工智能代理资源](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3)
+   - 时间：昨天 10:21
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [NVIDIA 或将于六月发布整合 Blackwell GPU 与 AI 单元的 ARM 笔记本芯片 N1X](https://x.com/AYi_AInotes/status/2060779431648547016)
-   - 时间：57分钟前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [最后一次技术面试](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
-   - 时间：11小时前
+   - 时间：昨天 15:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [xAI放弃JAX GPU转向自研训练框架](https://x.com/SemiAnalysis_/status/2060571944575963482)
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [AI 骗子正在创建虚假的黑人形象来销售 Shein 劣质商品](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
-   - 时间：5小时前
+21. [据报道：软银将在法国投资750亿欧元用于AI](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [新加坡防务论坛：AI 风险超过核武器](https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum)
-   - 时间：6小时前
+22. [AI 骗子正在创建虚假的黑人形象来销售 Shein 劣质商品](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。](https://x.com/hongming731/status/2060487110906527820)
+23. [新加坡防务论坛：AI 风险超过核武器](https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。](https://x.com/hongming731/status/2060487110906527820)
    - 时间：昨天 06:23
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [用AI整理会议记录导致泄密](https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%25E7%2594%25A8AI%25E6%2595%25B4%25E7%2590%2586%25E4%25BC%259A%25E8%25AE%25AE%25E8%25AE%25B0%25E5%25BD%2595%25E5%25AF%25BC%25E8%2587%25B4%25E6%25B3%2584%25E5%25AF%2586)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [用豆包免费学英语的两个方法](https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%25E7%2594%25A8%25E8%25B1%2586%25E5%258C%2585%25E5%2585%258D%25E8%25B4%25B9%25E5%25AD%25A6%25E8%258B%25B1%25E8%25AF%25AD%25E7%259A%2584%25E4%25B8%25A4%25E4%25B8%25AA%25E6%2596%25B9%25E6%25B3%2595)
+25. [软银承诺投资 750 亿欧元在法国建设欧洲最大的人工智能设施](https://www.gelonghui.com/live/2476161)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 869/3252 | 26.7% | 高信号源，建议保留 |
-| Buzzing | 397/1450 | 27.4% | 高信号源，建议保留 |
-| Info Flow | 125/570 | 21.9% | 高信号源，建议保留 |
-| TechURLs | 85/267 | 31.8% | 高信号源，建议保留 |
-| Zeli | 54/61 | 88.5% | 高信号源，建议保留 |
-| NewsNow | 40/148 | 27.0% | 高信号源，建议保留 |
-| AI HOT | 23/24 | 95.8% | 高信号源，建议保留 |
-| OPML RSS | 4/8 | 50.0% | 高信号源，建议保留 |
+| TopHub | 868/3118 | 27.8% | 高信号源，建议保留 |
+| Buzzing | 375/1409 | 26.6% | 高信号源，建议保留 |
+| Info Flow | 125/567 | 22.0% | 高信号源，建议保留 |
+| TechURLs | 77/258 | 29.8% | 高信号源，建议保留 |
+| Zeli | 52/57 | 91.2% | 高信号源，建议保留 |
+| NewsNow | 35/138 | 25.4% | 高信号源，建议保留 |
+| AI HOT | 19/20 | 95.0% | 高信号源，建议保留 |
+| OPML RSS | 4/7 | 57.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
