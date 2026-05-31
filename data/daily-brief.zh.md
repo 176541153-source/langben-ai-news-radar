@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-31T20:39:25.718144Z
-- 24小时AI信号：1507 条
+- 生成时间：2026-05-31T22:08:21.430750Z
+- 24小时AI信号：1496 条
 - 源健康：14/14
-- 原始抓取：7016 条
+- 原始抓取：6916 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [DeepSeek V4 Flash 已上线 OpenCode Zen](https://x.com/opencode/status/2061153857321775209)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [苹果WWDC将推AI升级：Gemini蒸馏模型本地运行，但技术栈外部依赖显著](https://x.com/kimmonismus/status/2061058117304262999)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [AI HOT 日报 · 2026-05-31 — Nano Banana Pro与Nano Banana 2正式发布](https://aihot.virxact.com/daily/2026-05-31)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI发布生物防御AI工具Rosalind](https://x.com/sama/status/2061101875303530871)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. ["开玩笑吧"：GitHub Copilot 新的基于 token 的计费模式引发开发者不满](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs)
@@ -57,38 +57,38 @@
 ### 论文研究与评测
 
 11. [科大讯飞 AI 虚拟人交互平台通过首批国标功能符合性评测](https://finance.jrj.com.cn/2026/05/31221757279591.shtml)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [Show HN: FuguUX——基于科学的研究，利用人工智能进行用户测试，以发现关键的网页用户体验问题](https://www.fuguux.com)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [突发变数！美联储，迎重大考验！全球 AI，重磅来袭！](https://finance.sina.com.cn/stock/marketresearch/2026-05-31/doc-inhzvhfa5881108.shtml)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [AI+ 地理博士论文 | Tech Berlin 2026 | 基于因果关系的地理空间人工智能助力可扩展的低碳城市规划 182 页](https://hub.baai.ac.cn/view/55120)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [AI+ 物理论文 | arXiv2026 | Physics Is All You Need? 一项物理学家监督 AI 开发科学软件的深度案例研究](https://hub.baai.ac.cn/view/55119)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [OpenAI机器人团队成立，聚焦硬件与ML协同研发](https://x.com/EMostaque/status/2061131278091464906)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [OpenAI正式进军机器人领域并启动招聘](https://x.com/sama/status/2061117302528188712)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [我花200英镑把一台数据中心级GPU装进了我的游戏电脑](https://blog.tymscar.com/posts/v100localllm)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [NVIDIA 或将于六月发布整合 Blackwell GPU 与 AI 单元的 ARM 笔记本芯片 N1X](https://x.com/AYi_AInotes/status/2060779431648547016)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [教皇似乎比Geoffrey Hinton更懂人工智能](https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用](https://simonwillison.net/2026/May/30/pyodide-asgi-browser)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 813/2913 | 27.9% | 高信号源，建议保留 |
-| Buzzing | 344/1258 | 27.3% | 高信号源，建议保留 |
-| Info Flow | 118/565 | 20.9% | 高信号源，建议保留 |
-| Zeli | 66/71 | 93.0% | 高信号源，建议保留 |
-| TechURLs | 42/198 | 21.2% | 高信号源，建议保留 |
-| NewsNow | 26/146 | 17.8% | 高信号源，建议保留 |
-| AI HOT | 9/10 | 90.0% | 高信号源，建议保留 |
-| OPML RSS | 5/6 | 83.3% | 高信号源，建议保留 |
+| TopHub | 807/2902 | 27.8% | 高信号源，建议保留 |
+| Buzzing | 345/1273 | 27.1% | 高信号源，建议保留 |
+| Info Flow | 116/559 | 20.8% | 高信号源，建议保留 |
+| Zeli | 59/64 | 92.2% | 高信号源，建议保留 |
+| TechURLs | 45/194 | 23.2% | 高信号源，建议保留 |
+| NewsNow | 28/138 | 20.3% | 高信号源，建议保留 |
+| AI HOT | 8/9 | 88.9% | 高信号源，建议保留 |
+| OPML RSS | 4/4 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
