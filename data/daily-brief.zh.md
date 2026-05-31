@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-31T13:00:15.491996Z
-- 24小时AI信号：1492 条
+- 生成时间：2026-05-31T14:51:28.939444Z
+- 24小时AI信号：1505 条
 - 源健康：14/14
-- 原始抓取：7196 条
+- 原始抓取：7235 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [苹果WWDC将推AI升级：Gemini蒸馏模型本地运行，但技术栈外部依赖显著](https://x.com/kimmonismus/status/2061058117304262999)
-   - 时间：48分钟前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI HOT 日报 · 2026-05-31 — Nano Banana Pro与Nano Banana 2正式发布](https://aihot.virxact.com/daily/2026-05-31)
@@ -56,25 +56,25 @@
 
 ### 论文研究与评测
 
-11. [AI+ 地理博士论文 | Tech Berlin 2026 | 基于因果关系的地理空间人工智能助力可扩展的低碳城市规划 182 页](https://hub.baai.ac.cn/view/55120)
+11. [突发变数！美联储，迎重大考验！全球 AI，重磅来袭！](https://finance.sina.com.cn/stock/marketresearch/2026-05-31/doc-inhzvhfa5881108.shtml)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [AI+ 物理论文 | arXiv2026 | Physics Is All You Need? 一项物理学家监督 AI 开发科学软件的深度案例研究](https://hub.baai.ac.cn/view/55119)
-   - 时间：1分钟前
+12. [AI+ 地理博士论文 | Tech Berlin 2026 | 基于因果关系的地理空间人工智能助力可扩展的低碳城市规划 182 页](https://hub.baai.ac.cn/view/55120)
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [AI 狂潮点燃港股 IPO！华尔街重返香港，资本盛宴正上演](https://finance.sina.com.cn/stock/marketresearch/2026-05-31/doc-inhzurik6195035.shtml)
-   - 时间：3小时前
+13. [AI+ 物理论文 | arXiv2026 | Physics Is All You Need? 一项物理学家监督 AI 开发科学软件的深度案例研究](https://hub.baai.ac.cn/view/55119)
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [AI编程行业出现裂痕？研究人员称，Claude Code和Codex的增长突然放缓，预算可能已告罄：“很明显，这种增长……”](https://finance.yahoo.com/sectors/technology/articles/ai-coding-trade-showing-cracks-033204735.html)
-   - 时间：4小时前
+14. [AI 狂潮点燃港股 IPO！华尔街重返香港，资本盛宴正上演](https://finance.sina.com.cn/stock/marketresearch/2026-05-31/doc-inhzurik6195035.shtml)
+   - 时间：5小时前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [AI编程行业出现裂痕？研究人员称，Claude Code和Codex的增长突然放缓，预算可能已告罄：“很明显，这种增长……”](https://finance.yahoo.com/sectors/technology/articles/ai-coding-trade-showing-cracks-033204735.html)
+   - 时间：6小时前
    - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [调查研究-148 Deepseek-V4-Flash 生成式AI十大高频业务场景落地指南](https://blog.csdn.net/w776341482/article/details/161509880)
-   - 时间：7小时前
-   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 830/3051 | 27.2% | 高信号源，建议保留 |
-| Buzzing | 317/1220 | 26.0% | 高信号源，建议保留 |
-| Info Flow | 115/565 | 20.4% | 高信号源，建议保留 |
-| Zeli | 66/69 | 95.7% | 高信号源，建议保留 |
-| TechURLs | 42/191 | 22.0% | 高信号源，建议保留 |
-| NewsNow | 24/146 | 16.4% | 高信号源，建议保留 |
+| TopHub | 837/3104 | 27.0% | 高信号源，建议保留 |
+| Buzzing | 324/1230 | 26.3% | 高信号源，建议保留 |
+| Info Flow | 113/572 | 19.8% | 高信号源，建议保留 |
+| Zeli | 70/73 | 95.9% | 高信号源，建议保留 |
+| TechURLs | 41/195 | 21.0% | 高信号源，建议保留 |
+| NewsNow | 21/137 | 15.3% | 高信号源，建议保留 |
 | Follow Builders | 8/17 | 47.1% | 高信号源，建议保留 |
-| AI HOT | 6/8 | 75.0% | 高信号源，建议保留 |
+| AI HOT | 7/9 | 77.8% | 高信号源，建议保留 |
 
 ## 维护提示
 
