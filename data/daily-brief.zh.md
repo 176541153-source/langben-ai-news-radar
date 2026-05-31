@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-30T23:35:23.628084Z
-- 24小时AI信号：1543 条
+- 生成时间：2026-05-31T01:36:11.926224Z
+- 24小时AI信号：1576 条
 - 源健康：14/14
-- 原始抓取：6977 条
+- 原始抓取：7079 条
 
 ## 今日重点
 
@@ -26,19 +26,19 @@
    - 时间：昨天 08:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [AI HOT 日报 · 2026-05-30 — OpenAI推出实时翻译模型，支持70+语言输入](https://aihot.virxact.com/daily/2026-05-30)
-   - 时间：昨天 08:00
+5. [ComfyUI现已支持OpenRouter模型直接调用](https://x.com/OpenRouter/status/2060511136932315259)
+   - 时间：昨天 07:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. ["开玩笑吧"：GitHub Copilot 新的基于 token 的计费模式引发开发者不满](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [免费领取6个月ChatGPT Pro及AI工具思考](https://x.com/AYi_AInotes/status/2060740414273941874)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [DynoSim：模拟帕累托前沿](https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier)
@@ -57,15 +57,15 @@
 ### 论文研究与评测
 
 11. [这次我把提示提和过程都给你了，别说不会AI生图了！](https://www.uisdc.com/ai-brand-mockup)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [五年前，一群研究人员因安全担忧而离开OpenAI，创建了一家名为Claude的低调竞争对手——而在完成一轮创纪录的650亿美元融资、使公司估值达到9650亿美元后，这些前员工已正式超越了他们的 - Make Tech Easier](https://news.google.com/rss/articles/CBMivAJBVV95cUxON196WEx5MTdPSGhna2NrUkl4cXVlbEp5RlR1RVllRlZYejIzU0labFJtU19zTjgxbDQ0OVpvRlBxNUwycjBPbXZxcEluRndZWU8zM3BfdWFtSXM3S3ZRTm92QkdQNUhFU09iTXJrT1llRklONHIyb0RtbllaMlZQWThhY1d4b2ozeFlPejZWd2NnWW0tMExMSXAtSUZpdFh5bzZYVzFuZjJKbVdrT2JvZFN1V2hqQURHLWxhbGlNaXp0X1ZRQklXalNiRXBGWGUyWVBhNlB5Wk54ZVdYdHBBdXpfTmlmaHNNSFVFUEZPc0ZpaDFfWkx0a0dlbUp6dUR6TlVab083SUgtRGtaSDVEWGZsSFozeFNsbzBTck1Bd20yendTZ0s3OS0xR0Z5LTRvZUFGWkN3SUxBX2VS?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [Claude Opus 4.8 深度评测：混合推理、动态工作流与诚实性突破，重新定义前沿大模型能力边界](https://blog.csdn.net/nmdbbzcl/article/details/161519190)
-   - 时间：11小时前
+   - 时间：昨天 20:09
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [前 DeepMind 研究人员筹集了 5000 万美元来构建人工智能，以找出哪些科学问题值得提出](https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [NVIDIA 或将于六月发布整合 Blackwell GPU 与 AI 单元的 ARM 笔记本芯片 N1X](https://x.com/AYi_AInotes/status/2060779431648547016)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [最后一次技术面试](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
@@ -103,19 +103,19 @@
 ### 实践技巧与观点
 
 21. [在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用](https://simonwillison.net/2026/May/30/pyodide-asgi-browser)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [据报道：软银将在法国投资750亿欧元用于AI](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)
    - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [据报道：软银将在法国投资750亿欧元用于AI](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI 骗子正在创建虚假的黑人形象来销售 Shein 劣质商品](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
-   - 时间：10小时前
+   - 时间：昨天 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [新加坡防务论坛：AI 风险超过核武器](https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum)
-   - 时间：11小时前
+   - 时间：昨天 19:59
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。](https://x.com/hongming731/status/2060487110906527820)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 814/3105 | 26.2% | 高信号源，建议保留 |
-| Buzzing | 342/1285 | 26.6% | 高信号源，建议保留 |
-| Info Flow | 125/592 | 21.1% | 高信号源，建议保留 |
-| TechURLs | 69/240 | 28.7% | 高信号源，建议保留 |
-| Zeli | 60/63 | 95.2% | 高信号源，建议保留 |
-| NewsNow | 32/144 | 22.2% | 高信号源，建议保留 |
-| AI HOT | 15/16 | 93.8% | 高信号源，建议保留 |
+| TopHub | 848/3231 | 26.2% | 高信号源，建议保留 |
+| Buzzing | 346/1304 | 26.5% | 高信号源，建议保留 |
+| Info Flow | 124/585 | 21.2% | 高信号源，建议保留 |
+| TechURLs | 68/241 | 28.2% | 高信号源，建议保留 |
+| Zeli | 63/66 | 95.5% | 高信号源，建议保留 |
+| NewsNow | 30/143 | 21.0% | 高信号源，建议保留 |
+| AI HOT | 12/13 | 92.3% | 高信号源，建议保留 |
 | OPML RSS | 4/7 | 57.1% | 高信号源，建议保留 |
 
 ## 维护提示
