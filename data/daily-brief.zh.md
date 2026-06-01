@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-05-31T23:39:27.728016Z
-- 24小时AI信号：1523 条
+- 生成时间：2026-06-01T05:06:09.738449Z
+- 24小时AI信号：1756 条
 - 源健康：14/14
-- 原始抓取：6922 条
+- 原始抓取：7205 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [DeepSeek V4 Flash 已上线 OpenCode Zen](https://x.com/opencode/status/2061153857321775209)
-   - 时间：5小时前
-   - 来源：AI HOT
+1. [应对AI网络攻击新威胁！OpenAI向日本金融机构开放GPT-5.5 Cyber模型](https://www.aibase.com/news/28506)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [苹果WWDC将推AI升级：Gemini蒸馏模型本地运行，但技术栈外部依赖显著](https://x.com/kimmonismus/status/2061058117304262999)
-   - 时间：11小时前
-   - 来源：AI HOT
+2. [老用户心碎！OpenAI官宣退役o3 与GPT-4. 5 大模型](https://www.aibase.com/news/28499)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [AI HOT 日报 · 2026-05-31 — Nano Banana Pro与Nano Banana 2正式发布](https://aihot.virxact.com/daily/2026-05-31)
-   - 时间：昨天 08:00
-   - 来源：AI HOT
+3. [交付即搭载！小米YU7 标准版确认配最新XLA认知大模型，实测续航达成率超97%](https://www.aibase.com/news/28494)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [DynoSim：模拟驱动推理堆栈优化](https://x.com/NVIDIAAI/status/2060781385686659416)
-   - 时间：昨天 01:52
-   - 来源：AI HOT
+4. [官方域名也沦陷？LLMShare新型黑客攻击曝光：ChatGPT共享页变钓鱼入口](https://www.aibase.com/news/28493)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Nano Banana Pro与Nano Banana 2正式发布](https://x.com/googleaidevs/status/2060685345738375640)
-   - 时间：05-30 19:30
-   - 来源：AI HOT
+5. [MiniMax发布M3 大模型：首创MSA架构并支持1M上下文，全面开源对标海外旗舰](https://www.aibase.com/news/28491)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI发布生物防御AI工具Rosalind](https://x.com/sama/status/2061101875303530871)
-   - 时间：8小时前
+6. [从音乐人到“Vibe Coder”，胡彦斌上线粉丝社区应用「彦火」](https://www.aibase.com/news/28501)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [Anthropic 更新招聘指南:现场面试严禁使用AI工具，最高年薪达85万美元](https://www.aibase.com/news/28492)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [NVIDIA DSX OS 提供开放、模块化软件用于规模化运营AI工厂](https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. ["开玩笑吧"：GitHub Copilot 新的基于 token 的计费模式引发开发者不满](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs)
-   - 时间：昨天 00:30
+9. [上海：支持多模态智能体开发与应用，有序推进智能驾驶在共享出行、物流运输等多场景应用](https://www.ithome.com/0/957/985.htm)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [免费领取6个月ChatGPT Pro及AI工具思考](https://x.com/AYi_AInotes/status/2060740414273941874)
-   - 时间：05-30 23:09
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [DynoSim：模拟帕累托前沿](https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier)
-   - 时间：05-30 06:31
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Codex可自主管理对话线程与并行任务](https://x.com/gdb/status/2060486309886443787)
-   - 时间：05-30 06:19
+10. [OpenAI发布生物防御AI工具Rosalind](https://x.com/sama/status/2061101875303530871)
+   - 时间：昨天 23:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [媒体：莫让AI加剧医患“沟通危机”](https://www.thepaper.cn/newsDetail_forward_33276405)
-   - 时间：今天 07:40
+   - 时间：今天 13:07
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [游戏/电商/品牌全案统统拿下！GPT Image 2全场景深度测试！](https://www.uisdc.com/gpt-image-2-5)
-   - 时间：1分钟前
+12. [不限时免费，全球榜单前十AI Lab开放全模态API，我先替你测了](https://www.huxiu.com/article/4863275.html?f=rss)
+   - 时间：1小时前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [AI做出四大顶刊级研究，数学家们为什么不安？](https://www.huxiu.com/article/4863203.html?f=rss)
+   - 时间：5小时前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [游戏/电商/品牌全案统统拿下！GPT Image 2全场景深度测试！](https://www.uisdc.com/gpt-image-2-5)
+   - 时间：5小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [科大讯飞 AI 虚拟人交互平台通过首批国标功能符合性评测](https://finance.jrj.com.cn/2026/05/31221757279591.shtml)
-   - 时间：4小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [Show HN: FuguUX——基于科学的研究，利用人工智能进行用户测试，以发现关键的网页用户体验问题](https://www.fuguux.com)
-   - 时间：8小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [突发变数！美联储，迎重大考验！全球 AI，重磅来袭！](https://finance.sina.com.cn/stock/marketresearch/2026-05-31/doc-inhzvhfa5881108.shtml)
-   - 时间：8小时前
+15. [科大讯飞 AI 虚拟人交互平台通过首批国标功能符合性评测](https://finance.jrj.com.cn/2026/05/31221757279591.shtml)
+   - 时间：9小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [OpenAI机器人团队成立，聚焦硬件与ML协同研发](https://x.com/EMostaque/status/2061131278091464906)
-   - 时间：6小时前
-   - 来源：AI HOT
+16. [英伟达GTC引爆AIPC！雷神科技30%涨停领涨板块，端侧算力迎来新变局](https://www.aibase.com/news/28505)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [OpenAI正式进军机器人领域并启动招聘](https://x.com/sama/status/2061117302528188712)
-   - 时间：7小时前
-   - 来源：AI HOT
+17. [宇树科技科创板IPO本周上会，全力冲刺人形机器人与具身智能第一股](https://www.aibase.com/news/28503)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [我花200英镑把一台数据中心级GPU装进了我的游戏电脑](https://blog.tymscar.com/posts/v100localllm)
-   - 时间：7小时前
-   - 来源：AI HOT
+18. [制程对齐英伟达！比亚迪发布首颗车规级4nm智驾芯片璇玑A3](https://www.aibase.com/news/28502)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [NVIDIA 或将于六月发布整合 Blackwell GPU 与 AI 单元的 ARM 笔记本芯片 N1X](https://x.com/AYi_AInotes/status/2060779431648547016)
-   - 时间：昨天 01:44
-   - 来源：AI HOT
+19. [全行业首创！复旦系团队发布时空一体世界动作模型，半年豪斩 5 轮融资](https://www.aibase.com/news/28500)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [随着成本飙升，美国企业开始对人工智能实施配给](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
-   - 时间：05-30 23:40
-   - 来源：AI HOT
+20. [PC新纪元来临！老黄带自研CPU杀入市场，英伟达版“MacBook Pro”悬念揭晓](https://www.aibase.com/news/28497)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [教皇似乎比Geoffrey Hinton更懂人工智能](https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai)
-   - 时间：7小时前
-   - 来源：AI HOT
+21. [拿下世界杯版权背后：小红书的存量流量突围与AI防线保卫战](https://www.aibase.com/news/28507)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用](https://simonwillison.net/2026/May/30/pyodide-asgi-browser)
-   - 时间：昨天 05:02
-   - 来源：AI HOT
+22. [打假大动作！小红书已治理超 120 万个AI托管账号，处置 18 万篇AI造假笔记](https://www.aibase.com/news/28504)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [据报道：软银将在法国投资750亿欧元用于AI](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)
-   - 时间：昨天 02:55
-   - 来源：AI HOT
+23. [千问APP 六一“礼物选购”问询量近一周增长260%](https://www.aibase.com/news/28498)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [AI 骗子正在创建虚假的黑人形象来销售 Shein 劣质商品](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
-   - 时间：05-30 21:00
-   - 来源：AI HOT
+24. [Meta秘密研发AI吊坠，欲靠可穿戴设备扭转百亿亏损](https://www.aibase.com/news/28496)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [新加坡防务论坛：AI 风险超过核武器](https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum)
-   - 时间：05-30 19:59
-   - 来源：AI HOT
+25. [小学生画撇胡子骗过AI年龄验证，硅谷工程师沉默了](https://www.aibase.com/news/28489)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 812/2827 | 28.7% | 高信号源，建议保留 |
-| Buzzing | 355/1321 | 26.9% | 高信号源，建议保留 |
-| Info Flow | 122/575 | 21.2% | 高信号源，建议保留 |
-| Zeli | 59/65 | 90.8% | 高信号源，建议保留 |
-| TechURLs | 51/199 | 25.6% | 高信号源，建议保留 |
-| NewsNow | 28/147 | 19.0% | 高信号源，建议保留 |
-| AI HOT | 8/9 | 88.9% | 高信号源，建议保留 |
-| OPML RSS | 4/5 | 80.0% | 高信号源，建议保留 |
+| TopHub | 961/3280 | 29.3% | 高信号源，建议保留 |
+| Buzzing | 392/1386 | 28.3% | 高信号源，建议保留 |
+| Info Flow | 139/663 | 21.0% | 高信号源，建议保留 |
+| Zeli | 56/61 | 91.8% | 高信号源，建议保留 |
+| TechURLs | 52/206 | 25.2% | 高信号源，建议保留 |
+| NewsNow | 29/159 | 18.2% | 高信号源，建议保留 |
+| AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 15/15 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
