@@ -1,57 +1,57 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-04T07:08:40.205441Z
-- 24小时AI信号：2026 条
+- 生成时间：2026-06-04T10:49:48.332989Z
+- 24小时AI信号：1952 条
 - 源健康：14/14
-- 原始抓取：7266 条
+- 原始抓取：7307 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [苹果 Mac 迎来大爆发：16GB 内存竟能本地盲跑谷歌 Gemma 4 旗舰模型！](https://www.aibase.com/news/28645)
+1. [谷歌“Ask Gemini” 功能已扩展至 Gmail，让邮箱搜索变得轻松！](https://www.aibase.com/news/28655)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [16GB内存本地即时响应！谷歌发布Gemma 4 12B，颠覆性“无编码器”架构引爆开源社区](https://www.aibase.com/news/28643)
+2. [GPT 5.5 称霸 AI 漏洞挑战，DeepSeek 斩获“性价比之王”](https://www.aibase.com/news/28654)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [谁是真牛？新版公有云大模型Token服务性能监测平台即将上线](https://www.aibase.com/news/28642)
+3. [GPT-5. 5 拿下利用率冠军，DeepSeek V4 Pro斩获性价比之王！大模型网络安全攻防实测报告出炉](https://www.aibase.com/news/28651)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [谷歌推出全新 Gemma 4 12B 模型：轻松处理视觉与音频，无需编码器](https://www.aibase.com/news/28640)
+4. [首发185Hz刷新率！红魔游戏平板5 Pro正式入网，深度集成豆包大模型](https://www.aibase.com/news/28650)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [A股迎来大模型定价时代！智谱拟募资 150 亿元冲刺科创板](https://www.aibase.com/news/28632)
-   - 时间：5小时前
+5. [重磅开源！原生多模态 LongCat-Next 发布，让视觉和语音成为 AI 的“母语”](https://www.aibase.com/news/28649)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [快手App上线“AI购物助手” 补齐货架电商智能导购短板](https://www.aibase.com/news/28646)
+6. [Anthropic 发布 Claude 安全隔离架构：三款产品展现多层防护策略](https://www.aibase.com/news/28658)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [HKGAI发布V3大模型，推出香港首个生产力级超级智能体](https://www.aibase.com/news/28638)
-   - 时间：1分钟前
+7. [快手App上线“AI购物助手” 补齐货架电商智能导购短板](https://www.aibase.com/news/28646)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [微软生态补完计划加速！Win11 引入 AI 智能体，攻克 Arm 原生应用适配最后死角](https://www.aibase.com/news/28637)
-   - 时间：1分钟前
+8. [HKGAI发布V3大模型，推出香港首个生产力级超级智能体](https://www.aibase.com/news/28638)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Meet OpenJarvis：一个本地优先的设备端个人AI智能体框架，支持工具、记忆与学习](https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning)
-   - 时间：45分钟前
+9. [微软生态补完计划加速！Win11 引入 AI 智能体，攻克 Arm 原生应用适配最后死角](https://www.aibase.com/news/28637)
+   - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Meet OpenJarvis：一个本地优先的设备端个人AI智能体框架，支持工具、记忆与学习](https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning)
+   - 时间：4小时前
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [智能体“装”进PC！中兴携手腾讯打造 AI 云电脑，原生绑定混元大模型](https://www.aibase.com/news/28629)
-   - 时间：5小时前
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
@@ -79,47 +79,47 @@
 
 ### 产业、算力与机器人
 
-16. [买下精准商业预测能力！英伟达秘密收购初创公司 Kumo AI，三位顶尖联创已低调入职](https://www.aibase.com/news/28634)
+16. [进军全能工作流！Meta 智能体全球上线，WhatsApp 变身中小企业 AI 助手](https://www.aibase.com/news/28657)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Cloudflare Radar：机器人流量首次超过人类占比57.5%](https://x.com/xiaohu/status/2062367357868355622)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [字节跳动开源Bernini框架：实现视频生成与精准编辑的完美统一](https://www.aibase.com/news/28622)
-   - 时间：5小时前
+17. [谷歌云AI生态再迎超级大客户！瑞典独角兽 Lovable 签约扩容 5 倍算力](https://www.aibase.com/news/28656)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Suno完成4亿美元D轮融资](https://x.com/suno/status/2062183524887675243)
-   - 时间：昨天 22:44
-   - 来源：AI HOT
+18. [比亚迪首次证实自研人形机器人“尧舜禹”2026年将内部分署2万台](https://www.aibase.com/news/28653)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [超越聊天机器人的直接偏好优化](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots)
-   - 时间：昨天 20:55
+19. [买下精准商业预测能力！英伟达秘密收购初创公司 Kumo AI，三位顶尖联创已低调入职](https://www.aibase.com/news/28634)
+   - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [Cloudflare Radar：机器人流量首次超过人类占比57.5%](https://x.com/xiaohu/status/2062367357868355622)
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [手机AI能直接调动微信了!微信互联多厂商推A2A助手，操作链路迎变革](https://www.aibase.com/news/28644)
+21. [4 个月耗尽全年预算！Uber人力部门大裁员，官方急称：真和AI没关系](https://www.aibase.com/news/28648)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [16GB 内存直接跑 12B 多模态！谷歌 AI Edge Gallery 登陆 Mac，端侧 AI 再迎生产力爆发](https://www.aibase.com/news/28641)
+22. [起诉马斯克旗下xAI！英国议员痛斥Grok AI刻意放任色情深度伪造](https://www.aibase.com/news/28647)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [中兴通讯与腾讯达成战略合作，AI云电脑将搭载原生Work Buddy](https://www.aibase.com/news/28639)
-   - 时间：1分钟前
+23. [手机AI能直接调动微信了!微信互联多厂商推A2A助手，操作链路迎变革](https://www.aibase.com/news/28644)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [联合国警告：2030 年中心水电耗将翻，AI 不容忽](https://www.aibase.com/news/28636)
-   - 时间：1分钟前
+24. [16GB 内存直接跑 12B 多模态！谷歌 AI Edge Gallery 登陆 Mac，端侧 AI 再迎生产力爆发](https://www.aibase.com/news/28641)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [GitLab 宣布重组裁员14%:全面重构 Git 基础设施以应对百倍 AI 工作负载](https://www.aibase.com/news/28635)
-   - 时间：1分钟前
+25. [中兴通讯与腾讯达成战略合作，AI云电脑将搭载原生Work Buddy](https://www.aibase.com/news/28639)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 814/3014 | 27.0% | 高信号源，建议保留 |
-| Buzzing | 484/1576 | 30.7% | 高信号源，建议保留 |
-| Info Flow | 253/862 | 29.4% | 高信号源，建议保留 |
-| TechURLs | 170/443 | 38.4% | 高信号源，建议保留 |
-| Zeli | 74/82 | 90.2% | 高信号源，建议保留 |
-| AIbase | 55/55 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 37/182 | 20.3% | 高信号源，建议保留 |
-| AI HOT | 30/30 | 100.0% | 高信号源，建议保留 |
+| TopHub | 681/2659 | 25.6% | 高信号源，建议保留 |
+| Buzzing | 501/1679 | 29.8% | 高信号源，建议保留 |
+| Info Flow | 264/895 | 29.5% | 高信号源，建议保留 |
+| TechURLs | 179/459 | 39.0% | 高信号源，建议保留 |
+| Zeli | 75/83 | 90.4% | 高信号源，建议保留 |
+| AIbase | 48/48 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 41/230 | 17.8% | 高信号源，建议保留 |
+| OPML RSS | 29/39 | 74.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
