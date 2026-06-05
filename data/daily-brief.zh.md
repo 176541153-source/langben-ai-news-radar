@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-05T01:38:59.874238Z
-- 24小时AI信号：1817 条
+- 生成时间：2026-06-05T06:40:21.023853Z
+- 24小时AI信号：1821 条
 - 源健康：14/14
-- 原始抓取：7211 条
+- 原始抓取：7260 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [美情报机构借助 Anthropic 新大模型开展网络攻防，AI 初创巨头深陷地缘政治](https://www.aibase.com/news/28668)
+1. [NBA中国携手阿里巴巴上线首个官方大模型“NBA Chat”](https://www.aibase.com/news/28684)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [重庆车企首家！长安汽车自研天枢大模型正式通过国家生成式AI备案](https://www.aibase.com/news/28660)
+2. [NBA中国携手阿里千问：首个官方AI大模型“NBA Chat”今日上线](https://www.aibase.com/news/28681)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Gemini macOS 双击 Command 附加活动窗口](https://x.com/GeminiApp/status/2062652523945836770)
-   - 时间：3小时前
-   - 来源：AI HOT
+3. [Ideogram4.0开源发布:93亿参数打造最强文字生成AI，DesignArena全球第四](https://www.aibase.com/news/28671)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Boson AI 与 LMSYS 发布基于 SGLang-Omni 的 Higgs Audio v3 TTS 端到端服务](https://www.lmsys.org/blog/2026-06-04-higgs-audio-v3-tts)
-   - 时间：8小时前
-   - 来源：AI HOT
+4. [xAI发布Grok Imagine Video1.5:一张图片秒变视频，直面Google Veo竞争](https://www.aibase.com/news/28669)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude加速AI递归自我改进突破](https://x.com/AnthropicAI/status/2062568862479208923)
-   - 时间：9小时前
-   - 来源：AI HOT
+5. [美情报机构借助 Anthropic 新大模型开展网络攻防，AI 初创巨头深陷地缘政治](https://www.aibase.com/news/28668)
+   - 时间：5小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [奥尔特曼预言 AI 第三阶段："主动式 AI"将让 Agent 在后台自动干活](https://www.aibase.com/news/28667)
+6. [腾讯云ADP4.0发布：Claw模式让Agent"一句话生成、一键入系统"](https://www.aibase.com/news/28683)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 神秘 AI 硬件年底亮相，前苹果传奇设计大师倾力打造](https://www.aibase.com/news/28663)
+7. [从超级个体到超级团队，腾讯首发效率智能体工具集](https://www.aibase.com/news/28680)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [苹果批准首个 iMessage AI 智能体，通信工具化身全能任务入口](https://www.aibase.com/news/28661)
+8. [腾讯发布效率智能体工具集：覆盖20+行业，Agent时代全面开启](https://www.aibase.com/news/28677)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [NotebookLM 来源归属功能上线](https://x.com/NotebookLM/status/2062653124326863077)
-   - 时间：3小时前
-   - 来源：AI HOT
+9. [​英国强制 Google开放AI搜索"退出门"，出版商可一键屏蔽内容被AI抓取](https://www.aibase.com/news/28670)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Anthropic 开源 AI 驱动漏洞发现框架](https://github.com/anthropics/defending-code-reference-harness)
-   - 时间：4小时前
+10. [PolarDB-X Zero 上线：30秒全分布式数据库](https://x.com/alibaba_cloud/status/2062781182417490310)
+   - 时间：21分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [Google Research 发布被动心率监测系统 PHRM](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera)
-   - 时间：5小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复](https://www.thepaper.cn/newsDetail_forward_33310752)
-   - 时间：今天 09:40
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [Kaggle 使 AI 基准创建变得轻松](https://hub.baai.ac.cn/view/55230)
-   - 时间：8小时前
+12. [如何看待「Anthropic 呼吁全员停止 AI 研究」的行为？](https://www.zhihu.com/question/2046150253192206018)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [珍·古道尔研究所有关于 5 代黑猩猩的手写笔记。人工智能正在帮助保护它们。](https://www.businessinsider.com/jane-goodall-institute-aws-gombe-ai-research-tool-2026-6)
-   - 时间：8小时前
-   - 来源：TechURLs
+13. [Anthropic呼吁全员停止AI研究](https://www.baidu.com/s?wd=Anthropic%E5%91%BC%E5%90%81%E5%85%A8%E5%91%98%E5%81%9C%E6%AD%A2AI%E7%A0%94%E7%A9%B6)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Show HN: 打开终端——一款彭博风格的研究应用](https://tesseractanalytics.ai)
-   - 时间：9小时前
+14. [突发！Anthropic呼吁全员停止AI研究](https://www.36kr.com/p/3839532802132489)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [一位大学教授承认使用人工智能撰写了一篇评论文章。此事揭示了人们对这项技术的信任程度](https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology)
+   - 时间：4分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [SpaceX冲刺1.78万亿美元估值:AI业务5年暴涨100倍成最大筹码](https://www.aibase.com/news/28665)
+16. [腾讯升级企业Agent产品矩阵，办公智能体套件全新上线](https://www.aibase.com/news/28682)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [OpenAI 升级 ChatGPT 记忆系统：算力降至 1/5，瞄准过时与错误两大痛点](https://www.aibase.com/news/28664)
+17. [知乎Q1 靠“省钱”扭亏为盈：营收连降三年，AI漫剧能否扛起增收大旗？](https://www.aibase.com/news/28679)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [算力成本暴降80%！OpenAI重构ChatGPT记忆系统，正式告别“陈旧与健忘”](https://www.aibase.com/news/28662)
+18. [英伟达斥资 4 亿美元收购 Kumo，全栈 AI 生态再添定制化预估利器](https://www.aibase.com/news/28678)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [苹果批准首个第三方 AI 代理:Poke 正式接入企业版 Messages 平台](https://www.aibase.com/news/28659)
+19. [全球最强开源生图 AI 登场，Ideogram 4.0 凭“排版神技”超神](https://www.aibase.com/news/28674)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [马斯克谈SpaceX上市：正处大规模资本扩张期](https://x.com/cb_doge/status/2062681226633523250)
-   - 时间：1小时前
-   - 来源：AI HOT
+20. [亚马逊砸百亿欧元升级欧洲物流：新一代AI机器人Proteus“听懂人话”，明年登陆欧洲](https://www.aibase.com/news/28673)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [Airbnb CEO Brian Chesky进军AI:计划成立全新人工智能实验室](https://www.aibase.com/news/28666)
+21. [马斯克 xAI 暂停招聘“AI 导师”，HR 部门不堪重负导致计划暂缓](https://www.aibase.com/news/28676)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Nemotron Parakeet ASR 印尼语准确率达 97.7%](https://x.com/nvidia/status/2062647600424128773)
-   - 时间：4小时前
+22. [6 人团队 48 小时搞定电影级长视频！华科大自研AI平台“爱乌”破解行业穿帮痛点](https://www.aibase.com/news/28675)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [联想AI多线出击：携手英伟达、赋能世界杯，全面加速“AI原生”转型](https://www.aibase.com/news/28672)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来](https://blogs.nvidia.com/blog/korea-ecosystem-2026)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [共存与协同智能的终结](https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [NotebookLM 推出福尔摩斯游戏笔记本](https://x.com/NotebookLM/status/2062582348194197743)
-   - 时间：8小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Alex Imas 和 Phil Trammell：AGI 后什么仍然稀缺？](https://www.dwarkesh.com/p/alex-imas-phil-trammell)
-   - 时间：9小时前
-   - 来源：AI HOT
+25. [Airbnb CEO Brian Chesky进军AI:计划成立全新人工智能实验室](https://www.aibase.com/news/28666)
+   - 时间：5小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| Buzzing | 557/1865 | 29.9% | 高信号源，建议保留 |
-| TopHub | 508/2575 | 19.7% | 高信号源，建议保留 |
-| Info Flow | 249/922 | 27.0% | 高信号源，建议保留 |
-| TechURLs | 205/470 | 43.6% | 高信号源，建议保留 |
-| Zeli | 56/61 | 91.8% | 高信号源，建议保留 |
-| AIbase | 50/50 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 48/245 | 19.6% | 高信号源，建议保留 |
-| AI HOT | 33/33 | 100.0% | 高信号源，建议保留 |
+| Buzzing | 549/1858 | 29.5% | 高信号源，建议保留 |
+| TopHub | 515/2661 | 19.4% | 高信号源，建议保留 |
+| Info Flow | 246/929 | 26.5% | 高信号源，建议保留 |
+| TechURLs | 203/464 | 43.8% | 高信号源，建议保留 |
+| Zeli | 62/70 | 88.6% | 高信号源，建议保留 |
+| AIbase | 51/51 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 50/257 | 19.5% | 高信号源，建议保留 |
+| AI HOT | 36/37 | 97.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
