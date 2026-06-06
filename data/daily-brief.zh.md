@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-06T11:57:25.041937Z
-- 24小时AI信号：1955 条
+- 生成时间：2026-06-06T14:01:28.628167Z
+- 24小时AI信号：1867 条
 - 源健康：14/14
-- 原始抓取：7289 条
+- 原始抓取：7299 条
 
 ## 今日重点
 
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
+6. [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
+   - 时间：54分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
    - 时间：今天 06:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Arena 发布真实世界 AI 智能体排行榜 Agent Arena](https://x.com/rohanpaul_ai/status/2063018358795300982)
+9. [Arena 发布真实世界 AI 智能体排行榜 Agent Arena](https://x.com/rohanpaul_ai/status/2063018358795300982)
    - 时间：今天 06:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [SpaceX与Google达成云计算新协议](https://x.com/rohanpaul_ai/status/2063000834045313314)
+10. [SpaceX与Google达成云计算新协议](https://x.com/rohanpaul_ai/status/2063000834045313314)
    - 时间：今天 04:51
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [智能体协作应如同事般对话和手势](https://x.com/mntruell/status/2062955210897801520)
-   - 时间：今天 01:50
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Google AI 本周产品更新：Nano Banana 2、Co-Scientist、dreambeans、Gemma 4 等](https://x.com/GoogleAI/status/2062942864288387430)
-   - 时间：今天 01:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -95,10 +95,10 @@
    - 时间：昨天 21:31
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [你的AI账单失控了。Cloudflare现在可以解决这个问题。](https://blog.cloudflare.com/ai-gateway-spend-limits)
-   - 时间：昨天 21:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [公共预览版 VS Code 中的企业管理插件](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview)
+   - 时间：今天 05:01
+   - 来源：Official AI Updates
+   - 评分：8.7/10 · matched_ai_signal
 
 ### 实践技巧与观点
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 917/3138 | 29.2% | 高信号源，建议保留 |
-| Buzzing | 498/1735 | 28.7% | 高信号源，建议保留 |
-| Info Flow | 182/658 | 27.7% | 高信号源，建议保留 |
-| TechURLs | 116/381 | 30.4% | 高信号源，建议保留 |
-| Zeli | 62/71 | 87.3% | 高信号源，建议保留 |
-| NewsNow | 49/232 | 21.1% | 高信号源，建议保留 |
-| AI HOT | 29/30 | 96.7% | 高信号源，建议保留 |
+| TopHub | 892/3028 | 29.5% | 高信号源，建议保留 |
+| Buzzing | 465/1673 | 27.8% | 高信号源，建议保留 |
+| Info Flow | 162/612 | 26.5% | 高信号源，建议保留 |
+| TechURLs | 110/373 | 29.5% | 高信号源，建议保留 |
+| Zeli | 61/70 | 87.1% | 高信号源，建议保留 |
+| NewsNow | 47/201 | 23.4% | 高信号源，建议保留 |
+| AI HOT | 27/29 | 93.1% | 高信号源，建议保留 |
 | Follow Builders | 11/32 | 34.4% | 高信号源，建议保留 |
 
 ## 维护提示
