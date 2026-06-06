@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-06T08:07:55.496610Z
-- 24小时AI信号：2111 条
+- 生成时间：2026-06-06T10:31:05.193493Z
+- 24小时AI信号：2142 条
 - 源健康：14/14
-- 原始抓取：6446 条
+- 原始抓取：6460 条
 
 ## 今日重点
 
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
-   - 时间：9小时前
+   - 时间：今天 06:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Arena 发布真实世界 AI 智能体排行榜 Agent Arena](https://x.com/rohanpaul_ai/status/2063018358795300982)
-   - 时间：10小时前
+   - 时间：今天 06:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [SpaceX与Google达成云计算新协议](https://x.com/rohanpaul_ai/status/2063000834045313314)
-   - 时间：11小时前
+   - 时间：今天 04:51
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [智能体协作应如同事般对话和手势](https://x.com/mntruell/status/2062955210897801520)
@@ -57,11 +57,11 @@
 ### 论文研究与评测
 
 11. [PixelDiT入选CVPR2026最佳论文决赛](https://x.com/NVIDIAAI/status/2063034422698389625)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
-   - 时间：11小时前
+   - 时间：今天 04:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [微软Project Mosaic：micro-LED光学互连技术](https://x.com/MSFTResearch/status/2062983588606320714)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [Apollo 敲定 350 亿美元债务融资，为 Anthropic 采购 AI 芯片](https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic)
-   - 时间：11小时前
+   - 时间：今天 05:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Google Colab CLI 发布](https://developers.googleblog.com/introducing-the-google-colab-cli)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 987/3270 | 30.2% | 高信号源，建议保留 |
-| Buzzing | 502/1755 | 28.6% | 高信号源，建议保留 |
-| Info Flow | 211/728 | 29.0% | 高信号源，建议保留 |
-| TechURLs | 141/421 | 33.5% | 高信号源，建议保留 |
-| Zeli | 65/73 | 89.0% | 高信号源，建议保留 |
-| NewsNow | 51/242 | 21.1% | 高信号源，建议保留 |
+| TopHub | 1067/3583 | 29.8% | 高信号源，建议保留 |
+| Buzzing | 494/1732 | 28.5% | 高信号源，建议保留 |
+| Info Flow | 189/677 | 27.9% | 高信号源，建议保留 |
+| TechURLs | 122/394 | 31.0% | 高信号源，建议保留 |
+| Zeli | 64/72 | 88.9% | 高信号源，建议保留 |
+| NewsNow | 53/263 | 20.2% | 高信号源，建议保留 |
 | AI HOT | 30/31 | 96.8% | 高信号源，建议保留 |
 | AIbase | 19/19 | 100.0% | 高信号源，建议保留 |
 
