@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-06T18:14:24.708763Z
-- 24小时AI信号：1781 条
+- 生成时间：2026-06-06T19:55:10.380998Z
+- 24小时AI信号：1738 条
 - 源健康：14/14
-- 原始抓取：7184 条
+- 原始抓取：7122 条
 
 ## 今日重点
 
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
@@ -56,20 +56,20 @@
 
 ### 论文研究与评测
 
-11. [PixelDiT入选CVPR2026最佳论文决赛](https://x.com/NVIDIAAI/status/2063034422698389625)
+11. [阶跃首席科学家张祥雨合著论文 ResNet 获 CVPR 2026 「时间检验奖」](https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g)
+   - 时间：昨天 14:46
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [PixelDiT入选CVPR2026最佳论文决赛](https://x.com/NVIDIAAI/status/2063034422698389625)
    - 时间：昨天 07:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
+13. [谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
    - 时间：昨天 04:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [微软Project Mosaic：micro-LED光学互连技术](https://x.com/MSFTResearch/status/2062983588606320714)
+14. [微软Project Mosaic：micro-LED光学互连技术](https://x.com/MSFTResearch/status/2062983588606320714)
    - 时间：昨天 03:43
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Anthropic：让Claude成为化学家](https://www.anthropic.com/research/making-claude-a-chemist)
-   - 时间：昨天 03:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [AI热推高美国计算基建GDP占比翻倍](https://x.com/EpochAIResearch/status/2062933470373146828)
@@ -103,23 +103,23 @@
 ### 实践技巧与观点
 
 21. [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Job Searcher](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [Suno Voices 使用指南：6 个技巧打造高质量人声录制](https://suno.com/blog/6-tips-for-voices)
+23. [五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器](https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon)
+   - 时间：昨天 03:23
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [Suno Voices 使用指南：6 个技巧打造高质量人声录制](https://suno.com/blog/6-tips-for-voices)
    - 时间：06-05 23:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Hinton称AI拥有意识：人类最好接受非唯一智能生命](https://x.com/kimmonismus/status/2062915287700090948)
+25. [Hinton称AI拥有意识：人类最好接受非唯一智能生命](https://x.com/kimmonismus/status/2062915287700090948)
    - 时间：06-05 23:11
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Viggle_PINOC 免费动捕测试开启](https://x.com/ViggleAI/status/2062904007123714329)
-   - 时间：06-05 22:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 905/3252 | 27.8% | 高信号源，建议保留 |
-| Buzzing | 427/1531 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 162/583 | 27.8% | 高信号源，建议保留 |
-| TechURLs | 89/294 | 30.3% | 高信号源，建议保留 |
-| NewsNow | 44/194 | 22.7% | 高信号源，建议保留 |
-| Zeli | 42/53 | 79.2% | 高信号源，建议保留 |
-| AI HOT | 13/16 | 81.2% | 高信号源，建议保留 |
-| Follow Builders | 9/23 | 39.1% | 高信号源，建议保留 |
+| TopHub | 895/3220 | 27.8% | 高信号源，建议保留 |
+| Buzzing | 404/1520 | 26.6% | 高信号源，建议保留 |
+| Info Flow | 160/578 | 27.7% | 高信号源，建议保留 |
+| TechURLs | 84/278 | 30.2% | 高信号源，建议保留 |
+| NewsNow | 44/197 | 22.3% | 高信号源，建议保留 |
+| Zeli | 41/51 | 80.4% | 高信号源，建议保留 |
+| AI HOT | 11/13 | 84.6% | 高信号源，建议保留 |
+| Follow Builders | 8/22 | 36.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
