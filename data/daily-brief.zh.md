@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-06T14:01:28.628167Z
-- 24小时AI信号：1867 条
+- 生成时间：2026-06-06T15:20:56.696227Z
+- 24小时AI信号：1864 条
 - 源健康：14/14
-- 原始抓取：7299 条
+- 原始抓取：7291 条
 
 ## 今日重点
 
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
-   - 时间：54分钟前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
@@ -114,12 +114,12 @@
    - 时间：昨天 22:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [德米斯·哈萨比斯爵士 vs 德米斯·哈萨比斯爵士](https://garymarcus.substack.com/p/sir-demis-hassabis-vs-sir-demis-hassabis)
+24. [Sir Demis Hassabis vs Sir Demis Hassabis](https://garymarcus.substack.com/p/sir-demis-hassabis-vs-sir-demis-hassabis)
    - 时间：昨天 22:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Sir Demis Hassabis vs Sir Demis Hassabis](https://garymarcus.substack.com/p/sir-demis-hassabis-vs-sir-demis-hassabis)
-   - 时间：昨天 22:25
+25. [一个非常狠的AI教学提示词：追问式检查清单教学](https://x.com/xiaohu/status/2062902972649222311)
+   - 时间：昨天 22:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 892/3028 | 29.5% | 高信号源，建议保留 |
-| Buzzing | 465/1673 | 27.8% | 高信号源，建议保留 |
-| Info Flow | 162/612 | 26.5% | 高信号源，建议保留 |
-| TechURLs | 110/373 | 29.5% | 高信号源，建议保留 |
-| Zeli | 61/70 | 87.1% | 高信号源，建议保留 |
-| NewsNow | 47/201 | 23.4% | 高信号源，建议保留 |
-| AI HOT | 27/29 | 93.1% | 高信号源，建议保留 |
-| Follow Builders | 11/32 | 34.4% | 高信号源，建议保留 |
+| TopHub | 925/3176 | 29.1% | 高信号源，建议保留 |
+| Buzzing | 459/1690 | 27.2% | 高信号源，建议保留 |
+| Info Flow | 162/605 | 26.8% | 高信号源，建议保留 |
+| TechURLs | 96/342 | 28.1% | 高信号源，建议保留 |
+| Zeli | 54/64 | 84.4% | 高信号源，建议保留 |
+| NewsNow | 48/208 | 23.1% | 高信号源，建议保留 |
+| AI HOT | 21/23 | 91.3% | 高信号源，建议保留 |
+| Follow Builders | 10/27 | 37.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
