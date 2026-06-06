@@ -1,44 +1,44 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-06T16:41:36.911650Z
-- 24小时AI信号：1811 条
+- 生成时间：2026-06-06T18:14:24.708763Z
+- 24小时AI信号：1781 条
 - 源健康：14/14
-- 原始抓取：7215 条
+- 原始抓取：7184 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
+1. [AI HOT 日报 · 2026-06-06 — Riverflow 2.5：可控制评分标准的图像模型](https://aihot.virxact.com/daily/2026-06-06)
+   - 时间：昨天 08:01
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
    - 时间：昨天 03:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Riverflow 2.5：可控制评分标准的图像模型](https://x.com/OpenRouter/status/2062944965978992935)
+3. [Riverflow 2.5：可控制评分标准的图像模型](https://x.com/OpenRouter/status/2062944965978992935)
    - 时间：昨天 01:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [ChatGPT 网页版支持从写作块发送邮件](https://x.com/ChatGPTapp/status/2062944254591430917)
+4. [ChatGPT 网页版支持从写作块发送邮件](https://x.com/ChatGPTapp/status/2062944254591430917)
    - 时间：昨天 01:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Gemini Live 支持实时创建编辑图像](https://x.com/GeminiApp/status/2062936486509785385)
+5. [Gemini Live 支持实时创建编辑图像](https://x.com/GeminiApp/status/2062936486509785385)
    - 时间：昨天 00:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [我们将下个月的 Claude Cowork 使用限制增加了一倍。这适用于您的 5 小时费率限制。如果你一直在攒一个大而混乱的项目，现在就是时候了。 https://t.co/qwjn8cVTUk](https://x.com/bcherny/status/2063028954546733462)
-   - 时间：昨天 06:43
-   - 来源：Follow Builders
-   - 评分：8.5/10 · matched_tracked_ai_keyword
 
 ### 产品与开发者工具
 
 6. [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
@@ -83,31 +83,31 @@
    - 时间：昨天 05:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Google Colab CLI 发布](https://developers.googleblog.com/introducing-the-google-colab-cli)
-   - 时间：昨天 01:12
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [OpenAI 前 CTO 称若 Altman 未回归公司可能已"瓦解"](https://www.bloomberg.com/news/articles/2026-06-05/openai-would-ve-imploded-if-altman-didn-t-return-ex-cto-says)
+17. [OpenAI 前 CTO 称若 Altman 未回归公司可能已"瓦解"](https://www.bloomberg.com/news/articles/2026-06-05/openai-would-ve-imploded-if-altman-didn-t-return-ex-cto-says)
    - 时间：06-05 23:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [开源鸿蒙 OpenHarmony 具身智能版本 EmbodiedAI 1.0.1 发布](https://www.ithome.com/0/960/722.htm)
+18. [开源鸿蒙 OpenHarmony 具身智能版本 EmbodiedAI 1.0.1 发布](https://www.ithome.com/0/960/722.htm)
    - 时间：06-05 21:31
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [公共预览版 VS Code 中的企业管理插件](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview)
+19. [公共预览版 VS Code 中的企业管理插件](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview)
    - 时间：昨天 05:01
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
+20. [我看到企业人工智能团队最常犯的错误之一是针对当今的模型功能和价格点进行构建。想想6个月后。模型将变得更加智能、更加便宜。围绕当今模型设备的脚手架...](https://x.com/realmadhuguru/status/2063024953721827329)
+   - 时间：昨天 06:27
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
-   - 时间：17分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Job Searcher](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Suno Voices 使用指南：6 个技巧打造高质量人声录制](https://suno.com/blog/6-tips-for-voices)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 888/3041 | 29.2% | 高信号源，建议保留 |
-| Buzzing | 452/1617 | 28.0% | 高信号源，建议保留 |
-| Info Flow | 163/589 | 27.7% | 高信号源，建议保留 |
-| TechURLs | 97/316 | 30.7% | 高信号源，建议保留 |
-| NewsNow | 49/203 | 24.1% | 高信号源，建议保留 |
-| Zeli | 46/57 | 80.7% | 高信号源，建议保留 |
-| AI HOT | 17/20 | 85.0% | 高信号源，建议保留 |
-| Follow Builders | 9/26 | 34.6% | 高信号源，建议保留 |
+| TopHub | 905/3252 | 27.8% | 高信号源，建议保留 |
+| Buzzing | 427/1531 | 27.9% | 高信号源，建议保留 |
+| Info Flow | 162/583 | 27.8% | 高信号源，建议保留 |
+| TechURLs | 89/294 | 30.3% | 高信号源，建议保留 |
+| NewsNow | 44/194 | 22.7% | 高信号源，建议保留 |
+| Zeli | 42/53 | 79.2% | 高信号源，建议保留 |
+| AI HOT | 13/16 | 81.2% | 高信号源，建议保留 |
+| Follow Builders | 9/23 | 39.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
