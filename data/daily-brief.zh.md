@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-06T10:31:05.193493Z
-- 24小时AI信号：2142 条
+- 生成时间：2026-06-06T11:57:25.041937Z
+- 24小时AI信号：1955 条
 - 源健康：14/14
-- 原始抓取：6460 条
+- 原始抓取：7289 条
 
 ## 今日重点
 
@@ -26,10 +26,10 @@
    - 时间：今天 00:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI表态支持特朗普AI行政令：愿在模型发布前接受政府安全评估](https://www.aibase.com/news/28704)
-   - 时间：昨天 18:52
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [我们将下个月的 Claude Cowork 使用限制增加了一倍。这适用于您的 5 小时费率限制。如果你一直在攒一个大而混乱的项目，现在就是时候了。 https://t.co/qwjn8cVTUk](https://x.com/bcherny/status/2063028954546733462)
+   - 时间：今天 06:43
+   - 来源：Follow Builders
+   - 评分：8.5/10 · matched_tracked_ai_keyword
 
 ### 产品与开发者工具
 
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [PixelDiT入选CVPR2026最佳论文决赛](https://x.com/NVIDIAAI/status/2063034422698389625)
-   - 时间：11小时前
+   - 时间：今天 07:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 1067/3583 | 29.8% | 高信号源，建议保留 |
-| Buzzing | 494/1732 | 28.5% | 高信号源，建议保留 |
-| Info Flow | 189/677 | 27.9% | 高信号源，建议保留 |
-| TechURLs | 122/394 | 31.0% | 高信号源，建议保留 |
-| Zeli | 64/72 | 88.9% | 高信号源，建议保留 |
-| NewsNow | 53/263 | 20.2% | 高信号源，建议保留 |
-| AI HOT | 30/31 | 96.8% | 高信号源，建议保留 |
-| AIbase | 19/19 | 100.0% | 高信号源，建议保留 |
+| TopHub | 917/3138 | 29.2% | 高信号源，建议保留 |
+| Buzzing | 498/1735 | 28.7% | 高信号源，建议保留 |
+| Info Flow | 182/658 | 27.7% | 高信号源，建议保留 |
+| TechURLs | 116/381 | 30.4% | 高信号源，建议保留 |
+| Zeli | 62/71 | 87.3% | 高信号源，建议保留 |
+| NewsNow | 49/232 | 21.1% | 高信号源，建议保留 |
+| AI HOT | 29/30 | 96.7% | 高信号源，建议保留 |
+| Follow Builders | 11/32 | 34.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
