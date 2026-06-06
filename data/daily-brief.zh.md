@@ -1,44 +1,44 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-06T19:55:10.380998Z
-- 24小时AI信号：1738 条
+- 生成时间：2026-06-06T21:11:46.830966Z
+- 24小时AI信号：1650 条
 - 源健康：14/14
-- 原始抓取：7122 条
+- 原始抓取：7012 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [AI HOT 日报 · 2026-06-06 — Riverflow 2.5：可控制评分标准的图像模型](https://aihot.virxact.com/daily/2026-06-06)
+1. [五个实验室，五个心智：用小模型构建多模型金融剧情游戏](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [AI HOT 日报 · 2026-06-06 — Riverflow 2.5：可控制评分标准的图像模型](https://aihot.virxact.com/daily/2026-06-06)
    - 时间：昨天 08:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
+3. [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
    - 时间：昨天 03:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Riverflow 2.5：可控制评分标准的图像模型](https://x.com/OpenRouter/status/2062944965978992935)
+4. [Riverflow 2.5：可控制评分标准的图像模型](https://x.com/OpenRouter/status/2062944965978992935)
    - 时间：昨天 01:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [ChatGPT 网页版支持从写作块发送邮件](https://x.com/ChatGPTapp/status/2062944254591430917)
+5. [ChatGPT 网页版支持从写作块发送邮件](https://x.com/ChatGPTapp/status/2062944254591430917)
    - 时间：昨天 01:06
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Gemini Live 支持实时创建编辑图像](https://x.com/GeminiApp/status/2062936486509785385)
-   - 时间：昨天 00:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
@@ -64,16 +64,16 @@
    - 时间：昨天 07:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
-   - 时间：昨天 04:30
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [微软Project Mosaic：micro-LED光学互连技术](https://x.com/MSFTResearch/status/2062983588606320714)
+13. [微软Project Mosaic：micro-LED光学互连技术](https://x.com/MSFTResearch/status/2062983588606320714)
    - 时间：昨天 03:43
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [AI热推高美国计算基建GDP占比翻倍](https://x.com/EpochAIResearch/status/2062933470373146828)
+14. [AI热推高美国计算基建GDP占比翻倍](https://x.com/EpochAIResearch/status/2062933470373146828)
    - 时间：昨天 00:24
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [Meta SAM 3D 获 CVPR26 最佳论文荣誉提名](https://x.com/AIatMeta/status/2062920724944507095)
+   - 时间：06-05 23:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -87,27 +87,27 @@
    - 时间：06-05 23:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [开源鸿蒙 OpenHarmony 具身智能版本 EmbodiedAI 1.0.1 发布](https://www.ithome.com/0/960/722.htm)
-   - 时间：06-05 21:31
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [公共预览版 VS Code 中的企业管理插件](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview)
-   - 时间：昨天 05:01
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
-20. [我看到企业人工智能团队最常犯的错误之一是针对当今的模型功能和价格点进行构建。想想6个月后。模型将变得更加智能、更加便宜。围绕当今模型设备的脚手架...](https://x.com/realmadhuguru/status/2063024953721827329)
+18. [我看到企业人工智能团队最常犯的错误之一是针对当今的模型功能和价格点进行构建。想想6个月后。模型将变得更加智能、更加便宜。围绕当今模型设备的脚手架...](https://x.com/realmadhuguru/status/2063024953721827329)
    - 时间：昨天 06:27
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
+19. [美国企业重新给DeepSeek打钱！登顶美国企业新增采购榜](https://view.inews.qq.com/a/20260605A09C5500)
+   - 时间：今天 05:12
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司](https://www.cls.cn/detail/2392488)
+   - 时间：今天 05:12
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Job Searcher](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器](https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 895/3220 | 27.8% | 高信号源，建议保留 |
-| Buzzing | 404/1520 | 26.6% | 高信号源，建议保留 |
-| Info Flow | 160/578 | 27.7% | 高信号源，建议保留 |
-| TechURLs | 84/278 | 30.2% | 高信号源，建议保留 |
-| NewsNow | 44/197 | 22.3% | 高信号源，建议保留 |
-| Zeli | 41/51 | 80.4% | 高信号源，建议保留 |
-| AI HOT | 11/13 | 84.6% | 高信号源，建议保留 |
-| Follow Builders | 8/22 | 36.4% | 高信号源，建议保留 |
+| TopHub | 833/3107 | 26.8% | 高信号源，建议保留 |
+| Buzzing | 388/1466 | 26.5% | 高信号源，建议保留 |
+| Info Flow | 160/584 | 27.4% | 高信号源，建议保留 |
+| TechURLs | 82/269 | 30.5% | 高信号源，建议保留 |
+| NewsNow | 44/192 | 22.9% | 高信号源，建议保留 |
+| Zeli | 37/46 | 80.4% | 高信号源，建议保留 |
+| AI HOT | 9/11 | 81.8% | 高信号源，建议保留 |
+| Follow Builders | 7/20 | 35.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
