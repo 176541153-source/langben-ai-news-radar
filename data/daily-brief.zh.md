@@ -1,56 +1,56 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-07T00:13:25.866462Z
-- 24小时AI信号：1603 条
+- 生成时间：2026-06-07T08:36:24.020238Z
+- 24小时AI信号：1416 条
 - 源健康：14/14
-- 原始抓取：7042 条
+- 原始抓取：6411 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04)
-   - 时间：2小时前
+1. [NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [五个实验室，五个心智：用小模型构建多模型金融剧情游戏](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)
+2. [对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果](https://x.com/dotey/status/2063464057647075379)
    - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
+3. [美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04)
+   - 时间：10小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [五个实验室，五个心智：用小模型构建多模型金融剧情游戏](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)
+   - 时间：今天 03:02
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
    - 时间：昨天 03:07
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Riverflow 2.5：可控制评分标准的图像模型](https://x.com/OpenRouter/status/2062944965978992935)
-   - 时间：昨天 01:09
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [ChatGPT 网页版支持从写作块发送邮件](https://x.com/ChatGPTapp/status/2062944254591430917)
-   - 时间：昨天 01:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [M3与Opus代码审计13个bug：$0.07 vs $1.30](https://x.com/MiniMax_AI/status/2063397618034844135)
-   - 时间：1小时前
+6. [Harness-1：基于强化学习训练的有状态搜索20B检索子智能体](https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
-   - 时间：11小时前
+7. [Harness 工程：在智能体优先的世界中运用 Codex](https://openai.com/index/harness-engineering)
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
+8. [M3与Opus代码审计13个bug：$0.07 vs $1.30](https://x.com/MiniMax_AI/status/2063397618034844135)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
+   - 时间：昨天 21:07
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
    - 时间：昨天 19:42
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
-   - 时间：昨天 06:18
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Arena 发布真实世界 AI 智能体排行榜 Agent Arena](https://x.com/rohanpaul_ai/status/2063018358795300982)
-   - 时间：昨天 06:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -83,43 +83,43 @@
    - 时间：昨天 05:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [OpenAI 前 CTO 称若 Altman 未回归公司可能已"瓦解"](https://www.bloomberg.com/news/articles/2026-06-05/openai-would-ve-imploded-if-altman-didn-t-return-ex-cto-says)
-   - 时间：06-05 23:18
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [对于我现在交谈的任何企业来说，代币成本正在成为最热门的话题之一。总体而言，这对人工智能非常乐观，因为这意味着这些系统的使用规模是以前没有想到的……](https://x.com/levie/status/2063320673217609936)
+   - 时间：今天 02:02
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 18. [美国企业重新给DeepSeek打钱！登顶美国企业新增采购榜](https://view.inews.qq.com/a/20260605A09C5500)
-   - 时间：今天 08:14
+   - 时间：今天 16:37
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司](https://www.cls.cn/detail/2392488)
-   - 时间：今天 08:14
-   - 来源：TrendRadar
+19. [AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？](https://www.zhihu.com/question/2025012000539846038)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [Meta 确认 AI 聊天机器人漏洞导致 Instagram 账户被黑](https://thysrael.github.io/Horizon/2026/06/07/summary-zh.html#item-2)
-   - 时间：13分钟前
-   - 来源：Horizon
+20. [用了 AI 之后，公司好像更穷了](https://www.36kr.com/p/3841823029447170)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
-   - 时间：7小时前
+21. [Opus 4.8 缓存命中率与有效价格可实时查看](https://x.com/OpenRouter/status/2063504950429147376)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Job Searcher](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
-   - 时间：8小时前
+22. [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
+   - 时间：今天 00:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器](https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon)
+23. [Job Searcher](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
+   - 时间：昨天 23:36
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器](https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon)
    - 时间：昨天 03:23
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Suno Voices 使用指南：6 个技巧打造高质量人声录制](https://suno.com/blog/6-tips-for-voices)
+25. [Suno Voices 使用指南：6 个技巧打造高质量人声录制](https://suno.com/blog/6-tips-for-voices)
    - 时间：06-05 23:26
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Hinton称AI拥有意识：人类最好接受非唯一智能生命](https://x.com/kimmonismus/status/2062915287700090948)
-   - 时间：06-05 23:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 831/3099 | 26.8% | 高信号源，建议保留 |
-| Buzzing | 361/1355 | 26.6% | 高信号源，建议保留 |
-| Info Flow | 162/568 | 28.5% | 高信号源，建议保留 |
-| TechURLs | 67/230 | 29.1% | 高信号源，建议保留 |
-| Zeli | 45/53 | 84.9% | 高信号源，建议保留 |
-| NewsNow | 43/194 | 22.2% | 高信号源，建议保留 |
-| AI HOT | 7/9 | 77.8% | 高信号源，建议保留 |
-| OPML RSS | 5/8 | 62.5% | 高信号源，建议保留 |
+| TopHub | 704/2558 | 27.5% | 高信号源，建议保留 |
+| Buzzing | 329/1199 | 27.4% | 高信号源，建议保留 |
+| Info Flow | 122/496 | 24.6% | 高信号源，建议保留 |
+| TechURLs | 64/235 | 27.2% | 高信号源，建议保留 |
+| Zeli | 57/64 | 89.1% | 高信号源，建议保留 |
+| NewsNow | 39/180 | 21.7% | 高信号源，建议保留 |
+| AI HOT | 11/13 | 84.6% | 高信号源，建议保留 |
+| OPML RSS | 6/7 | 85.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
