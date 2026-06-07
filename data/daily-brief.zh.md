@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-07T10:54:55.251662Z
-- 24小时AI信号：1390 条
+- 生成时间：2026-06-07T12:24:53.143687Z
+- 24小时AI信号：1376 条
 - 源健康：14/14
-- 原始抓取：7236 条
+- 原始抓取：6407 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布](https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果](https://x.com/dotey/status/2063464057647075379)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04)
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [Her · हेर - Claude Code 会话分析工具](https://huggingface.co/blog/build-small-hackathon/her-blog)
-   - 时间：41分钟前
+6. ["我在田里雇了一名工程师，它叫 Codex" -- 北海道一个西兰花农的 8 个真实 AI 用法](https://x.com/AYi_AInotes/status/2063573709672104286)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [Her · हेर - Claude Code 会话分析工具](https://huggingface.co/blog/build-small-hackathon/her-blog)
+   - 时间：2小时前
    - 来源：Official AI Updates
    - 评分：10.0/10 · matched_tracked_ai_keyword
-7. [Her · हेर - Claude Code 会话分析工具](https://huggingface.co/blog/build-small-hackathon/her-blog)
-   - 时间：41分钟前
+8. [Her · हेर - Claude Code 会话分析工具](https://huggingface.co/blog/build-small-hackathon/her-blog)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Harness-1：基于强化学习训练的有状态搜索20B检索子智能体](https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b)
-   - 时间：4小时前
+9. [Harness-1：基于强化学习训练的有状态搜索20B检索子智能体](https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b)
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Harness 工程：在智能体优先的世界中运用 Codex](https://openai.com/index/harness-engineering)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [M3与Opus代码审计13个bug：$0.07 vs $1.30](https://x.com/MiniMax_AI/status/2063397618034844135)
-   - 时间：11小时前
+10. [Harness 工程：在智能体优先的世界中运用 Codex](https://openai.com/index/harness-engineering)
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -72,10 +72,10 @@
    - 时间：昨天 00:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Meta SAM 3D 获 CVPR26 最佳论文荣誉提名](https://x.com/AIatMeta/status/2062920724944507095)
-   - 时间：06-05 23:33
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛](https://www.thepaper.cn/newsDetail_forward_33325056)
+   - 时间：今天 20:26
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
@@ -87,15 +87,15 @@
    - 时间：今天 02:02
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-18. [美国企业重新给DeepSeek打钱！登顶美国企业新增采购榜](https://view.inews.qq.com/a/20260605A09C5500)
-   - 时间：今天 18:56
+18. [知情人士：美国政府考虑入股人工智能企业](https://view.inews.qq.com/a/20260606A07OHV00)
+   - 时间：今天 20:26
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [​孙正义：下一个万亿赛道将是 Physical AI 和人形机器人](https://www.gelonghui.com/p/5090903)
-   - 时间：1分钟前
-   - 来源：TopHub
+19. [美国企业重新给DeepSeek打钱！登顶美国企业新增采购榜](https://view.inews.qq.com/a/20260605A09C5500)
+   - 时间：今天 20:26
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [OpenAI 拟全面升级 ChatGPT 增收 全力争取高利润企业客户 -- 快科技 -- 科技改变未来](https://news.mydrivers.com/1/1127/1127842.htm)
+20. [突发：OpenAI芯片元老加入Anthropic](https://www.36kr.com/p/3842475940268552)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [Opus 4.8 缓存命中率与有效价格可实时查看](https://x.com/OpenRouter/status/2063504950429147376)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
@@ -119,7 +119,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [港府本月拟首次召开AI产业发展策略会议](https://www.zaochenbao.com/news/hkMacao/202606/0773587.html)
-   - 时间：今天 18:56
+   - 时间：今天 20:26
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 699/2524 | 27.7% | 高信号源，建议保留 |
-| Buzzing | 332/1191 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 111/473 | 23.5% | 高信号源，建议保留 |
-| TechURLs | 59/206 | 28.6% | 高信号源，建议保留 |
-| Zeli | 56/62 | 90.3% | 高信号源，建议保留 |
-| NewsNow | 33/171 | 19.3% | 高信号源，建议保留 |
+| TopHub | 687/2485 | 27.6% | 高信号源，建议保留 |
+| Buzzing | 331/1181 | 28.0% | 高信号源，建议保留 |
+| Info Flow | 116/469 | 24.7% | 高信号源，建议保留 |
+| Zeli | 54/58 | 93.1% | 高信号源，建议保留 |
+| TechURLs | 52/193 | 26.9% | 高信号源，建议保留 |
+| NewsNow | 37/183 | 20.2% | 高信号源，建议保留 |
 | AI HOT | 12/14 | 85.7% | 高信号源，建议保留 |
-| OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
+| Follow Builders | 3/17 | 17.6% | 有少量有效信号，继续观察 |
 
 ## 维护提示
 
