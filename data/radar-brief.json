@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-08T19:03:43.755700Z",
+  "generated_at": "2026-06-08T21:13:45.317737Z",
   "timezone": "Asia/Shanghai",
   "window_hours": 24,
   "upstream_hub_url": "data/upstream-hub.json",
   "summary": {
-    "ai_items": 1938,
-    "raw_items": 6083,
-    "fetched_raw_items": 7214,
+    "ai_items": 2049,
+    "raw_items": 6198,
+    "fetched_raw_items": 7042,
     "successful_sites": 14,
     "site_count": 14,
     "source_quality": {
@@ -15,35 +15,27 @@
       "watch": 2,
       "downgrade": 0,
       "fix_fetch": 0,
-      "average_ai_hit_rate": 0.507
+      "average_ai_hit_rate": 0.52
     }
   },
   "top_stories": [
     {
       "story_id": "9e2fb89d1c18",
       "title": "Siri人工智能",
-      "url": "https://news.ycombinator.com/item?id=48449084",
+      "url": "https://s.weibo.com/weibo?q=Siri+AI",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
-      "score": 8.6,
-      "time_label": "今天 03:04",
-      "source_count": 3,
-      "item_count": 3,
+      "score": 9.0,
+      "time_label": "1分钟前",
+      "source_count": 4,
+      "item_count": 5,
       "sources": [
+        "Buzzing",
         "NewsNow",
         "TechURLs",
         "TopHub"
       ],
       "source_refs": [
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "newsnow",
-          "name": "hackernews",
-          "source_key": "ai_news_radar::collector::newsnow"
-        },
         {
           "project_id": "ai_news_radar",
           "project_name": "AI News Radar",
@@ -58,25 +50,43 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
+          "source_id": "buzzing",
+          "name": "www.apple.com",
+          "source_key": "ai_news_radar::collector::buzzing"
+        },
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "newsnow",
+          "name": "hackernews",
+          "source_key": "ai_news_radar::collector::newsnow"
+        },
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
           "source_id": "techurls",
           "name": "Hacker News",
           "source_key": "ai_news_radar::collector::techurls"
         }
       ],
       "primary": {
-        "id": "06c05fdbcdf375b0c06e3d7c96e928a56934c0c0",
+        "id": "3ba88cf8d7f5521733d85c8e15c198720a36add4",
         "title": "Siri人工智能",
         "title_original": "Siri AI",
-        "url": "https://news.ycombinator.com/item?id=48449084",
-        "site_id": "newsnow",
-        "site_name": "NewsNow",
-        "source": "hackernews",
-        "published_at": "2026-06-08T19:04:12.835000Z",
-        "first_seen_at": "2026-06-08T19:03:43.755700Z",
-        "time_label": "今天 03:04",
+        "url": "https://s.weibo.com/weibo?q=Siri+AI",
+        "site_id": "tophub",
+        "site_name": "TopHub",
+        "source": "微博 · 热搜榜",
+        "published_at": null,
+        "first_seen_at": "2026-06-08T21:13:45.317737Z",
+        "time_label": "1分钟前",
         "category_id": "practice_insight",
         "category_title": "实践技巧与观点",
-        "score": 8.6,
+        "score": 9.0,
         "ai_score": 0.78,
         "ai_label": "ai_general",
         "reason": "matched_tracked_ai_keyword",
@@ -95,13 +105,92 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "newsnow",
-          "name": "hackernews",
-          "source_key": "ai_news_radar::collector::newsnow"
+          "source_id": "tophub",
+          "name": "微博 · 热搜榜",
+          "source_key": "ai_news_radar::collector::tophub"
         },
-        "source_key": "ai_news_radar::collector::newsnow"
+        "source_key": "ai_news_radar::collector::tophub"
       },
       "related": [
+        {
+          "id": "3ba88cf8d7f5521733d85c8e15c198720a36add4",
+          "title": "Siri人工智能",
+          "title_original": "Siri AI",
+          "url": "https://s.weibo.com/weibo?q=Siri+AI",
+          "site_id": "tophub",
+          "site_name": "TopHub",
+          "source": "微博 · 热搜榜",
+          "published_at": null,
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1分钟前",
+          "category_id": "practice_insight",
+          "category_title": "实践技巧与观点",
+          "score": 9.0,
+          "ai_score": 0.78,
+          "ai_label": "ai_general",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "AI"
+          ],
+          "topic_labels": [
+            "AI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "tophub",
+            "name": "微博 · 热搜榜",
+            "source_key": "ai_news_radar::collector::tophub"
+          },
+          "source_key": "ai_news_radar::collector::tophub"
+        },
+        {
+          "id": "307d7702073a22f45ba5a7cf4192c101d0fd8862",
+          "title": "Siri 人工智能",
+          "title_original": "Siri 人工智能",
+          "url": "https://www.apple.com/apple-intelligence",
+          "site_id": "buzzing",
+          "site_name": "Buzzing",
+          "source": "www.apple.com",
+          "published_at": "2026-06-08T19:37:13.181000Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1小时前",
+          "category_id": "practice_insight",
+          "category_title": "实践技巧与观点",
+          "score": 9.0,
+          "ai_score": 0.78,
+          "ai_label": "ai_general",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "人工智能",
+            "苹果"
+          ],
+          "topic_labels": [
+            "人工智能",
+            "苹果"
+          ],
+          "topic_sections": [
+            "ai_related",
+            "internet"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "buzzing",
+            "name": "www.apple.com",
+            "source_key": "ai_news_radar::collector::buzzing"
+          },
+          "source_key": "ai_news_radar::collector::buzzing"
+        },
         {
           "id": "06c05fdbcdf375b0c06e3d7c96e928a56934c0c0",
           "title": "Siri人工智能",
@@ -112,10 +201,10 @@
           "source": "hackernews",
           "published_at": "2026-06-08T19:04:12.835000Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "今天 03:04",
+          "time_label": "2小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
-          "score": 8.6,
+          "score": 9.0,
           "ai_score": 0.78,
           "ai_label": "ai_general",
           "reason": "matched_tracked_ai_keyword",
@@ -150,10 +239,10 @@
           "source": "微博 · 热搜榜",
           "published_at": null,
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1分钟前",
+          "time_label": "2小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
-          "score": 8.6,
+          "score": 9.0,
           "ai_score": 0.78,
           "ai_label": "ai_general",
           "reason": "matched_tracked_ai_keyword",
@@ -177,31 +266,219 @@
             "source_key": "ai_news_radar::collector::tophub"
           },
           "source_key": "ai_news_radar::collector::tophub"
+        }
+      ]
+    },
+    {
+      "story_id": "8f806fc0b597",
+      "title": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture",
+      "category_id": "model_release",
+      "category_title": "模型发布与能力更新",
+      "score": 10.0,
+      "time_label": "32分钟前",
+      "source_count": 3,
+      "item_count": 3,
+      "sources": [
+        "AI HOT",
+        "Buzzing",
+        "TechURLs"
+      ],
+      "source_refs": [
+        {
+          "project_id": "aihot",
+          "project_name": "AI HOT",
+          "kind": "feed",
+          "kind_label": "订阅源",
+          "source_id": "hacker-news-热门-buzzing-cc-中文翻译",
+          "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
         },
         {
-          "id": "ff290b99794316e0d1e1d3846ccb50dcaf9b7594",
-          "title": "Siri人工智能",
-          "title_original": "Siri AI",
-          "url": "https://www.apple.com/apple-intelligence",
-          "site_id": "techurls",
-          "site_name": "TechURLs",
-          "source": "Hacker News",
-          "published_at": "2026-06-08T18:17:53Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "45分钟前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "buzzing",
+          "name": "www.macrumors.com",
+          "source_key": "ai_news_radar::collector::buzzing"
+        },
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "techurls",
+          "name": "Hacker News",
+          "source_key": "ai_news_radar::collector::techurls"
+        }
+      ],
+      "primary": {
+        "id": "70693e7b6abf9e8b1639edde77bfcb1f69457763",
+        "title": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+        "title_original": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture",
+        "site_id": "aihot",
+        "site_name": "AI HOT",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "published_at": "2026-06-08T20:41:12Z",
+        "first_seen_at": "2026-06-08T21:13:45.317737Z",
+        "time_label": "32分钟前",
+        "category_id": "model_release",
+        "category_title": "模型发布与能力更新",
+        "score": 10.0,
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "reason": "trusted_ai_source_default_keep",
+        "signals": [
+          "gemini",
+          "AI",
+          "Google Gemini",
+          "苹果",
+          "谷歌"
+        ],
+        "topic_labels": [
+          "AI",
+          "Google Gemini",
+          "苹果",
+          "谷歌"
+        ],
+        "topic_sections": [
+          "ai_related",
+          "internet"
+        ],
+        "project_source": "AI HOT",
+        "source_ref": {
+          "project_id": "aihot",
+          "project_name": "AI HOT",
+          "kind": "feed",
+          "kind_label": "订阅源",
+          "source_id": "hacker-news-热门-buzzing-cc-中文翻译",
+          "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
+        },
+        "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
+      },
+      "related": [
+        {
+          "id": "95c21235b1cc6b1826f046ecc77aea734a649460",
+          "title": "苹果揭晓基于谷歌Gemini模型构建的新AI架构",
+          "title_original": "苹果揭晓基于谷歌Gemini模型构建的新AI架构",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture",
+          "site_id": "buzzing",
+          "site_name": "Buzzing",
+          "source": "www.macrumors.com",
+          "published_at": "2026-06-08T20:41:12.244000Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "32分钟前",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
           "score": 8.6,
           "ai_score": 0.78,
-          "ai_label": "ai_general",
+          "ai_label": "model_release",
           "reason": "matched_tracked_ai_keyword",
           "signals": [
+            "gemini",
             "AI",
-            "苹果"
+            "苹果",
+            "谷歌"
           ],
           "topic_labels": [
             "AI",
-            "苹果"
+            "苹果",
+            "谷歌"
+          ],
+          "topic_sections": [
+            "ai_related",
+            "internet"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "buzzing",
+            "name": "www.macrumors.com",
+            "source_key": "ai_news_radar::collector::buzzing"
+          },
+          "source_key": "ai_news_radar::collector::buzzing"
+        },
+        {
+          "id": "70693e7b6abf9e8b1639edde77bfcb1f69457763",
+          "title": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+          "title_original": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "published_at": "2026-06-08T20:41:12Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "32分钟前",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "model_release",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "gemini",
+            "AI",
+            "Google Gemini",
+            "苹果",
+            "谷歌"
+          ],
+          "topic_labels": [
+            "AI",
+            "Google Gemini",
+            "苹果",
+            "谷歌"
+          ],
+          "topic_sections": [
+            "ai_related",
+            "internet"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "hacker-news-热门-buzzing-cc-中文翻译",
+            "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
+          },
+          "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
+        },
+        {
+          "id": "f4b40b6b2f53bdfad46f02b874ba79976f7a6623",
+          "title": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+          "title_original": "Apple reveals new AI architecture built around Google Gemini models",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture",
+          "site_id": "techurls",
+          "site_name": "TechURLs",
+          "source": "Hacker News",
+          "published_at": "2026-06-08T19:14:47Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1小时前",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
+          "score": 8.6,
+          "ai_score": 0.78,
+          "ai_label": "model_release",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "gemini",
+            "AI",
+            "Google Gemini",
+            "苹果",
+            "谷歌"
+          ],
+          "topic_labels": [
+            "AI",
+            "Google Gemini",
+            "苹果",
+            "谷歌"
           ],
           "topic_sections": [
             "ai_related",
@@ -228,9 +505,9 @@
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 7.3,
-      "time_label": "1小时前",
+      "time_label": "3小时前",
       "source_count": 3,
-      "item_count": 3,
+      "item_count": 4,
       "sources": [
         "Buzzing",
         "Info Flow",
@@ -251,18 +528,18 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "www.apple.com",
-          "source_key": "ai_news_radar::collector::buzzing"
+          "source_id": "iris",
+          "name": "Lobsters (技术社区)",
+          "source_key": "ai_news_radar::collector::iris"
         },
         {
           "project_id": "ai_news_radar",
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "iris",
-          "name": "Lobsters (技术社区)",
-          "source_key": "ai_news_radar::collector::iris"
+          "source_id": "buzzing",
+          "name": "www.apple.com",
+          "source_key": "ai_news_radar::collector::buzzing"
         }
       ],
       "primary": {
@@ -275,7 +552,7 @@
         "source": "Hacker News · 24h最热",
         "published_at": "2026-06-08T17:14:24Z",
         "first_seen_at": "2026-06-08T19:03:43.755700Z",
-        "time_label": "1小时前",
+        "time_label": "3小时前",
         "category_id": "practice_insight",
         "category_title": "实践技巧与观点",
         "score": 7.3,
@@ -314,7 +591,7 @@
           "source": "Hacker News · 24h最热",
           "published_at": "2026-06-08T17:14:24Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "3小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 7.3,
@@ -343,6 +620,44 @@
           "source_key": "ai_news_radar::collector::zeli"
         },
         {
+          "id": "40f37004494c2e1b4b1640f85fe5418d0f445002",
+          "title": "2026年全球开发者大会",
+          "title_original": "Apple WWDC 2026",
+          "url": "https://www.apple.com/apple-events/event-stream",
+          "site_id": "iris",
+          "site_name": "Info Flow",
+          "source": "Hacker News (黑客新闻)",
+          "published_at": "2026-06-08T17:14:24Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "3小时前",
+          "category_id": "industry_compute",
+          "category_title": "产业、算力与机器人",
+          "score": 7.3,
+          "ai_score": 0.65,
+          "ai_label": "industry_business",
+          "reason": "matched_tracked_internet_keyword",
+          "signals": [
+            "苹果"
+          ],
+          "topic_labels": [
+            "苹果"
+          ],
+          "topic_sections": [
+            "internet"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "iris",
+            "name": "Hacker News (黑客新闻)",
+            "source_key": "ai_news_radar::collector::iris"
+          },
+          "source_key": "ai_news_radar::collector::iris"
+        },
+        {
           "id": "ae992b12d26deb63dd7896dd915896bc3089ca9c",
           "title": "2026年全球开发者大会",
           "title_original": "2026年全球开发者大会",
@@ -352,7 +667,7 @@
           "source": "www.apple.com",
           "published_at": "2026-06-08T17:13:21.090000Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "4小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 7.3,
@@ -390,7 +705,7 @@
           "source": "Lobsters (技术社区)",
           "published_at": "2026-06-08T16:52:38Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "2小时前",
+          "time_label": "4小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 7.3,
@@ -429,7 +744,7 @@
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
-      "time_label": "1小时前",
+      "time_label": "3小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -466,7 +781,7 @@
         "source": "The Verge：订阅版科技（RSS）",
         "published_at": "2026-06-08T17:34:24Z",
         "first_seen_at": "2026-06-08T19:03:43.755700Z",
-        "time_label": "1小时前",
+        "time_label": "3小时前",
         "category_id": "model_release",
         "category_title": "模型发布与能力更新",
         "score": 10.0,
@@ -508,7 +823,7 @@
           "source": "The Verge：订阅版科技（RSS）",
           "published_at": "2026-06-08T17:34:24Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "3小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -549,7 +864,7 @@
           "source": "The Verge",
           "published_at": "2026-06-08T17:34:24Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "3小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 8.2,
@@ -589,7 +904,7 @@
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
-      "time_label": "5小时前",
+      "time_label": "7小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -626,7 +941,7 @@
         "source": "The Verge：AI（RSS）",
         "published_at": "2026-06-08T14:00:00Z",
         "first_seen_at": "2026-06-08T16:13:00.350338Z",
-        "time_label": "5小时前",
+        "time_label": "7小时前",
         "category_id": "product_tool",
         "category_title": "产品与开发者工具",
         "score": 10.0,
@@ -671,7 +986,7 @@
           "source": "The Verge：AI（RSS）",
           "published_at": "2026-06-08T14:00:00Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
+          "time_label": "7小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -715,7 +1030,7 @@
           "source": "The Verge",
           "published_at": "2026-06-08T14:00:00Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
+          "time_label": "7小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 8.2,
@@ -758,7 +1073,7 @@
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
-      "time_label": "5小时前",
+      "time_label": "8小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -795,7 +1110,7 @@
         "source": "Hugging Face：Blog（RSS）",
         "published_at": "2026-06-08T13:10:48Z",
         "first_seen_at": "2026-06-08T16:13:00.350338Z",
-        "time_label": "5小时前",
+        "time_label": "8小时前",
         "category_id": "model_release",
         "category_title": "模型发布与能力更新",
         "score": 10.0,
@@ -831,7 +1146,7 @@
           "source": "Hugging Face：Blog（RSS）",
           "published_at": "2026-06-08T13:10:48Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
+          "time_label": "8小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -866,7 +1181,7 @@
           "source": "Hugging Face Blog",
           "published_at": "2026-06-08T13:10:48Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
+          "time_label": "8小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 9.9,
@@ -900,7 +1215,7 @@
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
-      "time_label": "7小时前",
+      "time_label": "9小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -937,7 +1252,7 @@
         "source": "Hugging Face：Blog（RSS）",
         "published_at": "2026-06-08T11:46:56Z",
         "first_seen_at": "2026-06-08T12:04:56.295751Z",
-        "time_label": "7小时前",
+        "time_label": "9小时前",
         "category_id": "product_tool",
         "category_title": "产品与开发者工具",
         "score": 10.0,
@@ -978,7 +1293,7 @@
           "source": "Hugging Face：Blog（RSS）",
           "published_at": "2026-06-08T11:46:56Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "7小时前",
+          "time_label": "9小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -1018,7 +1333,7 @@
           "source": "Hugging Face Blog",
           "published_at": "2026-06-08T11:46:56Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "7小时前",
+          "time_label": "9小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 8.3,
@@ -1133,7 +1448,7 @@
           "source": "Hacker News · 24h最热",
           "published_at": "2026-06-08T12:25:14Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "6小时前",
+          "time_label": "8小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 6.9,
@@ -1808,6 +2123,160 @@
       ]
     },
     {
+      "story_id": "a1729b4cee53",
+      "title": "OpenAI 公布让 AGI 造福所有人的计划",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "category_id": "industry_compute",
+      "category_title": "产业、算力与机器人",
+      "score": 10.0,
+      "time_label": "昨天 09:30",
+      "source_count": 2,
+      "item_count": 2,
+      "sources": [
+        "AI HOT",
+        "Official AI Updates"
+      ],
+      "source_refs": [
+        {
+          "project_id": "aihot",
+          "project_name": "AI HOT",
+          "kind": "feed",
+          "kind_label": "订阅源",
+          "source_id": "openai-官网动态-rss-排除企业-客户案例",
+          "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_key": "aihot::feed::openai-官网动态-rss-排除企业-客户案例"
+        },
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "official_ai",
+          "name": "OpenAI News",
+          "source_key": "ai_news_radar::collector::official_ai"
+        }
+      ],
+      "primary": {
+        "id": "68e851773cae1e2c0a8f01709fca056575c93e94",
+        "title": "OpenAI 公布让 AGI 造福所有人的计划",
+        "title_original": "OpenAI 公布让 AGI 造福所有人的计划",
+        "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+        "site_id": "aihot",
+        "site_name": "AI HOT",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "published_at": "2026-06-08T01:30:00Z",
+        "first_seen_at": "2026-06-08T21:13:45.317737Z",
+        "time_label": "昨天 09:30",
+        "category_id": "industry_compute",
+        "category_title": "产业、算力与机器人",
+        "score": 10.0,
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "reason": "trusted_ai_source_default_keep",
+        "signals": [
+          "openai",
+          "OpenAI"
+        ],
+        "topic_labels": [
+          "OpenAI"
+        ],
+        "topic_sections": [
+          "ai_related"
+        ],
+        "project_source": "AI HOT",
+        "source_ref": {
+          "project_id": "aihot",
+          "project_name": "AI HOT",
+          "kind": "feed",
+          "kind_label": "订阅源",
+          "source_id": "openai-官网动态-rss-排除企业-客户案例",
+          "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_key": "aihot::feed::openai-官网动态-rss-排除企业-客户案例"
+        },
+        "source_key": "aihot::feed::openai-官网动态-rss-排除企业-客户案例"
+      },
+      "related": [
+        {
+          "id": "68e851773cae1e2c0a8f01709fca056575c93e94",
+          "title": "OpenAI 公布让 AGI 造福所有人的计划",
+          "title_original": "OpenAI 公布让 AGI 造福所有人的计划",
+          "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "published_at": "2026-06-08T01:30:00Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "昨天 09:30",
+          "category_id": "industry_compute",
+          "category_title": "产业、算力与机器人",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "ai_product_update",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "openai",
+            "OpenAI"
+          ],
+          "topic_labels": [
+            "OpenAI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "openai-官网动态-rss-排除企业-客户案例",
+            "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+            "source_key": "aihot::feed::openai-官网动态-rss-排除企业-客户案例"
+          },
+          "source_key": "aihot::feed::openai-官网动态-rss-排除企业-客户案例"
+        },
+        {
+          "id": "68442b78008dba2dbffa6b9a210ddf10ff2f1746",
+          "title": "OpenAI 公布让 AGI 造福所有人的计划",
+          "title_original": "Built to benefit everyone: our plan",
+          "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+          "site_id": "official_ai",
+          "site_name": "Official AI Updates",
+          "source": "OpenAI News",
+          "published_at": "2026-06-08T01:30:00Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "昨天 09:30",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
+          "score": 9.9,
+          "ai_score": 0.95,
+          "ai_label": "ai_product_update",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "openai",
+            "OpenAI"
+          ],
+          "topic_labels": [
+            "OpenAI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "official_ai",
+            "name": "OpenAI News",
+            "source_key": "ai_news_radar::collector::official_ai"
+          },
+          "source_key": "ai_news_radar::collector::official_ai"
+        }
+      ]
+    },
+    {
       "story_id": "94633cc42ed5",
       "title": "开源社区支持 OpenEnv 用于智能体强化学习",
       "url": "https://huggingface.co/blog/openenv-agentic-rl",
@@ -1952,485 +2421,13 @@
       ]
     },
     {
-      "story_id": "62f64ffb50e4",
-      "title": "人工智能发展放缓",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down",
+      "story_id": "a5fa386211d8",
+      "title": "当太空不再需要人类：国外 AI+ 商业航天全景扫描",
+      "url": "https://www.huxiu.com/article/4865548.html?f=rss",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 8.2,
-      "time_label": "30分钟前",
-      "source_count": 2,
-      "item_count": 2,
-      "sources": [
-        "Buzzing",
-        "Info Flow"
-      ],
-      "source_refs": [
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "www.wheresyoured.at",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "iris",
-          "name": "Hacker News (黑客新闻)",
-          "source_key": "ai_news_radar::collector::iris"
-        }
-      ],
-      "primary": {
-        "id": "1ed238052ee668cd6fa35559f3c140ad1874bb6d",
-        "title": "人工智能发展放缓",
-        "title_original": "人工智能发展放缓",
-        "url": "https://www.wheresyoured.at/ai-is-slowing-down",
-        "site_id": "buzzing",
-        "site_name": "Buzzing",
-        "source": "www.wheresyoured.at",
-        "published_at": "2026-06-08T18:33:15.092000Z",
-        "first_seen_at": "2026-06-08T19:03:43.755700Z",
-        "time_label": "30分钟前",
-        "category_id": "practice_insight",
-        "category_title": "实践技巧与观点",
-        "score": 8.2,
-        "ai_score": 0.78,
-        "ai_label": "ai_general",
-        "reason": "matched_tracked_ai_keyword",
-        "signals": [
-          "人工智能",
-          "AI"
-        ],
-        "topic_labels": [
-          "AI",
-          "人工智能"
-        ],
-        "topic_sections": [
-          "ai_related"
-        ],
-        "project_source": "AI News Radar",
-        "source_ref": {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "www.wheresyoured.at",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        "source_key": "ai_news_radar::collector::buzzing"
-      },
-      "related": [
-        {
-          "id": "1ed238052ee668cd6fa35559f3c140ad1874bb6d",
-          "title": "人工智能发展放缓",
-          "title_original": "人工智能发展放缓",
-          "url": "https://www.wheresyoured.at/ai-is-slowing-down",
-          "site_id": "buzzing",
-          "site_name": "Buzzing",
-          "source": "www.wheresyoured.at",
-          "published_at": "2026-06-08T18:33:15.092000Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "30分钟前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 8.2,
-          "ai_score": 0.78,
-          "ai_label": "ai_general",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "人工智能",
-            "AI"
-          ],
-          "topic_labels": [
-            "AI",
-            "人工智能"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "buzzing",
-            "name": "www.wheresyoured.at",
-            "source_key": "ai_news_radar::collector::buzzing"
-          },
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "id": "ff09f3726273de858131e03a2c2cd089adc26813",
-          "title": "人工智能发展放缓",
-          "title_original": "AI Is Slowing Down",
-          "url": "https://www.wheresyoured.at/ai-is-slowing-down",
-          "site_id": "iris",
-          "site_name": "Info Flow",
-          "source": "Hacker News (黑客新闻)",
-          "published_at": "2026-06-08T15:46:37Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "3小时前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 8.2,
-          "ai_score": 0.78,
-          "ai_label": "ai_general",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "AI"
-          ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "iris",
-            "name": "Hacker News (黑客新闻)",
-            "source_key": "ai_news_radar::collector::iris"
-          },
-          "source_key": "ai_news_radar::collector::iris"
-        }
-      ]
-    },
-    {
-      "story_id": "fae0b48e7e08",
-      "title": "苹果在罕见推迟后，终于为Siri进行了AI升级",
-      "url": "https://www.businessinsider.com/apple-new-siri-ai-chatbot-app-wwdc-2026-6",
-      "category_id": "practice_insight",
-      "category_title": "实践技巧与观点",
-      "score": 8.2,
-      "time_label": "46分钟前",
-      "source_count": 2,
-      "item_count": 2,
-      "sources": [
-        "Buzzing",
-        "TechURLs"
-      ],
-      "source_refs": [
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "www.businessinsider.com",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "techurls",
-          "name": "Business Insider",
-          "source_key": "ai_news_radar::collector::techurls"
-        }
-      ],
-      "primary": {
-        "id": "90caf0aae07f5024e9cc31a37491f01ac0139ffb",
-        "title": "苹果在罕见推迟后，终于为Siri进行了AI升级",
-        "title_original": "苹果在罕见推迟后，终于为Siri进行了AI升级",
-        "url": "https://www.businessinsider.com/apple-new-siri-ai-chatbot-app-wwdc-2026-6",
-        "site_id": "buzzing",
-        "site_name": "Buzzing",
-        "source": "www.businessinsider.com",
-        "published_at": "2026-06-08T18:17:22.331000Z",
-        "first_seen_at": "2026-06-08T19:03:43.755700Z",
-        "time_label": "46分钟前",
-        "category_id": "practice_insight",
-        "category_title": "实践技巧与观点",
-        "score": 8.2,
-        "ai_score": 0.78,
-        "ai_label": "ai_general",
-        "reason": "matched_tracked_ai_keyword",
-        "signals": [
-          "AI",
-          "苹果"
-        ],
-        "topic_labels": [
-          "AI",
-          "苹果"
-        ],
-        "topic_sections": [
-          "ai_related",
-          "internet"
-        ],
-        "project_source": "AI News Radar",
-        "source_ref": {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "www.businessinsider.com",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        "source_key": "ai_news_radar::collector::buzzing"
-      },
-      "related": [
-        {
-          "id": "90caf0aae07f5024e9cc31a37491f01ac0139ffb",
-          "title": "苹果在罕见推迟后，终于为Siri进行了AI升级",
-          "title_original": "苹果在罕见推迟后，终于为Siri进行了AI升级",
-          "url": "https://www.businessinsider.com/apple-new-siri-ai-chatbot-app-wwdc-2026-6",
-          "site_id": "buzzing",
-          "site_name": "Buzzing",
-          "source": "www.businessinsider.com",
-          "published_at": "2026-06-08T18:17:22.331000Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "46分钟前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 8.2,
-          "ai_score": 0.78,
-          "ai_label": "ai_general",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "AI",
-            "苹果"
-          ],
-          "topic_labels": [
-            "AI",
-            "苹果"
-          ],
-          "topic_sections": [
-            "ai_related",
-            "internet"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "buzzing",
-            "name": "www.businessinsider.com",
-            "source_key": "ai_news_radar::collector::buzzing"
-          },
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "id": "071c19a3a3a49938941156cca2aa2f3c635c4a37",
-          "title": "苹果在罕见推迟后，终于为Siri进行了AI升级",
-          "title_original": "Apple finally gives Siri an AI glow-up after rare delay",
-          "url": "https://www.businessinsider.com/apple-new-siri-ai-chatbot-app-wwdc-2026-6",
-          "site_id": "techurls",
-          "site_name": "TechURLs",
-          "source": "Business Insider",
-          "published_at": "2026-06-08T17:39:40Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 8.2,
-          "ai_score": 0.78,
-          "ai_label": "ai_general",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "AI",
-            "苹果",
-            "星野"
-          ],
-          "topic_labels": [
-            "AI",
-            "苹果",
-            "星野"
-          ],
-          "topic_sections": [
-            "ai_related",
-            "internet"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "techurls",
-            "name": "Business Insider",
-            "source_key": "ai_news_radar::collector::techurls"
-          },
-          "source_key": "ai_news_radar::collector::techurls"
-        }
-      ]
-    },
-    {
-      "story_id": "94816386d8c8",
-      "title": "Coinbase首席执行官为在扩大代币使用规模的同时保持成本“基本持平”所采取的节省成本的人工智能措施",
-      "url": "https://www.businessinsider.com/coinbase-ceo-ai-cost-savings-strategy-token-costs-2026-6",
-      "category_id": "practice_insight",
-      "category_title": "实践技巧与观点",
-      "score": 8.2,
-      "time_label": "1小时前",
-      "source_count": 2,
-      "item_count": 2,
-      "sources": [
-        "Buzzing",
-        "TechURLs"
-      ],
-      "source_refs": [
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "www.businessinsider.com",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "techurls",
-          "name": "Business Insider",
-          "source_key": "ai_news_radar::collector::techurls"
-        }
-      ],
-      "primary": {
-        "id": "b25900a6318a32f14255ff407e48fc3b7e2d0766",
-        "title": "Coinbase首席执行官为在扩大代币使用规模的同时保持成本“基本持平”所采取的节省成本的人工智能措施",
-        "title_original": "Coinbase首席执行官为在扩大代币使用规模的同时保持成本“基本持平”所采取的节省成本的人工智能措施",
-        "url": "https://www.businessinsider.com/coinbase-ceo-ai-cost-savings-strategy-token-costs-2026-6",
-        "site_id": "buzzing",
-        "site_name": "Buzzing",
-        "source": "www.businessinsider.com",
-        "published_at": "2026-06-08T17:45:13.819000Z",
-        "first_seen_at": "2026-06-08T19:03:43.755700Z",
-        "time_label": "1小时前",
-        "category_id": "practice_insight",
-        "category_title": "实践技巧与观点",
-        "score": 8.2,
-        "ai_score": 0.78,
-        "ai_label": "ai_general",
-        "reason": "matched_tracked_ai_keyword",
-        "signals": [
-          "人工智能",
-          "AI"
-        ],
-        "topic_labels": [
-          "AI",
-          "人工智能"
-        ],
-        "topic_sections": [
-          "ai_related"
-        ],
-        "project_source": "AI News Radar",
-        "source_ref": {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "www.businessinsider.com",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        "source_key": "ai_news_radar::collector::buzzing"
-      },
-      "related": [
-        {
-          "id": "b25900a6318a32f14255ff407e48fc3b7e2d0766",
-          "title": "Coinbase首席执行官为在扩大代币使用规模的同时保持成本“基本持平”所采取的节省成本的人工智能措施",
-          "title_original": "Coinbase首席执行官为在扩大代币使用规模的同时保持成本“基本持平”所采取的节省成本的人工智能措施",
-          "url": "https://www.businessinsider.com/coinbase-ceo-ai-cost-savings-strategy-token-costs-2026-6",
-          "site_id": "buzzing",
-          "site_name": "Buzzing",
-          "source": "www.businessinsider.com",
-          "published_at": "2026-06-08T17:45:13.819000Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 8.2,
-          "ai_score": 0.78,
-          "ai_label": "ai_general",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "人工智能",
-            "AI"
-          ],
-          "topic_labels": [
-            "AI",
-            "人工智能"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "buzzing",
-            "name": "www.businessinsider.com",
-            "source_key": "ai_news_radar::collector::buzzing"
-          },
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "id": "18c7ead42f1b83b5f5a612c401d533e492e76f30",
-          "title": "Coinbase首席执行官为在扩大代币使用规模的同时保持成本“基本持平”所采取的节省成本的人工智能措施",
-          "title_original": "The cost-saving AI measure Coinbase's CEO is taking to keep costs 'roughly flat' while growing token usage",
-          "url": "https://www.businessinsider.com/coinbase-ceo-ai-cost-savings-strategy-token-costs-2026-6",
-          "site_id": "techurls",
-          "site_name": "TechURLs",
-          "source": "Business Insider",
-          "published_at": "2026-06-08T16:57:21Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "2小时前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 8.2,
-          "ai_score": 0.78,
-          "ai_label": "ai_general",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "AI"
-          ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "techurls",
-            "name": "Business Insider",
-            "source_key": "ai_news_radar::collector::techurls"
-          },
-          "source_key": "ai_news_radar::collector::techurls"
-        }
-      ]
-    },
-    {
-      "story_id": "79a2e8db4542",
-      "title": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
-      "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniarzfu8899025.shtml",
-      "category_id": "practice_insight",
-      "category_title": "实践技巧与观点",
-      "score": 8.2,
-      "time_label": "2小时前",
+      "time_label": "1分钟前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -2444,7 +2441,7 @@
           "kind": "collector",
           "kind_label": "采集器",
           "source_id": "tophub",
-          "name": "新浪财经新闻 · 点击量排行",
+          "name": "Readhub · AI",
           "source_key": "ai_news_radar::collector::tophub"
         },
         {
@@ -2458,16 +2455,16 @@
         }
       ],
       "primary": {
-        "id": "dcef3ab8bdf01bc5f3958cbb1dc4df70af5cacaf",
-        "title": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
-        "title_original": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
-        "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniarzfu8899025.shtml",
+        "id": "b1e27e02aa03911c53f5248f4ce4afb86984de8a",
+        "title": "当太空不再需要人类：国外 AI+ 商业航天全景扫描",
+        "title_original": "当太空不再需要人类：国外 AI+ 商业航天全景扫描",
+        "url": "https://www.huxiu.com/article/4865548.html?f=rss",
         "site_id": "tophub",
         "site_name": "TopHub",
-        "source": "新浪财经新闻 · 点击量排行",
+        "source": "Readhub · AI",
         "published_at": null,
-        "first_seen_at": "2026-06-08T16:13:00.350338Z",
-        "time_label": "2小时前",
+        "first_seen_at": "2026-06-08T21:13:45.317737Z",
+        "time_label": "1分钟前",
         "category_id": "practice_insight",
         "category_title": "实践技巧与观点",
         "score": 8.2,
@@ -2490,23 +2487,23 @@
           "kind": "collector",
           "kind_label": "采集器",
           "source_id": "tophub",
-          "name": "新浪财经新闻 · 点击量排行",
+          "name": "Readhub · AI",
           "source_key": "ai_news_radar::collector::tophub"
         },
         "source_key": "ai_news_radar::collector::tophub"
       },
       "related": [
         {
-          "id": "dcef3ab8bdf01bc5f3958cbb1dc4df70af5cacaf",
-          "title": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
-          "title_original": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
-          "url": "https://finance.sina.com.cn/wm/2026-06-08/doc-iniarzfu8899025.shtml",
+          "id": "b1e27e02aa03911c53f5248f4ce4afb86984de8a",
+          "title": "当太空不再需要人类：国外 AI+ 商业航天全景扫描",
+          "title_original": "当太空不再需要人类：国外 AI+ 商业航天全景扫描",
+          "url": "https://www.huxiu.com/article/4865548.html?f=rss",
           "site_id": "tophub",
           "site_name": "TopHub",
-          "source": "新浪财经新闻 · 点击量排行",
+          "source": "Readhub · AI",
           "published_at": null,
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "2小时前",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1分钟前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 8.2,
@@ -2529,22 +2526,22 @@
             "kind": "collector",
             "kind_label": "采集器",
             "source_id": "tophub",
-            "name": "新浪财经新闻 · 点击量排行",
+            "name": "Readhub · AI",
             "source_key": "ai_news_radar::collector::tophub"
           },
           "source_key": "ai_news_radar::collector::tophub"
         },
         {
-          "id": "d6c687ad47fdaa5744e3acf1ebe5a344afb1e6ae",
-          "title": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
-          "title_original": "大厂疯抢AI人：平均月薪13万，35岁成香饽饽",
-          "url": "https://www.huxiu.com/article/4865224.html?f=rss",
+          "id": "b137d7544c6021fcbbe256ab90e5b66744f7ee23",
+          "title": "当太空不再需要人类：国外AI+商业航天全景扫描",
+          "title_original": "当太空不再需要人类：国外AI+商业航天全景扫描",
+          "url": "https://www.huxiu.com/article/4865548.html?f=rss",
           "site_id": "iris",
           "site_name": "Info Flow",
           "source": "虎嗅 (Huxiu)",
-          "published_at": "2026-06-08T00:59:32Z",
-          "first_seen_at": "2026-06-08T01:56:06.635080Z",
-          "time_label": "昨天 08:59",
+          "published_at": "2026-06-08T19:18:22Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 8.2,
@@ -2575,17 +2572,178 @@
       ]
     },
     {
-      "story_id": "c1401286617c",
-      "title": "SoulsOnly.tff – 一种供人类而非人工智能和键盘固件输入的字体",
-      "url": "https://news.ycombinator.com/item?id=48445469",
+      "story_id": "41d5a2e30b62",
+      "title": "苹果核心人工智能框架",
+      "url": "https://news.ycombinator.com/item?id=48449665",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 8.2,
-      "time_label": "3小时前",
+      "time_label": "16分钟前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
-        "Info Flow",
+        "NewsNow",
+        "TechURLs"
+      ],
+      "source_refs": [
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "newsnow",
+          "name": "hackernews",
+          "source_key": "ai_news_radar::collector::newsnow"
+        },
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "techurls",
+          "name": "Hacker News",
+          "source_key": "ai_news_radar::collector::techurls"
+        }
+      ],
+      "primary": {
+        "id": "cd1d941016a89b237cef7d5b91a9590b806b81a1",
+        "title": "苹果核心人工智能框架",
+        "title_original": "Apple Core AI Framework",
+        "url": "https://news.ycombinator.com/item?id=48449665",
+        "site_id": "newsnow",
+        "site_name": "NewsNow",
+        "source": "hackernews",
+        "published_at": "2026-06-08T20:56:58.088000Z",
+        "first_seen_at": "2026-06-08T21:13:45.317737Z",
+        "time_label": "16分钟前",
+        "category_id": "practice_insight",
+        "category_title": "实践技巧与观点",
+        "score": 8.2,
+        "ai_score": 0.78,
+        "ai_label": "ai_general",
+        "reason": "matched_tracked_ai_keyword",
+        "signals": [
+          "AI",
+          "苹果"
+        ],
+        "topic_labels": [
+          "AI",
+          "苹果"
+        ],
+        "topic_sections": [
+          "ai_related",
+          "internet"
+        ],
+        "project_source": "AI News Radar",
+        "source_ref": {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "newsnow",
+          "name": "hackernews",
+          "source_key": "ai_news_radar::collector::newsnow"
+        },
+        "source_key": "ai_news_radar::collector::newsnow"
+      },
+      "related": [
+        {
+          "id": "cd1d941016a89b237cef7d5b91a9590b806b81a1",
+          "title": "苹果核心人工智能框架",
+          "title_original": "Apple Core AI Framework",
+          "url": "https://news.ycombinator.com/item?id=48449665",
+          "site_id": "newsnow",
+          "site_name": "NewsNow",
+          "source": "hackernews",
+          "published_at": "2026-06-08T20:56:58.088000Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "16分钟前",
+          "category_id": "practice_insight",
+          "category_title": "实践技巧与观点",
+          "score": 8.2,
+          "ai_score": 0.78,
+          "ai_label": "ai_general",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "AI",
+            "苹果"
+          ],
+          "topic_labels": [
+            "AI",
+            "苹果"
+          ],
+          "topic_sections": [
+            "ai_related",
+            "internet"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "newsnow",
+            "name": "hackernews",
+            "source_key": "ai_news_radar::collector::newsnow"
+          },
+          "source_key": "ai_news_radar::collector::newsnow"
+        },
+        {
+          "id": "ef6b7bcffad0255ba41ae038fe710abf2c8c4b49",
+          "title": "苹果核心人工智能框架",
+          "title_original": "Apple Core AI Framework",
+          "url": "https://developer.apple.com/documentation/coreai",
+          "site_id": "techurls",
+          "site_name": "TechURLs",
+          "source": "Hacker News",
+          "published_at": "2026-06-08T18:47:38Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "2小时前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
+          "score": 8.2,
+          "ai_score": 0.78,
+          "ai_label": "developer_tool",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "AI",
+            "苹果",
+            "developer"
+          ],
+          "topic_labels": [
+            "AI",
+            "苹果"
+          ],
+          "topic_sections": [
+            "ai_related",
+            "internet"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "techurls",
+            "name": "Hacker News",
+            "source_key": "ai_news_radar::collector::techurls"
+          },
+          "source_key": "ai_news_radar::collector::techurls"
+        }
+      ]
+    },
+    {
+      "story_id": "5e7f7a5c8cfc",
+      "title": "Ask HN: 自人工智能问世以来，你为自己开发了哪些工具？",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "category_id": "product_tool",
+      "category_title": "产品与开发者工具",
+      "score": 8.2,
+      "time_label": "16分钟前",
+      "source_count": 2,
+      "item_count": 2,
+      "sources": [
+        "Buzzing",
         "NewsNow"
       ],
       "source_refs": [
@@ -2603,24 +2761,24 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "iris",
-          "name": "Hacker News (黑客新闻)",
-          "source_key": "ai_news_radar::collector::iris"
+          "source_id": "buzzing",
+          "name": "news.ycombinator.com",
+          "source_key": "ai_news_radar::collector::buzzing"
         }
       ],
       "primary": {
-        "id": "02c3813df4fb791ec973460f72311f49e57565e6",
-        "title": "SoulsOnly.tff – 一种供人类而非人工智能和键盘固件输入的字体",
-        "title_original": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-        "url": "https://news.ycombinator.com/item?id=48445469",
+        "id": "e7f611044d01d7657b2bd7b915f910dbd47b78a7",
+        "title": "Ask HN: 自人工智能问世以来，你为自己开发了哪些工具？",
+        "title_original": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+        "url": "https://news.ycombinator.com/item?id=48449187",
         "site_id": "newsnow",
         "site_name": "NewsNow",
         "source": "hackernews",
-        "published_at": "2026-06-08T15:55:36.628000Z",
-        "first_seen_at": "2026-06-08T16:13:00.350338Z",
-        "time_label": "3小时前",
-        "category_id": "practice_insight",
-        "category_title": "实践技巧与观点",
+        "published_at": "2026-06-08T20:56:58.088000Z",
+        "first_seen_at": "2026-06-08T21:13:45.317737Z",
+        "time_label": "16分钟前",
+        "category_id": "product_tool",
+        "category_title": "产品与开发者工具",
         "score": 8.2,
         "ai_score": 0.78,
         "ai_label": "ai_general",
@@ -2648,18 +2806,18 @@
       },
       "related": [
         {
-          "id": "02c3813df4fb791ec973460f72311f49e57565e6",
-          "title": "SoulsOnly.tff – 一种供人类而非人工智能和键盘固件输入的字体",
-          "title_original": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-          "url": "https://news.ycombinator.com/item?id=48445469",
+          "id": "e7f611044d01d7657b2bd7b915f910dbd47b78a7",
+          "title": "Ask HN: 自人工智能问世以来，你为自己开发了哪些工具？",
+          "title_original": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+          "url": "https://news.ycombinator.com/item?id=48449187",
           "site_id": "newsnow",
           "site_name": "NewsNow",
           "source": "hackernews",
-          "published_at": "2026-06-08T15:55:36.628000Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "3小时前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
+          "published_at": "2026-06-08T20:56:58.088000Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "16分钟前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
           "score": 8.2,
           "ai_score": 0.78,
           "ai_label": "ai_general",
@@ -2686,27 +2844,27 @@
           "source_key": "ai_news_radar::collector::newsnow"
         },
         {
-          "id": "a799a789bc059b9bbcdf484f1d561bbca5c1013b",
-          "title": "SoulsOnly.tff – 一种供人类而非人工智能和键盘固件输入的字体",
-          "title_original": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-          "url": "https://github.com/convictional/souls-only",
-          "site_id": "iris",
-          "site_name": "Info Flow",
-          "source": "Hacker News (黑客新闻)",
-          "published_at": "2026-06-08T14:00:22Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
+          "id": "cb49276e58031c03eefc39f4bddbbf945ee4a8ab",
+          "title": "Ask HN: 自人工智能问世以来，你为自己开发了哪些工具？",
+          "title_original": "Ask HN: 自人工智能问世以来，你为自己开发了哪些工具？",
+          "url": "https://news.ycombinator.com/item?id=48449187",
+          "site_id": "buzzing",
+          "site_name": "Buzzing",
+          "source": "news.ycombinator.com",
+          "published_at": "2026-06-08T18:33:15.099000Z",
+          "first_seen_at": "2026-06-08T19:03:43.755700Z",
+          "time_label": "2小时前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
           "score": 8.2,
           "ai_score": 0.78,
           "ai_label": "ai_general",
           "reason": "matched_tracked_ai_keyword",
           "signals": [
-            "AI"
+            "人工智能"
           ],
           "topic_labels": [
-            "AI"
+            "人工智能"
           ],
           "topic_sections": [
             "ai_related"
@@ -2717,27 +2875,27 @@
             "project_name": "AI News Radar",
             "kind": "collector",
             "kind_label": "采集器",
-            "source_id": "iris",
-            "name": "Hacker News (黑客新闻)",
-            "source_key": "ai_news_radar::collector::iris"
+            "source_id": "buzzing",
+            "name": "news.ycombinator.com",
+            "source_key": "ai_news_radar::collector::buzzing"
           },
-          "source_key": "ai_news_radar::collector::iris"
+          "source_key": "ai_news_radar::collector::buzzing"
         }
       ]
     },
     {
-      "story_id": "c581bee6f236",
-      "title": "“聊天已死”：OpenAI 准备对 ChatGPT 进行全面升级",
-      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt",
-      "category_id": "model_release",
-      "category_title": "模型发布与能力更新",
+      "story_id": "9140eb26af6c",
+      "title": "来认识一下“Siri AI”——苹果推出全新、更具“对话感”的语音助手",
+      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant",
+      "category_id": "practice_insight",
+      "category_title": "实践技巧与观点",
       "score": 8.2,
-      "time_label": "3小时前",
+      "time_label": "1小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
         "Buzzing",
-        "TechURLs"
+        "Info Flow"
       ],
       "source_refs": [
         {
@@ -2754,40 +2912,39 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "techurls",
-          "name": "Ars Technica",
-          "source_key": "ai_news_radar::collector::techurls"
+          "source_id": "iris",
+          "name": "Ars Technica (科技媒体)",
+          "source_key": "ai_news_radar::collector::iris"
         }
       ],
       "primary": {
-        "id": "7805255888f652eb83168db06aa1c77829b5780c",
-        "title": "“聊天已死”：OpenAI 准备对 ChatGPT 进行全面升级",
-        "title_original": "“聊天已死”：OpenAI 准备对 ChatGPT 进行全面升级",
-        "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt",
+        "id": "4f5a41cfd0e8028d04a84935773820568d1ad2ed",
+        "title": "来认识一下“Siri AI”——苹果推出全新、更具“对话感”的语音助手",
+        "title_original": "来认识一下“Siri AI”——苹果推出全新、更具“对话感”的语音助手",
+        "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant",
         "site_id": "buzzing",
         "site_name": "Buzzing",
         "source": "arstechnica.com",
-        "published_at": "2026-06-08T15:53:31.830000Z",
-        "first_seen_at": "2026-06-08T16:13:00.350338Z",
-        "time_label": "3小时前",
-        "category_id": "model_release",
-        "category_title": "模型发布与能力更新",
+        "published_at": "2026-06-08T19:53:18.713000Z",
+        "first_seen_at": "2026-06-08T21:13:45.317737Z",
+        "time_label": "1小时前",
+        "category_id": "practice_insight",
+        "category_title": "实践技巧与观点",
         "score": 8.2,
         "ai_score": 0.78,
-        "ai_label": "model_release",
+        "ai_label": "ai_general",
         "reason": "matched_tracked_ai_keyword",
         "signals": [
-          "gpt",
-          "openai",
           "AI",
-          "OpenAI"
+          "苹果"
         ],
         "topic_labels": [
           "AI",
-          "OpenAI"
+          "苹果"
         ],
         "topic_sections": [
-          "ai_related"
+          "ai_related",
+          "internet"
         ],
         "project_source": "AI News Radar",
         "source_ref": {
@@ -2803,34 +2960,33 @@
       },
       "related": [
         {
-          "id": "7805255888f652eb83168db06aa1c77829b5780c",
-          "title": "“聊天已死”：OpenAI 准备对 ChatGPT 进行全面升级",
-          "title_original": "“聊天已死”：OpenAI 准备对 ChatGPT 进行全面升级",
-          "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt",
+          "id": "4f5a41cfd0e8028d04a84935773820568d1ad2ed",
+          "title": "来认识一下“Siri AI”——苹果推出全新、更具“对话感”的语音助手",
+          "title_original": "来认识一下“Siri AI”——苹果推出全新、更具“对话感”的语音助手",
+          "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant",
           "site_id": "buzzing",
           "site_name": "Buzzing",
           "source": "arstechnica.com",
-          "published_at": "2026-06-08T15:53:31.830000Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "3小时前",
-          "category_id": "model_release",
-          "category_title": "模型发布与能力更新",
+          "published_at": "2026-06-08T19:53:18.713000Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1小时前",
+          "category_id": "practice_insight",
+          "category_title": "实践技巧与观点",
           "score": 8.2,
           "ai_score": 0.78,
-          "ai_label": "model_release",
+          "ai_label": "ai_general",
           "reason": "matched_tracked_ai_keyword",
           "signals": [
-            "gpt",
-            "openai",
             "AI",
-            "OpenAI"
+            "苹果"
           ],
           "topic_labels": [
             "AI",
-            "OpenAI"
+            "苹果"
           ],
           "topic_sections": [
-            "ai_related"
+            "ai_related",
+            "internet"
           ],
           "project_source": "AI News Radar",
           "source_ref": {
@@ -2845,34 +3001,33 @@
           "source_key": "ai_news_radar::collector::buzzing"
         },
         {
-          "id": "f0526cf5ed9b6875045ebf268de71c95f5c8961c",
-          "title": "“聊天已死”：OpenAI 准备对 ChatGPT 进行全面升级",
-          "title_original": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-          "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt",
-          "site_id": "techurls",
-          "site_name": "TechURLs",
-          "source": "Ars Technica",
-          "published_at": "2026-06-08T13:51:16Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
-          "category_id": "model_release",
-          "category_title": "模型发布与能力更新",
+          "id": "8d6afe4074026a24bf5d6832306f9653c143d698",
+          "title": "来认识一下“Siri AI”——苹果推出全新、更具“对话感”的语音助手",
+          "title_original": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
+          "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant",
+          "site_id": "iris",
+          "site_name": "Info Flow",
+          "source": "Ars Technica (科技媒体)",
+          "published_at": "2026-06-08T19:30:05Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1小时前",
+          "category_id": "practice_insight",
+          "category_title": "实践技巧与观点",
           "score": 8.2,
           "ai_score": 0.78,
-          "ai_label": "model_release",
+          "ai_label": "ai_general",
           "reason": "matched_tracked_ai_keyword",
           "signals": [
-            "gpt",
-            "openai",
             "AI",
-            "OpenAI"
+            "苹果"
           ],
           "topic_labels": [
             "AI",
-            "OpenAI"
+            "苹果"
           ],
           "topic_sections": [
-            "ai_related"
+            "ai_related",
+            "internet"
           ],
           "project_source": "AI News Radar",
           "source_ref": {
@@ -2880,11 +3035,11 @@
             "project_name": "AI News Radar",
             "kind": "collector",
             "kind_label": "采集器",
-            "source_id": "techurls",
-            "name": "Ars Technica",
-            "source_key": "ai_news_radar::collector::techurls"
+            "source_id": "iris",
+            "name": "Ars Technica (科技媒体)",
+            "source_key": "ai_news_radar::collector::iris"
           },
-          "source_key": "ai_news_radar::collector::techurls"
+          "source_key": "ai_news_radar::collector::iris"
         }
       ]
     }
@@ -2894,7 +3049,7 @@
       "id": "model_release",
       "title": "模型发布与能力更新",
       "description": "新模型、推理能力、上下文、价格和API更新。",
-      "count": 154,
+      "count": 181,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -2912,7 +3067,7 @@
           "source": "AIbase",
           "published_at": "2026-06-08T12:04:56.295751Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "6小时前",
+          "time_label": "9小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -2946,16 +3101,16 @@
           "source_key": "ai_news_radar::collector::aibase"
         },
         {
-          "id": "10394d26740f0f3a6d97d2b4358ad451f6afa27a",
-          "title": "苹果发布全新Siri AI及专用App",
-          "title_original": "苹果发布全新Siri AI及专用App",
-          "url": "https://x.com/testingcatalog/status/2064041993454367102",
+          "id": "70693e7b6abf9e8b1639edde77bfcb1f69457763",
+          "title": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+          "title_original": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture",
           "site_id": "aihot",
           "site_name": "AI HOT",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "published_at": "2026-06-08T17:48:53Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "published_at": "2026-06-08T20:41:12Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "32分钟前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -2963,13 +3118,21 @@
           "ai_label": "model_release",
           "reason": "trusted_ai_source_default_keep",
           "signals": [
-            "AI"
+            "gemini",
+            "AI",
+            "Google Gemini",
+            "苹果",
+            "谷歌"
           ],
           "topic_labels": [
-            "AI"
+            "AI",
+            "Google Gemini",
+            "苹果",
+            "谷歌"
           ],
           "topic_sections": [
-            "ai_related"
+            "ai_related",
+            "internet"
           ],
           "project_source": "AI HOT",
           "source_ref": {
@@ -2977,45 +3140,53 @@
             "project_name": "AI HOT",
             "kind": "feed",
             "kind_label": "订阅源",
-            "source_id": "x-testing-catalog-testingcatalog",
-            "name": "X：Testing Catalog (@testingcatalog)",
-            "source_key": "aihot::feed::x-testing-catalog-testingcatalog"
+            "source_id": "hacker-news-热门-buzzing-cc-中文翻译",
+            "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
           },
-          "source_key": "aihot::feed::x-testing-catalog-testingcatalog"
+          "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
         },
         {
-          "id": "trendradar:9303b946ca4c60ca",
-          "title": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
-          "title_original": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
-          "url": "https://www.cls.cn/detail/2393706",
+          "id": "trendradar:2d63a36052bfce13",
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "title_original": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33333027",
           "site_id": "trendradar",
           "site_name": "TrendRadar",
-          "source": "财联社热门",
-          "published_at": "2026-06-08T19:04:58.873000Z",
-          "first_seen_at": "2026-06-08T19:04:58.873000Z",
-          "time_label": "今天 03:04",
+          "source": "澎湃新闻",
+          "published_at": "2026-06-08T21:15:05.315000Z",
+          "first_seen_at": "2026-06-08T21:15:05.315000Z",
+          "time_label": "今天 05:15",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
-          "score": 6.5,
-          "ai_score": 0.65,
+          "score": 7.8,
+          "ai_score": 0.78,
           "ai_label": "model_release",
-          "reason": "matched_ai_signal",
+          "reason": "matched_tracked_ai_keyword",
           "signals": [
-            "大模型"
+            "gpt",
+            "openai",
+            "AI",
+            "OpenAI"
           ],
-          "topic_labels": [],
-          "topic_sections": [],
+          "topic_labels": [
+            "AI",
+            "OpenAI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
           "project_source": "TrendRadar",
           "source_ref": {
             "project_id": "trendradar",
             "project_name": "TrendRadar",
             "kind": "platform",
             "kind_label": "热榜平台",
-            "source_id": "cls-hot",
-            "name": "财联社热门",
-            "source_key": "trendradar::platform::cls-hot"
+            "source_id": "thepaper",
+            "name": "澎湃新闻",
+            "source_key": "trendradar::platform::thepaper"
           },
-          "source_key": "trendradar::platform::cls-hot"
+          "source_key": "trendradar::platform::thepaper"
         },
         {
           "id": "horizon:727189b005ee3f3f",
@@ -3056,6 +3227,124 @@
           "source_key": "horizon::feed::feed-zh"
         },
         {
+          "id": "f6dc698d16104cdb4d102682c9c80d25fac40f21",
+          "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
+          "title_original": "Claude 为 Connector 开发者推出性能监控仪表盘",
+          "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "Claude：Blog（网页）",
+          "published_at": "2026-06-08T18:50:51Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "2小时前",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "model_release",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "claude",
+            "Anthropic"
+          ],
+          "topic_labels": [
+            "Anthropic"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "claude-blog-网页",
+            "name": "Claude：Blog（网页）",
+            "source_key": "aihot::feed::claude-blog-网页"
+          },
+          "source_key": "aihot::feed::claude-blog-网页"
+        },
+        {
+          "id": "63a6f4be9cc3885cd5b74a9b4757f9b68f358218",
+          "title": "Apple发布新一代Apple Intelligence和Siri AI",
+          "title_original": "Apple发布新一代Apple Intelligence和Siri AI",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "Apple：Newsroom（RSS）",
+          "published_at": "2026-06-08T18:18:43Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "2小时前",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "model_release",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "AI",
+            "苹果"
+          ],
+          "topic_labels": [
+            "AI",
+            "苹果"
+          ],
+          "topic_sections": [
+            "ai_related",
+            "internet"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "apple-newsroom-rss",
+            "name": "Apple：Newsroom（RSS）",
+            "source_key": "aihot::feed::apple-newsroom-rss"
+          },
+          "source_key": "aihot::feed::apple-newsroom-rss"
+        },
+        {
+          "id": "10394d26740f0f3a6d97d2b4358ad451f6afa27a",
+          "title": "苹果发布全新Siri AI及专用App",
+          "title_original": "苹果发布全新Siri AI及专用App",
+          "url": "https://x.com/testingcatalog/status/2064041993454367102",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "published_at": "2026-06-08T17:48:53Z",
+          "first_seen_at": "2026-06-08T19:03:43.755700Z",
+          "time_label": "3小时前",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "model_release",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "AI"
+          ],
+          "topic_labels": [
+            "AI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "x-testing-catalog-testingcatalog",
+            "name": "X：Testing Catalog (@testingcatalog)",
+            "source_key": "aihot::feed::x-testing-catalog-testingcatalog"
+          },
+          "source_key": "aihot::feed::x-testing-catalog-testingcatalog"
+        },
+        {
           "id": "329d69f04977304a7d4ca88d2f7555ce20f85261",
           "title": "苹果发布 Siri AI 及下一代 Apple Intelligence",
           "title_original": "苹果发布 Siri AI 及下一代 Apple Intelligence",
@@ -3065,7 +3354,7 @@
           "source": "The Verge：订阅版科技（RSS）",
           "published_at": "2026-06-08T17:34:24Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "3小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -3106,7 +3395,7 @@
           "source": "X：Claude Devs (@ClaudeDevs)",
           "published_at": "2026-06-08T17:12:25Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "4小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -3145,7 +3434,7 @@
           "source": "X：ChatGPT (@ChatGPTapp)",
           "published_at": "2026-06-08T16:16:37Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "2小时前",
+          "time_label": "4小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -3173,108 +3462,6 @@
             "source_key": "aihot::feed::x-chatgpt-chatgptapp"
           },
           "source_key": "aihot::feed::x-chatgpt-chatgptapp"
-        },
-        {
-          "id": "4606adc1ce3be5202a399a5096b8c9c932561cc7",
-          "title": "Runway Aleph 2.0 编辑模型：一键适配任意视频格式",
-          "title_original": "Runway Aleph 2.0 编辑模型：一键适配任意视频格式",
-          "url": "https://x.com/runwayml/status/2064012425884569627",
-          "site_id": "aihot",
-          "site_name": "AI HOT",
-          "source": "X：Runway (@runwayml)",
-          "published_at": "2026-06-08T15:51:24Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "3小时前",
-          "category_id": "model_release",
-          "category_title": "模型发布与能力更新",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "model_release",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "aihot"
-          ],
-          "topic_labels": [],
-          "topic_sections": [],
-          "project_source": "AI HOT",
-          "source_ref": {
-            "project_id": "aihot",
-            "project_name": "AI HOT",
-            "kind": "feed",
-            "kind_label": "订阅源",
-            "source_id": "x-runway-runwayml",
-            "name": "X：Runway (@runwayml)",
-            "source_key": "aihot::feed::x-runway-runwayml"
-          },
-          "source_key": "aihot::feed::x-runway-runwayml"
-        },
-        {
-          "id": "cc1c77ced97310159fbe3ca67b956bf1435e4053",
-          "title": "OpenRouter Advisor 助小模型问高级模型",
-          "title_original": "OpenRouter Advisor 助小模型问高级模型",
-          "url": "https://x.com/OpenRouter/status/2064004944613527730",
-          "site_id": "aihot",
-          "site_name": "AI HOT",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "published_at": "2026-06-08T15:21:40Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "3小时前",
-          "category_id": "model_release",
-          "category_title": "模型发布与能力更新",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "model_release",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "aihot"
-          ],
-          "topic_labels": [],
-          "topic_sections": [],
-          "project_source": "AI HOT",
-          "source_ref": {
-            "project_id": "aihot",
-            "project_name": "AI HOT",
-            "kind": "feed",
-            "kind_label": "订阅源",
-            "source_id": "x-openrouter-openrouter",
-            "name": "X：OpenRouter (@OpenRouter)",
-            "source_key": "aihot::feed::x-openrouter-openrouter"
-          },
-          "source_key": "aihot::feed::x-openrouter-openrouter"
-        },
-        {
-          "id": "84f51bc84781377da37f3294ebe9c05927612d00",
-          "title": "VoxCPM2 技术报告发布",
-          "title_original": "VoxCPM2 技术报告发布",
-          "url": "https://x.com/OpenBMB/status/2063991963133903317",
-          "site_id": "aihot",
-          "site_name": "AI HOT",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "published_at": "2026-06-08T14:30:05Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "4小时前",
-          "category_id": "model_release",
-          "category_title": "模型发布与能力更新",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "model_release",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "aihot"
-          ],
-          "topic_labels": [],
-          "topic_sections": [],
-          "project_source": "AI HOT",
-          "source_ref": {
-            "project_id": "aihot",
-            "project_name": "AI HOT",
-            "kind": "feed",
-            "kind_label": "订阅源",
-            "source_id": "x-面壁智能-openbmb-openbmb",
-            "name": "X：面壁智能 OpenBMB (@OpenBMB)",
-            "source_key": "aihot::feed::x-面壁智能-openbmb-openbmb"
-          },
-          "source_key": "aihot::feed::x-面壁智能-openbmb-openbmb"
         }
       ]
     },
@@ -3282,7 +3469,7 @@
       "id": "product_tool",
       "title": "产品与开发者工具",
       "description": "Agent、开发工具、MCP、应用和工作流。",
-      "count": 182,
+      "count": 208,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -3300,7 +3487,7 @@
           "source": "AIbase",
           "published_at": "2026-06-08T12:04:56.295751Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "6小时前",
+          "time_label": "9小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -3329,43 +3516,38 @@
           "source_key": "ai_news_radar::collector::aibase"
         },
         {
-          "id": "fd3e75a885480e5b0952caf86165f446ea5e2c76",
-          "title": "Perplexity与哈佛：AI智能体提效87%降本94%",
-          "title_original": "Perplexity与哈佛：AI智能体提效87%降本94%",
-          "url": "https://x.com/perplexity_ai/status/2064023455453110286",
+          "id": "d3a96bfdd3fb581fdde761bbc464dc37855781eb",
+          "title": "Viggle API 上线：任意角色任意动作秒级生成",
+          "title_original": "Viggle API 上线：任意角色任意动作秒级生成",
+          "url": "https://x.com/ViggleAI/status/2064083087806390319",
           "site_id": "aihot",
           "site_name": "AI HOT",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "published_at": "2026-06-08T16:35:14Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "2小时前",
+          "source": "X：Viggle AI (@ViggleAI)",
+          "published_at": "2026-06-08T20:32:11Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "41分钟前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
           "ai_score": 1.0,
-          "ai_label": "agent_workflow",
+          "ai_label": "developer_tool",
           "reason": "trusted_ai_source_default_keep",
           "signals": [
-            "智能体",
-            "AI"
+            "aihot"
           ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
+          "topic_labels": [],
+          "topic_sections": [],
           "project_source": "AI HOT",
           "source_ref": {
             "project_id": "aihot",
             "project_name": "AI HOT",
             "kind": "feed",
             "kind_label": "订阅源",
-            "source_id": "x-perplexity-perplexity-ai",
-            "name": "X：Perplexity (@perplexity_ai)",
-            "source_key": "aihot::feed::x-perplexity-perplexity-ai"
+            "source_id": "x-viggle-ai-viggleai",
+            "name": "X：Viggle AI (@ViggleAI)",
+            "source_key": "aihot::feed::x-viggle-ai-viggleai"
           },
-          "source_key": "aihot::feed::x-perplexity-perplexity-ai"
+          "source_key": "aihot::feed::x-viggle-ai-viggleai"
         },
         {
           "id": "trendradar:4850ac2a4cfcdaeb",
@@ -3375,9 +3557,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "腾讯",
-          "published_at": "2026-06-08T19:05:00.311000Z",
-          "first_seen_at": "2026-06-08T19:05:00.311000Z",
-          "time_label": "今天 03:05",
+          "published_at": "2026-06-08T21:15:07.451000Z",
+          "first_seen_at": "2026-06-08T21:15:07.451000Z",
+          "time_label": "今天 05:15",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 7.8,
@@ -3456,6 +3638,127 @@
           "source_key": "horizon::feed::feed-zh"
         },
         {
+          "id": "148478eca8041e5226ecd5756952616372d1cb23",
+          "title": "Anthropic：AI编码快于生物学的缘由",
+          "title_original": "Anthropic：AI编码快于生物学的缘由",
+          "url": "https://x.com/AnthropicAI/status/2064054837294354677",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "published_at": "2026-06-08T18:39:56Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "2小时前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "ai_product_update",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "anthropic",
+            "AI",
+            "Anthropic"
+          ],
+          "topic_labels": [
+            "AI",
+            "Anthropic"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "x-anthropic-anthropicai",
+            "name": "X：Anthropic (@AnthropicAI)",
+            "source_key": "aihot::feed::x-anthropic-anthropicai"
+          },
+          "source_key": "aihot::feed::x-anthropic-anthropicai"
+        },
+        {
+          "id": "439a7ff4af4822d72a7794e0f36335203fcc919e",
+          "title": "受 DMA 影响，Siri AI 在欧盟将随 iOS 27 和 iPadOS 27 延迟上线",
+          "title_original": "受 DMA 影响，Siri AI 在欧盟将随 iOS 27 和 iPadOS 27 延迟上线",
+          "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "Apple：Newsroom（RSS）",
+          "published_at": "2026-06-08T18:13:26Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "3小时前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "ai_product_update",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "AI",
+            "苹果"
+          ],
+          "topic_labels": [
+            "AI",
+            "苹果"
+          ],
+          "topic_sections": [
+            "ai_related",
+            "internet"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "apple-newsroom-rss",
+            "name": "Apple：Newsroom（RSS）",
+            "source_key": "aihot::feed::apple-newsroom-rss"
+          },
+          "source_key": "aihot::feed::apple-newsroom-rss"
+        },
+        {
+          "id": "fd3e75a885480e5b0952caf86165f446ea5e2c76",
+          "title": "Perplexity与哈佛：AI智能体提效87%降本94%",
+          "title_original": "Perplexity与哈佛：AI智能体提效87%降本94%",
+          "url": "https://x.com/perplexity_ai/status/2064023455453110286",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "published_at": "2026-06-08T16:35:14Z",
+          "first_seen_at": "2026-06-08T19:03:43.755700Z",
+          "time_label": "4小时前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "agent_workflow",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "智能体",
+            "AI"
+          ],
+          "topic_labels": [
+            "AI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "x-perplexity-perplexity-ai",
+            "name": "X：Perplexity (@perplexity_ai)",
+            "source_key": "aihot::feed::x-perplexity-perplexity-ai"
+          },
+          "source_key": "aihot::feed::x-perplexity-perplexity-ai"
+        },
+        {
           "id": "e1f7e9fc16132b6b43107c25622017729f3bec89",
           "title": "NotebookLM重大升级：智能体能力与高级推理",
           "title_original": "NotebookLM重大升级：智能体能力与高级推理",
@@ -3465,7 +3768,7 @@
           "source": "X：NotebookLM (@NotebookLM)",
           "published_at": "2026-06-08T16:07:26Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "2小时前",
+          "time_label": "5小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -3500,7 +3803,7 @@
           "source": "X：Kim (@kimmonismus)",
           "published_at": "2026-06-08T15:06:11Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "3小时前",
+          "time_label": "6小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -3539,7 +3842,7 @@
           "source": "The Verge：AI（RSS）",
           "published_at": "2026-06-08T14:00:00Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
+          "time_label": "7小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -3572,114 +3875,6 @@
             "source_key": "aihot::feed::the-verge-ai-rss"
           },
           "source_key": "aihot::feed::the-verge-ai-rss"
-        },
-        {
-          "id": "0e614dc6ee3f3254b2b950884430998ae116073c",
-          "title": "小互开源视频翻译工具：一句话自动下载、转写、翻译、烧字幕",
-          "title_original": "小互开源视频翻译工具：一句话自动下载、转写、翻译、烧字幕",
-          "url": "https://x.com/xiaohu/status/2063972223170556302",
-          "site_id": "aihot",
-          "site_name": "AI HOT",
-          "source": "X：小互 (@xiaohu)",
-          "published_at": "2026-06-08T13:11:39Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
-          "category_id": "product_tool",
-          "category_title": "产品与开发者工具",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "ai_tech",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "aihot"
-          ],
-          "topic_labels": [],
-          "topic_sections": [],
-          "project_source": "AI HOT",
-          "source_ref": {
-            "project_id": "aihot",
-            "project_name": "AI HOT",
-            "kind": "feed",
-            "kind_label": "订阅源",
-            "source_id": "x-小互-xiaohu",
-            "name": "X：小互 (@xiaohu)",
-            "source_key": "aihot::feed::x-小互-xiaohu"
-          },
-          "source_key": "aihot::feed::x-小互-xiaohu"
-        },
-        {
-          "id": "a8542fdeb831b48105078429a33f674f0206d431",
-          "title": "Pakistan Notice Helper：一款面向本地安全问题的轻量 AI 工具",
-          "title_original": "Pakistan Notice Helper：一款面向本地安全问题的轻量 AI 工具",
-          "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
-          "site_id": "aihot",
-          "site_name": "AI HOT",
-          "source": "Hugging Face：Blog（RSS）",
-          "published_at": "2026-06-08T11:46:56Z",
-          "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "7小时前",
-          "category_id": "product_tool",
-          "category_title": "产品与开发者工具",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "ai_general",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "hugging face",
-            "huggingface",
-            "AI"
-          ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI HOT",
-          "source_ref": {
-            "project_id": "aihot",
-            "project_name": "AI HOT",
-            "kind": "feed",
-            "kind_label": "订阅源",
-            "source_id": "hugging-face-blog-rss",
-            "name": "Hugging Face：Blog（RSS）",
-            "source_key": "aihot::feed::hugging-face-blog-rss"
-          },
-          "source_key": "aihot::feed::hugging-face-blog-rss"
-        },
-        {
-          "id": "8a914c24de347b34da01a2fe3c7867b7546f7a13",
-          "title": "AgentScope Java 2.0 发布",
-          "title_original": "AgentScope Java 2.0 发布",
-          "url": "https://x.com/alibaba_cloud/status/2063923881857945815",
-          "site_id": "aihot",
-          "site_name": "AI HOT",
-          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-          "published_at": "2026-06-08T09:59:33Z",
-          "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "9小时前",
-          "category_id": "product_tool",
-          "category_title": "产品与开发者工具",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "model_release",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "aihot"
-          ],
-          "topic_labels": [],
-          "topic_sections": [],
-          "project_source": "AI HOT",
-          "source_ref": {
-            "project_id": "aihot",
-            "project_name": "AI HOT",
-            "kind": "feed",
-            "kind_label": "订阅源",
-            "source_id": "x-阿里云-alibaba-cloud-alibaba-cloud",
-            "name": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-            "source_key": "aihot::feed::x-阿里云-alibaba-cloud-alibaba-cloud"
-          },
-          "source_key": "aihot::feed::x-阿里云-alibaba-cloud-alibaba-cloud"
         }
       ]
     },
@@ -3705,7 +3900,7 @@
           "source": "AIbase",
           "published_at": "2026-06-08T12:04:56.295751Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "6小时前",
+          "time_label": "9小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 10.0,
@@ -3747,7 +3942,7 @@
           "source": "Anthropic：Research（发表成果 · 网页）",
           "published_at": "2026-06-08T17:46:10Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "3小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 10.0,
@@ -3787,9 +3982,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "澎湃新闻",
-          "published_at": "2026-06-08T19:04:58.292000Z",
-          "first_seen_at": "2026-06-08T19:04:58.292000Z",
-          "time_label": "今天 03:04",
+          "published_at": "2026-06-08T21:15:05.315000Z",
+          "first_seen_at": "2026-06-08T21:15:05.315000Z",
+          "time_label": "今天 05:15",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -3905,6 +4100,46 @@
           "source_key": "ai_news_radar::collector::official_ai"
         },
         {
+          "id": "5968e639a6b4ff42bc56a1f8a7c679c4d23dd71d",
+          "title": "研究强调了开展全校范围内的早期人工智能素养教育的重要性",
+          "title_original": "研究强调了开展全校范围内的早期人工智能素养教育的重要性",
+          "url": "https://phys.org/news/2026-06-early-wide-ai-literacy-highlighted.html",
+          "site_id": "buzzing",
+          "site_name": "Buzzing",
+          "source": "phys.org",
+          "published_at": "2026-06-08T19:21:28.598000Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "1小时前",
+          "category_id": "research_paper",
+          "category_title": "论文研究与评测",
+          "score": 7.8,
+          "ai_score": 0.78,
+          "ai_label": "research_paper",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "人工智能",
+            "AI"
+          ],
+          "topic_labels": [
+            "AI",
+            "人工智能"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "buzzing",
+            "name": "phys.org",
+            "source_key": "ai_news_radar::collector::buzzing"
+          },
+          "source_key": "ai_news_radar::collector::buzzing"
+        },
+        {
           "id": "ff10c28cb825489da9dd6f5c1f4db3d10137fb83",
           "title": "格隆汇 6 月 9 日｜OpenAI：研究人员将与 OpenAI 经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
           "title_original": "格隆汇 6 月 9 日｜OpenAI：研究人员将与 OpenAI 经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
@@ -3914,7 +4149,7 @@
           "source": "Readhub · AI",
           "published_at": null,
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1分钟前",
+          "time_label": "2小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -3955,7 +4190,7 @@
           "source": "Techmeme",
           "published_at": "2026-06-08T17:40:01Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "1小时前",
+          "time_label": "3小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -3994,7 +4229,7 @@
           "source": "InfoQ CN",
           "published_at": "2026-06-08T16:34:49Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "2小时前",
+          "time_label": "4小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -4034,7 +4269,7 @@
           "source": "news.google.com",
           "published_at": "2026-06-08T15:53:30.667000Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "3小时前",
+          "time_label": "5小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -4064,46 +4299,6 @@
             "source_key": "ai_news_radar::collector::buzzing"
           },
           "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "id": "dfe31ace5f5e81cb9acc8df7c335e08a2f35e7eb",
-          "title": "英伟达和现代以波士顿动力公司的 Atlas 为中心深入研究机器人技术",
-          "title_original": "Nvidia and Hyundai go deeper on robotics, with Boston Dynamics’ Atlas at the centre",
-          "url": "https://thenextweb.com/news/nvidia-hyundai-robotics-boston-dynamics-physical-ai",
-          "site_id": "techurls",
-          "site_name": "TechURLs",
-          "source": "The Next Web",
-          "published_at": "2026-06-08T11:01:50Z",
-          "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "8小时前",
-          "category_id": "research_paper",
-          "category_title": "论文研究与评测",
-          "score": 7.8,
-          "ai_score": 0.78,
-          "ai_label": "robotics",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "AI",
-            "robot",
-            "robotics"
-          ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "techurls",
-            "name": "The Next Web",
-            "source_key": "ai_news_radar::collector::techurls"
-          },
-          "source_key": "ai_news_radar::collector::techurls"
         }
       ]
     },
@@ -4111,7 +4306,7 @@
       "id": "industry_compute",
       "title": "产业、算力与机器人",
       "description": "公司、融资、芯片、算力、机器人和政策生态。",
-      "count": 1231,
+      "count": 1243,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -4129,7 +4324,7 @@
           "source": "AIbase",
           "published_at": "2026-06-08T12:04:56.295751Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "6小时前",
+          "time_label": "9小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 10.0,
@@ -4154,38 +4349,42 @@
           "source_key": "ai_news_radar::collector::aibase"
         },
         {
-          "id": "bee4030fd37a775c0062810181fb46662bc1f449",
-          "title": "小米 MiMo-V2.5-Pro-UltraSpeed 突破 1，000 tokens/s，单台 8-GPGPU 节点运行 1T MoE 模型",
-          "title_original": "小米 MiMo-V2.5-Pro-UltraSpeed 突破 1，000 tokens/s，单台 8-GPGPU 节点运行 1T MoE 模型",
-          "url": "https://x.com/XiaomiMiMo/status/2063993790587904362",
+          "id": "aihot:bf42cbc2d5e3699a",
+          "title": "Apple 推出新智能能力、Xcode 生产力功能及平台改进以辅助应用开发",
+          "title_original": "Apple 推出新智能能力、Xcode 生产力功能及平台改进以辅助应用开发",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools",
           "site_id": "aihot",
           "site_name": "AI HOT",
-          "source": "X：小米 MiMo (@XiaomiMiMo)",
-          "published_at": "2026-06-08T14:37:21Z",
-          "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "4小时前",
+          "source": "Apple：Newsroom（RSS）",
+          "published_at": "2026-06-08T21:00:15.643000Z",
+          "first_seen_at": "2026-06-08T21:00:15.643000Z",
+          "time_label": "13分钟前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 10.0,
           "ai_score": 1.0,
-          "ai_label": "model_release",
+          "ai_label": "industry_business",
           "reason": "trusted_ai_source_default_keep",
           "signals": [
-            "aihot"
+            "苹果"
           ],
-          "topic_labels": [],
-          "topic_sections": [],
+          "topic_labels": [
+            "苹果"
+          ],
+          "topic_sections": [
+            "internet"
+          ],
           "project_source": "AI HOT",
           "source_ref": {
             "project_id": "aihot",
             "project_name": "AI HOT",
             "kind": "feed",
             "kind_label": "订阅源",
-            "source_id": "x-小米-mimo-xiaomimimo",
-            "name": "X：小米 MiMo (@XiaomiMiMo)",
-            "source_key": "aihot::feed::x-小米-mimo-xiaomimimo"
+            "source_id": "apple-newsroom-rss",
+            "name": "Apple：Newsroom（RSS）",
+            "source_key": "aihot::feed::apple-newsroom-rss"
           },
-          "source_key": "aihot::feed::x-小米-mimo-xiaomimimo"
+          "source_key": "aihot::feed::apple-newsroom-rss"
         },
         {
           "id": "trendradar:3a65028608fe846e",
@@ -4195,9 +4394,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "早报",
-          "published_at": "2026-06-08T19:05:00.598000Z",
-          "first_seen_at": "2026-06-08T19:05:00.598000Z",
-          "time_label": "今天 03:05",
+          "published_at": "2026-06-08T21:15:07.740000Z",
+          "first_seen_at": "2026-06-08T21:15:07.740000Z",
+          "time_label": "今天 05:15",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 6.5,
@@ -4265,6 +4464,40 @@
           "source_key": "horizon::feed::feed-zh"
         },
         {
+          "id": "bee4030fd37a775c0062810181fb46662bc1f449",
+          "title": "小米 MiMo-V2.5-Pro-UltraSpeed 突破 1，000 tokens/s，单台 8-GPGPU 节点运行 1T MoE 模型",
+          "title_original": "小米 MiMo-V2.5-Pro-UltraSpeed 突破 1，000 tokens/s，单台 8-GPGPU 节点运行 1T MoE 模型",
+          "url": "https://x.com/XiaomiMiMo/status/2063993790587904362",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "X：小米 MiMo (@XiaomiMiMo)",
+          "published_at": "2026-06-08T14:37:21Z",
+          "first_seen_at": "2026-06-08T16:13:00.350338Z",
+          "time_label": "6小时前",
+          "category_id": "industry_compute",
+          "category_title": "产业、算力与机器人",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "model_release",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "aihot"
+          ],
+          "topic_labels": [],
+          "topic_sections": [],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "x-小米-mimo-xiaomimimo",
+            "name": "X：小米 MiMo (@XiaomiMiMo)",
+            "source_key": "aihot::feed::x-小米-mimo-xiaomimimo"
+          },
+          "source_key": "aihot::feed::x-小米-mimo-xiaomimimo"
+        },
+        {
           "id": "3332aaf41485b1b5083c81236d49ba0c4541eaac",
           "title": "员工反弹与技术翻车：Meta 缩减“监控员工训练 AI”计划",
           "title_original": "员工反弹与技术翻车：Meta 缩减“监控员工训练 AI”计划",
@@ -4274,7 +4507,7 @@
           "source": "AIbase",
           "published_at": "2026-06-08T12:04:56.295751Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "6小时前",
+          "time_label": "9小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 10.0,
@@ -4312,7 +4545,7 @@
           "source": "公众号：生数科技（Vidu·视频）",
           "published_at": "2026-06-08T09:30:33Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "9小时前",
+          "time_label": "11小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 10.0,
@@ -4351,7 +4584,7 @@
           "source": "X：邵猛 (@shao__meng)",
           "published_at": "2026-06-08T08:33:27Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "10小时前",
+          "time_label": "昨天 16:33",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 10.0,
@@ -4454,40 +4687,6 @@
             "source_key": "ai_news_radar::collector::aibase"
           },
           "source_key": "ai_news_radar::collector::aibase"
-        },
-        {
-          "id": "90ff8793a64160f39ccd39b42c40478e51e0a3bb",
-          "title": "卢伟冰剧透发布会彩排:小米17T系列将登场，机器人互动成瞩目亮点",
-          "title_original": "卢伟冰剧透发布会彩排:小米17T系列将登场，机器人互动成瞩目亮点",
-          "url": "https://www.aibase.com/news/28726",
-          "site_id": "aibase",
-          "site_name": "AIbase",
-          "source": "AIbase",
-          "published_at": "2026-06-08T06:54:36.957771Z",
-          "first_seen_at": "2026-06-08T06:54:36.957771Z",
-          "time_label": "昨天 14:54",
-          "category_id": "industry_compute",
-          "category_title": "产业、算力与机器人",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "model_release",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "aibase"
-          ],
-          "topic_labels": [],
-          "topic_sections": [],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "aibase",
-            "name": "AIbase",
-            "source_key": "ai_news_radar::collector::aibase"
-          },
-          "source_key": "ai_news_radar::collector::aibase"
         }
       ]
     },
@@ -4495,7 +4694,7 @@
       "id": "practice_insight",
       "title": "实践技巧与观点",
       "description": "教程、经验、观点、方法论和可落地案例。",
-      "count": 347,
+      "count": 393,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -4513,7 +4712,7 @@
           "source": "AIbase",
           "published_at": "2026-06-08T12:04:56.295751Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "6小时前",
+          "time_label": "9小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 10.0,
@@ -4542,16 +4741,16 @@
           "source_key": "ai_news_radar::collector::aibase"
         },
         {
-          "id": "c2465f8d6cc44aa6595e46a2ab46ef64e7e32c89",
-          "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
-          "title_original": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
-          "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+          "id": "ef60355a937241ce5ff4157120d12e34b1db12cc",
+          "title": "Apple Intelligence 将强大 AI 能力融入日常体验",
+          "title_original": "Apple Intelligence 将强大 AI 能力融入日常体验",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences",
           "site_id": "aihot",
           "site_name": "AI HOT",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "published_at": "2026-06-08T18:09:37Z",
-          "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "54分钟前",
+          "source": "Apple：Newsroom（RSS）",
+          "published_at": "2026-06-08T18:17:44Z",
+          "first_seen_at": "2026-06-08T21:13:45.317737Z",
+          "time_label": "2小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 10.0,
@@ -4559,13 +4758,16 @@
           "ai_label": "ai_general",
           "reason": "trusted_ai_source_default_keep",
           "signals": [
-            "AI"
+            "AI",
+            "苹果"
           ],
           "topic_labels": [
-            "AI"
+            "AI",
+            "苹果"
           ],
           "topic_sections": [
-            "ai_related"
+            "ai_related",
+            "internet"
           ],
           "project_source": "AI HOT",
           "source_ref": {
@@ -4573,11 +4775,11 @@
             "project_name": "AI HOT",
             "kind": "feed",
             "kind_label": "订阅源",
-            "source_id": "dwarkesh-patel-podcast-blog-rss",
-            "name": "Dwarkesh Patel：Podcast & Blog（RSS）",
-            "source_key": "aihot::feed::dwarkesh-patel-podcast-blog-rss"
+            "source_id": "apple-newsroom-rss",
+            "name": "Apple：Newsroom（RSS）",
+            "source_key": "aihot::feed::apple-newsroom-rss"
           },
-          "source_key": "aihot::feed::dwarkesh-patel-podcast-blog-rss"
+          "source_key": "aihot::feed::apple-newsroom-rss"
         },
         {
           "id": "trendradar:fdcece4f1dcc1f63",
@@ -4587,9 +4789,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "早报",
-          "published_at": "2026-06-08T19:05:00.598000Z",
-          "first_seen_at": "2026-06-08T19:05:00.598000Z",
-          "time_label": "今天 03:05",
+          "published_at": "2026-06-08T21:15:07.740000Z",
+          "first_seen_at": "2026-06-08T21:15:07.740000Z",
+          "time_label": "今天 05:15",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 7.8,
@@ -4656,6 +4858,44 @@
           "source_key": "horizon::feed::feed-zh"
         },
         {
+          "id": "c2465f8d6cc44aa6595e46a2ab46ef64e7e32c89",
+          "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
+          "title_original": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
+          "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+          "site_id": "aihot",
+          "site_name": "AI HOT",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "published_at": "2026-06-08T18:09:37Z",
+          "first_seen_at": "2026-06-08T19:03:43.755700Z",
+          "time_label": "3小时前",
+          "category_id": "practice_insight",
+          "category_title": "实践技巧与观点",
+          "score": 10.0,
+          "ai_score": 1.0,
+          "ai_label": "ai_general",
+          "reason": "trusted_ai_source_default_keep",
+          "signals": [
+            "AI"
+          ],
+          "topic_labels": [
+            "AI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI HOT",
+          "source_ref": {
+            "project_id": "aihot",
+            "project_name": "AI HOT",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_id": "dwarkesh-patel-podcast-blog-rss",
+            "name": "Dwarkesh Patel：Podcast & Blog（RSS）",
+            "source_key": "aihot::feed::dwarkesh-patel-podcast-blog-rss"
+          },
+          "source_key": "aihot::feed::dwarkesh-patel-podcast-blog-rss"
+        },
+        {
           "id": "92b6f781cfe8819798a10ebf5d7a2c28299b9805",
           "title": "Kimi Code 焕新升级（附视频教程）",
           "title_original": "Kimi Code 焕新升级（附视频教程）",
@@ -4665,7 +4905,7 @@
           "source": "公众号：月之暗面（Kimi）",
           "published_at": "2026-06-08T13:44:16Z",
           "first_seen_at": "2026-06-08T16:13:00.350338Z",
-          "time_label": "5小时前",
+          "time_label": "7小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 10.0,
@@ -4706,7 +4946,7 @@
           "source": "AIbase",
           "published_at": "2026-06-08T12:04:56.295751Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "6小时前",
+          "time_label": "9小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 10.0,
@@ -4744,7 +4984,7 @@
           "source": "公众号：生数科技（Vidu·视频）",
           "published_at": "2026-06-08T09:30:33Z",
           "first_seen_at": "2026-06-08T19:03:43.755700Z",
-          "time_label": "9小时前",
+          "time_label": "11小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 10.0,
@@ -4785,7 +5025,7 @@
           "source": "Bloomberg：Technology（RSS）",
           "published_at": "2026-06-08T08:00:32Z",
           "first_seen_at": "2026-06-08T12:04:56.295751Z",
-          "time_label": "11小时前",
+          "time_label": "昨天 16:00",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 10.0,
@@ -4849,44 +5089,6 @@
             "source_key": "ai_news_radar::collector::aibase"
           },
           "source_key": "ai_news_radar::collector::aibase"
-        },
-        {
-          "id": "9f6a10278c98d130399069fbc522392327d693e2",
-          "title": "披着便利外衣的陷阱！国安部鸣枪警告：警惕“AI中转站”四大致命风险",
-          "title_original": "披着便利外衣的陷阱！国安部鸣枪警告：警惕“AI中转站”四大致命风险",
-          "url": "https://www.aibase.com/news/28728",
-          "site_id": "aibase",
-          "site_name": "AIbase",
-          "source": "AIbase",
-          "published_at": "2026-06-08T06:54:36.957771Z",
-          "first_seen_at": "2026-06-08T06:54:36.957771Z",
-          "time_label": "昨天 14:54",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 10.0,
-          "ai_score": 1.0,
-          "ai_label": "ai_general",
-          "reason": "trusted_ai_source_default_keep",
-          "signals": [
-            "AI"
-          ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "aibase",
-            "name": "AIbase",
-            "source_key": "ai_news_radar::collector::aibase"
-          },
-          "source_key": "ai_news_radar::collector::aibase"
         }
       ]
     }
@@ -4898,8 +5100,8 @@
       "url": "https://www.cls.cn/detail/2393919",
       "source": "财联社热门",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:04:58.873000Z",
-      "first_seen_at": "2026-06-08T19:04:58.873000Z",
+      "published_at": "2026-06-08T20:59:35.976000Z",
+      "first_seen_at": "2026-06-08T20:59:35.976000Z",
       "rank": 1,
       "platform_id": "cls-hot",
       "ai_is_related": true,
@@ -4925,13 +5127,48 @@
       "source_key": "trendradar::platform::cls-hot"
     },
     {
+      "id": "b20dd3a438c6e559",
+      "title": "苹果升级 iOS 27 版信息 / 电话：AI 理解用户操作意图，回复贴合用户风格",
+      "url": "https://www.ithome.com/0/961/705.htm",
+      "source": "it之家",
+      "site_name": "TrendRadar 中文热榜",
+      "published_at": "2026-06-08T20:50:01.556000Z",
+      "first_seen_at": "2026-06-08T20:50:01.556000Z",
+      "rank": 1,
+      "platform_id": "ithome",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_signals": [
+        "AI",
+        "苹果"
+      ],
+      "topic_labels": [
+        "AI",
+        "苹果"
+      ],
+      "topic_sections": [
+        "ai_related",
+        "internet"
+      ],
+      "source_ref": {
+        "project_id": "trendradar",
+        "project_name": "TrendRadar",
+        "kind": "platform",
+        "kind_label": "热榜平台",
+        "source_id": "ithome",
+        "name": "it之家",
+        "source_key": "trendradar::platform::ithome"
+      },
+      "source_key": "trendradar::platform::ithome"
+    },
+    {
       "id": "3c8d7c13d1cbd78f",
       "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
       "url": "https://www.zhihu.com/question/2047267736485631665",
       "source": "知乎",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T18:51:34.726000Z",
-      "first_seen_at": "2026-06-08T18:51:34.726000Z",
+      "published_at": "2026-06-08T20:51:39.556000Z",
+      "first_seen_at": "2026-06-08T20:51:39.556000Z",
       "rank": 2,
       "platform_id": "zhihu",
       "ai_is_related": true,
@@ -4962,8 +5199,8 @@
       "url": "https://www.36kr.com/newsflashes/3844524510382599",
       "source": "36kr",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:05:00.884000Z",
-      "first_seen_at": "2026-06-08T19:05:00.884000Z",
+      "published_at": "2026-06-08T20:57:58.810000Z",
+      "first_seen_at": "2026-06-08T20:57:58.810000Z",
       "rank": 3,
       "platform_id": "36kr",
       "ai_is_related": true,
@@ -4989,13 +5226,13 @@
       "source_key": "trendradar::platform::36kr"
     },
     {
-      "id": "3cfdd85f62ce7b52",
-      "title": "苹果 watchOS 27 开发者预览版 Beta 1 发布：全新 App 应用网格界面、海外机型引入 Siri AI 功能",
-      "url": "https://www.ithome.com/0/961/687.htm",
+      "id": "2c7b6de9656816a7",
+      "title": "初探苹果 iPadOS 27：应用启动提速 30%、引入全新 Siri AI",
+      "url": "https://www.ithome.com/0/961/703.htm",
       "source": "it之家",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T18:49:24.894000Z",
-      "first_seen_at": "2026-06-08T18:49:24.894000Z",
+      "published_at": "2026-06-08T20:50:01.556000Z",
+      "first_seen_at": "2026-06-08T20:50:01.556000Z",
       "rank": 3,
       "platform_id": "ithome",
       "ai_is_related": true,
@@ -5026,8 +5263,8 @@
       "url": "https://www.36kr.com/newsflashes/3844521049065737",
       "source": "36kr",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:05:00.884000Z",
-      "first_seen_at": "2026-06-08T19:05:00.884000Z",
+      "published_at": "2026-06-08T20:57:58.810000Z",
+      "first_seen_at": "2026-06-08T20:57:58.810000Z",
       "rank": 4,
       "platform_id": "36kr",
       "ai_is_related": true,
@@ -5059,8 +5296,8 @@
       "url": "https://wallstreetcn.com/articles/3774087",
       "source": "华尔街见闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:04:58.015000Z",
-      "first_seen_at": "2026-06-08T19:04:58.015000Z",
+      "published_at": "2026-06-08T21:15:05.034000Z",
+      "first_seen_at": "2026-06-08T21:15:05.034000Z",
       "rank": 5,
       "platform_id": "wallstreetcn-hot",
       "ai_is_related": true,
@@ -5091,8 +5328,8 @@
       "url": "https://www.cls.cn/detail/2393646",
       "source": "财联社热门",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:04:58.873000Z",
-      "first_seen_at": "2026-06-08T19:04:58.873000Z",
+      "published_at": "2026-06-08T20:59:35.976000Z",
+      "first_seen_at": "2026-06-08T20:59:35.976000Z",
       "rank": 5,
       "platform_id": "cls-hot",
       "ai_is_related": true,
@@ -5118,13 +5355,45 @@
       "source_key": "trendradar::platform::cls-hot"
     },
     {
+      "id": "35d5bfc78e91d74e",
+      "title": "Siri AI",
+      "url": "https://s.weibo.com/weibo?q=Siri+AI&t=31&band_rank=5&Refer=top",
+      "source": "微博",
+      "site_name": "TrendRadar 中文热榜",
+      "published_at": "2026-06-08T20:51:38.182000Z",
+      "first_seen_at": "2026-06-08T20:51:38.182000Z",
+      "rank": 5,
+      "platform_id": "weibo",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_signals": [
+        "AI"
+      ],
+      "topic_labels": [
+        "AI"
+      ],
+      "topic_sections": [
+        "ai_related"
+      ],
+      "source_ref": {
+        "project_id": "trendradar",
+        "project_name": "TrendRadar",
+        "kind": "platform",
+        "kind_label": "热榜平台",
+        "source_id": "weibo",
+        "name": "微博",
+        "source_key": "trendradar::platform::weibo"
+      },
+      "source_key": "trendradar::platform::weibo"
+    },
+    {
       "id": "8c788cd6df6cbfbe",
       "title": "同程旅行将接入微信AI智能体，机票、酒店将实现AI一键预订",
       "url": "https://www.36kr.com/newsflashes/3844514407336201",
       "source": "36kr",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:05:00.884000Z",
-      "first_seen_at": "2026-06-08T19:05:00.884000Z",
+      "published_at": "2026-06-08T20:57:58.810000Z",
+      "first_seen_at": "2026-06-08T20:57:58.810000Z",
       "rank": 5,
       "platform_id": "36kr",
       "ai_is_related": true,
@@ -5154,15 +5423,15 @@
       "source_key": "trendradar::platform::36kr"
     },
     {
-      "id": "b35043c0e0761725",
-      "title": "Siri AI",
-      "url": "https://s.weibo.com/weibo?q=Siri+AI&t=31&band_rank=6&Refer=top",
-      "source": "微博",
+      "id": "1f19a7ca7183cbac",
+      "title": "初探苹果 watchOS 27：升级 Siri AI、增强健康追踪、优化智能叠放",
+      "url": "https://www.ithome.com/0/961/701.htm",
+      "source": "it之家",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T18:51:22.011000Z",
-      "first_seen_at": "2026-06-08T18:51:22.011000Z",
-      "rank": 6,
-      "platform_id": "weibo",
+      "published_at": "2026-06-08T20:50:01.556000Z",
+      "first_seen_at": "2026-06-08T20:50:01.556000Z",
+      "rank": 5,
+      "platform_id": "ithome",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_signals": [
@@ -5179,11 +5448,11 @@
         "project_name": "TrendRadar",
         "kind": "platform",
         "kind_label": "热榜平台",
-        "source_id": "weibo",
-        "name": "微博",
-        "source_key": "trendradar::platform::weibo"
+        "source_id": "ithome",
+        "name": "it之家",
+        "source_key": "trendradar::platform::ithome"
       },
-      "source_key": "trendradar::platform::weibo"
+      "source_key": "trendradar::platform::ithome"
     },
     {
       "id": "4850ac2a4cfcdaeb",
@@ -5191,8 +5460,8 @@
       "url": "https://view.inews.qq.com/a/20260608A06NZ900",
       "source": "腾讯",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:05:00.311000Z",
-      "first_seen_at": "2026-06-08T19:05:00.311000Z",
+      "published_at": "2026-06-08T21:15:07.451000Z",
+      "first_seen_at": "2026-06-08T21:15:07.451000Z",
       "rank": 6,
       "platform_id": "tencent",
       "ai_is_related": true,
@@ -5226,8 +5495,8 @@
       "url": "https://www.cls.cn/detail/2393777",
       "source": "财联社热门",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:04:58.873000Z",
-      "first_seen_at": "2026-06-08T19:04:58.873000Z",
+      "published_at": "2026-06-08T20:59:35.976000Z",
+      "first_seen_at": "2026-06-08T20:59:35.976000Z",
       "rank": 7,
       "platform_id": "cls-hot",
       "ai_is_related": true,
@@ -5253,14 +5522,52 @@
       "source_key": "trendradar::platform::cls-hot"
     },
     {
+      "id": "f6aa1a748e7917e4",
+      "title": "无需调用 ChatGPT，苹果 iOS 27 版图乐园首次实现写实 AI 生图",
+      "url": "https://www.ithome.com/0/961/699.htm",
+      "source": "it之家",
+      "site_name": "TrendRadar 中文热榜",
+      "published_at": "2026-06-08T20:50:01.556000Z",
+      "first_seen_at": "2026-06-08T20:50:01.556000Z",
+      "rank": 7,
+      "platform_id": "ithome",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_signals": [
+        "gpt",
+        "AI",
+        "OpenAI",
+        "苹果"
+      ],
+      "topic_labels": [
+        "AI",
+        "OpenAI",
+        "苹果"
+      ],
+      "topic_sections": [
+        "ai_related",
+        "internet"
+      ],
+      "source_ref": {
+        "project_id": "trendradar",
+        "project_name": "TrendRadar",
+        "kind": "platform",
+        "kind_label": "热榜平台",
+        "source_id": "ithome",
+        "name": "it之家",
+        "source_key": "trendradar::platform::ithome"
+      },
+      "source_key": "trendradar::platform::ithome"
+    },
+    {
       "id": "a1e591cf6f97cab8",
       "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
       "url": "https://www.thepaper.cn/newsDetail_forward_33334384",
       "source": "澎湃新闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:04:58.292000Z",
-      "first_seen_at": "2026-06-08T19:04:58.292000Z",
-      "rank": 9,
+      "published_at": "2026-06-08T21:15:05.315000Z",
+      "first_seen_at": "2026-06-08T21:15:05.315000Z",
+      "rank": 8,
       "platform_id": "thepaper",
       "ai_is_related": true,
       "ai_score": 0.78,
@@ -5285,13 +5592,13 @@
       "source_key": "trendradar::platform::thepaper"
     },
     {
-      "id": "d2283d16e5e6872c",
-      "title": "苹果 iOS 27 升级 AI 修图：调整照片构图、移除干扰元素等",
-      "url": "https://www.ithome.com/0/961/681.htm",
+      "id": "4547c7dcc461e696",
+      "title": "苹果提升账号安全，iOS 27 版 Passwords 应用支持 AI 自动更换密码",
+      "url": "https://www.ithome.com/0/961/697.htm",
       "source": "it之家",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T18:49:24.894000Z",
-      "first_seen_at": "2026-06-08T18:49:24.894000Z",
+      "published_at": "2026-06-08T20:50:01.556000Z",
+      "first_seen_at": "2026-06-08T20:50:01.556000Z",
       "rank": 9,
       "platform_id": "ithome",
       "ai_is_related": true,
@@ -5318,52 +5625,225 @@
         "source_key": "trendradar::platform::ithome"
       },
       "source_key": "trendradar::platform::ithome"
-    },
+    }
+  ],
+  "new_items": [
     {
-      "id": "0e10621bd1911029",
-      "title": "省去繁琐步骤：苹果 Siri AI 官宣支持自然语言生成快捷指令",
-      "url": "https://www.ithome.com/0/961/680.htm",
-      "source": "it之家",
-      "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T18:49:24.894000Z",
-      "first_seen_at": "2026-06-08T18:49:24.894000Z",
-      "rank": 10,
-      "platform_id": "ithome",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_signals": [
-        "AI"
+      "id": "aihot:bf42cbc2d5e3699a",
+      "title": "Apple 推出新智能能力、Xcode 生产力功能及平台改进以辅助应用开发",
+      "title_original": "Apple 推出新智能能力、Xcode 生产力功能及平台改进以辅助应用开发",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "Apple：Newsroom（RSS）",
+      "published_at": "2026-06-08T21:00:15.643000Z",
+      "first_seen_at": "2026-06-08T21:00:15.643000Z",
+      "time_label": "13分钟前",
+      "category_id": "industry_compute",
+      "category_title": "产业、算力与机器人",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "industry_business",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
+        "苹果"
       ],
       "topic_labels": [
-        "AI"
+        "苹果"
+      ],
+      "topic_sections": [
+        "internet"
+      ],
+      "project_source": "AI HOT",
+      "source_ref": {
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "apple-newsroom-rss",
+        "name": "Apple：Newsroom（RSS）",
+        "source_key": "aihot::feed::apple-newsroom-rss"
+      },
+      "source_key": "aihot::feed::apple-newsroom-rss"
+    },
+    {
+      "id": "70693e7b6abf9e8b1639edde77bfcb1f69457763",
+      "title": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+      "title_original": "苹果揭晓基于谷歌 Gemini 模型构建的新 AI 架构",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "published_at": "2026-06-08T20:41:12Z",
+      "first_seen_at": "2026-06-08T21:13:45.317737Z",
+      "time_label": "32分钟前",
+      "category_id": "model_release",
+      "category_title": "模型发布与能力更新",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "model_release",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
+        "gemini",
+        "AI",
+        "Google Gemini",
+        "苹果",
+        "谷歌"
+      ],
+      "topic_labels": [
+        "AI",
+        "Google Gemini",
+        "苹果",
+        "谷歌"
+      ],
+      "topic_sections": [
+        "ai_related",
+        "internet"
+      ],
+      "project_source": "AI HOT",
+      "source_ref": {
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "hacker-news-热门-buzzing-cc-中文翻译",
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
+      },
+      "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译"
+    },
+    {
+      "id": "d3a96bfdd3fb581fdde761bbc464dc37855781eb",
+      "title": "Viggle API 上线：任意角色任意动作秒级生成",
+      "title_original": "Viggle API 上线：任意角色任意动作秒级生成",
+      "url": "https://x.com/ViggleAI/status/2064083087806390319",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "X：Viggle AI (@ViggleAI)",
+      "published_at": "2026-06-08T20:32:11Z",
+      "first_seen_at": "2026-06-08T21:13:45.317737Z",
+      "time_label": "41分钟前",
+      "category_id": "product_tool",
+      "category_title": "产品与开发者工具",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "developer_tool",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
+        "aihot"
+      ],
+      "topic_labels": [],
+      "topic_sections": [],
+      "project_source": "AI HOT",
+      "source_ref": {
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "x-viggle-ai-viggleai",
+        "name": "X：Viggle AI (@ViggleAI)",
+        "source_key": "aihot::feed::x-viggle-ai-viggleai"
+      },
+      "source_key": "aihot::feed::x-viggle-ai-viggleai"
+    },
+    {
+      "id": "f6dc698d16104cdb4d102682c9c80d25fac40f21",
+      "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
+      "title_original": "Claude 为 Connector 开发者推出性能监控仪表盘",
+      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "Claude：Blog（网页）",
+      "published_at": "2026-06-08T18:50:51Z",
+      "first_seen_at": "2026-06-08T21:13:45.317737Z",
+      "time_label": "2小时前",
+      "category_id": "model_release",
+      "category_title": "模型发布与能力更新",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "model_release",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
+        "claude",
+        "Anthropic"
+      ],
+      "topic_labels": [
+        "Anthropic"
       ],
       "topic_sections": [
         "ai_related"
       ],
+      "project_source": "AI HOT",
       "source_ref": {
-        "project_id": "trendradar",
-        "project_name": "TrendRadar",
-        "kind": "platform",
-        "kind_label": "热榜平台",
-        "source_id": "ithome",
-        "name": "it之家",
-        "source_key": "trendradar::platform::ithome"
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "claude-blog-网页",
+        "name": "Claude：Blog（网页）",
+        "source_key": "aihot::feed::claude-blog-网页"
       },
-      "source_key": "trendradar::platform::ithome"
+      "source_key": "aihot::feed::claude-blog-网页"
     },
     {
-      "id": "ec4c1e4abb2a74c3",
-      "title": "苹果：Siri AI 和其他 Apple 智能新功能在中国大陆暂不提供",
-      "url": "https://www.ithome.com/0/961/679.htm",
-      "source": "it之家",
-      "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T18:49:24.894000Z",
-      "first_seen_at": "2026-06-08T18:49:24.894000Z",
-      "rank": 11,
-      "platform_id": "ithome",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_signals": [
+      "id": "148478eca8041e5226ecd5756952616372d1cb23",
+      "title": "Anthropic：AI编码快于生物学的缘由",
+      "title_original": "Anthropic：AI编码快于生物学的缘由",
+      "url": "https://x.com/AnthropicAI/status/2064054837294354677",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "published_at": "2026-06-08T18:39:56Z",
+      "first_seen_at": "2026-06-08T21:13:45.317737Z",
+      "time_label": "2小时前",
+      "category_id": "product_tool",
+      "category_title": "产品与开发者工具",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "ai_product_update",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
+        "anthropic",
+        "AI",
+        "Anthropic"
+      ],
+      "topic_labels": [
+        "AI",
+        "Anthropic"
+      ],
+      "topic_sections": [
+        "ai_related"
+      ],
+      "project_source": "AI HOT",
+      "source_ref": {
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "x-anthropic-anthropicai",
+        "name": "X：Anthropic (@AnthropicAI)",
+        "source_key": "aihot::feed::x-anthropic-anthropicai"
+      },
+      "source_key": "aihot::feed::x-anthropic-anthropicai"
+    },
+    {
+      "id": "63a6f4be9cc3885cd5b74a9b4757f9b68f358218",
+      "title": "Apple发布新一代Apple Intelligence和Siri AI",
+      "title_original": "Apple发布新一代Apple Intelligence和Siri AI",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "Apple：Newsroom（RSS）",
+      "published_at": "2026-06-08T18:18:43Z",
+      "first_seen_at": "2026-06-08T21:13:45.317737Z",
+      "time_label": "2小时前",
+      "category_id": "model_release",
+      "category_title": "模型发布与能力更新",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "model_release",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
         "AI",
         "苹果"
       ],
@@ -5375,51 +5855,100 @@
         "ai_related",
         "internet"
       ],
+      "project_source": "AI HOT",
       "source_ref": {
-        "project_id": "trendradar",
-        "project_name": "TrendRadar",
-        "kind": "platform",
-        "kind_label": "热榜平台",
-        "source_id": "ithome",
-        "name": "it之家",
-        "source_key": "trendradar::platform::ithome"
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "apple-newsroom-rss",
+        "name": "Apple：Newsroom（RSS）",
+        "source_key": "aihot::feed::apple-newsroom-rss"
       },
-      "source_key": "trendradar::platform::ithome"
+      "source_key": "aihot::feed::apple-newsroom-rss"
     },
     {
-      "id": "eb7d71a6f3ddb5d7",
-      "title": "当我把今年高考语文作文题喂给AI",
-      "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
-      "source": "百度",
-      "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-06-08T19:04:57.706000Z",
-      "first_seen_at": "2026-06-08T19:04:57.706000Z",
-      "rank": 12,
-      "platform_id": "baidu",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_signals": [
-        "AI"
+      "id": "ef60355a937241ce5ff4157120d12e34b1db12cc",
+      "title": "Apple Intelligence 将强大 AI 能力融入日常体验",
+      "title_original": "Apple Intelligence 将强大 AI 能力融入日常体验",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "Apple：Newsroom（RSS）",
+      "published_at": "2026-06-08T18:17:44Z",
+      "first_seen_at": "2026-06-08T21:13:45.317737Z",
+      "time_label": "2小时前",
+      "category_id": "practice_insight",
+      "category_title": "实践技巧与观点",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "ai_general",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
+        "AI",
+        "苹果"
       ],
       "topic_labels": [
-        "AI"
+        "AI",
+        "苹果"
       ],
       "topic_sections": [
-        "ai_related"
+        "ai_related",
+        "internet"
       ],
+      "project_source": "AI HOT",
       "source_ref": {
-        "project_id": "trendradar",
-        "project_name": "TrendRadar",
-        "kind": "platform",
-        "kind_label": "热榜平台",
-        "source_id": "baidu",
-        "name": "百度",
-        "source_key": "trendradar::platform::baidu"
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "apple-newsroom-rss",
+        "name": "Apple：Newsroom（RSS）",
+        "source_key": "aihot::feed::apple-newsroom-rss"
       },
-      "source_key": "trendradar::platform::baidu"
-    }
-  ],
-  "new_items": [
+      "source_key": "aihot::feed::apple-newsroom-rss"
+    },
+    {
+      "id": "439a7ff4af4822d72a7794e0f36335203fcc919e",
+      "title": "受 DMA 影响，Siri AI 在欧盟将随 iOS 27 和 iPadOS 27 延迟上线",
+      "title_original": "受 DMA 影响，Siri AI 在欧盟将随 iOS 27 和 iPadOS 27 延迟上线",
+      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "Apple：Newsroom（RSS）",
+      "published_at": "2026-06-08T18:13:26Z",
+      "first_seen_at": "2026-06-08T21:13:45.317737Z",
+      "time_label": "3小时前",
+      "category_id": "product_tool",
+      "category_title": "产品与开发者工具",
+      "score": 10.0,
+      "ai_score": 1.0,
+      "ai_label": "ai_product_update",
+      "reason": "trusted_ai_source_default_keep",
+      "signals": [
+        "AI",
+        "苹果"
+      ],
+      "topic_labels": [
+        "AI",
+        "苹果"
+      ],
+      "topic_sections": [
+        "ai_related",
+        "internet"
+      ],
+      "project_source": "AI HOT",
+      "source_ref": {
+        "project_id": "aihot",
+        "project_name": "AI HOT",
+        "kind": "feed",
+        "kind_label": "订阅源",
+        "source_id": "apple-newsroom-rss",
+        "name": "Apple：Newsroom（RSS）",
+        "source_key": "aihot::feed::apple-newsroom-rss"
+      },
+      "source_key": "aihot::feed::apple-newsroom-rss"
+    },
     {
       "id": "c2465f8d6cc44aa6595e46a2ab46ef64e7e32c89",
       "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
@@ -5430,7 +5959,7 @@
       "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
       "published_at": "2026-06-08T18:09:37Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "54分钟前",
+      "time_label": "3小时前",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 10.0,
@@ -5468,7 +5997,7 @@
       "source": "X：Testing Catalog (@testingcatalog)",
       "published_at": "2026-06-08T17:48:53Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "1小时前",
+      "time_label": "3小时前",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
@@ -5506,7 +6035,7 @@
       "source": "Anthropic：Research（发表成果 · 网页）",
       "published_at": "2026-06-08T17:46:10Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "1小时前",
+      "time_label": "3小时前",
       "category_id": "research_paper",
       "category_title": "论文研究与评测",
       "score": 10.0,
@@ -5548,7 +6077,7 @@
       "source": "The Verge：订阅版科技（RSS）",
       "published_at": "2026-06-08T17:34:24Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "1小时前",
+      "time_label": "3小时前",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
@@ -5589,7 +6118,7 @@
       "source": "X：Claude Devs (@ClaudeDevs)",
       "published_at": "2026-06-08T17:12:25Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "1小时前",
+      "time_label": "4小时前",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
@@ -5628,7 +6157,7 @@
       "source": "X：Perplexity (@perplexity_ai)",
       "published_at": "2026-06-08T16:35:14Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "2小时前",
+      "time_label": "4小时前",
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
@@ -5667,7 +6196,7 @@
       "source": "X：ChatGPT (@ChatGPTapp)",
       "published_at": "2026-06-08T16:16:37Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "2小时前",
+      "time_label": "4小时前",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
@@ -5706,7 +6235,7 @@
       "source": "X：NotebookLM (@NotebookLM)",
       "published_at": "2026-06-08T16:07:26Z",
       "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "2小时前",
+      "time_label": "5小时前",
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
@@ -5741,7 +6270,7 @@
       "source": "X：Runway (@runwayml)",
       "published_at": "2026-06-08T15:51:24Z",
       "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "3小时前",
+      "time_label": "5小时前",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
@@ -5775,7 +6304,7 @@
       "source": "X：OpenRouter (@OpenRouter)",
       "published_at": "2026-06-08T15:21:40Z",
       "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "3小时前",
+      "time_label": "5小时前",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
@@ -5809,7 +6338,7 @@
       "source": "X：Kim (@kimmonismus)",
       "published_at": "2026-06-08T15:06:11Z",
       "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "3小时前",
+      "time_label": "6小时前",
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
@@ -5848,7 +6377,7 @@
       "source": "X：小米 MiMo (@XiaomiMiMo)",
       "published_at": "2026-06-08T14:37:21Z",
       "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "4小时前",
+      "time_label": "6小时前",
       "category_id": "industry_compute",
       "category_title": "产业、算力与机器人",
       "score": 10.0,
@@ -5871,319 +6400,13 @@
         "source_key": "aihot::feed::x-小米-mimo-xiaomimimo"
       },
       "source_key": "aihot::feed::x-小米-mimo-xiaomimimo"
-    },
-    {
-      "id": "84f51bc84781377da37f3294ebe9c05927612d00",
-      "title": "VoxCPM2 技术报告发布",
-      "title_original": "VoxCPM2 技术报告发布",
-      "url": "https://x.com/OpenBMB/status/2063991963133903317",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "published_at": "2026-06-08T14:30:05Z",
-      "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "4小时前",
-      "category_id": "model_release",
-      "category_title": "模型发布与能力更新",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "model_release",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "aihot"
-      ],
-      "topic_labels": [],
-      "topic_sections": [],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "x-面壁智能-openbmb-openbmb",
-        "name": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_key": "aihot::feed::x-面壁智能-openbmb-openbmb"
-      },
-      "source_key": "aihot::feed::x-面壁智能-openbmb-openbmb"
-    },
-    {
-      "id": "21aec575259e497c5f4158790659c90457f83b6e",
-      "title": "微软AI CEO：超级智能即将到来，但不会取代你的工作",
-      "title_original": "微软AI CEO：超级智能即将到来，但不会取代你的工作",
-      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "The Verge：AI（RSS）",
-      "published_at": "2026-06-08T14:00:00Z",
-      "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "5小时前",
-      "category_id": "product_tool",
-      "category_title": "产品与开发者工具",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "ai_product_update",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "openai",
-        "AI",
-        "OpenAI",
-        "微软"
-      ],
-      "topic_labels": [
-        "AI",
-        "OpenAI",
-        "微软"
-      ],
-      "topic_sections": [
-        "ai_related",
-        "internet"
-      ],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "the-verge-ai-rss",
-        "name": "The Verge：AI（RSS）",
-        "source_key": "aihot::feed::the-verge-ai-rss"
-      },
-      "source_key": "aihot::feed::the-verge-ai-rss"
-    },
-    {
-      "id": "92b6f781cfe8819798a10ebf5d7a2c28299b9805",
-      "title": "Kimi Code 焕新升级（附视频教程）",
-      "title_original": "Kimi Code 焕新升级（附视频教程）",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484250&idx=1&sn=d0a07f5358250f3a54df8fbabe61f09a",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "公众号：月之暗面（Kimi）",
-      "published_at": "2026-06-08T13:44:16Z",
-      "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "5小时前",
-      "category_id": "practice_insight",
-      "category_title": "实践技巧与观点",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "ai_general",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "Kimi(月之暗面)",
-        "腾讯"
-      ],
-      "topic_labels": [
-        "Kimi(月之暗面)",
-        "腾讯"
-      ],
-      "topic_sections": [
-        "ai_related",
-        "internet"
-      ],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "公众号-月之暗面-kimi",
-        "name": "公众号：月之暗面（Kimi）",
-        "source_key": "aihot::feed::公众号-月之暗面-kimi"
-      },
-      "source_key": "aihot::feed::公众号-月之暗面-kimi"
-    },
-    {
-      "id": "0e614dc6ee3f3254b2b950884430998ae116073c",
-      "title": "小互开源视频翻译工具：一句话自动下载、转写、翻译、烧字幕",
-      "title_original": "小互开源视频翻译工具：一句话自动下载、转写、翻译、烧字幕",
-      "url": "https://x.com/xiaohu/status/2063972223170556302",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "X：小互 (@xiaohu)",
-      "published_at": "2026-06-08T13:11:39Z",
-      "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "5小时前",
-      "category_id": "product_tool",
-      "category_title": "产品与开发者工具",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "ai_tech",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "aihot"
-      ],
-      "topic_labels": [],
-      "topic_sections": [],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "x-小互-xiaohu",
-        "name": "X：小互 (@xiaohu)",
-        "source_key": "aihot::feed::x-小互-xiaohu"
-      },
-      "source_key": "aihot::feed::x-小互-xiaohu"
-    },
-    {
-      "id": "07d16fbcb4f9e4c2239ffbb0e97957fbafe73d0f",
-      "title": "五个模型经济体中消失的崩溃：控制与涌现",
-      "title_original": "五个模型经济体中消失的崩溃：控制与涌现",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "Hugging Face：Blog（RSS）",
-      "published_at": "2026-06-08T13:10:48Z",
-      "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "5小时前",
-      "category_id": "model_release",
-      "category_title": "模型发布与能力更新",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "model_release",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "hugging face",
-        "huggingface"
-      ],
-      "topic_labels": [],
-      "topic_sections": [],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "hugging-face-blog-rss",
-        "name": "Hugging Face：Blog（RSS）",
-        "source_key": "aihot::feed::hugging-face-blog-rss"
-      },
-      "source_key": "aihot::feed::hugging-face-blog-rss"
-    },
-    {
-      "id": "255b45e4f508fee27e9b7ad5df8393e43f3fc08e",
-      "title": "微信AI Agent生态曝光：嵌入小程序调用与手机厂商合作",
-      "title_original": "微信AI Agent生态曝光：嵌入小程序调用与手机厂商合作",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683054&idx=1&sn=dcaa25bd4fdfc9bd5c0211532021bf7c",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "公众号：数字生命卡兹克",
-      "published_at": "2026-06-08T09:38:30Z",
-      "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "9小时前",
-      "category_id": "product_tool",
-      "category_title": "产品与开发者工具",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "agent_workflow",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "AI",
-        "腾讯"
-      ],
-      "topic_labels": [
-        "AI",
-        "腾讯"
-      ],
-      "topic_sections": [
-        "ai_related",
-        "internet"
-      ],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "公众号-数字生命卡兹克",
-        "name": "公众号：数字生命卡兹克",
-        "source_key": "aihot::feed::公众号-数字生命卡兹克"
-      },
-      "source_key": "aihot::feed::公众号-数字生命卡兹克"
-    },
-    {
-      "id": "86d2cec132a77dde2d37248f60e05de18acb6593",
-      "title": "生数科技与华策影视达成战略合作，共建AI视听创制中心",
-      "title_original": "生数科技与华策影视达成战略合作，共建AI视听创制中心",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247488842&idx=1&sn=3dab63189fa60b3b78c5ad72e3358791",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "published_at": "2026-06-08T09:30:33Z",
-      "first_seen_at": "2026-06-08T19:03:43.755700Z",
-      "time_label": "9小时前",
-      "category_id": "practice_insight",
-      "category_title": "实践技巧与观点",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "ai_general",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "AI",
-        "腾讯"
-      ],
-      "topic_labels": [
-        "AI",
-        "腾讯"
-      ],
-      "topic_sections": [
-        "ai_related",
-        "internet"
-      ],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "公众号-生数科技-vidu-视频",
-        "name": "公众号：生数科技（Vidu·视频）",
-        "source_key": "aihot::feed::公众号-生数科技-vidu-视频"
-      },
-      "source_key": "aihot::feed::公众号-生数科技-vidu-视频"
-    },
-    {
-      "id": "129287c67cd376f075fa65374806b1f9212b965d",
-      "title": "开源社区支持 OpenEnv 用于智能体强化学习",
-      "title_original": "开源社区支持 OpenEnv 用于智能体强化学习",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "source": "Hugging Face：Blog（RSS）",
-      "published_at": "2026-06-08T00:00:00Z",
-      "first_seen_at": "2026-06-08T16:13:00.350338Z",
-      "time_label": "昨天 08:00",
-      "category_id": "product_tool",
-      "category_title": "产品与开发者工具",
-      "score": 10.0,
-      "ai_score": 1.0,
-      "ai_label": "agent_workflow",
-      "reason": "trusted_ai_source_default_keep",
-      "signals": [
-        "hugging face",
-        "huggingface",
-        "智能体"
-      ],
-      "topic_labels": [],
-      "topic_sections": [],
-      "project_source": "AI HOT",
-      "source_ref": {
-        "project_id": "aihot",
-        "project_name": "AI HOT",
-        "kind": "feed",
-        "kind_label": "订阅源",
-        "source_id": "hugging-face-blog-rss",
-        "name": "Hugging Face：Blog（RSS）",
-        "source_key": "aihot::feed::hugging-face-blog-rss"
-      },
-      "source_key": "aihot::feed::hugging-face-blog-rss"
     }
   ],
   "source_catalog": {
     "mode": "browser_local_picker_v1",
     "note": "前台删除会保存在当前浏览器，用于过滤页面展示；云端抓取配置需要接入 GitHub Actions 后写回仓库。",
     "project_count": 4,
-    "source_count": 59,
+    "source_count": 65,
     "projects": [
       {
         "id": "ai_news_radar",
@@ -6204,10 +6427,10 @@
             "source_key": "ai_news_radar::collector::tophub",
             "enabled": true,
             "status": "ok",
-            "item_count": 3040,
-            "raw_24h": 2828,
-            "ai_24h": 795,
-            "ai_hit_rate": 0.281,
+            "item_count": 2859,
+            "raw_24h": 2790,
+            "ai_24h": 793,
+            "ai_hit_rate": 0.284,
             "decision": "keep",
             "error": null
           },
@@ -6220,24 +6443,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 744,
-            "raw_24h": 1574,
-            "ai_24h": 442,
-            "ai_hit_rate": 0.281,
-            "decision": "keep",
-            "error": null
-          },
-          {
-            "id": "iris",
-            "name": "Info Flow",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_key": "ai_news_radar::collector::iris",
-            "enabled": true,
-            "status": "ok",
-            "item_count": 366,
-            "raw_24h": 853,
-            "ai_24h": 226,
-            "ai_hit_rate": 0.265,
+            "raw_24h": 1593,
+            "ai_24h": 456,
+            "ai_hit_rate": 0.286,
             "decision": "keep",
             "error": null
           },
@@ -6250,9 +6458,24 @@
             "enabled": true,
             "status": "ok",
             "item_count": 405,
-            "raw_24h": 414,
-            "ai_24h": 175,
-            "ai_hit_rate": 0.423,
+            "raw_24h": 496,
+            "ai_24h": 243,
+            "ai_hit_rate": 0.49,
+            "decision": "keep",
+            "error": null
+          },
+          {
+            "id": "iris",
+            "name": "Info Flow",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_key": "ai_news_radar::collector::iris",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 369,
+            "raw_24h": 887,
+            "ai_24h": 243,
+            "ai_hit_rate": 0.274,
             "decision": "keep",
             "error": null
           },
@@ -6264,10 +6487,10 @@
             "source_key": "ai_news_radar::collector::zeli",
             "enabled": true,
             "status": "ok",
-            "item_count": 70,
-            "raw_24h": 71,
-            "ai_24h": 65,
-            "ai_hit_rate": 0.915,
+            "item_count": 74,
+            "raw_24h": 76,
+            "ai_24h": 67,
+            "ai_hit_rate": 0.882,
             "decision": "keep",
             "error": null
           },
@@ -6280,9 +6503,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 146,
-            "raw_24h": 209,
-            "ai_24h": 46,
-            "ai_hit_rate": 0.22,
+            "raw_24h": 214,
+            "ai_24h": 50,
+            "ai_hit_rate": 0.234,
             "decision": "keep",
             "error": null
           },
@@ -6309,10 +6532,10 @@
             "source_key": "ai_news_radar::collector::opmlrss",
             "enabled": true,
             "status": "ok",
-            "item_count": 2127,
+            "item_count": 2128,
             "raw_24h": 33,
-            "ai_24h": 18,
-            "ai_hit_rate": 0.545,
+            "ai_24h": 17,
+            "ai_hit_rate": 0.515,
             "decision": "keep",
             "error": null
           },
@@ -6325,8 +6548,8 @@
             "enabled": true,
             "status": "ok",
             "item_count": 22,
-            "raw_24h": 16,
-            "ai_24h": 8,
+            "raw_24h": 14,
+            "ai_24h": 7,
             "ai_hit_rate": 0.5,
             "decision": "keep",
             "error": null
@@ -6339,10 +6562,10 @@
             "source_key": "ai_news_radar::collector::official_ai",
             "enabled": true,
             "status": "ok",
-            "item_count": 204,
+            "item_count": 205,
             "raw_24h": 6,
-            "ai_24h": 4,
-            "ai_hit_rate": 0.667,
+            "ai_24h": 5,
+            "ai_hit_rate": 0.833,
             "decision": "keep",
             "error": null
           },
@@ -6393,8 +6616,8 @@
           }
         ],
         "source_count": 13,
-        "ai_24h": 1823,
-        "raw_24h": 6059
+        "ai_24h": 1925,
+        "raw_24h": 6164
       },
       {
         "id": "aihot",
@@ -6408,16 +6631,16 @@
         "item_count": 30,
         "sources": [
           {
-            "id": "hugging-face-blog-rss",
-            "name": "Hugging Face：Blog（RSS）",
+            "id": "apple-newsroom-rss",
+            "name": "Apple：Newsroom（RSS）",
             "kind": "feed",
             "kind_label": "订阅源",
-            "source_key": "aihot::feed::hugging-face-blog-rss",
+            "source_key": "aihot::feed::apple-newsroom-rss",
             "enabled": true,
             "status": "ok",
-            "item_count": 3,
-            "raw_24h": 3,
-            "ai_24h": 3
+            "item_count": 4,
+            "raw_24h": 4,
+            "ai_24h": 4
           },
           {
             "id": "nvidia-ai-blog",
@@ -6429,6 +6652,18 @@
             "status": "ok",
             "item_count": 3,
             "raw_24h": 3,
+            "ai_24h": 3
+          },
+          {
+            "id": "hugging-face-blog-rss",
+            "name": "Hugging Face：Blog（RSS）",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_key": "aihot::feed::hugging-face-blog-rss",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 2,
+            "raw_24h": 2,
             "ai_24h": 3
           },
           {
@@ -6468,6 +6703,18 @@
             "ai_24h": 2
           },
           {
+            "id": "hacker-news-热门-buzzing-cc-中文翻译",
+            "name": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_key": "aihot::feed::hacker-news-热门-buzzing-cc-中文翻译",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 2,
+            "raw_24h": 2,
+            "ai_24h": 1
+          },
+          {
             "id": "ai-hot",
             "name": "AI HOT",
             "kind": "feed",
@@ -6492,11 +6739,47 @@
             "ai_24h": 1
           },
           {
+            "id": "claude-blog-网页",
+            "name": "Claude：Blog（网页）",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_key": "aihot::feed::claude-blog-网页",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 1,
+            "raw_24h": 1,
+            "ai_24h": 1
+          },
+          {
             "id": "dwarkesh-patel-podcast-blog-rss",
             "name": "Dwarkesh Patel：Podcast & Blog（RSS）",
             "kind": "feed",
             "kind_label": "订阅源",
             "source_key": "aihot::feed::dwarkesh-patel-podcast-blog-rss",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 1,
+            "raw_24h": 1,
+            "ai_24h": 1
+          },
+          {
+            "id": "openai-官网动态-rss-排除企业-客户案例",
+            "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_key": "aihot::feed::openai-官网动态-rss-排除企业-客户案例",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 1,
+            "raw_24h": 1,
+            "ai_24h": 1
+          },
+          {
+            "id": "openrouter-announcements-rss",
+            "name": "OpenRouter：Announcements（RSS）",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_key": "aihot::feed::openrouter-announcements-rss",
             "enabled": true,
             "status": "ok",
             "item_count": 1,
@@ -6521,6 +6804,18 @@
             "kind": "feed",
             "kind_label": "订阅源",
             "source_key": "aihot::feed::the-verge-订阅版科技-rss",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 1,
+            "raw_24h": 1,
+            "ai_24h": 1
+          },
+          {
+            "id": "x-anthropic-anthropicai",
+            "name": "X：Anthropic (@AnthropicAI)",
+            "kind": "feed",
+            "kind_label": "订阅源",
+            "source_key": "aihot::feed::x-anthropic-anthropicai",
             "enabled": true,
             "status": "ok",
             "item_count": 1,
@@ -6636,11 +6931,11 @@
             "ai_24h": 1
           },
           {
-            "id": "x-宝玉-dotey",
-            "name": "X：宝玉 (@dotey)",
+            "id": "x-viggle-ai-viggleai",
+            "name": "X：Viggle AI (@ViggleAI)",
             "kind": "feed",
             "kind_label": "订阅源",
-            "source_key": "aihot::feed::x-宝玉-dotey",
+            "source_key": "aihot::feed::x-viggle-ai-viggleai",
             "enabled": true,
             "status": "ok",
             "item_count": 1,
@@ -6756,9 +7051,9 @@
             "ai_24h": 1
           }
         ],
-        "source_count": 29,
-        "ai_24h": 36,
-        "raw_24h": 35
+        "source_count": 35,
+        "ai_24h": 45,
+        "raw_24h": 44
       },
       {
         "id": "trendradar",
@@ -6769,7 +7064,7 @@
         "homepage": "https://github.com/sansan0/TrendRadar",
         "description": "按 TrendRadar 的 NewsNow 热榜路径抓取多平台趋势。",
         "status": "ok",
-        "item_count": 370,
+        "item_count": 373,
         "sources": [
           {
             "id": "douyin",
@@ -6829,19 +7124,7 @@
             "status": "ok",
             "item_count": 20,
             "raw_24h": 20,
-            "ai_24h": 2
-          },
-          {
-            "id": "ithome",
-            "name": "it之家",
-            "kind": "platform",
-            "kind_label": "热榜平台",
-            "source_key": "trendradar::platform::ithome",
-            "enabled": true,
-            "status": "ok",
-            "item_count": 30,
-            "raw_24h": 30,
-            "ai_24h": 1
+            "ai_24h": 3
           },
           {
             "id": "weibo",
@@ -6854,6 +7137,18 @@
             "item_count": 30,
             "raw_24h": 30,
             "ai_24h": 1
+          },
+          {
+            "id": "ithome",
+            "name": "it之家",
+            "kind": "platform",
+            "kind_label": "热榜平台",
+            "source_key": "trendradar::platform::ithome",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 30,
+            "raw_24h": 30,
+            "ai_24h": 0
           },
           {
             "id": "toutiao",
@@ -6911,8 +7206,8 @@
             "source_key": "trendradar::platform::iqiyi",
             "enabled": true,
             "status": "ok",
-            "item_count": 21,
-            "raw_24h": 21,
+            "item_count": 24,
+            "raw_24h": 24,
             "ai_24h": 0
           },
           {
@@ -6966,7 +7261,7 @@
         ],
         "source_count": 16,
         "ai_24h": 54,
-        "raw_24h": 370
+        "raw_24h": 373
       },
       {
         "id": "horizon",
@@ -7003,11 +7298,11 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "fetch_item_count": 3040,
-      "raw_24h": 2828,
-      "ai_24h": 795,
-      "ai_hit_rate": 0.281,
-      "duration_ms": 1841,
+      "fetch_item_count": 2859,
+      "raw_24h": 2790,
+      "ai_24h": 793,
+      "ai_hit_rate": 0.284,
+      "duration_ms": 1762,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7017,23 +7312,10 @@
       "site_name": "Buzzing",
       "ok": true,
       "fetch_item_count": 744,
-      "raw_24h": 1574,
-      "ai_24h": 442,
-      "ai_hit_rate": 0.281,
-      "duration_ms": 429,
-      "decision": "keep",
-      "decision_reason": "高信号源，建议保留",
-      "error": null
-    },
-    {
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "ok": true,
-      "fetch_item_count": 366,
-      "raw_24h": 853,
-      "ai_24h": 226,
-      "ai_hit_rate": 0.265,
-      "duration_ms": 13453,
+      "raw_24h": 1593,
+      "ai_24h": 456,
+      "ai_hit_rate": 0.286,
+      "duration_ms": 294,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7043,10 +7325,23 @@
       "site_name": "TechURLs",
       "ok": true,
       "fetch_item_count": 405,
-      "raw_24h": 414,
-      "ai_24h": 175,
-      "ai_hit_rate": 0.423,
-      "duration_ms": 459,
+      "raw_24h": 496,
+      "ai_24h": 243,
+      "ai_hit_rate": 0.49,
+      "duration_ms": 475,
+      "decision": "keep",
+      "decision_reason": "高信号源，建议保留",
+      "error": null
+    },
+    {
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "ok": true,
+      "fetch_item_count": 369,
+      "raw_24h": 887,
+      "ai_24h": 243,
+      "ai_hit_rate": 0.274,
+      "duration_ms": 13967,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7055,11 +7350,11 @@
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "fetch_item_count": 70,
-      "raw_24h": 71,
-      "ai_24h": 65,
-      "ai_hit_rate": 0.915,
-      "duration_ms": 674,
+      "fetch_item_count": 74,
+      "raw_24h": 76,
+      "ai_24h": 67,
+      "ai_hit_rate": 0.882,
+      "duration_ms": 412,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7069,10 +7364,23 @@
       "site_name": "NewsNow",
       "ok": true,
       "fetch_item_count": 146,
-      "raw_24h": 209,
-      "ai_24h": 46,
-      "ai_hit_rate": 0.22,
+      "raw_24h": 214,
+      "ai_24h": 50,
+      "ai_hit_rate": 0.234,
       "duration_ms": 699,
+      "decision": "keep",
+      "decision_reason": "高信号源，建议保留",
+      "error": null
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "ok": true,
+      "fetch_item_count": 50,
+      "raw_24h": 45,
+      "ai_24h": 44,
+      "ai_hit_rate": 0.978,
+      "duration_ms": 1447,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7085,20 +7393,7 @@
       "raw_24h": 43,
       "ai_24h": 43,
       "ai_hit_rate": 1.0,
-      "duration_ms": 1866,
-      "decision": "keep",
-      "decision_reason": "高信号源，建议保留",
-      "error": null
-    },
-    {
-      "site_id": "aihot",
-      "site_name": "AI HOT",
-      "ok": true,
-      "fetch_item_count": 50,
-      "raw_24h": 35,
-      "ai_24h": 35,
-      "ai_hit_rate": 1.0,
-      "duration_ms": 1336,
+      "duration_ms": 1407,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7107,11 +7402,11 @@
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "fetch_item_count": 2127,
+      "fetch_item_count": 2128,
       "raw_24h": 33,
-      "ai_24h": 18,
-      "ai_hit_rate": 0.545,
-      "duration_ms": 7217,
+      "ai_24h": 17,
+      "ai_hit_rate": 0.515,
+      "duration_ms": 6426,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7121,10 +7416,10 @@
       "site_name": "Follow Builders",
       "ok": true,
       "fetch_item_count": 22,
-      "raw_24h": 16,
-      "ai_24h": 8,
+      "raw_24h": 14,
+      "ai_24h": 7,
       "ai_hit_rate": 0.5,
-      "duration_ms": 43,
+      "duration_ms": 30,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7133,11 +7428,11 @@
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "fetch_item_count": 204,
+      "fetch_item_count": 205,
       "raw_24h": 6,
-      "ai_24h": 4,
-      "ai_hit_rate": 0.667,
-      "duration_ms": 5895,
+      "ai_24h": 5,
+      "ai_hit_rate": 0.833,
+      "duration_ms": 11965,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7150,7 +7445,7 @@
       "raw_24h": 1,
       "ai_24h": 1,
       "ai_hit_rate": 1.0,
-      "duration_ms": 511,
+      "duration_ms": 291,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7163,7 +7458,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 227,
+      "duration_ms": 228,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -7176,7 +7471,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 1058,
+      "duration_ms": 938,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
