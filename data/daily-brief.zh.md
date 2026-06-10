@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-09T23:53:58.188847Z
-- 24小时AI信号：2210 条
+- 生成时间：2026-06-10T04:38:06.721549Z
+- 24小时AI信号：2425 条
 - 源健康：14/14
-- 原始抓取：7041 条
+- 原始抓取：7287 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude Fable 5 正式发布：Mythos 5 加入安全分类器后开放，多项基准 SOTA](https://mp.weixin.qq.com/s/DPqAc9vrO0VtbovwxvDusw)
-   - 时间：2小时前
-   - 来源：AI HOT
+1. [​Anthropic正式推出全新Claude Mythos系列Fable5 模型](https://www.aibase.com/news/28804)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Claude Fable 5 基准测试出色，Mythos 5 安全版发布](https://x.com/testingcatalog/status/2064443025615380658)
-   - 时间：3小时前
-   - 来源：AI HOT
+2. [讯飞星火医疗大模型 V3.5 正式亮相](https://www.aibase.com/news/28800)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Claude Code 团队 Thariq 分享提升 Claude Code 效率的十条建议](https://x.com/rohanpaul_ai/status/2064425086409679358)
-   - 时间：4小时前
-   - 来源：AI HOT
+3. [微软AI首席执行官苏莱曼抨击Anthropic:推测Claude具有意识极其危险](https://www.aibase.com/news/28798)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [NotebookLM 笔记本功能在 Gemini App 欧洲全面上线](https://x.com/NotebookLM/status/2064410506287538387)
-   - 时间：5小时前
-   - 来源：AI HOT
+4. [告别“翻译腔”：Gemini 3.5 实时语音翻译模型正式发布](https://www.aibase.com/news/28794)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [系统卡：Claude Fable 5 和 Claude Mythos 5 【pdf】](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf)
-   - 时间：6小时前
-   - 来源：AI HOT
+5. [Anthropic 发布最新 Claude模型Fable 5/Mythos 5，安全与效能的平衡之道](https://www.aibase.com/news/28791)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [在 AgentsView 中为 Claude Fable 5 设置自定义价格](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price)
-   - 时间：2小时前
-   - 来源：AI HOT
+6. [微软AI负责人批评Anthropic设计思路：引导AI产生“自我意识”极度危险](https://www.aibase.com/news/28803)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Claude Managed Agents 新增定时运行和环境变量存储功能](https://claude.com/blog/whats-new-in-claude-managed-agents)
-   - 时间：2小时前
-   - 来源：AI HOT
+7. [AI 编程新势力：Lovable 狂飙，年化营收突破 5 亿美元](https://www.aibase.com/news/28801)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Mythos 5 智能体因资源互相杀戮](https://x.com/AISafetyMemes/status/2064435128479400270)
-   - 时间：4小时前
-   - 来源：AI HOT
+8. [仅需 10 秒！美团Tabbit 1. 0 上线，重塑AI Agent办公闭环](https://www.aibase.com/news/28797)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Hugging Face 博客发布语音智能体代码切换基准测试](https://huggingface.co/blog/ServiceNow-AI/code-switching)
-   - 时间：4小时前
-   - 来源：AI HOT
+9. [谷歌下调 Google AI Plus 月费至4.99美元，存储空间翻倍至400GB](https://www.aibase.com/news/28792)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenRouter 推出 Advisor 工具：让低成本模型可随时调用强模型增强生成](https://openrouter.ai/blog/advisor-server-tool)
-   - 时间：5小时前
-   - 来源：AI HOT
+10. [苹果 Siri AI 在欧盟遭遇瓶颈，无法上线引发争议](https://www.aibase.com/news/28789)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [Cursor Evals 新增成本与输出 Token 图表](https://x.com/ericzakariasson/status/2064404502053294565)
-   - 时间：6小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Ex Vivo：多样细胞状态提升AI疗法匹配](https://x.com/MSFTResearch/status/2064384745195118817)
-   - 时间：7小时前
+   - 时间：今天 00:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [GPT-5.5 替代 OCR，ChinaRxiv 论文免费开放](https://x.com/OpenAIDevs/status/2064346891673059484)
-   - 时间：9小时前
+   - 时间：昨天 22:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [连豆包都收费了？掌握这7招，花最少的Token办最多的事！](https://www.uisdc.com/token-mastery)
-   - 时间：1分钟前
-   - 来源：TopHub
+14. [【分享发现】 如何让 OpenClaw 自动追踪 AI 前沿论文和 GitHub Trending](https://www.v2ex.com/t/1219318)
+   - 时间：58分钟前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [“人工智能工具可能会导致天体物理学的死亡”：研究人员预测数千名研究黑洞、星系和超新星的人的前景黯淡](https://www.techradar.com/pro/ai-tools-could-lead-to-nothing-less-than-the-death-of-astrophysics-researchers-predict-bleak-future-for-thousands-who-study-black-holes-galaxies-and-supernovae)
+15. [Anthropic 故意让其基于 Mythos 的新模型在人工智能研究方面表现不佳，这让开发者们怒不可遏](https://www.businessinsider.com/researchers-furious-anthropic-mythos-fable-hidden-ai-limits-2026-6)
    - 时间：1小时前
-   - 来源：TechURLs
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Super Micro 计划通过股权融资 70 亿美元用于 AI 服务器组件采购](https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment)
-   - 时间：2小时前
-   - 来源：AI HOT
+16. [氛围编码初创公司Lovable年化收入超5亿美元，周增项目达100万个](https://www.aibase.com/news/28793)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Apollo 与 Blackstone 联手 350 亿美元 AI 融资交易](https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video)
-   - 时间：6小时前
-   - 来源：AI HOT
+17. [350 亿美元入场：博通联手金融巨头，重塑 AI 算力基建版图](https://www.aibase.com/news/28790)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Google DeepMind 欧洲机器人加速器启动，15家初创公司入选](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe)
-   - 时间：9小时前
-   - 来源：Official AI Updates
-   - 评分：10.0/10 · matched_tracked_ai_keyword
-19. [Google DeepMind 欧洲机器人加速器启动，15家初创公司入选](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe)
-   - 时间：9小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [百度搭子DuMate获中国信通院企业级Claw能力评估最高4+级](https://mp.weixin.qq.com/s/lv99XfrRtMMgiOflcT67VA)
-   - 时间：11小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-
-### 实践技巧与观点
-
-21. [IBM CEO：AI不一定导致员工减少](https://www.bloomberg.com/news/videos/2026-06-09/ibm-ceo-ai-won-t-necessarily-lead-to-smaller-headcount-video)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [World Labs与Lore合作打造互动体验](https://x.com/drfeifei/status/2064387365930676695)
+18. [Super Micro 计划通过股权融资 70 亿美元用于 AI 服务器组件采购](https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment)
    - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [Luma AI Ray3.2：方向进，电影出](https://x.com/LumaLabsAI/status/2064358414143143954)
-   - 时间：9小时前
+19. [Apollo 与 Blackstone 联手 350 亿美元 AI 融资交易](https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video)
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Runway视频轻松转宽高比](https://x.com/runwayml/status/2064350871048077756)
-   - 时间：9小时前
-   - 来源：AI HOT
+20. [Google DeepMind 欧洲机器人加速器启动，15家初创公司入选](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe)
+   - 时间：昨天 22:02
+   - 来源：Official AI Updates
+   - 评分：10.0/10 · matched_tracked_ai_keyword
+
+### 实践技巧与观点
+
+21. [腾讯光子曝光内部打磨 4 年的 AI 游戏资产生成平台Light AI，试图打通"单点生成"到工业化管线的最后一公里](https://www.aibase.com/news/28806)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Kimi 预测全部104场世界杯比赛：德国或被低估](https://x.com/Kimi_Moonshot/status/2064311212243120459)
-   - 时间：昨天 19:38
-   - 来源：AI HOT
+22. [人工智能引发军方合作风波：美民主党议员紧急推动法案限制军 事AI](https://www.aibase.com/news/28805)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [搜索迎来变革!谷歌将向所有用户免费开放AI模式“交互式图表”功能](https://www.aibase.com/news/28802)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [欧盟 Meta 解除对 AI 竞争者的 WhatsApp 接入限制](https://www.aibase.com/news/28799)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [苹果 iPhone 国行机型升级 iOS 27 后推出 AI 壁纸图功能](https://www.aibase.com/news/28796)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 844/3052 | 27.7% | 高信号源，建议保留 |
-| Buzzing | 540/1780 | 30.3% | 高信号源，建议保留 |
-| Info Flow | 292/928 | 31.5% | 高信号源，建议保留 |
-| TechURLs | 220/524 | 42.0% | 高信号源，建议保留 |
-| AI HOT | 58/59 | 98.3% | 高信号源，建议保留 |
-| Zeli | 57/66 | 86.4% | 高信号源，建议保留 |
-| NewsNow | 44/226 | 19.5% | 高信号源，建议保留 |
-| AIbase | 36/36 | 100.0% | 高信号源，建议保留 |
+| TopHub | 1046/3632 | 28.8% | 高信号源，建议保留 |
+| Buzzing | 553/1801 | 30.7% | 高信号源，建议保留 |
+| Info Flow | 282/911 | 31.0% | 高信号源，建议保留 |
+| TechURLs | 219/517 | 42.4% | 高信号源，建议保留 |
+| AIbase | 56/56 | 100.0% | 高信号源，建议保留 |
+| Zeli | 56/68 | 82.4% | 高信号源，建议保留 |
+| AI HOT | 49/51 | 96.1% | 高信号源，建议保留 |
+| NewsNow | 46/217 | 21.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
