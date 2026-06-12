@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-12T05:17:51.938713Z
-- 24小时AI信号：2075 条
+- 生成时间：2026-06-12T09:45:45.744308Z
+- 24小时AI信号：2011 条
 - 源健康：14/14
-- 原始抓取：7315 条
+- 原始抓取：7372 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [迫于社区反对 Anthropic调整Claude Fable5 限制机制](https://www.aibase.com/news/28877)
+1. [讯飞医疗正式发布星火医疗大模型V3.5](https://www.aibase.com/news/28893)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [追觅生态品牌Eclix将于9月发布首款无App AI手机，定价5000元以上](https://www.aibase.com/news/28876)
+2. [​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍](https://www.aibase.com/news/28887)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [AI HOT 日报 · 2026-06-12 — Gemini Omni Flash 视频任务达 SOTA](https://aihot.virxact.com/daily/2026-06-12)
-   - 时间：5小时前
-   - 来源：AI HOT
+3. [余承东：大模型战场无第二，华为盘古全面进阶2.0](https://www.aibase.com/news/28886)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Anthropic与DXC达成全球联盟，将Claude引入关键行业系统](https://www.anthropic.com/news/dxc-anthropic-alliance)
-   - 时间：11小时前
-   - 来源：AI HOT
+4. [迫于社区反对 Anthropic调整Claude Fable5 限制机制](https://www.aibase.com/news/28877)
+   - 时间：4小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Gemini Omni Flash 视频任务达 SOTA](https://x.com/OfficialLoganK/status/2065118111360303414)
-   - 时间：今天 01:05
-   - 来源：AI HOT
+5. [追觅生态品牌Eclix将于9月发布首款无App AI手机，定价5000元以上](https://www.aibase.com/news/28876)
+   - 时间：4小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI开启Codex推广活动，邀请好友即可重置使用额度](https://www.aibase.com/news/28874)
+6. [通义千问上线足球预测AI助手 连红牌和绝杀都能算准?](https://www.aibase.com/news/28891)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [​苹果明确立场：新版Siri AI主打实用 不做情感陪伴类AI伴侣](https://www.aibase.com/news/28873)
+7. [AI智能体“失控”边缘：Claude Fable5 的自主调试初体验](https://www.aibase.com/news/28888)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [让小店用上大连锁的智能大脑，高德问店上线AI能力开放调用](https://www.aibase.com/news/28871)
+8. [苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线](https://www.aibase.com/news/28885)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Deezer发布免费AI音乐检测工具，支持跨平台扫描27种语言播放列表](https://www.aibase.com/news/28867)
+9. [总规模17.5亿元！IDC首发中国智能体开发平台市场份额报告](https://www.aibase.com/news/28881)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [AI代你买单？Visa联手OpenAI，彻底重塑购物体验](https://www.aibase.com/news/28865)
-   - 时间：1分钟前
+10. [OpenAI开启Codex推广活动，邀请好友即可重置使用额度](https://www.aibase.com/news/28874)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器](https://www.kennethpayne.uk/p/shall-we-play-a-game)
-   - 时间：6小时前
-   - 来源：AI HOT
+11. [​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著](https://www.aibase.com/news/28890)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Perplexity Computer 集成 Deep Research](https://x.com/perplexity_ai/status/2065124930463916317)
+12. [研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器](https://www.kennethpayne.uk/p/shall-we-play-a-game)
    - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Show HN: AI评测——ChatGPT、Claude、Gemini和Perplexity并行对比](https://aiverdict.github.io)
-   - 时间：3小时前
+13. [Perplexity Computer 集成 Deep Research](https://x.com/perplexity_ai/status/2065124930463916317)
+   - 时间：今天 01:32
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [马克·扎克伯格表示，只需至少十几位“顶尖”的人工智能研究人员就能实现突破](https://www.businessinsider.com/mark-zuckerberg-dozen-ai-researchers-drive-breakthroughs-biohub-2026-6)
+   - 时间：49分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [研究显示：随着犯罪分子将人工智能作为作案工具，合成身份欺诈案件激增](https://finance.yahoo.com/markets/crypto/articles/synthetic-identity-fraud-surges-criminals-154724071.html)
-   - 时间：5小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [人工智能研究揭示全球气候计划中存在严重不平等](https://phys.org/news/2026-06-ai-reveals-stark-inequalities-global.html)
-   - 时间：6小时前
-   - 来源：Buzzing
+15. [【程序员】 用 Fable 打败 Fable: 效仿云天明成功突破 Claude Fable 5 的研究审查](https://www.v2ex.com/t/1219947)
+   - 时间：1小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [降低门槛、自带生态:腾讯内测“TDream”欲重构视频生产体验](https://www.aibase.com/news/28878)
+16. [月之暗面Kimi拟发行融合算力服务的AI原生信用卡](https://www.aibase.com/news/28884)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片](https://www.aibase.com/news/28875)
+17. [母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？](https://www.aibase.com/news/28880)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [芯片巨头也“触电”：SK海力士拟引入ChatGPT推动工作流革命](https://www.aibase.com/news/28872)
-   - 时间：1分钟前
+18. [降低门槛、自带生态:腾讯内测“TDream”欲重构视频生产体验](https://www.aibase.com/news/28878)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持](https://www.aibase.com/news/28870)
-   - 时间：1分钟前
+19. [​全球芯片产能紧张 谷歌计划联合三星代工新一代AI芯片](https://www.aibase.com/news/28875)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单](https://www.aibase.com/news/28868)
-   - 时间：1分钟前
+20. [芯片巨头也“触电”：SK海力士拟引入ChatGPT推动工作流革命](https://www.aibase.com/news/28872)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [Meta正式启动剥离Manus:建立数据防火墙，创始人拟筹资10亿美元回购](https://www.aibase.com/news/28869)
+21. [​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题](https://www.aibase.com/news/28892)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Meta旗下视频编辑应用Edits推出AI创作助手与桌面版](https://www.aibase.com/news/28866)
+22. [大众点评加码内容生态建设 强化AIGC虚假评价治理](https://www.aibase.com/news/28883)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [大众点评重拳出击：严打AI灌水，力保真实评价生态](https://www.aibase.com/news/28863)
+23. [​SK集团拟在日本新建AI工厂 计划两三年内投产运营](https://www.aibase.com/news/28882)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [qiaomu-ai-prd：面向AI的PRD生成Prompt](https://x.com/vista8/status/2065264509170876417)
-   - 时间：2小时前
-   - 来源：AI HOT
+24. [腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移](https://www.aibase.com/news/28879)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环](https://x.com/shao__meng/status/2065234132431675439)
+25. [Meta正式启动剥离Manus:建立数据防火墙，创始人拟筹资10亿美元回购](https://www.aibase.com/news/28869)
    - 时间：4小时前
-   - 来源：AI HOT
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 939/3217 | 29.2% | 高信号源，建议保留 |
-| Buzzing | 459/1619 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 234/845 | 27.7% | 高信号源，建议保留 |
-| TechURLs | 166/422 | 39.3% | 高信号源，建议保留 |
-| Zeli | 62/73 | 84.9% | 高信号源，建议保留 |
-| NewsNow | 45/191 | 23.6% | 高信号源，建议保留 |
-| AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 26/29 | 89.7% | 高信号源，建议保留 |
+| TopHub | 896/3052 | 29.4% | 高信号源，建议保留 |
+| Buzzing | 440/1617 | 27.2% | 高信号源，建议保留 |
+| Info Flow | 235/820 | 28.7% | 高信号源，建议保留 |
+| TechURLs | 148/379 | 39.1% | 高信号源，建议保留 |
+| Zeli | 66/75 | 88.0% | 高信号源，建议保留 |
+| NewsNow | 45/192 | 23.4% | 高信号源，建议保留 |
+| AIbase | 41/41 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 25/27 | 92.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
