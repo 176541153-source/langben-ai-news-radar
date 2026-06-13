@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-13T21:23:51.709315Z
-- 24小时AI信号：1624 条
+- 生成时间：2026-06-13T22:39:26.988734Z
+- 24小时AI信号：1655 条
 - 源健康：14/14
-- 原始抓取：7077 条
+- 原始抓取：7048 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Anthropic 因美国政府命令禁用 Claude Fable 5 和 Mythos 5](https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [Fusion API：半价达Fable级智能](https://x.com/OpenRouter/status/2065856853989270011)
-   - 时间：3小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建](https://github.com/DanMcInerney/architect-loop)
    - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建](https://github.com/DanMcInerney/architect-loop)
+   - 时间：5小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Anthropic 秘密申请上市，估值 9650 亿美元](https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [Anthropic的安全警告可能适得其反--政府已撤回其最强大AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做](https://www.thepaper.cn/newsDetail_forward_33369600)
-   - 时间：今天 05:24
+   - 时间：今天 06:40
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [AI+CV 论文 | arXiv 2026 | NEWTON：把「牛顿」请进 Agent 工具箱 —— 从「提示词驱动」到「物理规划」](https://hub.baai.ac.cn/view/55513)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [据报道，一份关于人工智能好处的报告充满了人工智能幻觉](https://www.engadget.com/2193679/kpmg-paper-ai-hallucinations)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -95,15 +95,15 @@
    - 时间：06-12 10:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [副驾驶代码审查：新的配置和控制](https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls)
-   - 时间：昨天 05:37
-   - 来源：Official AI Updates
-   - 评分：9.5/10 · matched_tracked_internet_keyword
+20. [万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”](https://www.cls.cn/detail/2399065)
+   - 时间：今天 06:40
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [Suno 音轨分离：从零生成更纯净](https://x.com/suno/status/2065862499765821916)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [谷歌Android安全负责人因反对军事AI合作辞职](https://www.ithome.com/0/963/888.htm)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 760/2971 | 25.6% | 高信号源，建议保留 |
-| Buzzing | 437/1403 | 31.1% | 高信号源，建议保留 |
-| Info Flow | 158/622 | 25.4% | 高信号源，建议保留 |
-| TechURLs | 76/257 | 29.6% | 高信号源，建议保留 |
+| TopHub | 814/3137 | 25.9% | 高信号源，建议保留 |
+| Buzzing | 419/1346 | 31.1% | 高信号源，建议保留 |
+| Info Flow | 156/607 | 25.7% | 高信号源，建议保留 |
+| TechURLs | 77/248 | 31.0% | 高信号源，建议保留 |
 | Zeli | 60/67 | 89.6% | 高信号源，建议保留 |
-| NewsNow | 24/132 | 18.2% | 高信号源，建议保留 |
+| NewsNow | 22/127 | 17.3% | 高信号源，建议保留 |
 | AI HOT | 15/15 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 8/10 | 80.0% | 高信号源，建议保留 |
 
