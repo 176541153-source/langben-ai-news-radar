@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-13T00:23:29.766115Z
-- 24小时AI信号：1892 条
+- 生成时间：2026-06-13T05:07:26.132902Z
+- 24小时AI信号：2103 条
 - 源健康：14/14
-- 原始抓取：6274 条
+- 原始抓取：7258 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [如何在OpenRouter上获得最低成本的LLM推理](https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter)
-   - 时间：8小时前
+   - 时间：今天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [MiniMax M3 开源权重模型发布，已上架 HuggingFace](https://x.com/MiniMax_AI/status/2065436935188058208)
-   - 时间：10小时前
+   - 时间：昨天 22:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Kimi 发布并开源最新代码模型 Kimi-K2.7-Code](https://x.com/Kimi_Moonshot/status/2065377579130142937)
@@ -33,31 +33,31 @@
 
 ### 产品与开发者工具
 
-6. [Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业](https://www.anthropic.com/news/anthropic-public-record)
-   - 时间：8小时前
+6. [Anthropic的安全警告可能适得其反--政府已撤回其最强大AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [字节豆包上线"任务模式"：支持定时执行与文件生成，"思考模式"升级为"专家模式"](https://www.ithome.com/0/963/725.htm)
-   - 时间：8小时前
+7. [关于美国政府指令暂停访问Fable 5和Mythos 5的声明](https://www.anthropic.com/news/fable-mythos-access)
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [通义千问上线足球预测AI助手 连红牌和绝杀都能算准?](https://www.aibase.com/news/28891)
-   - 时间：昨天 17:45
-   - 来源：AIbase
+8. [OpenAI 遭多州总检察长联合调查](https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general)
+   - 时间：4小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [AI智能体“失控”边缘：Claude Fable5 的自主调试初体验](https://www.aibase.com/news/28888)
-   - 时间：昨天 17:45
-   - 来源：AIbase
+9. [Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业](https://www.anthropic.com/news/anthropic-public-record)
+   - 时间：今天 00:14
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线](https://www.aibase.com/news/28885)
-   - 时间：昨天 17:45
-   - 来源：AIbase
+10. [Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由](https://openrouter.ai/blog/tutorials/hermes-agent)
+   - 时间：今天 00:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [olmo-eval：面向模型开发循环的评估工作台](https://huggingface.co/blog/allenai/olmo-eval)
-   - 时间：8小时前
+   - 时间：昨天 23:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著](https://www.aibase.com/news/28890)
@@ -73,14 +73,14 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [olmo-eval：面向模型开发循环的评估工作台](https://huggingface.co/blog/allenai/olmo-eval)
-   - 时间：8小时前
+   - 时间：昨天 23:56
    - 来源：Official AI Updates
    - 评分：9.5/10 · matched_ai_signal
 
 ### 产业、算力与机器人
 
 16. [Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味](https://x.com/oran_ge/status/2065566882774868125)
-   - 时间：1小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [OpenAI 推出面向新时代工作的新 Academy 课程](https://openai.com/index/academy-courses-applying-ai-at-work)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 771/2879 | 26.8% | 高信号源，建议保留 |
-| Buzzing | 492/1675 | 29.4% | 高信号源，建议保留 |
-| Info Flow | 225/800 | 28.1% | 高信号源，建议保留 |
-| TechURLs | 156/433 | 36.0% | 高信号源，建议保留 |
-| Zeli | 74/84 | 88.1% | 高信号源，建议保留 |
+| TopHub | 974/3495 | 27.9% | 高信号源，建议保留 |
+| Buzzing | 495/1639 | 30.2% | 高信号源，建议保留 |
+| Info Flow | 219/755 | 29.0% | 高信号源，建议保留 |
+| TechURLs | 160/438 | 36.5% | 高信号源，建议保留 |
+| Zeli | 77/86 | 89.5% | 高信号源，建议保留 |
+| NewsNow | 35/156 | 22.4% | 高信号源，建议保留 |
 | AIbase | 31/31 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 31/144 | 21.5% | 高信号源，建议保留 |
-| OPML RSS | 13/23 | 56.5% | 高信号源，建议保留 |
+| OPML RSS | 16/28 | 57.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
