@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-14T08:54:32.387259Z
-- 24小时AI信号：1434 条
+- 生成时间：2026-06-14T11:35:03.217029Z
+- 24小时AI信号：1407 条
 - 源健康：14/14
 - 原始抓取：7252 条
 
@@ -10,31 +10,31 @@
 
 ### 模型发布与能力更新
 
-1. [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
+1. [Anthropic 暂停新模型访问，印度辩论 AI 未来](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
    - 时间：今天 02:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
+3. [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
    - 时间：昨天 14:19
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [如何在OpenRouter上获得最低成本的LLM推理](https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter)
+4. [OpenRouter 模型路由工作原理](https://openrouter.ai/blog/insights/model-routing)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [MiniMax M3 开源权重模型发布，已上架 HuggingFace](https://x.com/MiniMax_AI/status/2065436935188058208)
-   - 时间：06-12 22:11
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Kimi 发布并开源最新代码模型 Kimi-K2.7-Code](https://x.com/Kimi_Moonshot/status/2065377579130142937)
-   - 时间：06-12 18:16
+5. [如何在OpenRouter上获得最低成本的LLM推理](https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter)
+   - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [Anthropic 上市前夕](https://x.com/xiaohu/status/2065991805238497732)
-   - 时间：5小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Fusion API：半价达Fable级智能](https://x.com/OpenRouter/status/2065856853989270011)
@@ -60,43 +60,43 @@
    - 时间：06-12 23:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器](https://www.kennethpayne.uk/p/shall-we-play-a-game)
-   - 时间：06-12 06:23
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [大家都认为这是某种4D棋或者阴谋。但尝试越狱人工智能模型是相当标准的，而且根据定义，他们会与政府分享这项研究，因为这就是重点。我不...](https://x.com/levie/status/2065964446489710939)
-   - 时间：7小时前
+12. [大家都认为这是某种4D棋或者阴谋。但尝试越狱人工智能模型是相当标准的，而且根据定义，他们会与政府分享这项研究，因为这就是重点。我不...](https://x.com/levie/status/2065964446489710939)
+   - 时间：10小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？](https://www.zhihu.com/question/2037135692707390495)
-   - 时间：3小时前
+13. [作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？](https://www.zhihu.com/question/2037135692707390495)
+   - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [劳工研究员莫莉·金德 (Molly Kinder) 就她最近广泛讨论的“混乱的中间”文章进行了问答，该文章涉及人工智能驱动的知识型工作中断以及如何解决该问题（Casey Newton/Platformer）](https://www.techmeme.com/260613/p15)
-   - 时间：8小时前
+14. [劳工研究员莫莉·金德 (Molly Kinder) 就她最近广泛讨论的“混乱的中间”文章进行了问答，该文章涉及人工智能驱动的知识型工作中断以及如何解决该问题（Casey Newton/Platformer）](https://www.techmeme.com/260613/p15)
+   - 时间：11小时前
    - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [据报道，亚马逊的安全研究导致白宫禁止了Anthropic Fable - The Verge](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzA4SFMyal9QUWlFc3BHak93MzY0d0trVVRTV1V6eVZOM3k5Tkg5X1FsY2pUQmZHR3FjVUVXSzQ2SmFabWpwbUlRejIyZW9sQXBEU1NEWW1sQlktdHRxN3k2SXNEc2xZNmpMMVFWdXJoMUpTLWh2XzJ2ZzlWQnBNTC13dUM3Q0RaR3lSR3V2bm5xcTJtRnR4cmQ5V25wZlpQZVBveg?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：今天 07:26
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Meta 开始撤销 20 亿美元收购 Manus 的交易](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味](https://x.com/oran_ge/status/2065566882774868125)
    - 时间：昨天 06:48
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [OpenAI 推出面向新时代工作的新 Academy 课程](https://openai.com/index/academy-courses-applying-ai-at-work)
+18. [Pokémon Go玩家无意中为军用无人机技术贡献数据，引发持续审视](https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses)
+   - 时间：06-12 19:15
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [OpenAI 推出面向新时代工作的新 Academy 课程](https://openai.com/index/academy-courses-applying-ai-at-work)
    - 时间：06-12 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [小互开源公众号自动排版技能组合](https://x.com/xiaohu/status/2065278092441268246)
+20. [小互开源公众号自动排版技能组合](https://x.com/xiaohu/status/2065278092441268246)
    - 时间：06-12 11:40
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪](https://www.ithome.com/0/963/302.htm)
-   - 时间：06-12 10:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -118,8 +118,8 @@
    - 时间：昨天 14:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [qiaomu-ai-prd：面向AI的PRD生成Prompt](https://x.com/vista8/status/2065264509170876417)
-   - 时间：06-12 10:46
+25. [今年价值1300亿美元的数据中心项目因抗议被叫停](https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year)
+   - 时间：昨天 01:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 695/2785 | 25.0% | 高信号源，建议保留 |
-| Buzzing | 358/1244 | 28.8% | 高信号源，建议保留 |
-| Info Flow | 129/582 | 22.2% | 高信号源，建议保留 |
-| Zeli | 65/74 | 87.8% | 高信号源，建议保留 |
-| TechURLs | 64/228 | 28.1% | 高信号源，建议保留 |
-| NewsNow | 20/129 | 15.5% | 高信号源，建议保留 |
+| TopHub | 686/2737 | 25.1% | 高信号源，建议保留 |
+| Buzzing | 339/1218 | 27.8% | 高信号源，建议保留 |
+| Info Flow | 132/575 | 23.0% | 高信号源，建议保留 |
+| TechURLs | 68/220 | 30.9% | 高信号源，建议保留 |
+| Zeli | 62/69 | 89.9% | 高信号源，建议保留 |
+| NewsNow | 22/137 | 16.1% | 高信号源，建议保留 |
 | Follow Builders | 9/25 | 36.0% | 高信号源，建议保留 |
 | AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
 
