@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-14T18:18:48.178355Z
-- 24小时AI信号：1432 条
+- 生成时间：2026-06-14T20:08:07.097747Z
+- 24小时AI信号：1430 条
 - 源健康：14/14
-- 原始抓取：7191 条
+- 原始抓取：7055 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [乔木小说创作 Skill 开源发布](https://x.com/vista8/status/2066165703443726749)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Anthropic 暂停新模型访问，印度辩论 AI 未来](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future)
@@ -22,19 +22,19 @@
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
-   - 时间：昨天 02:22
+4. [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
+   - 时间：06-13 14:19
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
-   - 时间：06-13 14:19
+5. [OpenRouter 模型路由工作原理](https://openrouter.ai/blog/insights/model-routing)
+   - 时间：06-13 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [白宫AI监管决定被指偏袒OpenAI与亚马逊](https://garymarcus.substack.com/p/what-washington-must-do)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Anthropic 上市前夕](https://x.com/xiaohu/status/2065991805238497732)
@@ -65,22 +65,22 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 13. [AI热潮来袭，别被“错失恐惧症”裹挟](https://www.thepaper.cn/newsDetail_forward_33376684)
-   - 时间：今天 02:20
+   - 时间：今天 04:09
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Show HN: 里程碑式的AI与机器学习研究：图解、重绘与动画演示](https://research.rudrite.com)
-   - 时间：44分钟前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [欧盟表示正在研究美国限制 Anthropic 模型的实际后果，并指出此类措施“不应歧视合作伙伴”（路透社）](https://www.techmeme.com/260614/p9)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Satya Nadella：没有生态的前沿不稳定](https://x.com/satyanadella/status/2066182223213293753)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Meta 开始撤销 20 亿美元收购 Manus 的交易](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 691/2731 | 25.3% | 高信号源，建议保留 |
-| Buzzing | 354/1203 | 29.4% | 高信号源，建议保留 |
-| Info Flow | 138/563 | 24.5% | 高信号源，建议保留 |
-| TechURLs | 65/223 | 29.1% | 高信号源，建议保留 |
-| Zeli | 61/70 | 87.1% | 高信号源，建议保留 |
-| NewsNow | 25/158 | 15.8% | 高信号源，建议保留 |
-| AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 7/17 | 41.2% | 高信号源，建议保留 |
+| TopHub | 684/2710 | 25.2% | 高信号源，建议保留 |
+| Buzzing | 360/1216 | 29.6% | 高信号源，建议保留 |
+| Info Flow | 140/570 | 24.6% | 高信号源，建议保留 |
+| Zeli | 64/72 | 88.9% | 高信号源，建议保留 |
+| TechURLs | 63/213 | 29.6% | 高信号源，建议保留 |
+| NewsNow | 24/154 | 15.6% | 高信号源，建议保留 |
+| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 6/15 | 40.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
