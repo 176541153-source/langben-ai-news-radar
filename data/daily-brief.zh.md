@@ -1,32 +1,32 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-14T13:16:36.410722Z
-- 24小时AI信号：1390 条
+- 生成时间：2026-06-14T15:27:21.986925Z
+- 24小时AI信号：1401 条
 - 源健康：14/14
-- 原始抓取：7244 条
+- 原始抓取：7265 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Anthropic 暂停新模型访问，印度辩论 AI 未来](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future)
-   - 时间：10小时前
+1. [乔木小说创作 Skill 开源发布](https://x.com/vista8/status/2066165703443726749)
+   - 时间：59分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
+2. [Anthropic 暂停新模型访问，印度辩论 AI 未来](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future)
+   - 时间：今天 11:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
    - 时间：今天 02:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
+4. [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
    - 时间：昨天 14:19
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [OpenRouter 模型路由工作原理](https://openrouter.ai/blog/insights/model-routing)
-   - 时间：昨天 00:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [如何在OpenRouter上获得最低成本的LLM推理](https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter)
+5. [OpenRouter 模型路由工作原理](https://openrouter.ai/blog/insights/model-routing)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Anthropic 上市前夕](https://x.com/xiaohu/status/2065991805238497732)
-   - 时间：10小时前
+   - 时间：今天 10:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Fusion API：半价达Fable级智能](https://x.com/OpenRouter/status/2065856853989270011)
@@ -64,17 +64,17 @@
    - 时间：今天 09:08
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-13. [作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？](https://www.zhihu.com/question/2037135692707390495)
-   - 时间：7小时前
+13. [AI热潮来袭，别被“错失恐惧症”裹挟](https://www.thepaper.cn/newsDetail_forward_33376684)
+   - 时间：今天 23:28
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [欧盟委员会正在研究人为决定的实际后果](https://news.ycombinator.com/item?id=48527574)
+   - 时间：今天 23:27
+   - 来源：NewsNow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？](https://www.zhihu.com/question/2037135692707390495)
+   - 时间：10小时前
    - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [劳工研究员莫莉·金德 (Molly Kinder) 就她最近广泛讨论的“混乱的中间”文章进行了问答，该文章涉及人工智能驱动的知识型工作中断以及如何解决该问题（Casey Newton/Platformer）](https://www.techmeme.com/260613/p15)
-   - 时间：今天 08:25
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [据报道，亚马逊的安全研究导致白宫禁止了Anthropic Fable - The Verge](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzA4SFMyal9QUWlFc3BHak93MzY0d0trVVRTV1V6eVZOM3k5Tkg5X1FsY2pUQmZHR3FjVUVXSzQ2SmFabWpwbUlRejIyZW9sQXBEU1NEWW1sQlktdHRxN3k2SXNEc2xZNmpMMVFWdXJoMUpTLWh2XzJ2ZzlWQnBNTC13dUM3Q0RaR3lSR3V2bm5xcTJtRnR4cmQ5V25wZlpQZVBveg?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：今天 07:26
-   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -91,12 +91,12 @@
    - 时间：06-12 19:15
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [OpenAI 推出面向新时代工作的新 Academy 课程](https://openai.com/index/academy-courses-applying-ai-at-work)
-   - 时间：06-12 18:00
+19. [DeepMind机器人加速器启动15家初创公司](https://x.com/GoogleDeepMind/status/2065388989146628563)
+   - 时间：06-12 19:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [小互开源公众号自动排版技能组合](https://x.com/xiaohu/status/2065278092441268246)
-   - 时间：06-12 11:40
+20. [OpenAI 推出面向新时代工作的新 Academy 课程](https://openai.com/index/academy-courses-applying-ai-at-work)
+   - 时间：06-12 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 674/2703 | 24.9% | 高信号源，建议保留 |
-| Buzzing | 339/1208 | 28.1% | 高信号源，建议保留 |
-| Info Flow | 135/562 | 24.0% | 高信号源，建议保留 |
-| TechURLs | 66/212 | 31.1% | 高信号源，建议保留 |
-| Zeli | 57/63 | 90.5% | 高信号源，建议保留 |
-| NewsNow | 21/135 | 15.6% | 高信号源，建议保留 |
-| Follow Builders | 9/25 | 36.0% | 高信号源，建议保留 |
-| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| TopHub | 674/2767 | 24.4% | 高信号源，建议保留 |
+| Buzzing | 344/1196 | 28.8% | 高信号源，建议保留 |
+| Info Flow | 136/561 | 24.2% | 高信号源，建议保留 |
+| TechURLs | 64/212 | 30.2% | 高信号源，建议保留 |
+| Zeli | 60/67 | 89.6% | 高信号源，建议保留 |
+| NewsNow | 24/150 | 16.0% | 高信号源，建议保留 |
+| Follow Builders | 9/24 | 37.5% | 高信号源，建议保留 |
+| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
