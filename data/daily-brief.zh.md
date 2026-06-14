@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-14T11:35:03.217029Z
-- 24小时AI信号：1407 条
+- 生成时间：2026-06-14T13:16:36.410722Z
+- 24小时AI信号：1390 条
 - 源健康：14/14
-- 原始抓取：7252 条
+- 原始抓取：7244 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 暂停新模型访问，印度辩论 AI 未来](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Anthropic 上市前夕](https://x.com/xiaohu/status/2065991805238497732)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Fusion API：半价达Fable级智能](https://x.com/OpenRouter/status/2065856853989270011)
@@ -61,15 +61,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [大家都认为这是某种4D棋或者阴谋。但尝试越狱人工智能模型是相当标准的，而且根据定义，他们会与政府分享这项研究，因为这就是重点。我不...](https://x.com/levie/status/2065964446489710939)
-   - 时间：10小时前
+   - 时间：今天 09:08
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 13. [作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？](https://www.zhihu.com/question/2037135692707390495)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [劳工研究员莫莉·金德 (Molly Kinder) 就她最近广泛讨论的“混乱的中间”文章进行了问答，该文章涉及人工智能驱动的知识型工作中断以及如何解决该问题（Casey Newton/Platformer）](https://www.techmeme.com/260613/p15)
-   - 时间：11小时前
+   - 时间：今天 08:25
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [据报道，亚马逊的安全研究导致白宫禁止了Anthropic Fable - The Verge](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzA4SFMyal9QUWlFc3BHak93MzY0d0trVVRTV1V6eVZOM3k5Tkg5X1FsY2pUQmZHR3FjVUVXSzQ2SmFabWpwbUlRejIyZW9sQXBEU1NEWW1sQlktdHRxN3k2SXNEc2xZNmpMMVFWdXJoMUpTLWh2XzJ2ZzlWQnBNTC13dUM3Q0RaR3lSR3V2bm5xcTJtRnR4cmQ5V25wZlpQZVBveg?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [Meta 开始撤销 20 亿美元收购 Manus 的交易](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand)
-   - 时间：11小时前
+   - 时间：今天 08:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味](https://x.com/oran_ge/status/2065566882774868125)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 686/2737 | 25.1% | 高信号源，建议保留 |
-| Buzzing | 339/1218 | 27.8% | 高信号源，建议保留 |
-| Info Flow | 132/575 | 23.0% | 高信号源，建议保留 |
-| TechURLs | 68/220 | 30.9% | 高信号源，建议保留 |
-| Zeli | 62/69 | 89.9% | 高信号源，建议保留 |
-| NewsNow | 22/137 | 16.1% | 高信号源，建议保留 |
+| TopHub | 674/2703 | 24.9% | 高信号源，建议保留 |
+| Buzzing | 339/1208 | 28.1% | 高信号源，建议保留 |
+| Info Flow | 135/562 | 24.0% | 高信号源，建议保留 |
+| TechURLs | 66/212 | 31.1% | 高信号源，建议保留 |
+| Zeli | 57/63 | 90.5% | 高信号源，建议保留 |
+| NewsNow | 21/135 | 15.6% | 高信号源，建议保留 |
 | Follow Builders | 9/25 | 36.0% | 高信号源，建议保留 |
 | AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
 
