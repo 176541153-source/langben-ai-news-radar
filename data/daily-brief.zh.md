@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-15T23:21:12.083426Z
-- 24小时AI信号：1836 条
+- 生成时间：2026-06-16T02:10:47.097339Z
+- 24小时AI信号：1849 条
 - 源健康：14/14
-- 原始抓取：7035 条
+- 原始抓取：7233 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [OpenRouter新增免费模型gpt-oss-20b和Gemma4 26B](https://x.com/OpenRouter/status/2066585705581797616)
-   - 时间：5小时前
+1. [输出速度飙升六倍，月之暗面正式上线 Kimi 2.7 Code 高速版大模型](https://www.aibase.com/news/28942)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [国产多模态大模型迎来里程碑，MiniMax M3 正式开源且响应速度倍增](https://www.aibase.com/news/28938)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [成本砍半，字节跳动推出 Seedance 2.0 Mini 视频生成模型](https://www.ithome.com/0/964/672.htm)
+   - 时间：21分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [AI圈大反转：巴西“黑马”模型Rio 3. 5 被曝“套壳”国产大模型](https://www.aibase.com/news/28919)
-   - 时间：昨天 15:30
-   - 来源：AIbase
+4. [OpenRouter新增免费模型gpt-oss-20b和Gemma4 26B](https://x.com/OpenRouter/status/2066585705581797616)
+   - 时间：7小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [越狱风波引发全球封杀，顶尖AI模型Claude Fable5 遭遇“光速下架”](https://www.aibase.com/news/28915)
-   - 时间：昨天 15:30
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [​巴西AI黑马Rio 3. 5 翻车：被指套壳缝合两款国产大模型](https://www.aibase.com/news/28913)
-   - 时间：昨天 15:30
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [烧钱不止，AI大模型厂商陷入“订阅困局”](https://www.aibase.com/news/28910)
+5. [AI圈大反转：巴西“黑马”模型Rio 3. 5 被曝“套壳”国产大模型](https://www.aibase.com/news/28919)
    - 时间：昨天 15:30
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [GitHub Copilot CLI 初学者指南：常用斜杠命令概览](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands)
-   - 时间：3小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Meta 在 Facebook 上线"AI Mode"，基于平台公开信息合成答案](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [下一代投机解码：DFlash 与 Spec V2](https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2)
-   - 时间：5小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [AI合规再升级：Anthropic拟对全量用户实施身份认证](https://www.aibase.com/news/28928)
-   - 时间：9小时前
+6. [支付宝新产品Token Pay，首接最新国产大模型MiniMax M3](https://www.aibase.com/news/28941)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [微信支付发布AI工具箱2.0：不仅能听懂 9 国语言，Token消耗还省一半！](https://www.aibase.com/news/28927)
-   - 时间：9小时前
+7. [​多款生产力工具迎来重磅升级，Adobe 软件生态深度融合端侧与云端 AI](https://www.aibase.com/news/28935)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [极速编程体验：Kimi K2.7 Code 高速版正式上线](https://www.aibase.com/news/28934)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [AI订阅“缩水”风波：消费者质疑Anthropic高端套餐额度虚标](https://www.aibase.com/news/28932)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [​四周内两度败诉！马斯克状告 OpenAI 窃取商业机密被美法官驳回](https://www.aibase.com/news/28931)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [MiniMax 开源 M3 模型权重及 MSA 技术论文](https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww)
-   - 时间：8小时前
+11. [伯克利RDI发布Agents' Last Exam基准](https://rdi.berkeley.edu/blog/agents-last-exam)
+   - 时间：11分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [利用新的开放数据集加速研究人员和开发人员构建多语言人工智能](https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset)
-   - 时间：4小时前
+12. [MiniMax 开源 M3 模型权重及 MSA 技术论文](https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww)
+   - 时间：11小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [利用新的开放数据集加速研究人员和开发人员构建多语言人工智能](https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset)
+   - 时间：6小时前
    - 来源：Official AI Updates
    - 评分：9.8/10 · matched_tracked_ai_keyword
-13. [山姆回应被市场监管总局约谈：全面优化食安管控和商品品控](https://www.thepaper.cn/newsDetail_forward_33380973)
-   - 时间：今天 07:22
+14. [山姆回应被市场监管总局约谈：全面优化食安管控和商品品控](https://www.thepaper.cn/newsDetail_forward_33380973)
+   - 时间：今天 10:11
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [【社论】山姆要对得起“严选”](https://www.thepaper.cn/newsDetail_forward_33382737)
-   - 时间：今天 07:22
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚](https://www.thepaper.cn/newsDetail_forward_33378154)
-   - 时间：今天 07:22
+15. [【社论】山姆要对得起“严选”](https://www.thepaper.cn/newsDetail_forward_33382737)
+   - 时间：今天 10:11
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Salesforce以36亿美元收购AI客服平台Fin](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b)
-   - 时间：8小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [OpenAI豪掷1. 5 亿美元：构建全球合作伙伴网络，深耕企业AI落地](https://www.aibase.com/news/28929)
-   - 时间：9小时前
+16. [英伟达加入AI债务热潮 巨额融资或加剧全球算力军备竞赛](https://www.aibase.com/news/28943)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Flash-KMeans：IO感知的精确K-Means，在GPU上比FAISS快200倍以上](https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus)
-   - 时间：昨天 17:16
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [​用满 200 刀订阅能吃掉1. 4 万刀算力？大模型巨头正面临严峻的成本风暴](https://www.aibase.com/news/28906)
-   - 时间：昨天 15:30
+17. [SpaceX历史性IPO融资额扩至857亿美元 资金将重点投向AI算力基础设施与星链](https://www.aibase.com/news/28937)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [​OpenAI斥资1. 5 亿美元启动合作伙伴网络，全面加速企业AI转型](https://www.aibase.com/news/28904)
-   - 时间：昨天 10:02
+18. [赛力斯加速布局具身智能 年内将推多款智能机器人](https://www.aibase.com/news/28936)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [Salesforce以36亿美元收购AI客服平台Fin](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b)
+   - 时间：11小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [OpenAI豪掷1. 5 亿美元：构建全球合作伙伴网络，深耕企业AI落地](https://www.aibase.com/news/28929)
+   - 时间：昨天 21:32
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [Nvidia 加入 AI 债务热潮，发行 200 亿美元债券](https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale)
-   - 时间：7小时前
+21. [支付宝秘密内测“AI版”:代号“宝计划”，首推AI助手“阿宝”](https://www.aibase.com/news/28940)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [腾讯出手， 2000 万美元加持“AI天才”林俊旸新实验室](https://www.aibase.com/news/28939)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [Meta在Facebook推出“AI模式”搜索 整合多平台公开数据打造智能问答](https://www.aibase.com/news/28933)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构](https://www.ithome.com/0/964/620.htm)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Skydio CEO Adam Bry：硅谷不应为无人机使用画红线](https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military)
-   - 时间：9小时前
+25. [Nvidia 加入 AI 债务热潮，发行 200 亿美元债券](https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale)
+   - 时间：10小时前
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [全渠道销量夺冠！千问AI眼镜引爆智能穿戴新风口](https://www.aibase.com/news/28926)
-   - 时间：9小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [银行业百万美元年薪争夺首席AI官 IBM调查显示高管设置率一年内激增50%](https://www.aibase.com/news/28923)
-   - 时间：9小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [雨果奖作家新书惹争议！主动承认AI写作比重竟占一半](https://www.aibase.com/news/28922)
-   - 时间：9小时前
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 785/2641 | 29.7% | 高信号源，建议保留 |
-| Buzzing | 453/1499 | 30.2% | 高信号源，建议保留 |
-| Info Flow | 202/826 | 24.5% | 高信号源，建议保留 |
-| TechURLs | 154/419 | 36.8% | 高信号源，建议保留 |
-| Zeli | 60/72 | 83.3% | 高信号源，建议保留 |
-| AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 27/127 | 21.3% | 高信号源，建议保留 |
-| OPML RSS | 19/26 | 73.1% | 高信号源，建议保留 |
+| TopHub | 780/2690 | 29.0% | 高信号源，建议保留 |
+| Buzzing | 460/1528 | 30.1% | 高信号源，建议保留 |
+| Info Flow | 204/828 | 24.6% | 高信号源，建议保留 |
+| TechURLs | 160/428 | 37.4% | 高信号源，建议保留 |
+| Zeli | 62/74 | 83.8% | 高信号源，建议保留 |
+| AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 24/119 | 20.2% | 高信号源，建议保留 |
+| OPML RSS | 20/29 | 69.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
