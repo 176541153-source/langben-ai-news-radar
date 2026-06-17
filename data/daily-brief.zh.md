@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-17T14:09:39.955307Z
-- 24小时AI信号：2162 条
+- 生成时间：2026-06-17T17:32:51.952152Z
+- 24小时AI信号：2305 条
 - 源健康：14/14
-- 原始抓取：7412 条
+- 原始抓取：7072 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Snap发布全新AR智能眼镜SPECS，加速空间计算布局](https://www.aibase.com/news/28993)
-   - 时间：3小时前
+1. [Google发布99美元Gemini智能音箱](https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [MolmoMotion：语言引导的3D运动预测模型](https://huggingface.co/blog/allenai/molmomotion)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [Snap发布全新AR智能眼镜SPECS，加速空间计算布局](https://www.aibase.com/news/28993)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [大模型长文本迎来新突破，智谱AI正式开源旗舰模型GLM-5.2](https://www.aibase.com/news/28992)
-   - 时间：3小时前
+4. [大模型长文本迎来新突破，智谱AI正式开源旗舰模型GLM-5.2](https://www.aibase.com/news/28992)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”](https://www.aibase.com/news/28990)
-   - 时间：3小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [XR眼镜厂商VITURE联合英伟达发布首款工业级AI眼镜Helix](https://www.aibase.com/news/28980)
-   - 时间：8小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [智谱AI正式开源GLM-5. 2 模型：主打1M无损上下文与长程代码任务](https://www.aibase.com/news/28972)
-   - 时间：8小时前
+5. [OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”](https://www.aibase.com/news/28990)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [昆仑万维发布天工3.1:上线全新画布设计与多 Agent 并行工作流](https://www.aibase.com/news/28988)
-   - 时间：3小时前
+6. [谷歌发布Agentic Resource Discovery（ARD）开放规范](https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [Omnigent开源：AI智能体团队元框架](https://x.com/Yuchenj_UW/status/2067273020352380950)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集](https://blog.cloudflare.com/cloudflare-one-stack)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [昆仑万维发布天工3.1:上线全新画布设计与多 Agent 并行工作流](https://www.aibase.com/news/28988)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Anthropic 紧急叫停 Claude Agent SDK 计费变更，重度用户暂续现有订阅限额](https://www.aibase.com/news/28987)
-   - 时间：3小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [降本近四成！微软重磅发布 Copilot Cowork 智能体，正面硬刚Claude](https://www.aibase.com/news/28985)
-   - 时间：3小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [微信支付正式发布“AI专属卡”:支持Agent闭环消费，主账户完全隔离](https://www.aibase.com/news/28984)
-   - 时间：3小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [京东发布A2P2协议:首个智能体自主支付标准，划分L0至L5六级体系](https://www.aibase.com/news/28981)
-   - 时间：8小时前
+10. [Anthropic 紧急叫停 Claude Agent SDK 计费变更，重度用户暂续现有订阅限额](https://www.aibase.com/news/28987)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [Anthropic：智能体编码中专业知识回报持续存在](https://www.anthropic.com/research/claude-code-expertise)
-   - 时间：今天 03:35
+11. [Google 医学推理 AI 系统 AMIE 新研究：从诊断迈向长期疾病管理](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [公开聊天数据能否预测真实世界AI失调？](https://alignment.openai.com/validating-public-evals)
-   - 时间：今天 02:00
+12. [Anthropic：智能体编码中专业知识回报持续存在](https://www.anthropic.com/research/claude-code-expertise)
+   - 时间：昨天 03:35
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [GLM-5.2 上线并开源：专注 Coding 与长程任务](https://www.zhipuai.cn/zh/research/161)
-   - 时间：今天 00:00
+13. [公开聊天数据能否预测真实世界AI失调？](https://alignment.openai.com/validating-public-evals)
+   - 时间：昨天 02:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [人择研究人员尼古拉斯·卡利尼 (Nicholas Carlini) 的简介，他在三月份就神话发出了警告，现在是向白宫通报安全保障情况的人择团队的一员（《华尔街日报》）](https://www.techmeme.com/260617/p11)
-   - 时间：7小时前
+14. [一项新研究显示，只有 16% 的美国人认为人工智能会对社会产生积极影响](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows)
+   - 时间：32分钟前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Show HN: SciFigureAI——科研论文专用AI图表生成器](https://scifigureai.com)
-   - 时间：11小时前
-   - 来源：Buzzing
+15. [研究：由德国研究人员开发的人工智能医疗工具 Mira 和谷歌的 Amie 在诊断和治疗决策方面匹配或超越了医生（Michael Peel/金融时报）](https://www.techmeme.com/260617/p35)
+   - 时间：57分钟前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界](https://www.ithome.com/0/965/652.htm)
+16. [NVIDIA GEAR实验室发布ENPIRE：8个Codex智能体自主控制机器人完成物理实验](https://x.com/DrJimFan/status/2067283904986517866)
    - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Strands Robots SDK：用单一智能体打通 Hugging Face Hub 到物理机器人](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)
-   - 时间：3小时前
+17. [阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界](https://www.ithome.com/0/965/652.htm)
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [贾跃亭发布人形机器人和机器狗，FF全面进军消费级机器人市场](https://www.aibase.com/news/28994)
-   - 时间：3小时前
+18. [Strands Robots SDK：用单一智能体打通 Hugging Face Hub 到物理机器人](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)
+   - 时间：7小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [贾跃亭发布人形机器人和机器狗，FF全面进军消费级机器人市场](https://www.aibase.com/news/28994)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [​贝索斯豪掷 4 亿美元领投，英国AI独角兽CuspAI估值飙升至 26 亿美元](https://www.aibase.com/news/28989)
-   - 时间：3小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [支付宝回应“阿宝”邀请码交易:从未授权付费售卖，可免费分享获取](https://www.aibase.com/news/28986)
-   - 时间：3小时前
+20. [​贝索斯豪掷 4 亿美元领投，英国AI独角兽CuspAI估值飙升至 26 亿美元](https://www.aibase.com/news/28989)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [智能眼镜成首批受益者！高通推出全新个人 AI 设备上市加速计划](https://www.aibase.com/news/28983)
-   - 时间：3小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [彻底告别复杂操作！苹果iPadOS27 全面进化让平板秒变电脑](https://www.aibase.com/news/28978)
-   - 时间：8小时前
+   - 时间：昨天 13:27
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [字节Seed上调“豆包股”至14.85美元，AI长期激励价格体系再调整](https://www.aibase.com/news/28977)
-   - 时间：8小时前
+   - 时间：昨天 13:27
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [防止AI依赖风险升级:苹果拟在Siri中加入“休息一下”提示机制](https://www.aibase.com/news/28976)
-   - 时间：8小时前
+   - 时间：昨天 13:27
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [中国加紧筹建世界人工智能合作组织](https://www.ithome.com/0/965/248.htm)
-   - 时间：11小时前
+   - 时间：昨天 10:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 965/2944 | 32.8% | 高信号源，建议保留 |
-| Buzzing | 506/1693 | 29.9% | 高信号源，建议保留 |
-| Info Flow | 243/833 | 29.2% | 高信号源，建议保留 |
-| TechURLs | 167/477 | 35.0% | 高信号源，建议保留 |
-| Zeli | 71/86 | 82.6% | 高信号源，建议保留 |
-| NewsNow | 34/143 | 23.8% | 高信号源，建议保留 |
+| TopHub | 1132/3426 | 33.0% | 高信号源，建议保留 |
+| Buzzing | 475/1693 | 28.1% | 高信号源，建议保留 |
+| Info Flow | 239/832 | 28.7% | 高信号源，建议保留 |
+| TechURLs | 176/471 | 37.4% | 高信号源，建议保留 |
+| Zeli | 62/73 | 84.9% | 高信号源，建议保留 |
+| NewsNow | 39/164 | 23.8% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 24/40 | 60.0% | 高信号源，建议保留 |
+| OPML RSS | 27/42 | 64.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
