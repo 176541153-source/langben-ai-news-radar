@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-20T12:55:16.461979Z
-- 24小时AI信号：1529 条
+- 生成时间：2026-06-20T15:06:44.579518Z
+- 24小时AI信号：1569 条
 - 源健康：14/14
-- 原始抓取：7253 条
+- 原始抓取：7275 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://x.com/AYi_AInotes/status/2068218661710512231)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://openrouter.ai/blog/insights/openrouter-vs-portkey)
@@ -26,15 +26,15 @@
    - 时间：06-18 20:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude Code新增Artifacts：AI边干活边做看板](https://view.inews.qq.com/a/20260619A0672800)
-   - 时间：今天 20:56
-   - 来源：TrendRadar
+5. [DeepSeek估值接近4000亿元](https://s.weibo.com/weibo?q=DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产品与开发者工具
 
 6. [开源教程《Deep Agents 实战》发布](https://x.com/shao__meng/status/2068306942184034471)
-   - 时间：39分钟前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 745/2670 | 27.9% | 高信号源，建议保留 |
-| Buzzing | 414/1434 | 28.9% | 高信号源，建议保留 |
-| Info Flow | 104/488 | 21.3% | 高信号源，建议保留 |
-| TechURLs | 97/293 | 33.1% | 高信号源，建议保留 |
-| Zeli | 42/50 | 84.0% | 高信号源，建议保留 |
-| NewsNow | 23/162 | 14.2% | 高信号源，建议保留 |
-| AI HOT | 13/13 | 100.0% | 高信号源，建议保留 |
+| TopHub | 789/2890 | 27.3% | 高信号源，建议保留 |
+| Buzzing | 423/1447 | 29.2% | 高信号源，建议保留 |
+| Info Flow | 104/479 | 21.7% | 高信号源，建议保留 |
+| TechURLs | 85/274 | 31.0% | 高信号源，建议保留 |
+| Zeli | 43/51 | 84.3% | 高信号源，建议保留 |
+| NewsNow | 24/171 | 14.0% | 高信号源，建议保留 |
+| AI HOT | 10/10 | 100.0% | 高信号源，建议保留 |
 | Follow Builders | 8/21 | 38.1% | 高信号源，建议保留 |
 
 ## 维护提示
