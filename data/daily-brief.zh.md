@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-20T21:25:34.167089Z
-- 24小时AI信号：1402 条
-- 源健康：14/14
-- 原始抓取：7220 条
+- 生成时间：2026-06-20T22:45:09.819042Z
+- 24小时AI信号：1413 条
+- 源健康：13/14
+- 原始抓取：7195 条
 
 ## 今日重点
 
@@ -26,7 +26,7 @@
    - 时间：06-18 20:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [浏览器端 AI 推理：WebAssembly 插件架构设计与实战](https://blog.csdn.net/no1coder/article/details/162153208)
+5. [南京同仁堂一支炫彩染发剂清水黑发草本不沾头皮自然黑温和不刺激男女通用 自然黑 500ml  . 原价¥68 券后¥48](https://tophub.today/link?domain=jd.com&url=https%3A%2F%2Fremai.today%2Flink%2F2%2FteKBEbyv1ccacsspaC04qnrq_3hj3gPth218eNT2gHr)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [开源教程《Deep Agents 实战》发布](https://x.com/shao__meng/status/2068306942184034471)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
@@ -102,41 +102,41 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0725-5783-8c83-c92874ed85ba&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0845-37ee-bc5d-832a40d95b00&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0605-3291-b81d-95ea0cd65f4a&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0725-5783-8c83-c92874ed85ba&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0420-18ef-a6c8-baa28f648279&fp=-3)
-   - 时间：3小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0605-3291-b81d-95ea0cd65f4a&fp=-3)
+   - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0243-43d3-8238-709322dd1017&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0420-18ef-a6c8-baa28f648279&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-   - 时间：昨天 03:41
-   - 来源：AI HOT
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0243-43d3-8238-709322dd1017&fp=-3)
+   - 时间：6小时前
+   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 692/2526 | 27.4% | 高信号源，建议保留 |
-| Buzzing | 366/1269 | 28.8% | 高信号源，建议保留 |
-| Info Flow | 107/483 | 22.2% | 高信号源，建议保留 |
-| TechURLs | 64/235 | 27.2% | 高信号源，建议保留 |
-| Zeli | 51/60 | 85.0% | 高信号源，建议保留 |
-| NewsNow | 26/173 | 15.0% | 高信号源，建议保留 |
-| Follow Builders | 6/18 | 33.3% | 高信号源，建议保留 |
-| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
+| TopHub | 701/2545 | 27.5% | 高信号源，建议保留 |
+| Buzzing | 363/1250 | 29.0% | 高信号源，建议保留 |
+| Info Flow | 109/488 | 22.3% | 高信号源，建议保留 |
+| TechURLs | 64/232 | 27.6% | 高信号源，建议保留 |
+| Zeli | 57/67 | 85.1% | 高信号源，建议保留 |
+| NewsNow | 25/173 | 14.5% | 高信号源，建议保留 |
+| AI HubToday | 5/5 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
-- 当前内置源抓取正常。
+- 需要优先修复失败源：aibreakfast
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
