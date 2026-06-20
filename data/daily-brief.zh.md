@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-20T08:03:51.743902Z
-- 24小时AI信号：1507 条
+- 生成时间：2026-06-20T10:38:22.233073Z
+- 24小时AI信号：1597 条
 - 源健康：14/14
-- 原始抓取：7223 条
+- 原始抓取：7245 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://x.com/AYi_AInotes/status/2068218661710512231)
-   - 时间：1小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://openrouter.ai/blog/insights/openrouter-vs-portkey)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [NVIDIA Research 发布 SpatialClaw：免训练空间推理框架](https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环](https://x.com/AYi_AInotes/status/2067819352926150953)
@@ -80,11 +80,11 @@
 ### 产业、算力与机器人
 
 16. [AI HOT 日报 · 2026-06-20 — 阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式](https://aihot.virxact.com/daily/2026-06-20)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Figure机器人数首超人类员工](https://x.com/rohanpaul_ai/status/2068089038213693800)
-   - 时间：10小时前
+   - 时间：今天 05:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [禁止开源AI将是一个错误](https://www.interconnects.ai/p/banning-open-source-ai-would-be-a)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 723/2647 | 27.3% | 高信号源，建议保留 |
-| Buzzing | 390/1439 | 27.1% | 高信号源，建议保留 |
-| TechURLs | 121/343 | 35.3% | 高信号源，建议保留 |
-| Info Flow | 97/473 | 20.5% | 高信号源，建议保留 |
+| TopHub | 800/2901 | 27.6% | 高信号源，建议保留 |
+| Buzzing | 401/1456 | 27.5% | 高信号源，建议保留 |
+| TechURLs | 118/322 | 36.6% | 高信号源，建议保留 |
+| Info Flow | 101/481 | 21.0% | 高信号源，建议保留 |
 | Zeli | 46/53 | 86.8% | 高信号源，建议保留 |
-| NewsNow | 24/136 | 17.6% | 高信号源，建议保留 |
+| NewsNow | 26/157 | 16.6% | 高信号源，建议保留 |
 | AI HOT | 13/13 | 100.0% | 高信号源，建议保留 |
 | Follow Builders | 9/22 | 40.9% | 高信号源，建议保留 |
 
