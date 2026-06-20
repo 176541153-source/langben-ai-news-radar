@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-20T20:05:09.639855Z
-- 24小时AI信号：1442 条
+- 生成时间：2026-06-20T21:25:34.167089Z
+- 24小时AI信号：1402 条
 - 源健康：14/14
-- 原始抓取：7216 条
+- 原始抓取：7220 条
 
 ## 今日重点
 
@@ -26,15 +26,15 @@
    - 时间：06-18 20:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [育碧联合创始人克劳德·吉勒莫在一次飞机失事中遇难](https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20)
-   - 时间：1小时前
-   - 来源：Buzzing
+5. [浏览器端 AI 推理：WebAssembly 插件架构设计与实战](https://blog.csdn.net/no1coder/article/details/162153208)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产品与开发者工具
 
 6. [开源教程《Deep Agents 实战》发布](https://x.com/shao__meng/status/2068306942184034471)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0605-3291-b81d-95ea0cd65f4a&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0725-5783-8c83-c92874ed85ba&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0420-18ef-a6c8-baa28f648279&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0605-3291-b81d-95ea0cd65f4a&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0243-43d3-8238-709322dd1017&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0420-18ef-a6c8-baa28f648279&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-   - 时间：昨天 03:41
-   - 来源：AI HOT
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0243-43d3-8238-709322dd1017&fp=-3)
+   - 时间：4小时前
+   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX](https://x.com/dotey/status/2068042001895809420)
-   - 时间：昨天 02:43
+25. [JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+   - 时间：昨天 03:41
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 710/2561 | 27.7% | 高信号源，建议保留 |
-| Buzzing | 384/1304 | 29.4% | 高信号源，建议保留 |
-| Info Flow | 108/480 | 22.5% | 高信号源，建议保留 |
-| TechURLs | 67/243 | 27.6% | 高信号源，建议保留 |
-| Zeli | 48/57 | 84.2% | 高信号源，建议保留 |
-| NewsNow | 28/177 | 15.8% | 高信号源，建议保留 |
-| Follow Builders | 8/20 | 40.0% | 高信号源，建议保留 |
+| TopHub | 692/2526 | 27.4% | 高信号源，建议保留 |
+| Buzzing | 366/1269 | 28.8% | 高信号源，建议保留 |
+| Info Flow | 107/483 | 22.2% | 高信号源，建议保留 |
+| TechURLs | 64/235 | 27.2% | 高信号源，建议保留 |
+| Zeli | 51/60 | 85.0% | 高信号源，建议保留 |
+| NewsNow | 26/173 | 15.0% | 高信号源，建议保留 |
+| Follow Builders | 6/18 | 33.3% | 高信号源，建议保留 |
 | AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
