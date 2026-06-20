@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-20T16:43:14.311894Z
-- 24小时AI信号：1564 条
+- 生成时间：2026-06-20T18:19:53.518860Z
+- 24小时AI信号：1475 条
 - 源健康：14/14
-- 原始抓取：7214 条
+- 原始抓取：7212 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://x.com/AYi_AInotes/status/2068218661710512231)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://openrouter.ai/blog/insights/openrouter-vs-portkey)
@@ -26,7 +26,7 @@
    - 时间：06-18 20:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [GLM-5.2 登顶开源权重模型榜首：编程能力超越 GPT-5.5，MIT 许可免费可用](https://www.oschina.net/news/460824)
+5. [赛济堂万亿活菌96条成人复合儿童益生菌冻干粉搭配肠胃肠道老人便秘排便 儿童/成人/孕妇/老人益生菌粉 2g*1袋 1盒32袋活性益生菌粉 原价¥29.9 券后¥21.9](https://tophub.today/link?domain=jd.com&url=https%3A%2F%2Fremai.today%2Flink%2F2%2FAA3gPth21s9ttl27lr9AeGtglp_3hj3gPth218GfEaUxr)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [开源教程《Deep Agents 实战》发布](https://x.com/shao__meng/status/2068306942184034471)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0243-43d3-8238-709322dd1017&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0420-18ef-a6c8-baa28f648279&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0243-43d3-8238-709322dd1017&fp=-3)
+   - 时间：1小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
    - 时间：昨天 03:41
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX](https://x.com/dotey/status/2068042001895809420)
+24. [baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX](https://x.com/dotey/status/2068042001895809420)
    - 时间：昨天 02:43
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [AI中心的数据黑洞](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2)
+25. [AI中心的数据黑洞](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2)
    - 时间：昨天 00:45
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）](https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks)
-   - 时间：06-19 10:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 799/2803 | 28.5% | 高信号源，建议保留 |
-| Buzzing | 414/1404 | 29.5% | 高信号源，建议保留 |
-| Info Flow | 105/480 | 21.9% | 高信号源，建议保留 |
-| TechURLs | 79/265 | 29.8% | 高信号源，建议保留 |
-| Zeli | 41/51 | 80.4% | 高信号源，建议保留 |
-| NewsNow | 27/176 | 15.3% | 高信号源，建议保留 |
-| AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
+| TopHub | 720/2567 | 28.0% | 高信号源，建议保留 |
+| Buzzing | 409/1341 | 30.5% | 高信号源，建议保留 |
+| Info Flow | 105/474 | 22.2% | 高信号源，建议保留 |
+| TechURLs | 72/249 | 28.9% | 高信号源，建议保留 |
+| Zeli | 42/52 | 80.8% | 高信号源，建议保留 |
+| NewsNow | 28/171 | 16.4% | 高信号源，建议保留 |
+| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 | Follow Builders | 8/20 | 40.0% | 高信号源，建议保留 |
 
 ## 维护提示
