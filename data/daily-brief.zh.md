@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-21T16:15:52.370549Z
-- 24小时AI信号：1438 条
+- 生成时间：2026-06-21T18:07:25.981909Z
+- 24小时AI信号：1503 条
 - 源健康：14/14
-- 原始抓取：7205 条
+- 原始抓取：7206 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型](https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/daily/2026-06-21)
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？](https://www.thepaper.cn/newsDetail_forward_33407734)
-   - 时间：今天 00:16
+   - 时间：今天 02:08
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0216-1753-879c-a6243d958e2e&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0407-540d-a9dc-1cf7cc86a051&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [NSA局长：Mythos数小时内攻破其几乎所有机密系统](https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u)
-   - 时间：44分钟前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0027-595e-afa0-5de8c805eb73&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0216-1753-879c-a6243d958e2e&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-2200-43cd-a2ac-df4657a5ccc3&fp=-3)
-   - 时间：4小时前
+23. [NSA局长：Mythos数小时内攻破其几乎所有机密系统](https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0027-595e-afa0-5de8c805eb73&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1909-56ef-b5cf-f8f596fc0065&fp=-3)
-   - 时间：7小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-2200-43cd-a2ac-df4657a5ccc3&fp=-3)
+   - 时间：6小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 728/2634 | 27.6% | 高信号源，建议保留 |
-| Buzzing | 347/1173 | 29.6% | 高信号源，建议保留 |
-| Info Flow | 110/463 | 23.8% | 高信号源，建议保留 |
-| Zeli | 60/71 | 84.5% | 高信号源，建议保留 |
-| TechURLs | 55/195 | 28.2% | 高信号源，建议保留 |
-| NewsNow | 31/156 | 19.9% | 高信号源，建议保留 |
+| TopHub | 783/2728 | 28.7% | 高信号源，建议保留 |
+| Buzzing | 355/1178 | 30.1% | 高信号源，建议保留 |
+| Info Flow | 112/472 | 23.7% | 高信号源，建议保留 |
+| Zeli | 63/73 | 86.3% | 高信号源，建议保留 |
+| TechURLs | 57/195 | 29.2% | 高信号源，建议保留 |
+| NewsNow | 27/151 | 17.9% | 高信号源，建议保留 |
 | AI HubToday | 11/11 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 9/21 | 42.9% | 高信号源，建议保留 |
+| Follow Builders | 8/20 | 40.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
