@@ -1,35 +1,35 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-21T09:09:30.274246Z
-- 24小时AI信号：1442 条
+- 生成时间：2026-06-21T12:00:05.808440Z
+- 24小时AI信号：1409 条
 - 源健康：14/14
-- 原始抓取：7261 条
+- 原始抓取：7268 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/daily/2026-06-21)
-   - 时间：9小时前
+1. [美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型](https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://x.com/AYi_AInotes/status/2068218661710512231)
+2. [AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/daily/2026-06-21)
+   - 时间：今天 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://x.com/AYi_AInotes/status/2068218661710512231)
    - 时间：昨天 14:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://openrouter.ai/blog/insights/openrouter-vs-portkey)
+4. [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://openrouter.ai/blog/insights/openrouter-vs-portkey)
    - 时间：昨天 03:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [OpenRouter vs LiteLLM：如何选择 LLM 网关](https://openrouter.ai/blog/insights/openrouter-vs-litellm)
+5. [OpenRouter vs LiteLLM：如何选择 LLM 网关](https://openrouter.ai/blog/insights/openrouter-vs-litellm)
    - 时间：06-19 23:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这张照片看起来他妈的 chatgpt 生成 https://t.co/0ZAA5SVcHy](https://x.com/swyx/status/2068517953285619715)
-   - 时间：6小时前
-   - 来源：Follow Builders
-   - 评分：8.5/10 · matched_tracked_ai_keyword
 
 ### 产品与开发者工具
 
@@ -37,20 +37,20 @@
    - 时间：昨天 20:16
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
+7. [开源教程《Deep Agents 实战》发布](https://aihot.virxact.com/items/cmqmbymfe00zisl4f3pa6jwmz)
+   - 时间：昨天 20:16
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
    - 时间：昨天 00:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Cloudflare 为 AI 智能体推出临时账户](https://blog.cloudflare.com/temporary-accounts)
+9. [Cloudflare 为 AI 智能体推出临时账户](https://blog.cloudflare.com/temporary-accounts)
    - 时间：06-19 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
+10. [我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
    - 时间：06-19 13:01
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体](https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps)
-   - 时间：06-18 20:59
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -102,39 +102,39 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1909-56ef-b5cf-f8f596fc0065&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-2200-43cd-a2ac-df4657a5ccc3&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1527-5271-9419-d8bb313f669b&fp=-3)
-   - 时间：3小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1909-56ef-b5cf-f8f596fc0065&fp=-3)
+   - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影](https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ)
-   - 时间：4小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1527-5271-9419-d8bb313f669b&fp=-3)
+   - 时间：6小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影](https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ)
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1017-20cf-b6e1-274d54f121ad&fp=-3)
-   - 时间：8小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0845-37ee-bc5d-832a40d95b00&fp=-3)
-   - 时间：10小时前
-   - 来源：AI HubToday
+25. [腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影](https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf)
+   - 时间：7小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 681/2462 | 27.7% | 高信号源，建议保留 |
-| Buzzing | 391/1236 | 31.6% | 高信号源，建议保留 |
-| Info Flow | 116/487 | 23.8% | 高信号源，建议保留 |
-| Zeli | 70/85 | 82.4% | 高信号源，建议保留 |
-| TechURLs | 54/205 | 26.3% | 高信号源，建议保留 |
-| NewsNow | 27/169 | 16.0% | 高信号源，建议保留 |
-| Follow Builders | 10/24 | 41.7% | 高信号源，建议保留 |
-| AI HubToday | 8/8 | 100.0% | 高信号源，建议保留 |
+| TopHub | 673/2481 | 27.1% | 高信号源，建议保留 |
+| Buzzing | 361/1209 | 29.9% | 高信号源，建议保留 |
+| Info Flow | 111/485 | 22.9% | 高信号源，建议保留 |
+| Zeli | 69/83 | 83.1% | 高信号源，建议保留 |
+| TechURLs | 56/208 | 26.9% | 高信号源，建议保留 |
+| NewsNow | 32/184 | 17.4% | 高信号源，建议保留 |
+| Follow Builders | 10/23 | 43.5% | 高信号源，建议保留 |
+| AI HubToday | 9/9 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
