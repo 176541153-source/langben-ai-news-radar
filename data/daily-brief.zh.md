@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-21T18:07:25.981909Z
-- 24小时AI信号：1503 条
+- 生成时间：2026-06-21T20:14:20.742210Z
+- 24小时AI信号：1450 条
 - 源健康：14/14
-- 原始抓取：7206 条
+- 原始抓取：7091 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型](https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1)
-   - 时间：7小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/daily/2026-06-21)
@@ -49,10 +49,10 @@
    - 时间：06-19 13:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [我会反其道而行之，说我几乎无法用完我的 Codex 和 Claude 200 美元订阅，所以我不认为尝试本地模型有什么意义……另外，要在本地尝试最新的 glm 需要 512 mb，这相当于 10K 美元的 M ……](https://x.com/petergyang/status/2068411894185295969)
-   - 时间：昨天 03:13
+10. [我们使用前端还不错的模型构建了 Codex 应用程序。等着瞧，当我们最终显着提高模型的前端能力时，我们能做些什么。那天将会有一些事情。](https://x.com/thsottiaux/status/2068568650924409260)
+   - 时间：昨天 13:36
    - 来源：Follow Builders
-   - 评分：8.9/10 · matched_tracked_ai_keyword
+   - 评分：8.1/10 · matched_ai_signal
 
 ### 论文研究与评测
 
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？](https://www.thepaper.cn/newsDetail_forward_33407734)
-   - 时间：今天 02:08
+   - 时间：今天 04:15
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0407-540d-a9dc-1cf7cc86a051&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0614-5894-ba86-0b51c0e743ff&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0216-1753-879c-a6243d958e2e&fp=-3)
-   - 时间：1小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0407-540d-a9dc-1cf7cc86a051&fp=-3)
+   - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [NSA局长：Mythos数小时内攻破其几乎所有机密系统](https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0027-595e-afa0-5de8c805eb73&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0216-1753-879c-a6243d958e2e&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-2200-43cd-a2ac-df4657a5ccc3&fp=-3)
-   - 时间：6小时前
+24. [NSA局长：Mythos数小时内攻破其几乎所有机密系统](https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0027-595e-afa0-5de8c805eb73&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 783/2728 | 28.7% | 高信号源，建议保留 |
-| Buzzing | 355/1178 | 30.1% | 高信号源，建议保留 |
-| Info Flow | 112/472 | 23.7% | 高信号源，建议保留 |
-| Zeli | 63/73 | 86.3% | 高信号源，建议保留 |
-| TechURLs | 57/195 | 29.2% | 高信号源，建议保留 |
-| NewsNow | 27/151 | 17.9% | 高信号源，建议保留 |
-| AI HubToday | 11/11 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 8/20 | 40.0% | 高信号源，建议保留 |
+| TopHub | 726/2553 | 28.4% | 高信号源，建议保留 |
+| Buzzing | 364/1179 | 30.9% | 高信号源，建议保留 |
+| Info Flow | 111/471 | 23.6% | 高信号源，建议保留 |
+| Zeli | 64/75 | 85.3% | 高信号源，建议保留 |
+| TechURLs | 55/192 | 28.6% | 高信号源，建议保留 |
+| NewsNow | 27/154 | 17.5% | 高信号源，建议保留 |
+| AI HubToday | 10/10 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 6/16 | 37.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
