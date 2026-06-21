@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-21T12:00:05.808440Z
-- 24小时AI信号：1409 条
+- 生成时间：2026-06-21T14:27:34.589956Z
+- 24小时AI信号：1412 条
 - 源健康：14/14
-- 原始抓取：7268 条
+- 原始抓取：7266 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型](https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1)
-   - 时间：1小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/daily/2026-06-21)
@@ -37,22 +37,22 @@
    - 时间：昨天 20:16
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [开源教程《Deep Agents 实战》发布](https://aihot.virxact.com/items/cmqmbymfe00zisl4f3pa6jwmz)
-   - 时间：昨天 20:16
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
+7. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
    - 时间：昨天 00:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Cloudflare 为 AI 智能体推出临时账户](https://blog.cloudflare.com/temporary-accounts)
+8. [Cloudflare 为 AI 智能体推出临时账户](https://blog.cloudflare.com/temporary-accounts)
    - 时间：06-19 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
+9. [我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
    - 时间：06-19 13:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [我会反其道而行之，说我几乎无法用完我的 Codex 和 Claude 200 美元订阅，所以我不认为尝试本地模型有什么意义……另外，要在本地尝试最新的 glm 需要 512 mb，这相当于 10K 美元的 M ……](https://x.com/petergyang/status/2068411894185295969)
+   - 时间：今天 03:13
+   - 来源：Follow Builders
+   - 评分：8.9/10 · matched_tracked_ai_keyword
 
 ### 论文研究与评测
 
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-2200-43cd-a2ac-df4657a5ccc3&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0027-595e-afa0-5de8c805eb73&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1909-56ef-b5cf-f8f596fc0065&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-2200-43cd-a2ac-df4657a5ccc3&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1527-5271-9419-d8bb313f669b&fp=-3)
-   - 时间：6小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1909-56ef-b5cf-f8f596fc0065&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影](https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ)
-   - 时间：7小时前
-   - 来源：AI HOT
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1527-5271-9419-d8bb313f669b&fp=-3)
+   - 时间：9小时前
+   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影](https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 673/2481 | 27.1% | 高信号源，建议保留 |
-| Buzzing | 361/1209 | 29.9% | 高信号源，建议保留 |
-| Info Flow | 111/485 | 22.9% | 高信号源，建议保留 |
-| Zeli | 69/83 | 83.1% | 高信号源，建议保留 |
-| TechURLs | 56/208 | 26.9% | 高信号源，建议保留 |
-| NewsNow | 32/184 | 17.4% | 高信号源，建议保留 |
-| Follow Builders | 10/23 | 43.5% | 高信号源，建议保留 |
-| AI HubToday | 9/9 | 100.0% | 高信号源，建议保留 |
+| TopHub | 671/2493 | 26.9% | 高信号源，建议保留 |
+| Buzzing | 370/1208 | 30.6% | 高信号源，建议保留 |
+| Info Flow | 115/475 | 24.2% | 高信号源，建议保留 |
+| Zeli | 62/74 | 83.8% | 高信号源，建议保留 |
+| TechURLs | 57/200 | 28.5% | 高信号源，建议保留 |
+| NewsNow | 31/158 | 19.6% | 高信号源，建议保留 |
+| AI HubToday | 10/10 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 10/22 | 45.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
