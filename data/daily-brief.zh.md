@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-21T21:57:04.851328Z
-- 24小时AI信号：1432 条
+- 生成时间：2026-06-21T23:23:52.618587Z
+- 24小时AI信号：1413 条
 - 源健康：14/14
-- 原始抓取：6963 条
+- 原始抓取：6991 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型](https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1)
-   - 时间：11小时前
+   - 时间：昨天 18:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/daily/2026-06-21)
@@ -33,26 +33,26 @@
 
 ### 产品与开发者工具
 
-6. [开源教程《Deep Agents 实战》发布](https://x.com/shao__meng/status/2068306942184034471)
+6. [三星电子为员工带来 ChatGPT 和 Codex](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)
+   - 时间：23分钟前
+   - 来源：Official AI Updates
+   - 评分：10.0/10 · matched_tracked_ai_keyword
+7. [开源教程《Deep Agents 实战》发布](https://x.com/shao__meng/status/2068306942184034471)
    - 时间：06-20 20:16
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
+8. [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://x.com/demishassabis/status/2068002732250640603)
    - 时间：06-20 00:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Cloudflare 为 AI 智能体推出临时账户](https://blog.cloudflare.com/temporary-accounts)
+9. [Cloudflare 为 AI 智能体推出临时账户](https://blog.cloudflare.com/temporary-accounts)
    - 时间：06-19 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
+10. [我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
    - 时间：06-19 13:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [我们使用前端还不错的模型构建了 Codex 应用程序。等着瞧，当我们最终显着提高模型的前端能力时，我们能做些什么。那天将会有一些事情。](https://x.com/thsottiaux/status/2068568650924409260)
-   - 时间：昨天 13:36
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_ai_signal
 
 ### 论文研究与评测
 
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？](https://www.thepaper.cn/newsDetail_forward_33407734)
-   - 时间：今天 05:58
+   - 时间：今天 07:24
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,37 +102,37 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0757-271c-8a64-615d0e916f08&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0924-1413-8b7e-ef640a95e77f&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0614-5894-ba86-0b51c0e743ff&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0757-271c-8a64-615d0e916f08&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0407-540d-a9dc-1cf7cc86a051&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0614-5894-ba86-0b51c0e743ff&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0216-1753-879c-a6243d958e2e&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0407-540d-a9dc-1cf7cc86a051&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [NSA局长：Mythos数小时内攻破其几乎所有机密系统](https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u)
-   - 时间：6小时前
-   - 来源：AI HOT
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260622-0216-1753-879c-a6243d958e2e&fp=-3)
+   - 时间：7小时前
+   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 721/2570 | 28.1% | 高信号源，建议保留 |
-| Buzzing | 358/1178 | 30.4% | 高信号源，建议保留 |
-| Info Flow | 112/466 | 24.0% | 高信号源，建议保留 |
-| Zeli | 60/71 | 84.5% | 高信号源，建议保留 |
-| TechURLs | 54/189 | 28.6% | 高信号源，建议保留 |
-| NewsNow | 26/152 | 17.1% | 高信号源，建议保留 |
+| TopHub | 690/2583 | 26.7% | 高信号源，建议保留 |
+| Buzzing | 365/1193 | 30.6% | 高信号源，建议保留 |
+| Info Flow | 114/475 | 24.0% | 高信号源，建议保留 |
+| Zeli | 60/70 | 85.7% | 高信号源，建议保留 |
+| TechURLs | 54/185 | 29.2% | 高信号源，建议保留 |
+| NewsNow | 27/157 | 17.2% | 高信号源，建议保留 |
 | AI HubToday | 10/10 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 
