@@ -1,34 +1,34 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-21T00:16:59.036850Z
-- 24小时AI信号：1464 条
+- 生成时间：2026-06-21T05:27:26.054380Z
+- 24小时AI信号：1443 条
 - 源健康：14/14
-- 原始抓取：7223 条
+- 原始抓取：7192 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://x.com/AYi_AInotes/status/2068218661710512231)
+1. [AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/daily/2026-06-21)
+   - 时间：5小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://x.com/AYi_AInotes/status/2068218661710512231)
    - 时间：昨天 14:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://openrouter.ai/blog/insights/openrouter-vs-portkey)
+3. [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://openrouter.ai/blog/insights/openrouter-vs-portkey)
    - 时间：昨天 03:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenRouter vs LiteLLM：如何选择 LLM 网关](https://openrouter.ai/blog/insights/openrouter-vs-litellm)
+4. [OpenRouter vs LiteLLM：如何选择 LLM 网关](https://openrouter.ai/blog/insights/openrouter-vs-litellm)
    - 时间：06-19 23:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番](https://www.ithome.com/0/966/233.htm)
-   - 时间：06-18 20:11
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？](https://www.zhihu.com/question/2050866813181994242)
-   - 时间：13分钟前
-   - 来源：TrendRadar
+5. [LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型](https://m.ithome.com/html/966539.htm)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产品与开发者工具
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1017-20cf-b6e1-274d54f121ad&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1527-5271-9419-d8bb313f669b&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0845-37ee-bc5d-832a40d95b00&fp=-3)
-   - 时间：1小时前
-   - 来源：AI HubToday
+22. [腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影](https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ)
+   - 时间：36分钟前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0725-5783-8c83-c92874ed85ba&fp=-3)
-   - 时间：2小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0605-3291-b81d-95ea0cd65f4a&fp=-3)
-   - 时间：4小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0420-18ef-a6c8-baa28f648279&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-1017-20cf-b6e1-274d54f121ad&fp=-3)
    - 时间：5小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0845-37ee-bc5d-832a40d95b00&fp=-3)
+   - 时间：6小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260621-0725-5783-8c83-c92874ed85ba&fp=-3)
+   - 时间：8小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 739/2594 | 28.5% | 高信号源，建议保留 |
-| Buzzing | 372/1272 | 29.2% | 高信号源，建议保留 |
-| Info Flow | 108/499 | 21.6% | 高信号源，建议保留 |
-| TechURLs | 65/231 | 28.1% | 高信号源，建议保留 |
-| Zeli | 62/73 | 84.9% | 高信号源，建议保留 |
-| NewsNow | 26/176 | 14.8% | 高信号源，建议保留 |
-| AI HubToday | 6/6 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 3/14 | 21.4% | 高信号源，建议保留 |
+| TopHub | 689/2519 | 27.4% | 高信号源，建议保留 |
+| Buzzing | 395/1267 | 31.2% | 高信号源，建议保留 |
+| Info Flow | 110/484 | 22.7% | 高信号源，建议保留 |
+| Zeli | 70/81 | 86.4% | 高信号源，建议保留 |
+| TechURLs | 63/227 | 27.8% | 高信号源，建议保留 |
+| NewsNow | 24/176 | 13.6% | 高信号源，建议保留 |
+| AI HubToday | 7/7 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
