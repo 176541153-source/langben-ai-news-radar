@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-23T00:16:47.615385Z
-- 24小时AI信号：1972 条
+- 生成时间：2026-06-23T04:43:19.464780Z
+- 24小时AI信号：2065 条
 - 源健康：14/14
-- 原始抓取：7234 条
+- 原始抓取：7322 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop](https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Anthropic 工程负责人：Claude Code 让程序员更孤独](https://aihot.virxact.com/items/cmqpaflwr08cpslx6umzww19d)
-   - 时间：10小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [拒绝“一问一答”：京东开源实时视频交互模型 JoyAI-VL-Interaction](https://www.aibase.com/news/29063)
-   - 时间：11小时前
+1. [首个高考志愿AI测评发布:千问多项表现超过人类志愿咨询师](https://www.aibase.com/news/29086)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [资本市场新宠：智谱市值突破万亿，国产大模型迎来高光时刻](https://www.aibase.com/news/29058)
-   - 时间：11小时前
+2. [字节跳动火山引擎 2026 大会重磅发布：Seedance 2.5 直出 30 秒视频，豆包 2.1 Pro 对标 Opus 4.6](https://www.aibase.com/news/29085)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [四台Mac Studio干翻云端集群！苹果联手LM Studio本地跑起万亿参数大模型](https://www.aibase.com/news/29057)
-   - 时间：昨天 15:35
+3. [豆包大模型日均Token使用量突破180万亿 2.1Pro版本正式发布](https://www.aibase.com/news/29083)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [负责人称“非常缺人”:DeepSeek Harness扩容核心团队，向全球中文技术人才抛出橄榄枝](https://www.aibase.com/news/29081)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [医疗AI新高地：百川智能发布M4 模型，实现“真人医生”式主动问诊](https://www.aibase.com/news/29079)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具](https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn)
-   - 时间：5小时前
-   - 来源：AI HOT
+6. [强强联手：美光科技入局 Anthropic，共筑下一代AI基础设施](https://www.aibase.com/news/29082)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Google ADK 与 A2A 协议：跨语言多智能体团队构建实战](https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h)
-   - 时间：7小时前
-   - 来源：AI HOT
+7. [字节豆包发布Seed 2. 1 系列：Coding与Agent能力三项指标比肩GPT-5.5](https://www.aibase.com/news/29080)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu](https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih)
-   - 时间：8小时前
-   - 来源：AI HOT
+8. [谷歌DeepMind斥资7500万美元签约A24，联手研发好莱坞电影制作AI工具](https://www.aibase.com/news/29070)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Google Labs 提出用"洞察策略"评估 AI 编码智能体的主动性](https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt)
-   - 时间：8小时前
-   - 来源：AI HOT
+9. [OpenAI启动"修补地球"计划：用AI给开源代码"打疫苗"](https://www.aibase.com/news/29067)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录](https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67)
-   - 时间：10小时前
+10. [Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具](https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn)
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [谷歌明星研究员接连出走，诺奖得主约翰·詹珀转投 Anthropic](https://www.aibase.com/news/29030)
-   - 时间：昨天 10:05
-   - 来源：AIbase
+11. [Seed2.1 正式发布，深入 AI 生产力](https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux)
+   - 时间：4小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [NVIDIA Research 发布 SpatialClaw：免训练空间推理框架](https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning)
    - 时间：06-20 06:51
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [谷歌DeepMind与电影制片公司A24签署人工智能研究协议](https://reut.rs/4oF1uQ8)
-   - 时间：1小时前
+13. [ACL 2026 论文作者来北京了：一次看懂 AI 前沿](https://news.qq.com/rain/a/20260623A041II00)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [谷歌DeepMind与电影制片公司A24签署人工智能研究协议](https://reut.rs/4oF1uQ8)
+   - 时间：5小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [DeepMind 启动人工智能电影制作研究合作伙伴关系，谷歌向 A24 投资 7500 万美元](https://thenextweb.com/news/google-75-million-a24-deepmind-ai-filmmaking-partnership)
-   - 时间：6小时前
+15. [DeepMind 启动人工智能电影制作研究合作伙伴关系，谷歌向 A24 投资 7500 万美元](https://thenextweb.com/news/google-75-million-a24-deepmind-ai-filmmaking-partnership)
+   - 时间：10小时前
    - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [业余研究者声称借助AI破译3500年前死语言，这有多牛？还有哪些古代语言等待破解？](https://new.qq.com/rain/a/20260622Q0EL2K00)
-   - 时间：6小时前
-   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认"最常见滥用"](https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [前商汤科技高管创立的流形空间融资近 10 亿元，跃升为世界模型独角兽！](https://www.aibase.com/news/29065)
-   - 时间：11小时前
+16. [Groq卖掉核心技术后"凤凰涅槃"：转型云服务商，再融 44 亿元扩张算力](https://www.aibase.com/news/29084)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [美团破解百万商家的视觉难题 AI 海报生成的“技术闭环”](https://www.aibase.com/news/29062)
-   - 时间：11小时前
+17. [影视制作新利器：生数 Vidu Q3 上线华为云，打造“为剧而生”的视频生成方案](https://www.aibase.com/news/29077)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT](https://www.aibase.com/news/29061)
-   - 时间：11小时前
+18. [贾跃亭旗下Futurist具身智能机器人正式上市销售 售价89900美元](https://www.aibase.com/news/29076)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber](https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46)
-   - 时间：昨天 18:00
-   - 来源：AI HOT
+19. [从文本摘要到知识网格:谷歌 NotebookLM 新功能将重塑学术与深度阅读工作流](https://www.aibase.com/news/29074)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [执掌xAI算力遗产，SpaceX凭63亿美元超级订单成为开源AI核心推手](https://www.aibase.com/news/29072)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260623-1017-154e-85ef-8393e04d4461&fp=-3)
+21. [亚马逊在印度启动生成式AI助手 Alexa+ 印地语版 Beta 测试](https://www.aibase.com/news/29078)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [谷歌DeepMind7500 万美元牵手A24：AI正式进军好莱坞独立电影圈](https://www.aibase.com/news/29075)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [AI训练边界再引发议:Meta因数据安全事故叫停内部员工监控计划](https://www.aibase.com/news/29073)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260623-1443-4609-9999-83676aa5e1a9&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Aleph 2.0 现已集成到 Figma Weave](https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw)
-   - 时间：58分钟前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260623-0904-23c9-be4c-c046f66b9847&fp=-3)
-   - 时间：1小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260623-1017-154e-85ef-8393e04d4461&fp=-3)
+   - 时间：4小时前
    - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260623-0711-4539-ad94-3f2622a0e456&fp=-3)
-   - 时间：3小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Show HN：Oak--专为代理设计的 Git 替代方案](https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b)
-   - 时间：3小时前
-   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 892/2951 | 30.2% | 高信号源，建议保留 |
-| Buzzing | 460/1573 | 29.2% | 高信号源，建议保留 |
-| Info Flow | 212/811 | 26.1% | 高信号源，建议保留 |
-| TechURLs | 144/431 | 33.4% | 高信号源，建议保留 |
-| Zeli | 77/84 | 91.7% | 高信号源，建议保留 |
-| AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 27/151 | 17.9% | 高信号源，建议保留 |
-| OPML RSS | 16/22 | 72.7% | 高信号源，建议保留 |
+| TopHub | 930/3105 | 30.0% | 高信号源，建议保留 |
+| Buzzing | 486/1624 | 29.9% | 高信号源，建议保留 |
+| Info Flow | 226/839 | 26.9% | 高信号源，建议保留 |
+| TechURLs | 143/430 | 33.3% | 高信号源，建议保留 |
+| Zeli | 80/86 | 93.0% | 高信号源，建议保留 |
+| AIbase | 47/47 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 26/153 | 17.0% | 高信号源，建议保留 |
+| AI HOT | 18/18 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
