@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-27T00:16:49.489567Z
-- 24小时AI信号：1954 条
+- 生成时间：2026-06-27T04:36:46.815615Z
+- 24小时AI信号：2044 条
 - 源健康：14/14
-- 原始抓取：7162 条
+- 原始抓取：7241 条
 
 ## 今日重点
 
@@ -33,23 +33,23 @@
 
 ### 产品与开发者工具
 
-6. [纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机](https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke)
-   - 时间：4小时前
+6. [阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色](https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17)
+   - 时间：57分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品](https://www.aibase.com/news/29205)
+7. [纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机](https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品](https://www.aibase.com/news/29205)
    - 时间：昨天 19:27
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子](https://www.aibase.com/news/29198)
+9. [OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子](https://www.aibase.com/news/29198)
    - 时间：昨天 16:34
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [组建不到两月即重组，Google加码中期训练欲追赶Anthropic编码优势](https://www.aibase.com/news/29178)
-   - 时间：昨天 12:52
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [坚守万亿美元底线，OpenAI被曝拟将IPO推迟至 2027 年](https://www.aibase.com/news/29176)
+10. [组建不到两月即重组，Google加码中期训练欲追赶Anthropic编码优势](https://www.aibase.com/news/29178)
    - 时间：昨天 12:52
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -57,69 +57,69 @@
 ### 论文研究与评测
 
 11. [Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数](https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm)
-   - 时间：45分钟前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Anthropic Economic Index 报告：使用节奏](https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe)
-   - 时间：8小时前
+   - 时间：昨天 23:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [如何看待兰州大学一篇顶刊论文插图中有豆包水印，同时被质疑图片复用？这有可能涉及学术不端吗？](https://www.zhihu.com/question/2053840600244254651)
-   - 时间：6小时前
+13. [科学家创业系列研究之Google与Deepmind](https://www.huxiu.com/article/4870795.html?f=rss)
+   - 时间：2小时前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [如何看待兰州大学一篇顶刊论文插图中有豆包水印，同时被质疑图片复用？这有可能涉及学术不端吗？](https://www.zhihu.com/question/2053840600244254651)
+   - 时间：10小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [Ask HN: 对于一位成果卓著的独立人工智能研究者来说，有哪些选择？](https://news.ycombinator.com/item?id=48689261)
-   - 时间：6小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [研究发现，使用AI购物车的用户平均购物篮金额更高，在店内停留时间也更长](https://phys.org/news/2026-06-ai-cart-users-rack-higher.html)
-   - 时间：7小时前
+15. [Ask HN: 对于一位成果卓著的独立人工智能研究者来说，有哪些选择？](https://news.ycombinator.com/item?id=48689261)
+   - 时间：10小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [华盛顿邮报报告：AI聊天机器人存在左翼偏见](https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq)
-   - 时间：7小时前
+16. [国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%](https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Leaf 开源项目：将网红峰哥做成实时通话 AI 分身](https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk)
-   - 时间：8小时前
+17. [华盛顿邮报报告：AI聊天机器人存在左翼偏见](https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq)
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [OpenAI 预览新一代模型 GPT-5.6 Sol](https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4)
+18. [Leaf 开源项目：将网红峰哥做成实时通话 AI 分身](https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk)
+   - 时间：昨天 23:37
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [OpenAI 预览新一代模型 GPT-5.6 Sol](https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4)
    - 时间：昨天 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [小鹏机器人架构迎来重大调整，何小鹏亲自下场直管促量产](https://www.aibase.com/news/29194)
-   - 时间：昨天 16:34
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化](https://www.aibase.com/news/29193)
+20. [小鹏机器人架构迎来重大调整，何小鹏亲自下场直管促量产](https://www.aibase.com/news/29194)
    - 时间：昨天 16:34
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-1017-1519-8a15-6b7599784c05&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-1437-11be-bc4b-2f054dc6160c&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-0847-304e-b710-c7adf8846887&fp=-3)
-   - 时间：1小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-0725-21ac-8f21-ba8046a27e4d&fp=-3)
-   - 时间：2小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-0602-022c-bff2-9330c656ebed&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-1017-1519-8a15-6b7599784c05&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-0358-4572-bd1f-780c765fea5f&fp=-3)
-   - 时间：6小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-0847-304e-b710-c7adf8846887&fp=-3)
+   - 时间：5小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-0725-21ac-8f21-ba8046a27e4d&fp=-3)
+   - 时间：7小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260627-0602-022c-bff2-9330c656ebed&fp=-3)
+   - 时间：8小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 827/3227 | 25.6% | 高信号源，建议保留 |
-| Buzzing | 507/1806 | 28.1% | 高信号源，建议保留 |
-| Info Flow | 218/863 | 25.3% | 高信号源，建议保留 |
-| TechURLs | 161/473 | 34.0% | 高信号源，建议保留 |
-| Zeli | 56/64 | 87.5% | 高信号源，建议保留 |
+| TopHub | 942/3625 | 26.0% | 高信号源，建议保留 |
+| Buzzing | 505/1791 | 28.2% | 高信号源，建议保留 |
+| Info Flow | 202/805 | 25.1% | 高信号源，建议保留 |
+| TechURLs | 157/461 | 34.1% | 高信号源，建议保留 |
+| Zeli | 52/60 | 86.7% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 26/132 | 19.7% | 高信号源，建议保留 |
-| OPML RSS | 17/28 | 60.7% | 高信号源，建议保留 |
+| NewsNow | 30/134 | 22.4% | 高信号源，建议保留 |
+| OPML RSS | 17/30 | 56.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
