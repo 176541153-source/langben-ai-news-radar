@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-28T21:41:02.160126Z
-- 24小时AI信号：1392 条
+- 生成时间：2026-06-28T23:12:05.069838Z
+- 24小时AI信号：1402 条
 - 源健康：14/14
-- 原始抓取：6934 条
+- 原始抓取：6956 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由](https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [仅有三个AI模型在500天创业测试中盈利超过起始资本](https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo)
-   - 时间：11小时前
+   - 时间：昨天 18:16
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [新浪开源VibeThinker-3B：推理可压缩，事实知识不能](https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011)
@@ -65,22 +65,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [论文图表被指有AI生成水印 兰州大学启动调查](https://www.zaochenbao.com/news/china/202606/2875168.html)
-   - 时间：今天 05:42
+   - 时间：今天 07:13
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组](https://www.thepaper.cn/newsDetail_forward_33470630)
-   - 时间：今天 05:42
+   - 时间：今天 07:13
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制](https://www.cls.cn/detail/2411046)
-   - 时间：18分钟前
+   - 时间：19分钟前
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus](https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3)
-   - 时间：10小时前
+   - 时间：昨天 18:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片](https://x.com/berryxia/status/2070916520822321292)
@@ -102,37 +102,37 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0741-29ea-a7df-b004ce5f9b1e&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0912-2953-8540-b800cb5c5956&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0619-44ff-8de9-8b989e56b5d2&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0741-29ea-a7df-b004ce5f9b1e&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0447-06cd-a70d-945b8d5a4564&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0619-44ff-8de9-8b989e56b5d2&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0321-4858-85c2-81c16676c664&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0447-06cd-a70d-945b8d5a4564&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度](https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk)
-   - 时间：4小时前
-   - 来源：AI HOT
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0321-4858-85c2-81c16676c664&fp=-3)
+   - 时间：5小时前
+   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 594/2657 | 22.4% | 高信号源，建议保留 |
-| Buzzing | 397/1286 | 30.9% | 高信号源，建议保留 |
+| TopHub | 601/2685 | 22.4% | 高信号源，建议保留 |
+| Buzzing | 403/1284 | 31.4% | 高信号源，建议保留 |
 | Info Flow | 140/571 | 24.5% | 高信号源，建议保留 |
-| Zeli | 60/72 | 83.3% | 高信号源，建议保留 |
-| TechURLs | 57/204 | 27.9% | 高信号源，建议保留 |
-| NewsNow | 37/183 | 20.2% | 高信号源，建议保留 |
+| Zeli | 58/71 | 81.7% | 高信号源，建议保留 |
+| TechURLs | 56/195 | 28.7% | 高信号源，建议保留 |
+| NewsNow | 37/181 | 20.4% | 高信号源，建议保留 |
 | AI HubToday | 12/12 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
 
