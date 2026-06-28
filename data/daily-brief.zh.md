@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-28T08:27:04.415358Z
-- 24小时AI信号：1343 条
+- 生成时间：2026-06-28T10:41:20.293185Z
+- 24小时AI信号：1316 条
 - 源健康：14/14
-- 原始抓取：7235 条
+- 原始抓取：7244 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [新浪开源VibeThinker-3B：推理可压缩，事实知识不能](https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011)
-   - 时间：42分钟前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板](https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%](https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5)
@@ -34,23 +34,23 @@
 ### 产品与开发者工具
 
 6. [阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具](https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Runway API 推出广告本地化 Recipe](https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy)
    - 时间：昨天 21:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged)
+8. [阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色](https://www.ithome.com/0/969/334.htm)
+   - 时间：昨天 11:39
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged)
    - 时间：昨天 04:04
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Weave 推出智能模型路由工具，可直接接入 Claude Code、Codex 和 Cursor](https://github.com/workweave/router)
+10. [Weave 推出智能模型路由工具，可直接接入 Claude Code、Codex 和 Cursor](https://github.com/workweave/router)
    - 时间：昨天 00:40
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI](https://www.ithome.com/0/968/872.htm)
-   - 时间：06-26 12:37
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -64,16 +64,16 @@
    - 时间：06-26 23:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [梁文锋署名论文！DeepSeek首轮融资后大动作：生成速度大涨85%](https://view.inews.qq.com/a/20260627A078RG00)
-   - 时间：今天 16:28
+13. [论文图表被指有AI生成水印 兰州大学启动调查](https://www.zaochenbao.com/news/china/202606/2875168.html)
+   - 时间：今天 18:42
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制](https://www.cls.cn/detail/2411046)
-   - 时间：今天 16:28
+14. [梁文锋署名论文！DeepSeek首轮融资后大动作：生成速度大涨85%](https://view.inews.qq.com/a/20260627A078RG00)
+   - 时间：今天 18:42
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组](https://www.thepaper.cn/newsDetail_forward_33470630)
-   - 时间：今天 16:28
+15. [大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制](https://www.cls.cn/detail/2411046)
+   - 时间：今天 18:42
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-1827-36d5-a1c7-e0a03182f262&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-2041-42d1-a1a4-08e84038cef1&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-1505-484a-ba40-9498f01f88f1&fp=-3)
-   - 时间：3小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-1827-36d5-a1c7-e0a03182f262&fp=-3)
+   - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-1011-186f-9b87-ba36178c8850&fp=-3)
-   - 时间：8小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-1505-484a-ba40-9498f01f88f1&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-0838-557f-8f58-08e987fa91d7&fp=-3)
-   - 时间：9小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-1011-186f-9b87-ba36178c8850&fp=-3)
+   - 时间：10小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-0713-3705-bf5c-8dd2c6ebce20&fp=-3)
-   - 时间：11小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260628-0838-557f-8f58-08e987fa91d7&fp=-3)
+   - 时间：今天 06:38
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 609/2707 | 22.5% | 高信号源，建议保留 |
-| Buzzing | 336/1268 | 26.5% | 高信号源，建议保留 |
-| Info Flow | 124/549 | 22.6% | 高信号源，建议保留 |
-| TechURLs | 76/238 | 31.9% | 高信号源，建议保留 |
-| Zeli | 56/63 | 88.9% | 高信号源，建议保留 |
-| NewsNow | 29/162 | 17.9% | 高信号源，建议保留 |
+| TopHub | 608/2743 | 22.2% | 高信号源，建议保留 |
+| Buzzing | 326/1248 | 26.1% | 高信号源，建议保留 |
+| Info Flow | 119/547 | 21.8% | 高信号源，建议保留 |
+| TechURLs | 62/207 | 30.0% | 高信号源，建议保留 |
+| Zeli | 55/61 | 90.2% | 高信号源，建议保留 |
+| NewsNow | 33/172 | 19.2% | 高信号源，建议保留 |
 | AI HubToday | 12/12 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
 
