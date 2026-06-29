@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-06-28T23:12:05.069838Z
-- 24小时AI信号：1402 条
-- 源健康：14/14
-- 原始抓取：6956 条
+- 生成时间：2026-06-29T01:38:14.061307Z
+- 24小时AI信号：1430 条
+- 源健康：13/14
+- 原始抓取：7021 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由](https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [仅有三个AI模型在500天创业测试中盈利超过起始资本](https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo)
@@ -33,93 +33,93 @@
 
 ### 产品与开发者工具
 
-6. [阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具](https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl)
+6. [​跨国科技新博弈：奥地利呼吁欧洲引入AI巨头Anthropic](https://www.aibase.com/news/29216)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [AI 开启打工新模式：惠普与 OpenAI 升级战略合作](https://www.aibase.com/news/29210)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [惠普与 OpenAI 达成战略合作，加速布局 AI 智能体平台 Frontier](https://www.aibase.com/news/29206)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具](https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl)
    - 时间：昨天 11:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Runway API 推出广告本地化 Recipe](https://x.com/runwayml/status/2070855164584726791)
+10. [Runway API 推出广告本地化 Recipe](https://x.com/runwayml/status/2070855164584726791)
    - 时间：06-27 21:02
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色](https://www.ithome.com/0/969/334.htm)
-   - 时间：06-27 11:39
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged)
-   - 时间：06-27 04:04
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Weave 推出智能模型路由工具，可直接接入 Claude Code、Codex 和 Cursor](https://github.com/workweave/router)
-   - 时间：06-27 00:40
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数](https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro)
+11. [全球第四家！OpenAI 与韩国人工智能安全研究所达成深度合作](https://www.aibase.com/news/29214)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数](https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro)
    - 时间：06-27 07:31
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Anthropic Economic Index 报告：使用节奏](https://www.anthropic.com/research/economic-index-june-2026-report)
+13. [Anthropic Economic Index 报告：使用节奏](https://www.anthropic.com/research/economic-index-june-2026-report)
    - 时间：06-26 23:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [论文图表被指有AI生成水印 兰州大学启动调查](https://www.zaochenbao.com/news/china/202606/2875168.html)
-   - 时间：今天 07:13
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组](https://www.thepaper.cn/newsDetail_forward_33470630)
-   - 时间：今天 07:13
+   - 时间：今天 09:39
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制](https://www.cls.cn/detail/2411046)
-   - 时间：19分钟前
+   - 时间：11分钟前
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus](https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3)
-   - 时间：昨天 18:50
-   - 来源：AI HOT
+16. [Anthropic 获准恢复 Fable 5 模型，美 AI 出口管制政策出现微调](https://www.aibase.com/news/29215)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片](https://x.com/berryxia/status/2070916520822321292)
-   - 时间：昨天 01:05
-   - 来源：AI HOT
+17. [算力提速关键突破：北大与 DeepSeek 联合开源大模型推理框架 DSpark](https://www.aibase.com/news/29212)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. ["Raise Us"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击](https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you)
-   - 时间：06-27 20:25
-   - 来源：AI HOT
+18. [消息称百度昆仑芯将赴港IPO 目标估值达500亿美元](https://www.aibase.com/news/29211)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [AI 账单失控后 DeepSeek 成"香饽饽"，部分美国企业已 100% 切换](https://www.ithome.com/0/969/400.htm)
-   - 时间：06-27 16:16
-   - 来源：AI HOT
+19. [绕开西方高昂算力 Coinbase 核心业务转向中国模型 GLM 与 Kimi](https://www.aibase.com/news/29209)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%](https://www.ithome.com/0/969/311.htm)
-   - 时间：06-27 09:43
-   - 来源：AI HOT
+20. [马斯克披露 Grok 4.5 进展：SpaceX 与特斯拉率先开启内部“练兵”](https://www.aibase.com/news/29208)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0912-2953-8540-b800cb5c5956&fp=-3)
+21. [Momenta开启港股招股，拟募资58.9亿港元深化物理AI布局](https://www.aibase.com/news/29213)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [福特因AI质控不及预期重聘350名资深工程师，成功挽回数亿美元成本](https://www.aibase.com/news/29207)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-1138-362c-af05-8a480e2f5681&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0741-29ea-a7df-b004ce5f9b1e&fp=-3)
-   - 时间：1小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0619-44ff-8de9-8b989e56b5d2&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0912-2953-8540-b800cb5c5956&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0447-06cd-a70d-945b8d5a4564&fp=-3)
-   - 时间：4小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0321-4858-85c2-81c16676c664&fp=-3)
-   - 时间：5小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260629-0741-29ea-a7df-b004ce5f9b1e&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,16 +127,16 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 601/2685 | 22.4% | 高信号源，建议保留 |
-| Buzzing | 403/1284 | 31.4% | 高信号源，建议保留 |
-| Info Flow | 140/571 | 24.5% | 高信号源，建议保留 |
-| Zeli | 58/71 | 81.7% | 高信号源，建议保留 |
-| TechURLs | 56/195 | 28.7% | 高信号源，建议保留 |
-| NewsNow | 37/181 | 20.4% | 高信号源，建议保留 |
+| TopHub | 602/2772 | 21.7% | 高信号源，建议保留 |
+| Buzzing | 409/1324 | 30.9% | 高信号源，建议保留 |
+| Info Flow | 148/627 | 23.6% | 高信号源，建议保留 |
+| Zeli | 61/72 | 84.7% | 高信号源，建议保留 |
+| TechURLs | 54/195 | 27.7% | 高信号源，建议保留 |
+| NewsNow | 39/181 | 21.5% | 高信号源，建议保留 |
 | AI HubToday | 12/12 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| AIbase | 11/11 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
-- 当前内置源抓取正常。
+- 需要优先修复失败源：aibreakfast
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
