@@ -1,56 +1,56 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-02T05:37:52.174711Z
-- 24小时AI信号：2261 条
+- 生成时间：2026-07-02T09:28:01.341466Z
+- 24小时AI信号：2257 条
 - 源健康：14/14
-- 原始抓取：7297 条
+- 原始抓取：7321 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [历时18个月研发，葡萄牙国家级大模型“阿马利娅”正式亮相](https://www.aibase.com/news/29328)
+1. [美团大模型生态调整：全面限用豆包，力推自研 LongCat 体系](https://www.aibase.com/news/29334)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [气象探测新利器：纳睿雷达发布“睿宸”AI 气象大模型及相控阵雷达](https://www.aibase.com/news/29326)
-   - 时间：1分钟前
+2. [历时18个月研发，葡萄牙国家级大模型“阿马利娅”正式亮相](https://www.aibase.com/news/29328)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿](https://www.aibase.com/news/29318)
-   - 时间：4小时前
+3. [气象探测新利器：纳睿雷达发布“睿宸”AI 气象大模型及相控阵雷达](https://www.aibase.com/news/29326)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会](https://www.aibase.com/news/29317)
-   - 时间：4小时前
+4. [国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿](https://www.aibase.com/news/29318)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！](https://www.aibase.com/news/29315)
-   - 时间：4小时前
+5. [孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会](https://www.aibase.com/news/29317)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [两分钟上手生产级语音智能体：xAI 发布 Voice Agent Builder 测试版](https://www.aibase.com/news/29332)
+6. [让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施](https://www.aibase.com/news/29342)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [支付宝AI生活助理“阿宝”正式开启公测，上线72项办事技能](https://www.aibase.com/news/29329)
+7. [谷歌详解安卓 Halo：状态栏专属区域，打造 AI 智能体交互中枢](https://www.aibase.com/news/29340)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [苹果 Safari 预览版新增 MCP 服务，AI 智能体助力网页开发调试](https://www.aibase.com/news/29324)
+8. [警惕“AI 蒸馏”：Meta 封杀竞品编码工具，大模型行业护城河博弈升级](https://www.aibase.com/news/29338)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [谷歌全面扩容 Gemini API 免费额度：部分模型单分钟吞吐量翻至百万级](https://www.aibase.com/news/29323)
-   - 时间：1分钟前
-   - 来源：AIbase
+9. [Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具](https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe)
+   - 时间：41分钟前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊](https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx)
-   - 时间：2小时前
+10. [Kimi K2.7 Code 已在 GitHub Copilot 上正式发布](https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -60,66 +60,66 @@
    - 时间：昨天 18:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [这个网站塞满了神级AI出图Prompt，复制就能直接用！](https://www.uisdc.com/prompt-radar)
-   - 时间：6小时前
+12. [英格兰、比利时双双晋级！凯恩神级逆转冲击金球，联想 AI 见证巨星时刻](https://finance.sina.com.cn/stock/marketresearch/2026-07-02/doc-inifmfcu5840866.shtml)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [沃尔夫研究公司称，尽管估值偏高，帕兰蒂尔科技（PLTR）仍是企业级人工智能领域的领导者](https://finance.yahoo.com/technology/ai/articles/wolfe-research-calls-palantir-technologies-155801643.html)
-   - 时间：今天 00:10
+13. [豆包公关负责人刘星辟谣网传“明星指数前十榜单”：为博主利用 AI 生成的不实内容](https://www.ithome.com/0/971/608.htm)
+   - 时间：2小时前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [从硬件工程到评估：AI Engineer 上的热门趋势](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212)
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [GMKtec NucBox K17 评测：一款功能强大的人工智能迷你电脑，可平衡日常办公任务的性能](https://www.techradar.com/computing/gmktec-nucbox-k17-review)
-   - 时间：昨天 23:54
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [肖茜受邀出席「国家形象传播研究」系列沙龙第 85 期「AI 浪潮下的传播与治理」](https://hub.baai.ac.cn/view/55995)
-   - 时间：昨天 21:37
+15. [这个网站塞满了神级AI出图Prompt，复制就能直接用！](https://www.uisdc.com/prompt-radar)
+   - 时间：10小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [告别“一刀切”：Cloudflare 推出精细化 AI 流量管理，筑起网站变现护城河](https://www.aibase.com/news/29333)
+16. [软银宣布7月在美国成立SB Neo，推新云服务竞逐AI算力市场](https://www.aibase.com/news/29345)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [支付宝“阿宝”公测开启：告别菜单跳转，进入“对话式”办事新时代](https://www.aibase.com/news/29330)
+17. [Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核](https://www.aibase.com/news/29344)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%](https://www.aibase.com/news/29325)
+18. [Cloudflare 出台爬虫管控新规，9 月 15 日起默认拦截 AI 训练类爬虫访问广告页面](https://www.aibase.com/news/29343)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿](https://www.aibase.com/news/29322)
+19. [可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈](https://www.aibase.com/news/29339)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [可灵AI将完成30亿美元融资腾讯参投，计划12个月内启动赴港IPO](https://www.aibase.com/news/29321)
+20. [无缝升级!阿里打包升级QoderWork等多款AI工具，聚焦企业核心场景](https://www.aibase.com/news/29337)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [拒绝内卷式协作：昆仑万维天工 3.2 推出 Skywork Tags，让 AI 成为工作群里的“靠谱同事”](https://www.aibase.com/news/29331)
+21. [阿福全民减重进展:超40万网友上秤，已减41万斤，21天打卡挑战赛来了](https://www.aibase.com/news/29336)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [网传 SpaceX 展示 AI 手机原型机，马斯克发文全盘辟谣](https://www.aibase.com/news/29327)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260702-1538-21d1-8b7d-2ae91fc2e7d0&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260702-1928-2033-bb06-9fdab31aee39&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验](https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n)
-   - 时间：2小时前
-   - 来源：AI HOT
+23. [拒绝内卷式协作：昆仑万维天工 3.2 推出 Skywork Tags，让 AI 成为工作群里的“靠谱同事”](https://www.aibase.com/news/29331)
+   - 时间：3小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260702-1134-5632-887b-f797349d2784&fp=-3)
-   - 时间：4小时前
+24. [网传 SpaceX 展示 AI 手机原型机，马斯克发文全盘辟谣](https://www.aibase.com/news/29327)
+   - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260702-1538-21d1-8b7d-2ae91fc2e7d0&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 1004/3722 | 27.0% | 高信号源，建议保留 |
-| Buzzing | 580/1945 | 29.8% | 高信号源，建议保留 |
-| Info Flow | 230/842 | 27.3% | 高信号源，建议保留 |
-| TechURLs | 173/474 | 36.5% | 高信号源，建议保留 |
-| Zeli | 76/91 | 83.5% | 高信号源，建议保留 |
+| TopHub | 970/3540 | 27.4% | 高信号源，建议保留 |
+| Buzzing | 584/1965 | 29.7% | 高信号源，建议保留 |
+| Info Flow | 237/857 | 27.7% | 高信号源，建议保留 |
+| TechURLs | 164/453 | 36.2% | 高信号源，建议保留 |
+| Zeli | 77/91 | 84.6% | 高信号源，建议保留 |
 | AIbase | 42/42 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 26/169 | 15.4% | 高信号源，建议保留 |
-| OPML RSS | 17/23 | 73.9% | 高信号源，建议保留 |
+| NewsNow | 33/195 | 16.9% | 高信号源，建议保留 |
+| OPML RSS | 22/29 | 75.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
