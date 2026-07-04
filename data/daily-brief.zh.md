@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-03T23:38:25.940806Z
-- 24小时AI信号：1881 条
+- 生成时间：2026-07-04T03:53:34.325249Z
+- 24小时AI信号：1802 条
 - 源健康：13/14
-- 原始抓取：7223 条
+- 原始抓取：7221 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [pxpipe：通过图像化压缩输入token降低Claude Code成本](https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6)
-   - 时间：4小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧](https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam)
-   - 时间：4小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [生数科技发布 Vidu S1，推动视频生成迈向"实时交互"新时代](https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成](https://aihot.virxact.com/items/cmr4w2clt05kasll56e54tanx)
-   - 时间：11小时前
+   - 时间：昨天 19:57
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [AI 智能体 Elements Claw 成功“闭环”超导材料研发](https://www.aibase.com/news/29373)
@@ -60,20 +60,20 @@
    - 时间：昨天 18:46
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力](https://www.thepaper.cn/newsDetail_forward_33501142)
-   - 时间：今天 07:39
+12. [AI填志愿实测：信息更新可能有偏差，决策还得考生自己做](https://www.thepaper.cn/newsDetail_forward_33493022)
+   - 时间：今天 11:55
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [AI填志愿实测：信息更新可能有偏差，决策还得考生自己做](https://www.thepaper.cn/newsDetail_forward_33493022)
-   - 时间：今天 07:39
-   - 来源：TrendRadar
+13. [一项独家研究发现，特朗普账户有助于积累长期财富，但前提是必须确保做到以下两点 - CNBC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2Q3MWJVRnpSX3RPZjFwNlV3R012dnFfdjBxM3NadGRpdktWbFh1bkRDNTAzRFAybjI5ZEVYS20yd3VaU0xwTkFBSFF4S29ld0tWUHBMYWhValZwcVZURzZXSWM5Yk9tLVVUT0IwTHg1NmM0cG1TSlI4b0VVbGJzVnFWbjNBMHQtNHB6ZzVtdllXM1RTVFhycjBONndPd1ZSTXVOcTVBYXkxTU3SAbABQVVfeXFMTzJQaWh3WXBxVVYzVzVFLXBFUzc4YkZMemxGUEczck9Bb0NNQWZqNVNNS1pZc3Q5V19VdXJhOXZCaUYxOVp0TGdYczFIQnZ6a3pSY1hoTGh5QVlpR3JETGcwN3ViYzVfQjVCeGN4a2l0cDY1T04xa21XZGFzYUhaaWFKUTU4eGJybl9VU0k3TERrcTlsNDdlWWxXT1d3c2pBQWNLUjBWQ2xYSmkzMVRHX2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：1小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [我把关键词都分享出来了，以后别说不会做动效了！](https://www.uisdc.com/ai-motion-lab)
-   - 时间：1分钟前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership)
-   - 时间：9小时前
+   - 时间：昨天 22:25
    - 来源：OPML RSS
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,35 +91,35 @@
    - 时间：昨天 12:27
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [微软成立“Frontier Company”：斥资 25 亿美元，将 6000 名工程师嵌入企业一线](https://www.aibase.com/news/29355)
-   - 时间：昨天 09:33
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [玩偶也能当“AI 导师”？MONTEE AI 完成首轮融资，拟年底冲击千万营收](https://www.aibase.com/news/29351)
-   - 时间：昨天 09:33
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河](https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC)
+   - 时间：9小时前
+   - 来源：OPML RSS
+   - 评分：8.6/10 · matched_tracked_ai_keyword
+20. [腾讯、阿里、百度，历史性同台！快手旗下可灵AI首轮融资落地](https://mp.weixin.qq.com/s/NPomFK5FfN-NIbtNRpidJw)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0938-531f-bbb5-406eae0a0f02&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-1354-044b-ab7c-7a481fcdab9a&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0837-275f-afd6-b16b13aa953b&fp=-3)
-   - 时间：1小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0938-531f-bbb5-406eae0a0f02&fp=-3)
+   - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0716-47ab-a510-fb119a18c608&fp=-3)
-   - 时间：2小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0559-43c8-a038-c2fe8ba51601&fp=-3)
-   - 时间：3小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0418-4724-a281-bb948dee7497&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0837-275f-afd6-b16b13aa953b&fp=-3)
    - 时间：5小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0716-47ab-a510-fb119a18c608&fp=-3)
+   - 时间：6小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-0559-43c8-a038-c2fe8ba51601&fp=-3)
+   - 时间：7小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 898/3207 | 28.0% | 高信号源，建议保留 |
-| Buzzing | 428/1669 | 25.6% | 高信号源，建议保留 |
-| Info Flow | 205/876 | 23.4% | 高信号源，建议保留 |
-| TechURLs | 97/341 | 28.4% | 高信号源，建议保留 |
-| Zeli | 73/85 | 85.9% | 高信号源，建议保留 |
-| AIbase | 31/31 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 30/189 | 15.9% | 高信号源，建议保留 |
-| AI HOT | 15/15 | 100.0% | 抓取失败，先修复源 |
+| TopHub | 898/3314 | 27.1% | 高信号源，建议保留 |
+| Buzzing | 392/1575 | 24.9% | 高信号源，建议保留 |
+| Info Flow | 177/775 | 22.8% | 高信号源，建议保留 |
+| TechURLs | 92/331 | 27.8% | 高信号源，建议保留 |
+| Zeli | 76/85 | 89.4% | 高信号源，建议保留 |
+| NewsNow | 32/184 | 17.4% | 高信号源，建议保留 |
+| AIbase | 23/23 | 100.0% | 高信号源，建议保留 |
+| AI HubToday | 12/12 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
