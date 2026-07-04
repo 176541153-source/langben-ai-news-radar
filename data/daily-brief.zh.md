@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-04T14:10:25.381092Z
-- 24小时AI信号：1631 条
+- 生成时间：2026-07-04T15:43:29.444971Z
+- 24小时AI信号：1580 条
 - 源健康：14/14
-- 原始抓取：7316 条
+- 原始抓取：7303 条
 
 ## 今日重点
 
@@ -57,34 +57,34 @@
 ### 论文研究与评测
 
 11. [26000名学生研究显示AI隐藏学习成本需两年才显现](https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [随着AI超级周期的到来，Benchmark重新启动了针对Datadog的投资计划](https://finance.yahoo.com/markets/stocks/articles/benchmark-reboots-datadog-target-ai-133300710.html)
-   - 时间：10分钟前
+12. [【问与答】 啥情况，豆包还不准俺研究龟男](https://www.v2ex.com/t/1224991)
+   - 时间：27分钟前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [随着AI超级周期的到来，Benchmark重新启动了针对Datadog的投资计划](https://finance.yahoo.com/markets/stocks/articles/benchmark-reboots-datadog-target-ai-133300710.html)
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [使用现实世界的工作评估和测试人工智能](https://www.producthunt.com/products/evaluate-test-ai-using-real-world-work)
-   - 时间：3小时前
+14. [使用现实世界的工作评估和测试人工智能](https://www.producthunt.com/products/evaluate-test-ai-using-real-world-work)
+   - 时间：5小时前
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [总部位于布拉格的 EquiLibre 为量化对冲基金提供人工智能服务，由三名前 Google DeepMind 研究人员创立，以 5 亿美元的估值筹集了 A 轮融资（Anna Heim/TechCrunch）](https://www.techmeme.com/260704/p2)
-   - 时间：9小时前
+15. [总部位于布拉格的 EquiLibre 为量化对冲基金提供人工智能服务，由三名前 Google DeepMind 研究人员创立，以 5 亿美元的估值筹集了 A 轮融资（Anna Heim/TechCrunch）](https://www.techmeme.com/260704/p2)
+   - 时间：10小时前
    - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [一项独家研究发现，特朗普账户有助于积累长期财富，但前提是必须确保做到以下两点 - CNBC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2Q3MWJVRnpSX3RPZjFwNlV3R012dnFfdjBxM3NadGRpdktWbFh1bkRDNTAzRFAybjI5ZEVYS20yd3VaU0xwTkFBSFF4S29ld0tWUHBMYWhValZwcVZURzZXSWM5Yk9tLVVUT0IwTHg1NmM0cG1TSlI4b0VVbGJzVnFWbjNBMHQtNHB6ZzVtdllXM1RTVFhycjBONndPd1ZSTXVOcTVBYXkxTU3SAbABQVVfeXFMTzJQaWh3WXBxVVYzVzVFLXBFUzc4YkZMemxGUEczck9Bb0NNQWZqNVNNS1pZc3Q5V19VdXJhOXZCaUYxOVp0TGdYczFIQnZ6a3pSY1hoTGh5QVlpR3JETGcwN3ViYzVfQjVCeGN4a2l0cDY1T04xa21XZGFzYUhaaWFKUTU4eGJybl9VU0k3TERrcTlsNDdlWWxXT1d3c2pBQWNLUjBWQ2xYSmkzMVRHX2s?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：今天 09:59
-   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分](https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片](https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [生数科技发布 Vidu S1，推动视频生成迈向"实时交互"新时代](https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ)
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-0010-5232-84b7-30f688f47f5f&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-0143-57d5-b467-9de7eaea09d2&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-2214-0657-954f-3a691c53be83&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-0010-5232-84b7-30f688f47f5f&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-2107-141b-9a8a-44f08350cf5c&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-2214-0657-954f-3a691c53be83&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-1928-3382-80c9-c9d14cc8c706&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-2107-141b-9a8a-44f08350cf5c&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-1654-388b-9e36-25ebd61ce507&fp=-3)
-   - 时间：7小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260704-1928-3382-80c9-c9d14cc8c706&fp=-3)
+   - 时间：6小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 801/3018 | 26.5% | 高信号源，建议保留 |
-| Buzzing | 398/1494 | 26.6% | 高信号源，建议保留 |
-| Info Flow | 144/595 | 24.2% | 高信号源，建议保留 |
-| Zeli | 72/79 | 91.1% | 高信号源，建议保留 |
-| TechURLs | 65/240 | 27.1% | 高信号源，建议保留 |
-| NewsNow | 35/181 | 19.3% | 高信号源，建议保留 |
+| TopHub | 792/2989 | 26.5% | 高信号源，建议保留 |
+| Buzzing | 382/1441 | 26.5% | 高信号源，建议保留 |
+| Info Flow | 144/586 | 24.6% | 高信号源，建议保留 |
+| Zeli | 59/65 | 90.8% | 高信号源，建议保留 |
+| TechURLs | 59/224 | 26.3% | 高信号源，建议保留 |
+| NewsNow | 32/175 | 18.3% | 高信号源，建议保留 |
 | AI HubToday | 13/13 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 11/36 | 30.6% | 高信号源，建议保留 |
+| Follow Builders | 9/33 | 27.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
