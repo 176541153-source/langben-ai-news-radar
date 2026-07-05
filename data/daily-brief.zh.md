@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-05T12:50:27.342390Z
-- 24小时AI信号：1375 条
+- 生成时间：2026-07-05T14:48:48.476658Z
+- 24小时AI信号：1382 条
 - 源健康：14/14
-- 原始抓取：7223 条
+- 原始抓取：7239 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用](https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成](https://www.ithome.com/0/972/424.htm)
@@ -61,19 +61,19 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线](https://www.cls.cn/detail/2417200)
-   - 时间：今天 20:51
+   - 时间：今天 22:49
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [研究表明：人工智能实际上正在创造更多就业岗位，而非导致失业（但有一个问题）](https://finance.yahoo.com/technology/ai/articles/study-ai-actually-creating-more-112148300.html)
-   - 时间：10分钟前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Show HN: PES Benchmark v0.2 – 检测AI生成的运动（Cohen''s d10.4）](https://github.com/myshapeprotocol/myshape-protocol)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [哈佛大学研究：AI 原生初创企业减少入门级岗位招聘，对专家级人才需求更大](https://www.ithome.com/0/972/807.htm)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-2250-5556-a522-73a86f312870&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260706-0049-1568-a2e9-14908358ecd3&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-2118-0778-9e9e-fa2bdfd57e21&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-2250-5556-a522-73a86f312870&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-1918-4142-a9f8-4b6d53777fde&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-2118-0778-9e9e-fa2bdfd57e21&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-1544-5709-89ec-44a881a287a1&fp=-3)
-   - 时间：7小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-1918-4142-a9f8-4b6d53777fde&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-1119-1990-8ba2-875bdbb8413e&fp=-3)
-   - 时间：11小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260705-1544-5709-89ec-44a881a287a1&fp=-3)
+   - 时间：9小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 666/2741 | 24.3% | 高信号源，建议保留 |
-| Buzzing | 328/1188 | 27.6% | 高信号源，建议保留 |
-| Info Flow | 121/552 | 21.9% | 高信号源，建议保留 |
-| Zeli | 77/86 | 89.5% | 高信号源，建议保留 |
-| TechURLs | 51/212 | 24.1% | 高信号源，建议保留 |
-| NewsNow | 33/167 | 19.8% | 高信号源，建议保留 |
+| TopHub | 678/2752 | 24.6% | 高信号源，建议保留 |
+| Buzzing | 315/1163 | 27.1% | 高信号源，建议保留 |
+| Info Flow | 121/574 | 21.1% | 高信号源，建议保留 |
+| Zeli | 82/90 | 91.1% | 高信号源，建议保留 |
+| TechURLs | 53/213 | 24.9% | 高信号源，建议保留 |
+| NewsNow | 34/174 | 19.5% | 高信号源，建议保留 |
 | AI HubToday | 13/13 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 5/28 | 17.9% | 有少量有效信号，继续观察 |
+| Follow Builders | 5/25 | 20.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
