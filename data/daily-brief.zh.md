@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-05T20:38:39.961152Z
-- 24小时AI信号：1411 条
+- 生成时间：2026-07-05T22:08:31.904616Z
+- 24小时AI信号：1386 条
 - 源健康：14/14
-- 原始抓取：7105 条
+- 原始抓取：6996 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Anthropic Claude Design 反向工程提示词开源更新](https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码](https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [pxpipe：通过图像化压缩输入token降低Claude Code成本](https://github.com/teamchong/pxpipe)
@@ -61,26 +61,26 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线](https://www.cls.cn/detail/2417200)
-   - 时间：17分钟前
+   - 时间：16分钟前
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [研究表明：人工智能实际上正在创造更多就业岗位，而非导致失业（但有一个问题）](https://finance.yahoo.com/technology/ai/articles/study-ai-actually-creating-more-112148300.html)
-   - 时间：7小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [Show HN: PES Benchmark v0.2 – 检测AI生成的运动（Cohen''s d10.4）](https://github.com/myshapeprotocol/myshape-protocol)
    - 时间：9小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [Show HN: PES Benchmark v0.2 – 检测AI生成的运动（Cohen''s d10.4）](https://github.com/myshapeprotocol/myshape-protocol)
+   - 时间：10小时前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [哈佛大学研究：AI 原生初创企业减少入门级岗位招聘，对专家级人才需求更大](https://www.ithome.com/0/972/807.htm)
-   - 时间：11小时前
+   - 时间：昨天 17:25
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [三周前，我不小心创办了一家小公司](https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分](https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks)
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260706-0639-05fe-8a55-d204c545ff2f&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260706-0808-590e-94a6-7fc63cee2312&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260706-0537-25a2-a8cb-eea9ddf7981f&fp=-3)
+22. [NVIDIA Kyber NVL144 延迟超 12 个月至 2028](https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260706-0639-05fe-8a55-d204c545ff2f&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [扎克伯格：建千兆瓦级AI集群，集中精英与资本](https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260706-0537-25a2-a8cb-eea9ddf7981f&fp=-3)
    - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260706-0338-243d-9858-339191e3c9ee&fp=-3)
-   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [欧盟理事会通过快速通道强制推行"聊天管控"（Chat Control 2.0）](https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr)
-   - 时间：4小时前
+25. [扎克伯格：建千兆瓦级AI集群，集中精英与资本](https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73)
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 661/2599 | 25.4% | 高信号源，建议保留 |
-| Buzzing | 379/1237 | 30.6% | 高信号源，建议保留 |
-| Info Flow | 110/561 | 19.6% | 高信号源，建议保留 |
-| Zeli | 75/82 | 91.5% | 高信号源，建议保留 |
-| TechURLs | 48/199 | 24.1% | 高信号源，建议保留 |
-| NewsNow | 36/179 | 20.1% | 高信号源，建议保留 |
-| AI HubToday | 13/13 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
+| TopHub | 633/2504 | 25.3% | 高信号源，建议保留 |
+| Buzzing | 381/1234 | 30.9% | 高信号源，建议保留 |
+| Info Flow | 112/568 | 19.7% | 高信号源，建议保留 |
+| Zeli | 76/83 | 91.6% | 高信号源，建议保留 |
+| TechURLs | 46/193 | 23.8% | 高信号源，建议保留 |
+| NewsNow | 36/186 | 19.4% | 高信号源，建议保留 |
+| AI HubToday | 12/12 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
