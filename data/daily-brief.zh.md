@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-06T23:14:57.921559Z
-- 24小时AI信号：1849 条
+- 生成时间：2026-07-07T05:46:37.070276Z
+- 24小时AI信号：1826 条
 - 源健康：13/14
-- 原始抓取：6932 条
+- 原始抓取：7126 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude Code v2.1.202 发布](https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz)
-   - 时间：23分钟前
+1. [白宫紧急撤销禁令！美网络安全局启用 AI “神话”模型审计政府代码](https://www.aibase.com/news/29417)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [性能碾压对手！谷歌 Gemini 3.5 Pro 曝光：史诗级升级定档 7 月 17 日](https://www.aibase.com/news/29413)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [资本市场新动作：Hellman &amp; Friedman 投资的 Hub 公司拟通过 IPO 筹资 30 亿美元](https://www.aibase.com/news/29409)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [MIRA：可玩多人世界模型，20 FPS实时生成"火箭联盟的梦"](https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Claude Fable实地指南：发现你的未知](https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos)
-   - 时间：4小时前
+5. [Gemini Spark 可智能追踪话题实时反应](https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj)
+   - 时间：5小时前
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5](https://www.aibase.com/news/29404)
-   - 时间：10小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再"挤牙膏"](https://www.aibase.com/news/29399)
-   - 时间：昨天 16:47
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布](https://www.aibase.com/news/29398)
-   - 时间：昨天 16:47
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OfficeCLI：为AI智能体设计的开源Office套件](https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd)
-   - 时间：11分钟前
-   - 来源：AI HOT
+6. [你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？](https://www.aibase.com/news/29428)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Claude Code 团队详解四种智能体循环类型](https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t)
-   - 时间：4小时前
-   - 来源：AI HOT
+7. [打破终端壁垒！支付宝 AI 开放平台上线，“阿宝”一键连接手机车机](https://www.aibase.com/news/29421)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出](https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9)
-   - 时间：6小时前
-   - 来源：AI HOT
+8. [砸下 190 亿美金！AI巨头 Anthropic 豪租数据中心 20 年](https://www.aibase.com/news/29420)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [免费开源API中转站监测网站tokhub.me上线](https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t)
-   - 时间：9小时前
-   - 来源：AI HOT
+9. [AI有了“办公神器”：开源OfficeCLI让智能体自主驾驭文档](https://www.aibase.com/news/29419)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%](https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy)
-   - 时间：11小时前
-   - 来源：AI HOT
+10. [砸下 190 亿美金！AI巨头 Anthropic 豪租数据中心 20 年](https://www.aibase.com/news/29418)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱"老法师"](https://www.aibase.com/news/29395)
+11. [安全研究员揪出ChatGPT漏洞：提示词注入竟能绕过文件访问限制](https://www.aibase.com/news/29414)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [字节 Seed 发布 EdgeBench：衡量真实世界环境学习，发现新 Scaling Law](https://aihot.virxact.com/items/cmra3zy5200p0ihx88zih8ib8)
+   - 时间：今天 00:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [哈佛研究揭示残酷真相：AI原生公司不要应届生，团队缩四分之一却更爱"老法师"](https://www.aibase.com/news/29395)
    - 时间：昨天 16:47
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台](https://aihot.virxact.com/items/cmr8reau2005fslvpmqjll6du)
+14. [Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台](https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research)
    - 时间：昨天 13:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [李飞飞团队最新研究：告别昂贵的“虚实转换”，一段视频即可生成无限机器人训练场](https://www.aibase.com/news/29390)
-   - 时间：昨天 12:20
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [用可解释性理解标注者安全策略](https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj)
+15. [LLM-as-a-Verifier：一种通用验证框架](https://arxiv.org/abs/2607.05391)
    - 时间：昨天 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [语言模型中的全局工作空间](https://www.anthropic.com/research/global-workspace)
-   - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产业、算力与机器人
 
-16. [2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位](https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t)
-   - 时间：4小时前
+16. [强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点](https://www.aibase.com/news/29434)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布](https://www.aibase.com/news/29432)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [全新蜕变！xAI 正式更名为 SpaceXAI，马斯克完成商业版图大整合](https://www.aibase.com/news/29416)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [国产算力新里程碑：美团LongCat-2. 0 大模型正式开源](https://www.aibase.com/news/29415)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位](https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t)
+   - 时间：11小时前
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证](https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1)
-   - 时间：6小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一](https://www.aibase.com/news/29403)
-   - 时间：10小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [算力利用率破65%:AIGCode如何用“L3级”编程模型突围?](https://www.aibase.com/news/29401)
-   - 时间：昨天 16:47
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [AI机器人来袭！日本计划部署千万台应对劳动力危机](https://www.aibase.com/news/29387)
-   - 时间：昨天 12:20
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260707-0915-2327-a14e-0aaed52a1f7a&fp=-3)
+21. [以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息](https://www.aibase.com/news/29433)
    - 时间：1分钟前
-   - 来源：AI HubToday
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260707-0427-4856-bd23-b3472a2d593d&fp=-3)
-   - 时间：4小时前
-   - 来源：AI HubToday
+22. [一次接入、多端分发！支付宝 AI 开放平台开启邀测](https://www.aibase.com/news/29431)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [OpenClaw 登陆 HuggingFace 本地应用](https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73)
-   - 时间：5小时前
-   - 来源：AI HOT
+23. [用户强烈反对！微软做出让步：Teams 会议中途可一键关闭 AI 功能](https://www.aibase.com/news/29430)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260707-0226-55ce-a8a4-cf80796147a7&fp=-3)
-   - 时间：6小时前
-   - 来源：AI HubToday
+24. [行业震动：Meta被曝诱导竞品AI测试极端心理敏感话题](https://www.aibase.com/news/29429)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [15 岁少年利用AI实施勒索攻击，致知名平台全站停服](https://www.aibase.com/news/29405)
-   - 时间：10小时前
+25. [寒风凛冽： 2026 年全球科技巨头掀起“AI裁员潮”](https://www.aibase.com/news/29412)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 753/2667 | 28.2% | 高信号源，建议保留 |
-| Buzzing | 503/1540 | 32.7% | 高信号源，建议保留 |
-| Info Flow | 216/852 | 25.4% | 高信号源，建议保留 |
-| TechURLs | 136/392 | 34.7% | 高信号源，建议保留 |
-| Zeli | 74/85 | 87.1% | 高信号源，建议保留 |
-| AIbase | 25/25 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 20/20 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 17/93 | 18.3% | 抓取失败，先修复源 |
+| TopHub | 745/2597 | 28.7% | 高信号源，建议保留 |
+| Buzzing | 477/1538 | 31.0% | 高信号源，建议保留 |
+| Info Flow | 227/825 | 27.5% | 高信号源，建议保留 |
+| TechURLs | 139/399 | 34.8% | 高信号源，建议保留 |
+| Zeli | 77/88 | 87.5% | 高信号源，建议保留 |
+| AIbase | 30/30 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 18/18 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 13/23 | 56.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
