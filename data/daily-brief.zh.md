@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-08T22:35:10.167846Z
-- 24小时AI信号：2212 条
-- 源健康：13/14
-- 原始抓取：7050 条
+- 生成时间：2026-07-08T23:40:21.967498Z
+- 24小时AI信号：2192 条
+- 源健康：12/14
+- 原始抓取：7107 条
 
 ## 今日重点
 
@@ -11,19 +11,19 @@
 ### 模型发布与能力更新
 
 1. [GPT-Live 新一代语音模型发布](https://aihot.virxact.com/items/cmrcd252h0004ihareuzvfh2w)
-   - 时间：5小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [ChatGPT Voice：口述文章的新体验](https://aihot.virxact.com/items/cmrcck6ht01loihqcfd7x4ohf)
-   - 时间：5小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Runway Dev 发布](https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype)
    - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Robostral Navigate：Mistral AI 首个具身导航模型](https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk)
+2. [ChatGPT Voice：口述文章的新体验](https://aihot.virxact.com/items/cmrcck6ht01loihqcfd7x4ohf)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [Runway Dev 发布](https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype)
    - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [Robostral Navigate：Mistral AI 首个具身导航模型](https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk)
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案](https://aihot.virxact.com/items/cmrbxa3ll003yihgens8d2sqg)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI高薪挖投行人才：年薪 139 万加股权，要用AI重塑华尔街](https://www.aibase.com/news/29472)
-   - 时间：11小时前
+   - 时间：昨天 19:24
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [黑客可利用9款最流行的AI工具组装大规模僵尸网络](https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5)
@@ -57,11 +57,11 @@
 ### 论文研究与评测
 
 11. [OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷](https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [在校研究生Kunkun开源管理相互调用Skill的方法](https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平](https://www.aibase.com/news/29471)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [OpenAI发布政府与国家安全合作伙伴关系方针](https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [美国企业“弃用”头部AI：中国模型凭借高性价比突围](https://www.aibase.com/news/29465)
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0835-368b-b021-5e9673024122&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0940-49af-8fae-8423d7db92da&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0717-5893-a70e-af37723b91e0&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0835-368b-b021-5e9673024122&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [诉讼：男子使用Grok制作7000张继女色情图像后自杀](https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0717-5893-a70e-af37723b91e0&fp=-3)
    - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0347-172c-908b-a9fdaa0c9da2&fp=-3)
-   - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0151-5819-bfb3-78225f910c58&fp=-3)
-   - 时间：6小时前
+24. [诉讼：男子使用Grok制作7000张继女色情图像后自杀](https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8)
+   - 时间：3小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0347-172c-908b-a9fdaa0c9da2&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,16 +127,16 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 950/3175 | 29.9% | 高信号源，建议保留 |
-| Buzzing | 523/1987 | 26.3% | 高信号源，建议保留 |
-| Info Flow | 269/974 | 27.6% | 高信号源，建议保留 |
-| TechURLs | 198/480 | 41.2% | 高信号源，建议保留 |
-| Zeli | 58/67 | 86.6% | 高信号源，建议保留 |
-| AIbase | 29/29 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 29/134 | 21.6% | 高信号源，建议保留 |
+| TopHub | 925/3173 | 29.2% | 高信号源，建议保留 |
+| Buzzing | 514/2000 | 25.7% | 高信号源，建议保留 |
+| Info Flow | 274/982 | 27.9% | 高信号源，建议保留 |
+| TechURLs | 207/497 | 41.6% | 高信号源，建议保留 |
+| Zeli | 60/69 | 87.0% | 高信号源，建议保留 |
+| AIbase | 29/29 | 100.0% | 抓取失败，先修复源 |
+| NewsNow | 28/138 | 20.3% | 高信号源，建议保留 |
 | AI HOT | 25/25 | 100.0% | 抓取失败，先修复源 |
 
 ## 维护提示
 
-- 需要优先修复失败源：aihot
+- 需要优先修复失败源：aibase, aihot
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
