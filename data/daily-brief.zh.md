@@ -1,124 +1,124 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-08T23:40:21.967498Z
-- 24小时AI信号：2192 条
-- 源健康：12/14
-- 原始抓取：7107 条
+- 生成时间：2026-07-09T04:03:39.938229Z
+- 24小时AI信号：2150 条
+- 源健康：13/14
+- 原始抓取：7195 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [GPT-Live 新一代语音模型发布](https://aihot.virxact.com/items/cmrcd252h0004ihareuzvfh2w)
-   - 时间：6小时前
-   - 来源：AI HOT
+1. [MiniMax计划推出新一代大模型 参数规模2.7万亿](https://www.aibase.com/news/29488)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [ChatGPT Voice：口述文章的新体验](https://aihot.virxact.com/items/cmrcck6ht01loihqcfd7x4ohf)
-   - 时间：6小时前
-   - 来源：AI HOT
+2. [OpenAI语音助手大升级：GPT-Live全双工模型上线，ChatGPT终于能"边听边说"了](https://www.aibase.com/news/29486)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Runway Dev 发布](https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype)
-   - 时间：8小时前
-   - 来源：AI HOT
+3. [AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代](https://www.aibase.com/news/29483)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Robostral Navigate：Mistral AI 首个具身导航模型](https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk)
-   - 时间：9小时前
-   - 来源：AI HOT
+4. [谷歌相册推出AI“视频混音”功能：搭载Gemini Omni，主打数秒内电影级剪辑](https://www.aibase.com/news/29476)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案](https://aihot.virxact.com/items/cmrbxa3ll003yihgens8d2sqg)
-   - 时间：昨天 17:55
-   - 来源：AI HOT
+5. [全双工实时语音上线，ChatGPT彻底告别“对讲机”时代](https://www.aibase.com/news/29474)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI高薪挖投行人才：年薪 139 万加股权，要用AI重塑华尔街](https://www.aibase.com/news/29472)
-   - 时间：昨天 19:24
+6. [Cloudflare联手OpenAI，AI搜索技术迎来新突破](https://www.aibase.com/news/29484)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [黑客可利用9款最流行的AI工具组装大规模僵尸网络](https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5)
-   - 时间：昨天 15:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [每日代码“高产”三万七？YC掌门人被曝AI编程陷“臃肿”怪圈](https://www.aibase.com/news/29463)
-   - 时间：昨天 14:35
+7. [阶跃星辰将发布全球大模型厂商首款AI智能体手机](https://www.aibase.com/news/29481)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向](https://www.aibase.com/news/29462)
-   - 时间：昨天 14:35
+8. [法律金融行业迎“新援”：SpaceX AI联合Cursor推出Grok 4.5](https://www.aibase.com/news/29480)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [英伟达Vera CPU来了：专为AI代理从零设计，速度快1. 5 倍，OpenAI和Anthropic都要用](https://www.aibase.com/news/29460)
-   - 时间：昨天 14:35
+9. [微软测试iPad版Word新版本:深度整合Copilot AI助手辅助文档编辑](https://www.aibase.com/news/29479)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [马斯克抛出Grok 4.5：自称"Opus级"性能、价格仅十分之一，正面叫板OpenAI和Anthropic](https://www.aibase.com/news/29478)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷](https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u)
-   - 时间：10小时前
+11. [OpenAI人才流动：前研究员田永龙入职腾讯，深耕视觉语言模型研发](https://www.aibase.com/news/29485)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷](https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u)
+   - 时间：昨天 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [在校研究生Kunkun开源管理相互调用Skill的方法](https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv)
-   - 时间：11小时前
+13. [在校研究生Kunkun开源管理相互调用Skill的方法](https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv)
+   - 时间：昨天 20:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平](https://www.aibase.com/news/29471)
+14. [腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平](https://www.aibase.com/news/29471)
    - 时间：昨天 17:09
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [OpenAI 前研究员田永龙被曝加入腾讯混元多模态团队](https://www.aibase.com/news/29456)
+15. [OpenAI 前研究员田永龙被曝加入腾讯混元多模态团队](https://www.aibase.com/news/29456)
    - 时间：昨天 17:09
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [腾讯混元多模态团队再添强援，OpenAI 前研究员田永龙被曝加入](https://www.aibase.com/news/29456)
-   - 时间：昨天 11:37
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产业、算力与机器人
 
-16. [OpenAI发布政府与国家安全合作伙伴关系方针](https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j)
-   - 时间：10小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [美国企业“弃用”头部AI：中国模型凭借高性价比突围](https://www.aibase.com/news/29465)
-   - 时间：昨天 17:09
+16. [Prime Intellect完成1. 3 亿美元融资，估值达 10 亿美元](https://www.aibase.com/news/29491)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”](https://www.aibase.com/news/29459)
-   - 时间：昨天 14:35
+17. [AI编码圈再传重磅：瑞典新星Lovable估值或将翻倍至 132 亿美元](https://www.aibase.com/news/29490)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞](https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo)
-   - 时间：昨天 12:29
-   - 来源：AI HOT
+18. [蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了!](https://www.aibase.com/news/29489)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI 发布 GPT-Live 新一代全双工语音模型](https://aihot.virxact.com/items/cmrcc072t01eqihqcf5kht18y)
-   - 时间：昨天 08:00
-   - 来源：AI HOT
+19. [智谱完成约314亿港元配售 资金将用于大模型技术研发与算力建设](https://www.aibase.com/news/29487)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [Anthropic 抢先冲击 IPO，AI 行业迎来千亿营收新格局](https://www.aibase.com/news/29482)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0940-49af-8fae-8423d7db92da&fp=-3)
+21. [小米全新 AI 战略：构建未来的智能基础设施，重塑行业格局！](https://www.aibase.com/news/29493)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [港股AI板块热度不减：智谱、MiniMax解禁日表现抢眼](https://www.aibase.com/news/29492)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-1404-00cf-8d5f-49fca45bf4c5&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0835-368b-b021-5e9673024122&fp=-3)
-   - 时间：1小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0940-49af-8fae-8423d7db92da&fp=-3)
+   - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0717-5893-a70e-af37723b91e0&fp=-3)
-   - 时间：2小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [诉讼：男子使用Grok制作7000张继女色情图像后自杀](https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8)
-   - 时间：3小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0347-172c-908b-a9fdaa0c9da2&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260709-0835-368b-b021-5e9673024122&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,16 +127,16 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 925/3173 | 29.2% | 高信号源，建议保留 |
-| Buzzing | 514/2000 | 25.7% | 高信号源，建议保留 |
-| Info Flow | 274/982 | 27.9% | 高信号源，建议保留 |
-| TechURLs | 207/497 | 41.6% | 高信号源，建议保留 |
-| Zeli | 60/69 | 87.0% | 高信号源，建议保留 |
-| AIbase | 29/29 | 100.0% | 抓取失败，先修复源 |
-| NewsNow | 28/138 | 20.3% | 高信号源，建议保留 |
-| AI HOT | 25/25 | 100.0% | 抓取失败，先修复源 |
+| TopHub | 902/3102 | 29.1% | 高信号源，建议保留 |
+| Buzzing | 511/1975 | 25.9% | 高信号源，建议保留 |
+| Info Flow | 270/945 | 28.6% | 高信号源，建议保留 |
+| TechURLs | 204/489 | 41.7% | 高信号源，建议保留 |
+| Zeli | 62/75 | 82.7% | 高信号源，建议保留 |
+| AIbase | 36/36 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 28/133 | 21.1% | 高信号源，建议保留 |
+| AI HOT | 16/16 | 100.0% | 抓取失败，先修复源 |
 
 ## 维护提示
 
-- 需要优先修复失败源：aibase, aihot
+- 需要优先修复失败源：aihot
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
