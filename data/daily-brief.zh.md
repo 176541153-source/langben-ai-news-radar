@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-11T19:16:26.916539Z
-- 24小时AI信号：1676 条
+- 生成时间：2026-07-11T20:24:57.559797Z
+- 24小时AI信号：1689 条
 - 源健康：14/14
-- 原始抓取：6777 条
+- 原始抓取：7189 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 发布 GPT-5.6 系列医疗评估结果](https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型](https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc)
-   - 时间：11小时前
+   - 时间：昨天 15:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun](https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62)
-   - 时间：11小时前
+   - 时间：昨天 15:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘](https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n)
@@ -57,23 +57,23 @@
 ### 论文研究与评测
 
 11. [研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发](https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [OpenAI 论文：GPT-5.6 Sol Ultra 证明图论"循环双覆盖猜想"](https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0)
+12. [OpenAI 论文：GPT-5.6 Sol Ultra 证明图论"循环双覆盖猜想"](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
    - 时间：昨天 03:59
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [西京研究院赵建：AI 已进入「文明级变迁」，投资 AI 本身就是价值投资](https://finance.sina.com.cn/money/fund/jjsy/2026-07-11/doc-inihmrez5064233.shtml)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [OpenAI 再次将安全纳入研究。其安全负责人即将离职。](https://thenextweb.com/news/openai-heidecke-safety-head-leaving-research-merger)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [清华大学人工智能国际治理研究院代表团与联合国贸易和发展会议交流](https://hub.baai.ac.cn/view/56269)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,39 +102,39 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0516-5088-8344-bfeab366dfc6&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0625-2089-bcbe-4a9a41d61473&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0401-57ad-93a6-b83fe14123cb&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0516-5088-8344-bfeab366dfc6&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0306-3426-acb5-e177db98037e&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0401-57ad-93a6-b83fe14123cb&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Ghost Font：一种人类能读懂但AI无法识别的反AI字体](https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0202-0868-b5ee-4be0f7c5b11e&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0306-3426-acb5-e177db98037e&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [Ghost Font：一种人类能读懂但AI无法识别的反AI字体](https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8)
+   - 时间：3小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 850/3063 | 27.8% | 高信号源，建议保留 |
-| Buzzing | 382/1444 | 26.5% | 高信号源，建议保留 |
-| Info Flow | 143/584 | 24.5% | 高信号源，建议保留 |
-| TechURLs | 93/285 | 32.6% | 高信号源，建议保留 |
-| Zeli | 57/68 | 83.8% | 高信号源，建议保留 |
-| NewsNow | 38/165 | 23.0% | 高信号源，建议保留 |
-| AI HubToday | 16/16 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 12/12 | 100.0% | 高信号源，建议保留 |
+| TopHub | 884/3178 | 27.8% | 高信号源，建议保留 |
+| Buzzing | 379/1420 | 26.7% | 高信号源，建议保留 |
+| Info Flow | 141/584 | 24.1% | 高信号源，建议保留 |
+| TechURLs | 88/271 | 32.5% | 高信号源，建议保留 |
+| Zeli | 49/59 | 83.1% | 高信号源，建议保留 |
+| NewsNow | 36/156 | 23.1% | 高信号源，建议保留 |
+| AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
