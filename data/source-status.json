@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T15:03:04.662572Z",
+  "generated_at": "2026-07-11T16:01:39.754564Z",
   "window_hours": 24,
   "sites": [
     {
@@ -7,15 +7,15 @@
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 190,
-      "duration_ms": 3120,
+      "duration_ms": 6800,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
       "ok": true,
-      "item_count": 7,
-      "duration_ms": 319,
+      "item_count": 9,
+      "duration_ms": 276,
       "error": null
     },
     {
@@ -23,7 +23,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 161,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -31,7 +31,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 430,
+      "duration_ms": 531,
       "error": null
     },
     {
@@ -39,15 +39,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 289,
+      "duration_ms": 259,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 399,
-      "duration_ms": 15313,
+      "item_count": 423,
+      "duration_ms": 15474,
       "error": null
     },
     {
@@ -55,23 +55,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 619,
+      "duration_ms": 1741,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3050,
-      "duration_ms": 1468,
+      "item_count": 3053,
+      "duration_ms": 1877,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 65,
-      "duration_ms": 387,
+      "item_count": 62,
+      "duration_ms": 909,
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 357,
+      "duration_ms": 413,
       "error": null
     },
     {
@@ -87,7 +87,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1285,
+      "duration_ms": 959,
       "error": null
     },
     {
@@ -95,16 +95,16 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 5084,
+      "duration_ms": 4586,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": true,
-      "item_count": 134,
-      "duration_ms": 1070,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 27912,
+      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=36kr (Caused by ResponseError('too many 500 error responses'))"
     },
     {
       "site_id": "opmlrss",
@@ -112,7 +112,7 @@
       "ok": true,
       "partial_failures": 1,
       "item_count": 2193,
-      "duration_ms": 5101,
+      "duration_ms": 5958,
       "error": "1 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -122,12 +122,14 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 14,
-  "failed_sites": [],
+  "successful_sites": 13,
+  "failed_sites": [
+    "newsnow"
+  ],
   "zero_item_sites": [],
-  "fetched_raw_items": 7260,
-  "items_before_topic_filter": 6116,
-  "items_in_24h": 1708,
+  "fetched_raw_items": 7152,
+  "items_before_topic_filter": 5899,
+  "items_in_24h": 1669,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -149,7 +151,7 @@
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 241,
+        "duration_ms": 167,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -164,7 +166,7 @@
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 335,
+        "duration_ms": 407,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -179,7 +181,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 823,
-        "duration_ms": 272,
+        "duration_ms": 486,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -194,7 +196,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1484,
+        "duration_ms": 1599,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -209,7 +211,7 @@
         "effective_feed_url": "https://blogs.microsoft.com/ai/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 238,
+        "duration_ms": 416,
         "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -224,7 +226,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 912,
+        "duration_ms": 668,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -239,7 +241,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1040,
-        "duration_ms": 753,
+        "duration_ms": 1146,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -254,7 +256,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 374,
+        "duration_ms": 506,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -269,7 +271,7 @@
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 211,
+        "duration_ms": 65,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -284,7 +286,7 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 281,
+        "duration_ms": 498,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -320,11 +322,11 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "fetch_item_count": 3050,
-      "raw_24h": 3302,
-      "ai_24h": 913,
-      "ai_hit_rate": 0.276,
-      "duration_ms": 1468,
+      "fetch_item_count": 3053,
+      "raw_24h": 3129,
+      "ai_24h": 881,
+      "ai_hit_rate": 0.282,
+      "duration_ms": 1877,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -334,10 +336,10 @@
       "site_name": "Buzzing",
       "ok": true,
       "fetch_item_count": 744,
-      "raw_24h": 1605,
-      "ai_24h": 415,
+      "raw_24h": 1585,
+      "ai_24h": 410,
       "ai_hit_rate": 0.259,
-      "duration_ms": 289,
+      "duration_ms": 259,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -346,11 +348,11 @@
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "fetch_item_count": 399,
-      "raw_24h": 605,
+      "fetch_item_count": 423,
+      "raw_24h": 597,
       "ai_24h": 144,
-      "ai_hit_rate": 0.238,
-      "duration_ms": 15313,
+      "ai_hit_rate": 0.241,
+      "duration_ms": 15474,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -360,10 +362,10 @@
       "site_name": "TechURLs",
       "ok": true,
       "fetch_item_count": 405,
-      "raw_24h": 335,
-      "ai_24h": 100,
-      "ai_hit_rate": 0.299,
-      "duration_ms": 430,
+      "raw_24h": 323,
+      "ai_24h": 101,
+      "ai_hit_rate": 0.313,
+      "duration_ms": 531,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -372,24 +374,11 @@
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "fetch_item_count": 65,
+      "fetch_item_count": 62,
       "raw_24h": 73,
       "ai_24h": 65,
       "ai_hit_rate": 0.89,
-      "duration_ms": 387,
-      "decision": "keep",
-      "decision_reason": "高信号源，建议保留",
-      "error": null
-    },
-    {
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "ok": true,
-      "fetch_item_count": 134,
-      "raw_24h": 153,
-      "ai_24h": 33,
-      "ai_hit_rate": 0.216,
-      "duration_ms": 1070,
+      "duration_ms": 909,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -402,7 +391,7 @@
       "raw_24h": 15,
       "ai_24h": 15,
       "ai_hit_rate": 1.0,
-      "duration_ms": 357,
+      "duration_ms": 413,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -412,10 +401,10 @@
       "site_name": "AI HOT",
       "ok": true,
       "fetch_item_count": 50,
-      "raw_24h": 13,
-      "ai_24h": 13,
+      "raw_24h": 12,
+      "ai_24h": 12,
       "ai_hit_rate": 1.0,
-      "duration_ms": 5084,
+      "duration_ms": 4586,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -425,10 +414,10 @@
       "site_name": "OPML RSS",
       "ok": true,
       "fetch_item_count": 2193,
-      "raw_24h": 11,
+      "raw_24h": 10,
       "ai_24h": 6,
-      "ai_hit_rate": 0.545,
-      "duration_ms": 5101,
+      "ai_hit_rate": 0.6,
+      "duration_ms": 5958,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": "1 feeds failed"
@@ -438,10 +427,10 @@
       "site_name": "Official AI Updates",
       "ok": true,
       "fetch_item_count": 190,
-      "raw_24h": 4,
-      "ai_24h": 4,
+      "raw_24h": 2,
+      "ai_24h": 2,
       "ai_hit_rate": 1.0,
-      "duration_ms": 3120,
+      "duration_ms": 6800,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -450,11 +439,11 @@
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
       "ok": true,
-      "fetch_item_count": 7,
+      "fetch_item_count": 9,
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 319,
+      "duration_ms": 276,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -467,7 +456,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 1285,
+      "duration_ms": 959,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -480,7 +469,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 619,
+      "duration_ms": 1741,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -493,18 +482,31 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 161,
+      "duration_ms": 22,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "ok": false,
+      "fetch_item_count": 0,
+      "raw_24h": 153,
+      "ai_24h": 33,
+      "ai_hit_rate": 0.216,
+      "duration_ms": 27912,
+      "decision": "fix_fetch",
+      "decision_reason": "抓取失败，先修复源",
+      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=36kr (Caused by ResponseError('too many 500 error responses'))"
     }
   ],
   "source_quality_summary": {
     "source_count": 14,
-    "keep": 10,
+    "keep": 9,
     "watch": 4,
     "downgrade": 0,
-    "fix_fetch": 0,
-    "average_ai_hit_rate": 0.409
+    "fix_fetch": 1,
+    "average_ai_hit_rate": 0.414
   }
 }
