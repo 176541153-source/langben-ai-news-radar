@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-11T22:26:05.234528Z
-- 24小时AI信号：1593 条
+- 生成时间：2026-07-11T23:32:16.376798Z
+- 24小时AI信号：1529 条
 - 源健康：14/14
-- 原始抓取：7075 条
+- 原始抓取：7117 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 发布 GPT-5.6 系列医疗评估结果](https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型](https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc)
@@ -33,31 +33,31 @@
 
 ### 产品与开发者工具
 
-6. [苹果起诉OpenAI窃取商业机密开发AI硬件](https://aihot.virxact.com/items/cmrfj0gio008tihjlfdm729o7)
+6. [彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句"哈哈"成窃密关键](https://www.ithome.com/0/975/634.htm)
+   - 时间：10分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [苹果起诉OpenAI窃取商业机密开发AI硬件](https://x.com/dotey/status/2075712647723397452)
    - 时间：昨天 06:43
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [马斯克承认Anthropic是当前AI领导者](https://x.com/rohanpaul_ai/status/2075480331600417141)
+8. [马斯克承认Anthropic是当前AI领导者](https://x.com/rohanpaul_ai/status/2075480331600417141)
    - 时间：07-10 15:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [微软发布Flint：面向AI智能体的可视化语言](https://microsoft.github.io/flint-chart)
+9. [微软发布Flint：面向AI智能体的可视化语言](https://microsoft.github.io/flint-chart)
    - 时间：07-10 05:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [一文看懂ChatGPT、Codex、Work 的差别](https://baoyu.io/blog/chatgpt-work-codex-guide)
+10. [一文看懂ChatGPT、Codex、Work 的差别](https://baoyu.io/blog/chatgpt-work-codex-guide)
    - 时间：昨天 08:00
    - 来源：OPML RSS
    - 评分：7.9/10 · matched_tracked_ai_keyword
-10. [苹果起诉OpenAI，指控其“窃取绝密信息”](https://ckxxapp.ckxx.net/pages/2026/07/11/26d9e7ccc9364736a630d6ca121aa0d3.html)
-   - 时间：今天 06:27
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 论文研究与评测
 
 11. [研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发](https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [OpenAI 论文：GPT-5.6 Sol Ultra 证明图论"循环双覆盖猜想"](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
@@ -65,11 +65,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [西京研究院赵建：AI 已进入「文明级变迁」，投资 AI 本身就是价值投资](https://finance.sina.com.cn/money/fund/jjsy/2026-07-11/doc-inihmrez5064233.shtml)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [OpenAI 再次将安全纳入研究。其安全负责人即将离职。](https://thenextweb.com/news/openai-heidecke-safety-head-leaving-research-merger)
-   - 时间：11小时前
+   - 时间：昨天 19:10
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [清华大学人工智能国际治理研究院代表团与联合国贸易和发展会议交流](https://hub.baai.ac.cn/view/56269)
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0826-22f3-b4b0-d615808d3c52&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0932-44d3-b84e-939b9835e33d&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0725-1332-8e3b-24a290e3163a&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0826-22f3-b4b0-d615808d3c52&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0625-2089-bcbe-4a9a41d61473&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0725-1332-8e3b-24a290e3163a&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0516-5088-8344-bfeab366dfc6&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0625-2089-bcbe-4a9a41d61473&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0401-57ad-93a6-b83fe14123cb&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-0516-5088-8344-bfeab366dfc6&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 833/3091 | 26.9% | 高信号源，建议保留 |
-| Buzzing | 356/1335 | 26.7% | 高信号源，建议保留 |
-| Info Flow | 142/577 | 24.6% | 高信号源，建议保留 |
-| TechURLs | 71/255 | 27.8% | 高信号源，建议保留 |
-| Zeli | 47/53 | 88.7% | 高信号源，建议保留 |
-| NewsNow | 35/158 | 22.2% | 高信号源，建议保留 |
+| TopHub | 778/3023 | 25.7% | 高信号源，建议保留 |
+| Buzzing | 356/1294 | 27.5% | 高信号源，建议保留 |
+| Info Flow | 138/572 | 24.1% | 高信号源，建议保留 |
+| TechURLs | 67/246 | 27.2% | 高信号源，建议保留 |
+| Zeli | 47/55 | 85.5% | 高信号源，建议保留 |
+| NewsNow | 35/154 | 22.7% | 高信号源，建议保留 |
 | AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
