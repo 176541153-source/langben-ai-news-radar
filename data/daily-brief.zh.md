@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-12T12:03:45.540204Z
-- 24小时AI信号：1473 条
+- 生成时间：2026-07-12T13:47:36.121289Z
+- 24小时AI信号：1471 条
 - 源健康：14/14
-- 原始抓取：7241 条
+- 原始抓取：7231 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Mesh LLM：在 iroh 上进行分布式人工智能计算](https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想](https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q)
-   - 时间：11小时前
+   - 时间：今天 08:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [OpenAI 发布 GPT-5.6 系列医疗评估结果](https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论](https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划](https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法](https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb)
-   - 时间：10小时前
+   - 时间：今天 09:40
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句"哈哈"成窃密关键](https://aihot.virxact.com/items/cmrgzykqg00jabid4acp6zpjm)
@@ -64,17 +64,17 @@
    - 时间：昨天 03:59
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [中信证券：国内市场的 K 型夹杂了过多短期叙事和资金影响，博弈降温后需重视部分非 AI 板块的修复](https://finance.sina.com.cn/stock/marketresearch/2026-07-12/doc-inihpyna9613354.shtml)
+13. [微软研究院推出开源可视化中间语言 Flint，让 AI 智能体「一句话生成专业图表」](https://www.ithome.com/0/975/816.htm)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [AlphaVue AI股票研究代理](https://www.producthunt.com/products/alphavue-ai-stock-research-agent)
-   - 时间：1小时前
-   - 来源：NewsNow
+14. [港股成建仓首选！AI 市场步入高波动，外储增配或成新引擎](https://finance.sina.com.cn/stock/marketresearch/2026-07-12/doc-inihqetv4476775.shtml)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [“人工智能到来后，质量呈指数级下降”：研究表明，专家和贡献者在无声的“知识重置”中离开在线社区](https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset)
-   - 时间：6小时前
-   - 来源：TechURLs
+15. [微软研究院推出开源可视化中间语言 Flint，让 AI 智能体“一句话生成专业图表”](https://www.ithome.com/0/975/816.htm)
+   - 时间：1小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-2204-092a-a836-a9f0aec07d1d&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-2348-0150-94b2-b38d9a9a191a&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-2056-354a-ac69-ed6dbec274bb&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-2204-092a-a836-a9f0aec07d1d&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-1928-5696-b420-3b62d62c48b6&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-2056-354a-ac69-ed6dbec274bb&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-1708-4600-8f7d-b94ef9716589&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-1928-5696-b420-3b62d62c48b6&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-1433-162c-864b-781e1b57f47b&fp=-3)
-   - 时间：7小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260712-1708-4600-8f7d-b94ef9716589&fp=-3)
+   - 时间：6小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 723/3137 | 23.0% | 高信号源，建议保留 |
-| Buzzing | 347/1255 | 27.6% | 高信号源，建议保留 |
-| Info Flow | 144/596 | 24.2% | 高信号源，建议保留 |
-| Zeli | 65/73 | 89.0% | 高信号源，建议保留 |
-| TechURLs | 42/200 | 21.0% | 高信号源，建议保留 |
-| NewsNow | 32/199 | 16.1% | 高信号源，建议保留 |
+| TopHub | 738/3208 | 23.0% | 高信号源，建议保留 |
+| Buzzing | 339/1213 | 27.9% | 高信号源，建议保留 |
+| Info Flow | 139/596 | 23.3% | 高信号源，建议保留 |
+| Zeli | 65/74 | 87.8% | 高信号源，建议保留 |
+| TechURLs | 39/183 | 21.3% | 高信号源，建议保留 |
+| NewsNow | 31/194 | 16.0% | 高信号源，建议保留 |
 | AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 11/33 | 33.3% | 高信号源，建议保留 |
+| Follow Builders | 11/31 | 35.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
