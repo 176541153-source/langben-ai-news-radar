@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-12T19:41:26.455792Z
-- 24小时AI信号：1469 条
+- 生成时间：2026-07-12T21:02:28.957216Z
+- 24小时AI信号：1442 条
 - 源健康：14/14
-- 原始抓取：7157 条
+- 原始抓取：7082 条
 
 ## 今日重点
 
@@ -34,19 +34,19 @@
 ### 产品与开发者工具
 
 6. [Codex 移除5小时限制，GPT 5.6 Sol 效率提升](https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户](https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Mindwalk：在代码库 3D 地图上回放编码代理会话](https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论](https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划](https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm)
@@ -64,23 +64,23 @@
    - 时间：07-11 03:59
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [人工智能促进了研究事业，但缩小了探索的想法范围：研究](https://news.ycombinator.com/item?id=48881043)
-   - 时间：17分钟前
+13. [一步陷阱（人工智能研究中）](https://news.ycombinator.com/item?id=48883415)
+   - 时间：今天 05:02
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [一步陷阱（人工智能研究中）](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
+14. [人工智能促进了研究事业，但缩小了探索的想法范围：研究](https://news.ycombinator.com/item?id=48881043)
    - 时间：1小时前
-   - 来源：Info Flow
+   - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [人工智能助推科研职业发展，却抑制了科学发现](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [纳德拉提出"反向信息悖论"：企业使用AI时需保护自身知识](https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [博科圣地如何利用前沿AI技术](https://casp.ac/reports/ai-enabled-terrorism)
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0541-51d5-b956-d3e099f6436f&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0702-5417-849b-c409ee2e334a&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0429-48fa-a842-d5c4b74ca9aa&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0541-51d5-b956-d3e099f6436f&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0312-18b8-a5ad-b214e0ffb2e1&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0429-48fa-a842-d5c4b74ca9aa&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0206-387f-9ea4-ade5ef71fa74&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0312-18b8-a5ad-b214e0ffb2e1&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0105-45ee-8e80-ee553554189c&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260713-0206-387f-9ea4-ade5ef71fa74&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 698/3118 | 22.4% | 高信号源，建议保留 |
-| Buzzing | 356/1277 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 144/617 | 23.3% | 高信号源，建议保留 |
-| Zeli | 67/80 | 83.8% | 高信号源，建议保留 |
-| TechURLs | 56/210 | 26.7% | 高信号源，建议保留 |
-| NewsNow | 34/203 | 16.7% | 高信号源，建议保留 |
+| TopHub | 673/3083 | 21.8% | 高信号源，建议保留 |
+| Buzzing | 353/1276 | 27.7% | 高信号源，建议保留 |
+| Info Flow | 139/620 | 22.4% | 高信号源，建议保留 |
+| Zeli | 70/82 | 85.4% | 高信号源，建议保留 |
+| TechURLs | 58/216 | 26.9% | 高信号源，建议保留 |
+| NewsNow | 37/214 | 17.3% | 高信号源，建议保留 |
 | AI HubToday | 16/16 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 
