@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-13T22:04:23.250888Z
-- 24小时AI信号：1844 条
+- 生成时间：2026-07-13T23:04:48.218446Z
+- 24小时AI信号：1842 条
 - 源健康：14/14
-- 原始抓取：7095 条
+- 原始抓取：7097 条
 
 ## 今日重点
 
@@ -11,19 +11,19 @@
 ### 模型发布与能力更新
 
 1. [前沿模型实际成本：tokenizer 差异导致隐性涨价](https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3)
-   - 时间：13分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤](https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先](https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍](https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [阶跃星辰发布 Step Edge 系列终端模型，实现本地高效多模态处理](https://www.aibase.com/news/29547)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Apple 起诉 OpenAI，指控前工程师利用漏洞窃取商业机密](https://aihot.virxact.com/items/cmrjm7p9v00llbis4w4ok6vgm)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”](https://www.aibase.com/news/29546)
@@ -65,34 +65,34 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理](https://www.thepaper.cn/newsDetail_forward_33571516)
-   - 时间：今天 06:05
+   - 时间：今天 07:05
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救](https://www.thepaper.cn/newsDetail_forward_33559448)
-   - 时间：今天 06:05
+   - 时间：今天 07:05
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [研究发现，碳封存可减少90%以上的人工智能数据中心排放](https://phys.org/news/2026-07-carbon-storage-curb-ai-center.html)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署](https://www.aibase.com/news/29552)
-   - 时间：11小时前
+   - 时间：昨天 18:39
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频](https://www.aibase.com/news/29550)
-   - 时间：11小时前
+   - 时间：昨天 18:39
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源](https://www.aibase.com/news/29549)
-   - 时间：11小时前
+   - 时间：昨天 18:39
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制](https://www.aibase.com/news/29548)
-   - 时间：11小时前
+   - 时间：昨天 18:39
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互](https://www.aibase.com/news/29541)
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0804-4537-af03-7bc76de50dc3&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0905-2069-a0d3-d34f9001f83b&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0706-2871-aca8-0a49c7aed36a&fp=-3)
-   - 时间：58分钟前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0804-4537-af03-7bc76de50dc3&fp=-3)
+   - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0542-42d4-a49e-1e75d0449385&fp=-3)
-   - 时间：2小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0706-2871-aca8-0a49c7aed36a&fp=-3)
+   - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0403-24d3-a31e-b03102581f54&fp=-3)
-   - 时间：4小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0542-42d4-a49e-1e75d0449385&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0206-4292-bce6-6ae2a4c170b4&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260714-0403-24d3-a31e-b03102581f54&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 742/3104 | 23.9% | 高信号源，建议保留 |
-| Buzzing | 488/1861 | 26.2% | 高信号源，建议保留 |
-| Info Flow | 216/946 | 22.8% | 高信号源，建议保留 |
-| TechURLs | 152/429 | 35.4% | 高信号源，建议保留 |
-| Zeli | 72/79 | 91.1% | 高信号源，建议保留 |
-| NewsNow | 35/158 | 22.2% | 高信号源，建议保留 |
+| TopHub | 742/3127 | 23.7% | 高信号源，建议保留 |
+| Buzzing | 487/1881 | 25.9% | 高信号源，建议保留 |
+| Info Flow | 216/950 | 22.7% | 高信号源，建议保留 |
+| TechURLs | 153/433 | 35.3% | 高信号源，建议保留 |
+| Zeli | 69/76 | 90.8% | 高信号源，建议保留 |
+| NewsNow | 36/161 | 22.4% | 高信号源，建议保留 |
 | AIbase | 22/22 | 100.0% | 高信号源，建议保留 |
 | AI HubToday | 11/11 | 100.0% | 高信号源，建议保留 |
 
