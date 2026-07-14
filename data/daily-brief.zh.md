@@ -1,63 +1,63 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-14T21:06:55.540118Z
-- 24小时AI信号：2136 条
+- 生成时间：2026-07-14T22:08:37.245261Z
+- 24小时AI信号：2138 条
 - 源健康：14/14
-- 原始抓取：7192 条
+- 原始抓取：7149 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Bonsai 27B：首款可在手机上运行的27B级多模态模型](https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd)
-   - 时间：1小时前
+1. [OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning)
+   - 时间：18分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [如何让 Claude 不再说"honest takes"和"load-bearing seams"](https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5)
-   - 时间：4小时前
+2. [Bonsai 27B：首款可在手机上运行的27B级多模态模型](https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译](https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s)
+3. [如何让 Claude 不再说"honest takes"和"load-bearing seams"](https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5)
    - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Anthropic 推出 Claude for Teachers](https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u)
-   - 时间：5小时前
+4. [Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译](https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s)
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude 为美国K-12教师推出免费教育版](https://aihot.virxact.com/items/cmrkt9zq7011abi5qzyxc3kxb)
-   - 时间：5小时前
+5. [Anthropic 推出 Claude for Teachers](https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u)
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Google 因 AI 训练再遭出版商集体诉讼](https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn)
-   - 时间：2小时前
+6. [Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+   - 时间：41分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来](https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa)
-   - 时间：4小时前
+7. [Google 因 AI 训练再遭出版商集体诉讼](https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn)
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [LibTV Agent 打造工作流生态，重塑创作者生产力](https://www.aibase.com/news/29588)
-   - 时间：10小时前
+8. [Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来](https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa)
+   - 时间：5小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [LibTV Agent 打造工作流生态，重塑创作者生产力](https://www.aibase.com/news/29588)
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由](https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib)
+10. [实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由](https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib)
    - 时间：昨天 17:04
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金](https://www.aibase.com/news/29583)
-   - 时间：昨天 16:21
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [Anthropic 经济指数：加拿大 Claude 使用情况分析](https://aihot.virxact.com/items/cmrko155e005ubixirangezv8)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [AI主权新突破：德国研究联盟发布开源大模型Soofi S](https://www.aibase.com/news/29563)
@@ -69,18 +69,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [当AI穿上白大褂：谁来唤醒沉睡的医疗数据？](https://www.thepaper.cn/newsDetail_forward_33524110)
-   - 时间：今天 05:08
+   - 时间：今天 06:09
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [经纬度：中国人工智能发展的战略定力](https://www.thepaper.cn/newsDetail_forward_33574020)
-   - 时间：今天 05:08
+   - 时间：今天 06:09
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元](https://www.aibase.com/news/29584)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [马斯克亲口承认Grok Build偷传用户代码，承诺历史数据全部清零不留一个字节](https://www.aibase.com/news/29580)
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0707-216d-bb99-dc5b53f12dd3&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0809-04ec-a2e1-2c8a8359c801&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0552-346f-8888-49085277dca9&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0707-216d-bb99-dc5b53f12dd3&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0411-00de-8a35-4f692dbd5f35&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0552-346f-8888-49085277dca9&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0248-35c5-9e7c-414e1685c023&fp=-3)
-   - 时间：4小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0411-00de-8a35-4f692dbd5f35&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0137-3418-9ed9-555774dde68b&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260715-0248-35c5-9e7c-414e1685c023&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 864/3346 | 25.8% | 高信号源，建议保留 |
-| Buzzing | 531/2060 | 25.8% | 高信号源，建议保留 |
-| Info Flow | 271/1046 | 25.9% | 高信号源，建议保留 |
-| TechURLs | 170/481 | 35.3% | 高信号源，建议保留 |
-| Zeli | 76/92 | 82.6% | 高信号源，建议保留 |
-| NewsNow | 35/187 | 18.7% | 高信号源，建议保留 |
+| TopHub | 872/3293 | 26.5% | 高信号源，建议保留 |
+| Buzzing | 532/2052 | 25.9% | 高信号源，建议保留 |
+| Info Flow | 268/1043 | 25.7% | 高信号源，建议保留 |
+| TechURLs | 172/484 | 35.5% | 高信号源，建议保留 |
+| Zeli | 76/91 | 83.5% | 高信号源，建议保留 |
 | AIbase | 34/34 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 20/37 | 54.1% | 高信号源，建议保留 |
+| NewsNow | 34/185 | 18.4% | 高信号源，建议保留 |
+| OPML RSS | 19/35 | 54.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
