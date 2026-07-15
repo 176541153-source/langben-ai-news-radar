@@ -1,56 +1,56 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-15T04:10:50.280469Z
-- 24小时AI信号：2192 条
-- 源健康：14/14
-- 原始抓取：7290 条
+- 生成时间：2026-07-15T06:37:46.142229Z
+- 24小时AI信号：2193 条
+- 源健康：13/14
+- 原始抓取：7295 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [欧盟出手“破冰”!ChatGPT 携 GPT-5.5强势重返欧洲 WhatsApp](https://www.aibase.com/news/29606)
+1. [全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世](https://www.aibase.com/news/29613)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [全球瞩目！中国 “妈祖” 大模型助力季风预警，开创 AI 新局面！](https://www.aibase.com/news/29604)
+2. [ChatGPT突发重大服务故障，正值GPT-5. 6 系列模型上线关键期](https://www.aibase.com/news/29612)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Soul将推首款便携式AI智能硬件，自研SoulX大模型加速软硬一体布局](https://www.aibase.com/news/29602)
-   - 时间：1分钟前
+3. [欧盟出手“破冰”!ChatGPT 携 GPT-5.5强势重返欧洲 WhatsApp](https://www.aibase.com/news/29606)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [甲骨文发布AI原生代理应用开发平台 支持无代码等多种开发方式](https://www.aibase.com/news/29597)
-   - 时间：1分钟前
+4. [全球瞩目！中国 “妈祖” 大模型助力季风预警，开创 AI 新局面！](https://www.aibase.com/news/29604)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！](https://www.aibase.com/news/29594)
-   - 时间：1分钟前
+5. [Soul将推首款便携式AI智能硬件，自研SoulX大模型加速软硬一体布局](https://www.aibase.com/news/29602)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务](https://www.aibase.com/news/29610)
+6. [GPT-5. 6 上线引爆需求：奥尔特曼称上周OpenAI智能体产品用量增长2. 5 倍](https://www.aibase.com/news/29611)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题](https://www.aibase.com/news/29609)
+7. [OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能](https://www.aibase.com/news/29610)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [豆包千问同日下线智能体功能，国内首部AI拟人化互动服务新规今起正式施行](https://www.aibase.com/news/29605)
-   - 时间：1分钟前
+8. [支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务](https://www.aibase.com/news/29610)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [CSDI峰会开启：Agentic AI 落地应用的黄金期，智能系统重塑生产力](https://www.aibase.com/news/29601)
-   - 时间：1分钟前
+9. [AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题](https://www.aibase.com/news/29609)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenAI 首款硬件产品曝光！智能音箱将成为你的 AI 陪伴助手](https://www.aibase.com/news/29600)
-   - 时间：1分钟前
+10. [豆包千问同日下线智能体功能，国内首部AI拟人化互动服务新规今起正式施行](https://www.aibase.com/news/29605)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -64,23 +64,23 @@
    - 时间：07-13 22:57
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [资料来源：OpenAI 研究员 Miles Wang 将离开公司，创办一家 AI 药物发现初创公司，并正在洽谈以 20 亿美元估值筹集 2 亿美元资金（Marina Temkin/TechCrunch）](https://www.techmeme.com/260714/p58)
-   - 时间：50分钟前
-   - 来源：TechURLs
+13. [【酷工作】 AI 互动产品负责人（后端大脑互动体验评测方向）](https://www.v2ex.com/t/1227454)
+   - 时间：15分钟前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [OpenAI 研究员 Miles Wang 正在洽谈创办估值 20 亿美元的人工智能药物发现初创公司](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b)
+14. [我们再次听到有人说人工智能可能具有意识——我研究意识，对此我持怀疑态度 阿尼尔·塞斯](https://www.theguardian.com/commentisfree/2026/jul/15/ai-consciousness-anthropic-claude-dawkins)
+   - 时间：22分钟前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [资料来源：OpenAI 研究员 Miles Wang 将离开公司，创办一家 AI 药物发现初创公司，并正在洽谈以 20 亿美元估值筹集 2 亿美元资金（Marina Temkin/TechCrunch）](https://www.techmeme.com/260714/p58)
    - 时间：3小时前
    - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Agent评测，正在成为AI产品的新分水岭](https://www.huxiu.com/article/4875309.html?f=rss)
-   - 时间：4小时前
-   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [三星赢得 Anthropic 大单，AI 芯片生产迎来新机遇！](https://www.aibase.com/news/29599)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元](https://www.aibase.com/news/29584)
@@ -103,23 +103,23 @@
 ### 实践技巧与观点
 
 21. [韩国最低时薪将达 50 元人民币，AI产业红利拉大行业收入差距催生新政](https://www.aibase.com/news/29608)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [​谷歌又遭版权侵权诉讼！出版商指责其 AI 训练 “偷窃” 作品](https://www.aibase.com/news/29607)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [谷歌搜索引入“无结果生图”:AI 概览变身创意画布，恐分流网站流量](https://www.aibase.com/news/29603)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [三胞胎脸孔与乱码文字露馅!呼和浩特摄影一等奖因AI作假被撤销](https://www.aibase.com/news/29598)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [谷歌图片迎来25周年重大改版:全面致敬Pinterest并引入AI画图](https://www.aibase.com/news/29596)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,16 +127,16 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 923/3428 | 26.9% | 高信号源，建议保留 |
-| Buzzing | 554/2073 | 26.7% | 高信号源，建议保留 |
-| Info Flow | 259/1021 | 25.4% | 高信号源，建议保留 |
-| TechURLs | 173/486 | 35.6% | 高信号源，建议保留 |
-| Zeli | 65/80 | 81.2% | 高信号源，建议保留 |
-| AIbase | 37/37 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 33/185 | 17.8% | 高信号源，建议保留 |
+| TopHub | 925/3382 | 27.4% | 高信号源，建议保留 |
+| Buzzing | 559/2058 | 27.2% | 高信号源，建议保留 |
+| Info Flow | 252/1013 | 24.9% | 高信号源，建议保留 |
+| TechURLs | 177/490 | 36.1% | 高信号源，建议保留 |
+| Zeli | 68/82 | 82.9% | 高信号源，建议保留 |
+| AIbase | 39/39 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 30/176 | 17.0% | 高信号源，建议保留 |
 | AI HOT | 22/22 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
-- 当前内置源抓取正常。
+- 需要优先修复失败源：aihubtoday
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
