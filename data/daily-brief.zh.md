@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-15T22:32:21.612635Z
-- 24小时AI信号：2208 条
+- 生成时间：2026-07-15T23:32:20.876718Z
+- 24小时AI信号：2215 条
 - 源健康：14/14
-- 原始抓取：7154 条
+- 原始抓取：7252 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [阿里Qwen将集成至Apple Intelligence服务中国用户](https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878)
-   - 时间：11小时前
+   - 时间：昨天 18:57
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [WAIC2026 大会火力全开！大模型概念股 MINIMAX 与智谱股价狂飙超 8%](https://www.aibase.com/news/29623)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相](https://www.aibase.com/news/29625)
-   - 时间：11小时前
+   - 时间：昨天 19:11
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [京东AI Agent与腾讯元宝正式打通小程序生态，用户可在对话中直接购物下单](https://www.aibase.com/news/29618)
@@ -61,20 +61,20 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [知网下架AI署名论文：AI不具备民事主体资格](https://view.inews.qq.com/a/20260715A0ALYE00)
-   - 时间：今天 06:33
+   - 时间：今天 07:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [5张图看懂中国人工智能进化之路](https://www.thepaper.cn/newsDetail_forward_33586048)
-   - 时间：今天 06:33
+   - 时间：今天 07:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞](https://www.thepaper.cn/newsDetail_forward_33592256)
-   - 时间：今天 06:33
+   - 时间：今天 07:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [一名 OpenAI 研究员将离职，去创建一家价值 20 亿美元的人工智能药物初创公司，但目前还没有名字](https://thenextweb.com/news/miles-wang-openai-ai-drug-discovery-startup)
-   - 时间：1小时前
-   - 来源：TechURLs
+15. [拆解了10份大厂作品集，总结出4个呈现AI能力的方向](https://www.uisdc.com/proof-over-tools)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -96,29 +96,29 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [DeepSeek新一轮融资规模或达500亿人民币](https://www.zaochenbao.com/news/china/202607/1576510.html)
-   - 时间：今天 06:33
+   - 时间：今天 07:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0832-44f7-b758-e4269874c2cb&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0932-4461-a5c2-b89c4f3b35c1&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0709-5009-b3b4-13f974044336&fp=-3)
-   - 时间：1小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0832-44f7-b758-e4269874c2cb&fp=-3)
+   - 时间：59分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0547-3542-a60b-3a5d60202dcc&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0709-5009-b3b4-13f974044336&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0414-2169-a13b-9ab868564d6c&fp=-3)
-   - 时间：4小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0547-3542-a60b-3a5d60202dcc&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0239-26be-8cf7-584c45a2ab94&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260716-0414-2169-a13b-9ab868564d6c&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 902/3400 | 26.5% | 高信号源，建议保留 |
-| Buzzing | 590/1975 | 29.9% | 高信号源，建议保留 |
-| Info Flow | 259/1018 | 25.4% | 高信号源，建议保留 |
-| TechURLs | 180/494 | 36.4% | 高信号源，建议保留 |
-| Zeli | 71/85 | 83.5% | 高信号源，建议保留 |
-| NewsNow | 39/195 | 20.0% | 高信号源，建议保留 |
+| TopHub | 888/3366 | 26.4% | 高信号源，建议保留 |
+| Buzzing | 595/1999 | 29.8% | 高信号源，建议保留 |
+| Info Flow | 265/1038 | 25.5% | 高信号源，建议保留 |
+| TechURLs | 189/504 | 37.5% | 高信号源，建议保留 |
+| Zeli | 72/86 | 83.7% | 高信号源，建议保留 |
+| NewsNow | 38/192 | 19.8% | 高信号源，建议保留 |
 | AIbase | 36/36 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 13/24 | 54.2% | 高信号源，建议保留 |
+| OPML RSS | 14/23 | 60.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
