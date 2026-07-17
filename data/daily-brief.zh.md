@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-17T01:04:43.560673Z
-- 24小时AI信号：2175 条
+- 生成时间：2026-07-17T04:16:24.644559Z
+- 24小时AI信号：2207 条
 - 源健康：14/14
-- 原始抓取：7267 条
+- 原始抓取：7308 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Google Vids引入Gemini Omni模型 上传自拍+音频就能定制专属数字分身](https://www.aibase.com/news/29665)
+1. [首token延迟砍掉3. 25 倍：小红书联手北大、上交提出HYPIC，给混合注意力大模型装上"位置无关缓存"](https://www.aibase.com/news/29683)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [NotebookLM改姓Gemini了：一次更名背后，谷歌给笔记本塞进了会写会跑代码的云电脑](https://www.aibase.com/news/29664)
+2. [Soul亮相WAIC2026，发布SoulX多模态交互大模型与AI硬件B Soul](https://www.aibase.com/news/29682)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [2. 8 万亿参数、 100 万词元上下文，Kimi K3 把开源大模型的天花板顶到了全球最高](https://www.aibase.com/news/29663)
+3. [两周搬完一百万行代码：Anthropic用Claude把多年不敢碰的语言迁移压进一个周末](https://www.aibase.com/news/29674)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [医疗AI新突破：云知声发布“U2-Med三医大模型”深耕智慧医疗](https://www.aibase.com/news/29662)
+4. [谷歌测试Gemini语音自定义功能，新增速度、活力等四项调节选项](https://www.aibase.com/news/29672)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用](https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59)
-   - 时间：4小时前
-   - 来源：AI HOT
+5. [多家银行上线AI主题银行卡，刷卡可获大模型Token和AI权益](https://www.aibase.com/news/29670)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商](https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67)
-   - 时间：昨天 17:58
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [通义千问正式接入苹果生态，国内Apple智能体验迎来重磅升级](https://www.aibase.com/news/29659)
-   - 时间：昨天 17:21
+6. [天工短剧工作台上线Agent智能分镜与无限画布，昆仑万维要把AI短剧从随机抽卡拉向可控生产](https://www.aibase.com/news/29684)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台](https://www.aibase.com/news/29658)
-   - 时间：昨天 17:21
+7. [OpenAI承认GPT-5.6Codex存在误删文件问题，建议用户关闭高权限模式](https://www.aibase.com/news/29681)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查](https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x)
-   - 时间：昨天 15:42
-   - 来源：AI HOT
+8. [秒哒3. 5 全球首发iOS无代码打包与多端共享后端，百度要把应用开发门槛再砍一刀](https://www.aibase.com/news/29680)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [灵光App“灵光圈”社区焕新:上线热榜、关注等功能，PC端支持导入文档及音视频素材](https://www.aibase.com/news/29644)
-   - 时间：昨天 12:14
+9. [Roblox推出AI创作工具Build，支持文本生成游戏和3D场景](https://www.aibase.com/news/29676)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [京东推出京麦AI经营中心，开放22款AI工具助力商家智能经营](https://www.aibase.com/news/29675)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [腾讯混元 Hy3 发布首周调用量增超 68 倍，登顶 OpenRouter 全球榜单](https://www.aibase.com/news/29632)
-   - 时间：昨天 12:14
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职](https://turntrout.com/why-i-left-google-deepmind)
+11. [前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职](https://turntrout.com/why-i-left-google-deepmind)
    - 时间：昨天 03:37
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Anthropic 研究：AI 智能体模拟中行为偏差](https://x.com/AnthropicAI/status/2077452646303006927)
+12. [Anthropic 研究：AI 智能体模拟中行为偏差](https://x.com/AnthropicAI/status/2077452646303006927)
    - 时间：昨天 01:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [经纬度：在上海，WAIC见证人工智能改变未来](https://www.thepaper.cn/newsDetail_forward_33583299)
-   - 时间：今天 09:05
+13. [大方之谈丨对话周伯文：一个AI科学家的世界观](https://www.thepaper.cn/newsDetail_forward_33577939)
+   - 时间：今天 12:17
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [财晓得｜中国AI跑出加速度背后的四重底气](https://www.thepaper.cn/newsDetail_forward_33591307)
-   - 时间：今天 09:05
+14. [财晓得｜中国AI跑出加速度背后的四重底气](https://www.thepaper.cn/newsDetail_forward_33591307)
+   - 时间：今天 12:17
    - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [新研究警告：欧盟 AI“护栏”机制过于僵化，难以适应技术变革](https://www.ithome.com/0/978/007.htm)
+   - 时间：8分钟前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [54%企业已遭遇AI智能体安全事件，多数仍共享凭证](https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj)
-   - 时间：6小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [企业AI智能体评估存在"现实对齐"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障](https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z)
-   - 时间：8小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [面壁智能开源企业AI数字员工平台StaffDeck](https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm)
-   - 时间：11小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级](https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p)
-   - 时间：昨天 20:17
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相](https://www.aibase.com/news/29656)
-   - 时间：昨天 17:21
+16. [智谱数亿元收购中科加禾，补强AI Infra与国产算力适配能力](https://www.aibase.com/news/29679)
+   - 时间：1分钟前
    - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [数字永生？面壁智能开源企业数字员工平台StaffDeck](https://www.aibase.com/news/29677)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [AI旅行平台 Fora 完成6000万美元D轮融资，估值升至10亿美元](https://www.aibase.com/news/29666)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格](https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4)
+   - 时间：3小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [54%企业已遭遇AI智能体安全事件，多数仍共享凭证](https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj)
+   - 时间：9小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-1105-04f7-bfc9-f531ccb82538&fp=-3)
+21. [Grok 推出 Automations 功能：定时跑、邮件一到就触发，还能替你回信](https://www.aibase.com/news/29671)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-1416-51e4-88c0-c04dc698a46b&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-0928-2459-800a-839a8d1d9d0a&fp=-3)
-   - 时间：1小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-1105-04f7-bfc9-f531ccb82538&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-0831-3758-a9f7-e8bdd3a3735c&fp=-3)
-   - 时间：2小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-0928-2459-800a-839a8d1d9d0a&fp=-3)
+   - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果](https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b)
-   - 时间：3小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-0711-09fb-b9bb-dd774e8673ce&fp=-3)
-   - 时间：3小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260717-0831-3758-a9f7-e8bdd3a3735c&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 781/3447 | 22.7% | 高信号源，建议保留 |
-| Buzzing | 584/1964 | 29.7% | 高信号源，建议保留 |
-| Info Flow | 288/1057 | 27.2% | 高信号源，建议保留 |
-| TechURLs | 232/532 | 43.6% | 高信号源，建议保留 |
-| Zeli | 76/88 | 86.4% | 高信号源，建议保留 |
+| TopHub | 788/3447 | 22.9% | 高信号源，建议保留 |
+| Buzzing | 615/2024 | 30.4% | 高信号源，建议保留 |
+| Info Flow | 286/1063 | 26.9% | 高信号源，建议保留 |
+| TechURLs | 231/526 | 43.9% | 高信号源，建议保留 |
+| Zeli | 75/87 | 86.2% | 高信号源，建议保留 |
 | AIbase | 37/37 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 37/197 | 18.8% | 高信号源，建议保留 |
-| AI HOT | 21/21 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 36/194 | 18.6% | 高信号源，建议保留 |
+| AI HOT | 19/19 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
