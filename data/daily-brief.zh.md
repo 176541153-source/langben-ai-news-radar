@@ -1,16 +1,16 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-18T17:05:53.385548Z
-- 24小时AI信号：1861 条
+- 生成时间：2026-07-18T18:02:39.924990Z
+- 24小时AI信号：1740 条
 - 源健康：14/14
-- 原始抓取：7199 条
+- 原始抓取：7202 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [八天四款前沿模型发布，Kimi K3 跻身第三](https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k)
+1. [八天四款前沿模型发布，Kimi K3 跻身第三](https://x.com/ArtificialAnlys/status/2078165665278730490)
    - 时间：昨天 01:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -37,11 +37,11 @@
    - 时间：昨天 08:00
    - 来源：Official AI Updates
    - 评分：10.0/10 · matched_tracked_ai_keyword
-7. [Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？](https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro)
+7. [Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)
    - 时间：昨天 01:41
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件](https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq)
+8. [月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件](https://x.com/dotey/status/2078172517085085951)
    - 时间：昨天 01:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -61,19 +61,19 @@
    - 来源：Follow Builders
    - 评分：9.5/10 · matched_tracked_ai_keyword
 12. [《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误](https://www.thepaper.cn/newsDetail_forward_33612045)
-   - 时间：今天 01:06
+   - 时间：今天 02:03
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [2025 诺奖得主：中国人工智能技术领先，基础研究投入是主因](https://wallstreetcn.com/livenews/3136033)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0306-210d-b45d-e90ecd846bdd&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0403-09c1-84b2-9bb44e3ae89e&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0203-135b-8d24-a9db2927f665&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0306-210d-b45d-e90ecd846bdd&fp=-3)
+   - 时间：56分钟前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0203-135b-8d24-a9db2927f665&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0103-100d-ac22-0242d72c0242&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0103-100d-ac22-0242d72c0242&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2359-2960-ae73-29ac822be791&fp=-3)
-   - 时间：3小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2229-59e1-a356-23ffbc927650&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2359-2960-ae73-29ac822be791&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 977/3810 | 25.6% | 高信号源，建议保留 |
-| Buzzing | 377/1413 | 26.7% | 高信号源，建议保留 |
-| Info Flow | 186/594 | 31.3% | 高信号源，建议保留 |
-| TechURLs | 100/310 | 32.3% | 高信号源，建议保留 |
-| Zeli | 60/68 | 88.2% | 高信号源，建议保留 |
-| NewsNow | 29/186 | 15.6% | 高信号源，建议保留 |
+| TopHub | 887/3589 | 24.7% | 高信号源，建议保留 |
+| Buzzing | 356/1367 | 26.0% | 高信号源，建议保留 |
+| Info Flow | 185/593 | 31.2% | 高信号源，建议保留 |
+| TechURLs | 92/292 | 31.5% | 高信号源，建议保留 |
+| Zeli | 64/72 | 88.9% | 高信号源，建议保留 |
+| NewsNow | 27/187 | 14.4% | 高信号源，建议保留 |
 | AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 13/16 | 81.2% | 高信号源，建议保留 |
 
