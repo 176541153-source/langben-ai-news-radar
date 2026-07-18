@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-18T16:02:43.144667Z
-- 24小时AI信号：1796 条
+- 生成时间：2026-07-18T17:05:53.385548Z
+- 24小时AI信号：1861 条
 - 源健康：14/14
-- 原始抓取：7194 条
+- 原始抓取：7199 条
 
 ## 今日重点
 
@@ -45,12 +45,12 @@
    - 时间：昨天 01:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高](https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk)
-   - 时间：昨天 00:32
+9. [美团LongCat发布LoHoSearch：更难搜索智能体基准](https://x.com/Meituan_LongCat/status/2078119654632124547)
+   - 时间：07-17 22:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [美团LongCat发布LoHoSearch：更难搜索智能体基准](https://x.com/Meituan_LongCat/status/2078119654632124547)
-   - 时间：07-17 22:08
+10. [LLM cliché highlighter：一款识别AI写作套话的检测工具](https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter)
+   - 时间：07-17 20:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -61,19 +61,19 @@
    - 来源：Follow Builders
    - 评分：9.5/10 · matched_tracked_ai_keyword
 12. [《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误](https://www.thepaper.cn/newsDetail_forward_33612045)
-   - 时间：今天 00:03
+   - 时间：今天 01:06
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [2025 诺奖得主：中国人工智能技术领先，基础研究投入是主因](https://wallstreetcn.com/livenews/3136033)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0203-135b-8d24-a9db2927f665&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0306-210d-b45d-e90ecd846bdd&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0103-100d-ac22-0242d72c0242&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0203-135b-8d24-a9db2927f665&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2359-2960-ae73-29ac822be791&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0103-100d-ac22-0242d72c0242&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2229-59e1-a356-23ffbc927650&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2359-2960-ae73-29ac822be791&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2111-3554-b9ee-0e1c5eea7e9d&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2229-59e1-a356-23ffbc927650&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 892/3468 | 25.7% | 高信号源，建议保留 |
-| Buzzing | 391/1471 | 26.6% | 高信号源，建议保留 |
-| Info Flow | 185/589 | 31.4% | 高信号源，建议保留 |
-| TechURLs | 110/315 | 34.9% | 高信号源，建议保留 |
-| Zeli | 57/65 | 87.7% | 高信号源，建议保留 |
-| NewsNow | 27/177 | 15.3% | 高信号源，建议保留 |
-| AI HubToday | 16/16 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 14/17 | 82.4% | 高信号源，建议保留 |
+| TopHub | 977/3810 | 25.6% | 高信号源，建议保留 |
+| Buzzing | 377/1413 | 26.7% | 高信号源，建议保留 |
+| Info Flow | 186/594 | 31.3% | 高信号源，建议保留 |
+| TechURLs | 100/310 | 32.3% | 高信号源，建议保留 |
+| Zeli | 60/68 | 88.2% | 高信号源，建议保留 |
+| NewsNow | 29/186 | 15.6% | 高信号源，建议保留 |
+| AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 13/16 | 81.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
