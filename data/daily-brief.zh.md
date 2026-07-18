@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-18T13:58:58.986783Z
-- 24小时AI信号：1879 条
+- 生成时间：2026-07-18T15:02:40.930584Z
+- 24小时AI信号：1826 条
 - 源健康：14/14
 - 原始抓取：7256 条
 
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？](https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro)
+6. [法典 CLI 0.144.6](https://developers.openai.com/codex/changelog)
+   - 时间：今天 08:00
+   - 来源：Official AI Updates
+   - 评分：10.0/10 · matched_tracked_ai_keyword
+7. [Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？](https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro)
    - 时间：今天 01:41
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件](https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq)
+8. [月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件](https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq)
    - 时间：今天 01:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高](https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk)
+9. [Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高](https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk)
    - 时间：今天 00:32
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [美团LongCat发布LoHoSearch：更难搜索智能体基准](https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi)
+10. [美团LongCat发布LoHoSearch：更难搜索智能体基准](https://x.com/Meituan_LongCat/status/2078119654632124547)
    - 时间：昨天 22:08
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [LLM cliché highlighter：一款识别AI写作套话的检测工具](https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter)
-   - 时间：昨天 20:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -61,19 +61,19 @@
    - 来源：Follow Builders
    - 评分：9.5/10 · matched_tracked_ai_keyword
 12. [《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误](https://www.thepaper.cn/newsDetail_forward_33612045)
-   - 时间：今天 22:00
+   - 时间：今天 23:03
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控](https://www.thepaper.cn/newsDetail_forward_33608598)
-   - 时间：今天 22:00
+   - 时间：今天 23:03
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [2025 诺奖得主：中国人工智能技术领先，基础研究投入是主因](https://wallstreetcn.com/livenews/3136033)
-   - 时间：1分钟前
-   - 来源：TopHub
+14. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
+   - 时间：44分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [上海发布首个疑难病例AI诊疗评测基准](https://api3.cls.cn/share/article/2430249?os=web&sv=8.4.6&app=CailianpressWeb)
-   - 时间：2小时前
+15. [2025 诺奖得主：中国人工智能技术领先，基础研究投入是主因](https://wallstreetcn.com/livenews/3136033)
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2359-2960-ae73-29ac822be791&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0103-100d-ac22-0242d72c0242&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2229-59e1-a356-23ffbc927650&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2359-2960-ae73-29ac822be791&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2111-3554-b9ee-0e1c5eea7e9d&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2229-59e1-a356-23ffbc927650&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1942-14ec-876f-1921adbbd54c&fp=-3)
-   - 时间：4小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2111-3554-b9ee-0e1c5eea7e9d&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1804-54be-8b60-e9339f91f688&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1942-14ec-876f-1921adbbd54c&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 902/3555 | 25.4% | 高信号源，建议保留 |
-| Buzzing | 427/1539 | 27.7% | 高信号源，建议保留 |
-| Info Flow | 186/599 | 31.1% | 高信号源，建议保留 |
-| TechURLs | 131/363 | 36.1% | 高信号源，建议保留 |
-| Zeli | 63/76 | 82.9% | 高信号源，建议保留 |
-| NewsNow | 33/185 | 17.8% | 高信号源，建议保留 |
+| TopHub | 899/3510 | 25.6% | 高信号源，建议保留 |
+| Buzzing | 396/1498 | 26.4% | 高信号源，建议保留 |
+| Info Flow | 188/597 | 31.5% | 高信号源，建议保留 |
+| TechURLs | 116/330 | 35.2% | 高信号源，建议保留 |
+| Zeli | 58/66 | 87.9% | 高信号源，建议保留 |
+| NewsNow | 33/190 | 17.4% | 高信号源，建议保留 |
 | AI HubToday | 16/16 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 16/19 | 84.2% | 高信号源，建议保留 |
+| OPML RSS | 15/18 | 83.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
