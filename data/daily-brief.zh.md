@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-18T19:15:47.861802Z
-- 24小时AI信号：1718 条
+- 生成时间：2026-07-18T20:22:32.865684Z
+- 24小时AI信号：1672 条
 - 源健康：14/14
-- 原始抓取：6987 条
+- 原始抓取：7196 条
 
 ## 今日重点
 
@@ -61,19 +61,19 @@
    - 来源：Follow Builders
    - 评分：9.5/10 · matched_tracked_ai_keyword
 12. [《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误](https://www.thepaper.cn/newsDetail_forward_33612045)
-   - 时间：今天 03:17
+   - 时间：今天 04:23
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [2025 诺奖得主：中国人工智能技术领先，基础研究投入是主因](https://wallstreetcn.com/livenews/3136033)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0516-10a4-99df-a981925b23f5&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0622-581c-917d-dcda61b2e187&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0403-09c1-84b2-9bb44e3ae89e&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0516-10a4-99df-a981925b23f5&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0306-210d-b45d-e90ecd846bdd&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0403-09c1-84b2-9bb44e3ae89e&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0203-135b-8d24-a9db2927f665&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0306-210d-b45d-e90ecd846bdd&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0103-100d-ac22-0242d72c0242&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0203-135b-8d24-a9db2927f665&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 880/3554 | 24.8% | 高信号源，建议保留 |
-| Buzzing | 351/1341 | 26.2% | 高信号源，建议保留 |
-| Info Flow | 182/588 | 31.0% | 高信号源，建议保留 |
-| TechURLs | 89/282 | 31.6% | 高信号源，建议保留 |
-| Zeli | 62/70 | 88.6% | 高信号源，建议保留 |
-| NewsNow | 27/186 | 14.5% | 高信号源，建议保留 |
+| TopHub | 861/3552 | 24.2% | 高信号源，建议保留 |
+| Buzzing | 340/1304 | 26.1% | 高信号源，建议保留 |
+| Info Flow | 181/576 | 31.4% | 高信号源，建议保留 |
+| TechURLs | 82/262 | 31.3% | 高信号源，建议保留 |
+| Zeli | 56/64 | 87.5% | 高信号源，建议保留 |
+| NewsNow | 27/183 | 14.8% | 高信号源，建议保留 |
 | AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 12/15 | 80.0% | 高信号源，建议保留 |
 
