@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-18T09:41:52.339130Z
-- 24小时AI信号：1986 条
+- 生成时间：2026-07-18T11:11:05.807593Z
+- 24小时AI信号：1917 条
 - 源健康：14/14
-- 原始抓取：7268 条
+- 原始抓取：7265 条
 
 ## 今日重点
 
@@ -57,29 +57,29 @@
 ### 论文研究与评测
 
 11. [顺便说一句，如果你还没有设置你的 {codex |克劳德|双子座| devin} 自动化来自动研究如何每周改进你的 seo/aeo 你真的错过了免费的、应该商品化但奇怪的未开发的 alpha](https://x.com/swyx/status/2078244735794413786)
-   - 时间：11小时前
+   - 时间：今天 06:25
    - 来源：Follow Builders
    - 评分：9.5/10 · matched_tracked_ai_keyword
 12. [三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”](https://www.thepaper.cn/newsDetail_forward_33600057)
-   - 时间：今天 17:42
+   - 时间：今天 19:12
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误](https://www.thepaper.cn/newsDetail_forward_33612045)
-   - 时间：今天 17:42
+   - 时间：今天 19:12
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [经纬度：AI走向物理世界，经济新引擎的机遇与考验](https://www.thepaper.cn/newsDetail_forward_33606069)
-   - 时间：今天 17:42
+   - 时间：今天 19:12
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控](https://www.thepaper.cn/newsDetail_forward_33608598)
-   - 时间：今天 17:42
+   - 时间：今天 19:12
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [OpenAI 提出 AI 时代记分卡："有用智能每美元"衡量实际工作价值](https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4)
+16. [OpenAI 提出 AI 时代记分卡："有用智能每美元"衡量实际工作价值](https://openai.com/index/a-scorecard-for-the-ai-age)
    - 时间：昨天 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -102,38 +102,38 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1942-14ec-876f-1921adbbd54c&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-2111-3554-b9ee-0e1c5eea7e9d&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1804-54be-8b60-e9339f91f688&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1942-14ec-876f-1921adbbd54c&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1548-55a9-9282-a3cd722e9232&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1804-54be-8b60-e9339f91f688&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"](https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1318-0961-96a6-1f690ccdc9c4&fp=-3)
-   - 时间：6小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260718-1548-55a9-9282-a3cd722e9232&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"](https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro)
+   - 时间：6小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 904/3443 | 26.3% | 高信号源，建议保留 |
-| Buzzing | 474/1644 | 28.8% | 高信号源，建议保留 |
-| Info Flow | 206/716 | 28.8% | 高信号源，建议保留 |
-| TechURLs | 160/421 | 38.0% | 高信号源，建议保留 |
-| Zeli | 67/77 | 87.0% | 高信号源，建议保留 |
-| NewsNow | 32/177 | 18.1% | 高信号源，建议保留 |
-| OPML RSS | 18/24 | 75.0% | 高信号源，建议保留 |
+| TopHub | 892/3337 | 26.7% | 高信号源，建议保留 |
+| Buzzing | 444/1587 | 28.0% | 高信号源，建议保留 |
+| Info Flow | 196/646 | 30.3% | 高信号源，建议保留 |
+| TechURLs | 143/411 | 34.8% | 高信号源，建议保留 |
+| Zeli | 67/78 | 85.9% | 高信号源，建议保留 |
+| NewsNow | 35/184 | 19.0% | 高信号源，建议保留 |
+| OPML RSS | 18/21 | 85.7% | 高信号源，建议保留 |
 | AI HubToday | 15/15 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
