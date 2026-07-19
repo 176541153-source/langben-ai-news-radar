@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-19T21:01:47.117580Z
-- 24小时AI信号：1510 条
+- 生成时间：2026-07-19T21:59:34.672032Z
+- 24小时AI信号：1500 条
 - 源健康：14/14
-- 原始抓取：7111 条
+- 原始抓取：7068 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [昆仑万维宣布2026为"世界模型元年"，发布Matrix-Game 3.5等模型](https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Qwen3.8 开源发布，2.4T 参数模型上线](https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6)
@@ -57,68 +57,68 @@
 ### 论文研究与评测
 
 11. [成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型](https://www.thepaper.cn/newsDetail_forward_33614666)
-   - 时间：今天 05:02
+   - 时间：今天 06:01
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [研究人员发现，人工智能建议的准确性降低了三倍，但信心却提高了一倍](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
-   - 时间：5小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [【分享创造】 开发了一款 PDF AI 翻译产品 PaperInsight 送 20 份 一个月的 VIP 激活码](https://www.v2ex.com/t/1228415)
-   - 时间：5小时前
+12. [研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+   - 时间：41分钟前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [阿里荣膺 ACL 2026 最佳资源论文奖，揭示 AI Agent 的专家能力鸿沟](https://news.qq.com/rain/a/20260719A08LUB00)
-   - 时间：7小时前
-   - 来源：TopHub
+13. [研究人员发现，人工智能建议的准确性降低了三倍，但信心却提高了一倍](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+   - 时间：6小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [当人工智能开始进行足球博彩时，会发生什么？](https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7)
-   - 时间：9小时前
-   - 来源：Buzzing
+14. [【分享创造】 开发了一款 PDF AI 翻译产品 PaperInsight 送 20 份 一个月的 VIP 激活码](https://www.v2ex.com/t/1228415)
+   - 时间：6小时前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [阿里荣膺 ACL 2026 最佳资源论文奖，揭示 AI Agent 的专家能力鸿沟](https://news.qq.com/rain/a/20260719A08LUB00)
+   - 时间：8小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [面壁智能开源 MiniCPM-Robot 具身智能模型系列](https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7)
-   - 时间：7小时前
+16. [黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit)
+   - 时间：43分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片](https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod)
-   - 时间：7小时前
+17. [面壁智能开源 MiniCPM-Robot 具身智能模型系列](https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7)
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [OpenAI 提出 AI 时代记分卡："有用智能每美元"衡量实际工作价值](https://openai.com/index/a-scorecard-for-the-ai-age)
+18. [MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片](https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [OpenAI 提出 AI 时代记分卡："有用智能每美元"衡量实际工作价值](https://openai.com/index/a-scorecard-for-the-ai-age)
    - 时间：07-17 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [首届"小有可为"大赛乡村教育一等奖作品"智绘科普"技术拆解](https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ)
+20. [首届"小有可为"大赛乡村教育一等奖作品"智绘科普"技术拆解](https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ)
    - 时间：07-17 17:41
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901)
-   - 时间：07-17 08:40
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0702-1140-9f21-21c7f33d7be2&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0800-00ca-ac41-dddc3e8076c3&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0543-59bd-9f9c-851e97657437&fp=-3)
-   - 时间：1小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0702-1140-9f21-21c7f33d7be2&fp=-3)
+   - 时间：57分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0309-13e1-8ae8-6d4f0c865f69&fp=-3)
-   - 时间：3小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0543-59bd-9f9c-851e97657437&fp=-3)
+   - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0204-03a9-866a-3c4b8d49cac5&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0309-13e1-8ae8-6d4f0c865f69&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0104-2542-8940-74abc1752547&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260720-0204-03a9-866a-3c4b8d49cac5&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 695/2993 | 23.2% | 高信号源，建议保留 |
-| Buzzing | 390/1207 | 32.3% | 高信号源，建议保留 |
-| Info Flow | 163/560 | 29.1% | 高信号源，建议保留 |
-| TechURLs | 57/192 | 29.7% | 高信号源，建议保留 |
-| Zeli | 53/64 | 82.8% | 高信号源，建议保留 |
-| NewsNow | 36/190 | 18.9% | 高信号源，建议保留 |
+| TopHub | 677/2955 | 22.9% | 高信号源，建议保留 |
+| Buzzing | 396/1222 | 32.4% | 高信号源，建议保留 |
+| Info Flow | 165/559 | 29.5% | 高信号源，建议保留 |
+| TechURLs | 57/193 | 29.5% | 高信号源，建议保留 |
+| Zeli | 52/63 | 82.5% | 高信号源，建议保留 |
+| NewsNow | 37/189 | 19.6% | 高信号源，建议保留 |
 | AI HubToday | 15/15 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
 
