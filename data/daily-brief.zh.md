@@ -1,21 +1,21 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-19T04:28:16.899647Z
-- 24小时AI信号：1554 条
+- 生成时间：2026-07-19T07:07:17.074993Z
+- 24小时AI信号：1537 条
 - 源健康：14/14
-- 原始抓取：7201 条
+- 原始抓取：7211 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [ChatGPT Work 功能：建站、邮件、文档处理](https://x.com/thsottiaux/status/2078697631019303273)
-   - 时间：3分钟前
+1. [ChatGPT Work 功能：建站、邮件、文档处理](https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族](https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i)
-   - 时间：1小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [八天四款前沿模型发布，Kimi K3 跻身第三](https://x.com/ArtificialAnlys/status/2078165665278730490)
@@ -56,24 +56,24 @@
 
 ### 论文研究与评测
 
-11. [《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误](https://www.thepaper.cn/newsDetail_forward_33612045)
-   - 时间：今天 12:29
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [Gemini 3.1 Pro 深度评测：为何它是当前最强的「六边形战士」](https://www.woshipm.com/?p=6343689)
-   - 时间：1分钟前
+11. [Gemini 3.1 Pro 深度评测：为何它是当前最强的「六边形战士」](https://www.woshipm.com/?p=6343689)
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破](https://www.ithome.com/0/978/670.htm)
-   - 时间：32分钟前
+12. [月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破](https://www.ithome.com/0/978/670.htm)
+   - 时间：3小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [随着特朗普政府开始试点使用人工智能评估医疗保险索赔，人工智能对保险承保决策（例如事先授权）的潜在影响（Joshua Cohen/Ars Technica）](https://www.techmeme.com/260718/p16)
-   - 时间：2小时前
+13. [随着特朗普政府开始试点使用人工智能评估医疗保险索赔，人工智能对保险承保决策（例如事先授权）的潜在影响（Joshua Cohen/Ars Technica）](https://www.techmeme.com/260718/p16)
+   - 时间：5小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Show HN: 将伊利亚·苏茨克维尔的AI阅读书单转化为一款学习类RPG——使用kimi k3](https://ilya-papers-quest.naigap.com)
-   - 时间：5小时前
+14. [Show HN: 将伊利亚·苏茨克维尔的AI阅读书单转化为一款学习类RPG——使用kimi k3](https://ilya-papers-quest.naigap.com)
+   - 时间：8小时前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
+   - 时间：昨天 22:17
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1428-40aa-aa10-695c7178f135&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1707-4089-b89a-518e8ce331b1&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1104-00c2-9dc8-8ce92cd64d19&fp=-3)
-   - 时间：3小时前
+22. [AI 热潮正在瓦解全球决策机制](https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1428-40aa-aa10-695c7178f135&fp=-3)
+   - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0930-12da-847b-aa9f6bfe723b&fp=-3)
-   - 时间：4小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0826-27f2-82cd-e6b882de9737&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1104-00c2-9dc8-8ce92cd64d19&fp=-3)
    - 时间：6小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0727-101c-9819-3faf04aea46b&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0930-12da-847b-aa9f6bfe723b&fp=-3)
    - 时间：7小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 804/3526 | 22.8% | 高信号源，建议保留 |
-| Buzzing | 316/1148 | 27.5% | 高信号源，建议保留 |
-| Info Flow | 167/532 | 31.4% | 高信号源，建议保留 |
-| TechURLs | 73/230 | 31.7% | 高信号源，建议保留 |
-| Zeli | 49/57 | 86.0% | 高信号源，建议保留 |
-| NewsNow | 31/182 | 17.0% | 高信号源，建议保留 |
+| TopHub | 791/3465 | 22.8% | 高信号源，建议保留 |
+| Buzzing | 328/1163 | 28.2% | 高信号源，建议保留 |
+| Info Flow | 152/519 | 29.3% | 高信号源，建议保留 |
+| TechURLs | 68/222 | 30.6% | 高信号源，建议保留 |
+| Zeli | 50/59 | 84.7% | 高信号源，建议保留 |
+| NewsNow | 32/185 | 17.3% | 高信号源，建议保留 |
 | AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 15/19 | 78.9% | 高信号源，建议保留 |
+| OPML RSS | 16/19 | 84.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
