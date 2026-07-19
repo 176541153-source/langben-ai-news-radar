@@ -1,33 +1,33 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-19T01:03:36.127887Z
-- 24小时AI信号：1589 条
+- 生成时间：2026-07-19T04:28:16.899647Z
+- 24小时AI信号：1554 条
 - 源健康：14/14
-- 原始抓取：7188 条
+- 原始抓取：7201 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [八天四款前沿模型发布，Kimi K3 跻身第三](https://x.com/ArtificialAnlys/status/2078165665278730490)
+1. [ChatGPT Work 功能：建站、邮件、文档处理](https://x.com/thsottiaux/status/2078697631019303273)
+   - 时间：3分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族](https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [八天四款前沿模型发布，Kimi K3 跻身第三](https://x.com/ArtificialAnlys/status/2078165665278730490)
    - 时间：昨天 01:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一](https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb)
+4. [NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一](https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb)
    - 时间：07-17 15:53
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms](https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg)
+5. [通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms](https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg)
    - 时间：07-17 15:14
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用](https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users)
-   - 时间：07-17 04:26
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [ChatGPT 工作区支持文档表格幻灯片编辑](https://x.com/ChatGPTapp/status/2077826846373380535)
-   - 时间：07-17 02:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -57,24 +57,24 @@
 ### 论文研究与评测
 
 11. [《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误](https://www.thepaper.cn/newsDetail_forward_33612045)
-   - 时间：今天 09:04
+   - 时间：今天 12:29
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [Show HN: 将伊利亚·苏茨克维尔的AI阅读书单转化为一款学习类RPG——使用kimi k3](https://ilya-papers-quest.naigap.com)
-   - 时间：1小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：10小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [2025 诺奖得主：中国人工智能技术领先，基础研究投入是主因](https://wallstreetcn.com/livenews/3136033)
-   - 时间：11小时前
+12. [Gemini 3.1 Pro 深度评测：为何它是当前最强的「六边形战士」](https://www.woshipm.com/?p=6343689)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a)
-   - 时间：昨天 21:00
+13. [月之暗面 Kimi K3 大模型登顶全球榜单后，彭博社称美国 AI 领先中国固有认知被打破](https://www.ithome.com/0/978/670.htm)
+   - 时间：32分钟前
    - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [随着特朗普政府开始试点使用人工智能评估医疗保险索赔，人工智能对保险承保决策（例如事先授权）的潜在影响（Joshua Cohen/Ars Technica）](https://www.techmeme.com/260718/p16)
+   - 时间：2小时前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [Show HN: 将伊利亚·苏茨克维尔的AI阅读书单转化为一款学习类RPG——使用kimi k3](https://ilya-papers-quest.naigap.com)
+   - 时间：5小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1104-00c2-9dc8-8ce92cd64d19&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1428-40aa-aa10-695c7178f135&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0930-12da-847b-aa9f6bfe723b&fp=-3)
-   - 时间：1小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0826-27f2-82cd-e6b882de9737&fp=-3)
-   - 时间：2小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0727-101c-9819-3faf04aea46b&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-1104-00c2-9dc8-8ce92cd64d19&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0622-581c-917d-dcda61b2e187&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0930-12da-847b-aa9f6bfe723b&fp=-3)
    - 时间：4小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0826-27f2-82cd-e6b882de9737&fp=-3)
+   - 时间：6小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260719-0727-101c-9819-3faf04aea46b&fp=-3)
+   - 时间：7小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 846/3618 | 23.4% | 高信号源，建议保留 |
-| Buzzing | 302/1190 | 25.4% | 高信号源，建议保留 |
-| Info Flow | 175/565 | 31.0% | 高信号源，建议保留 |
-| TechURLs | 72/229 | 31.4% | 高信号源，建议保留 |
-| Zeli | 48/55 | 87.3% | 高信号源，建议保留 |
-| NewsNow | 28/179 | 15.6% | 高信号源，建议保留 |
+| TopHub | 804/3526 | 22.8% | 高信号源，建议保留 |
+| Buzzing | 316/1148 | 27.5% | 高信号源，建议保留 |
+| Info Flow | 167/532 | 31.4% | 高信号源，建议保留 |
+| TechURLs | 73/230 | 31.7% | 高信号源，建议保留 |
+| Zeli | 49/57 | 86.0% | 高信号源，建议保留 |
+| NewsNow | 31/182 | 17.0% | 高信号源，建议保留 |
 | AI HubToday | 17/17 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 11/14 | 78.6% | 高信号源，建议保留 |
+| OPML RSS | 15/19 | 78.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
