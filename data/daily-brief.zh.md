@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-20T23:06:50.645896Z
-- 24小时AI信号：1876 条
+- 生成时间：2026-07-21T00:06:02.533386Z
+- 24小时AI信号：1830 条
 - 源健康：14/14
-- 原始抓取：7225 条
+- 原始抓取：7257 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》](https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [中国AI几乎追平美国，Kimi K3开源模型引发市场震荡](https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率](https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放](https://www.aibase.com/news/29724)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [Replit 新统一工具栏集成数据库与双因素认证](https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析](https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试](https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4)
-   - 时间：11小时前
+   - 时间：昨天 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场](https://www.aibase.com/news/29721)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [ArXiv上超30%新投稿文本特征与AI撰写一致](https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [上海科学智能研究院开放科学多模态基础模型"神珍"](https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04)
@@ -69,22 +69,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？](https://www.thepaper.cn/newsDetail_forward_33616683)
-   - 时间：今天 07:07
+   - 时间：今天 08:06
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [我们如何测量 arXiv 上的人工智能写作，以及测量的突破点](https://news.ycombinator.com/item?id=48981206)
-   - 时间：3小时前
-   - 来源：NewsNow
+15. [殷勇调研北京中关村学院与中关村人工智能研究院，聚焦人工智能赋能科学研究](https://finance.sina.com.cn/wm/2026-07-21/doc-iniiphzn9393968.shtml)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景](https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成](https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台](https://www.aibase.com/news/29725)
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0907-207e-a0cb-3f277af39dad&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-1006-24b2-927f-6f5b6618af25&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0745-4946-8a69-302b4741fef5&fp=-3)
-   - 时间：1小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0907-207e-a0cb-3f277af39dad&fp=-3)
+   - 时间：59分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0626-3513-adf3-e299b5265a37&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0745-4946-8a69-302b4741fef5&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0459-54ff-b8fc-ae6561c51269&fp=-3)
-   - 时间：4小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0626-3513-adf3-e299b5265a37&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0239-272c-94db-62183e2adaae&fp=-3)
-   - 时间：6小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260721-0459-54ff-b8fc-ae6561c51269&fp=-3)
+   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 833/3086 | 27.0% | 高信号源，建议保留 |
-| Buzzing | 505/1854 | 27.2% | 高信号源，建议保留 |
-| Info Flow | 232/911 | 25.5% | 高信号源，建议保留 |
-| Zeli | 83/94 | 88.3% | 高信号源，建议保留 |
-| NewsNow | 41/159 | 25.8% | 高信号源，建议保留 |
+| TopHub | 785/3039 | 25.8% | 高信号源，建议保留 |
+| Buzzing | 511/1860 | 27.5% | 高信号源，建议保留 |
+| Info Flow | 231/916 | 25.2% | 高信号源，建议保留 |
+| Zeli | 84/95 | 88.4% | 高信号源，建议保留 |
+| NewsNow | 41/158 | 25.9% | 高信号源，建议保留 |
 | AIbase | 29/29 | 100.0% | 高信号源，建议保留 |
-| TechURLs | 23/68 | 33.8% | 高信号源，建议保留 |
+| TechURLs | 20/64 | 31.2% | 高信号源，建议保留 |
 | AI HOT | 16/16 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
