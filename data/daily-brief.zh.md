@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-25T13:56:55.364497Z
-- 24小时AI信号：1790 条
+- 生成时间：2026-07-25T15:11:34.504560Z
+- 24小时AI信号：1736 条
 - 源健康：14/14
-- 原始抓取：7280 条
+- 原始抓取：7277 条
 
 ## 今日重点
 
@@ -33,8 +33,8 @@
 
 ### 产品与开发者工具
 
-6. [新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度](https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face)
-   - 时间：11分钟前
+6. [新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度](https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉](https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk)
@@ -88,38 +88,38 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [美国多家科技企业表明支持开放权重AI模型](https://www.zaochenbao.com/news/politics/202607/2577282.html)
-   - 时间：今天 21:58
+   - 时间：今天 23:12
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产](https://www.thepaper.cn/newsDetail_forward_33654798)
-   - 时间：今天 21:58
+19. [黄仁勋首条推文力挺开源AI，25家科技巨头联名背书](https://view.inews.qq.com/a/20260725A08R0I00)
+   - 时间：今天 23:12
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [美国企业界突然决定停止在人工智能上投入巨资](https://news.ycombinator.com/item?id=49047448)
-   - 时间：今天 21:57
-   - 来源：NewsNow
+20. [中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产](https://www.thepaper.cn/newsDetail_forward_33654798)
+   - 时间：今天 23:12
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-2357-21dc-b365-76da40fa37ad&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0111-5764-8054-79424b71d8ff&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-2206-5305-bb85-282a231229e6&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-2357-21dc-b365-76da40fa37ad&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-2040-4241-b000-f5e29692d4d2&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-2206-5305-bb85-282a231229e6&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1905-53c3-9cee-041679837632&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-2040-4241-b000-f5e29692d4d2&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1641-07ef-9b75-312e61eaa4a9&fp=-3)
-   - 时间：7小时前
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1905-53c3-9cee-041679837632&fp=-3)
+   - 时间：6小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 809/3235 | 25.0% | 高信号源，建议保留 |
-| Buzzing | 480/1583 | 30.3% | 高信号源，建议保留 |
-| Info Flow | 163/559 | 29.2% | 高信号源，建议保留 |
-| TechURLs | 126/376 | 33.5% | 高信号源，建议保留 |
-| Zeli | 51/60 | 85.0% | 高信号源，建议保留 |
-| NewsNow | 26/166 | 15.7% | 高信号源，建议保留 |
-| Follow Builders | 21/43 | 48.8% | 高信号源，建议保留 |
+| TopHub | 783/3137 | 25.0% | 高信号源，建议保留 |
+| Buzzing | 469/1576 | 29.8% | 高信号源，建议保留 |
+| Info Flow | 163/550 | 29.6% | 高信号源，建议保留 |
+| TechURLs | 119/342 | 34.8% | 高信号源，建议保留 |
+| Zeli | 44/53 | 83.0% | 高信号源，建议保留 |
+| NewsNow | 25/159 | 15.7% | 高信号源，建议保留 |
+| Follow Builders | 20/40 | 50.0% | 高信号源，建议保留 |
 | AI HubToday | 14/14 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
