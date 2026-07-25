@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-25T06:40:38.618029Z
-- 24小时AI信号：1942 条
+- 生成时间：2026-07-25T09:05:30.076433Z
+- 24小时AI信号：1910 条
 - 源健康：14/14
-- 原始抓取：7260 条
+- 原始抓取：7289 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Midjourney V8.2 发布：专注美学提升与个性化理解](https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管](https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am)
-   - 时间：11小时前
+   - 时间：今天 03:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%](https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉](https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Claude Opus 5 现已在 GitHub Copilot 中提供](https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot)
@@ -64,18 +64,18 @@
    - 时间：07-23 19:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持](https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219)
-   - 时间：11小时前
+13. [Claude Opus 5 现已发布，它在很多功能上都比 Opus 4.8 有了巨大的飞跃。在 Box，我们一直在 Box 的 Complex Work Eval 上使用 Box AI Agent 来测试 Claude Opus 5，这是我们的代理基准，...](https://x.com/levie/status/2080704871934931221)
+   - 时间：今天 01:21
+   - 来源：Follow Builders
+   - 评分：8.9/10 · matched_tracked_ai_keyword
+14. [讨论不足：世界顶级人工智能研究人员在建立递归自动研究时摆脱自己的工作，这是一个根本性的讽刺。](https://x.com/mattturck/status/2080738638065729741)
+   - 时间：今天 03:35
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
+15. [“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持](https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219)
+   - 时间：今天 03:30
    - 来源：OPML RSS
    - 评分：7.9/10 · matched_tracked_ai_keyword
-14. [Progress Software同意以4亿美元收购Domo的人工智能和数据平台业务； Domo 将继续公开上市，并在交易完成后更名（Larry Dignan/Constellation Research）](https://www.techmeme.com/260725/p3)
-   - 时间：1小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [KDD 2026 论文解读：让大模型真正理解图结构的 Graph Token 方法｜浙江大学-阿里巴巴集团人工智能安全联合实验室专场直播回放 (4)](https://hub.baai.ac.cn/view/56611)
-   - 时间：2小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
@@ -91,34 +91,34 @@
    - 时间：07-23 12:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Candid Health 开发技术和人工智能代理以实现医疗计费和索赔处理工作流程自动化，该公司筹集了由 Sixth Street Growth 领投的 1.2 亿美元 D 轮融资（Lily Mae Lazarus/《财富》）](https://www.techmeme.com/260725/p7)
-   - 时间：15分钟前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [Meshy 的人工智能技术可让用户根据文本和图像提示生成 3D 资产，以 1.5 亿美元的估值筹集了约 4 亿美元的 B 轮融资（Abhinaya Prabhu/科技融资新闻）](https://www.techmeme.com/260725/p5)
-   - 时间：25分钟前
-   - 来源：TechURLs
+19. [模型路由的重要一周：据传 Stripe 将以 10B 美元收购 OpenRouter Cursor Router 于周三宣布 Runway Router 于昨天宣布 另请参阅 Databricks、Vercel、Cloudflare、Dataiku、AWS、Google 的路由器...](https://x.com/mattturck/status/2080645582209663049)
+   - 时间：昨天 21:25
+   - 来源：Follow Builders
+   - 评分：8.8/10 · matched_tracked_internet_keyword
+20. [假如莫奈遇上AI机器人](https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA)
+   - 时间：今天 17:06
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1641-07ef-9b75-312e61eaa4a9&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1905-53c3-9cee-041679837632&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1418-52b6-9a47-26cd7a8c9eec&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1641-07ef-9b75-312e61eaa4a9&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1104-0792-b025-a8ba12023403&fp=-3)
-   - 时间：5小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1418-52b6-9a47-26cd7a8c9eec&fp=-3)
+   - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-0909-3325-ba5b-929e6387e7b6&fp=-3)
-   - 时间：7小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-1104-0792-b025-a8ba12023403&fp=-3)
+   - 时间：8小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-0740-10f3-9152-34659dd6c485&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-0909-3325-ba5b-929e6387e7b6&fp=-3)
    - 时间：9小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 826/3306 | 25.0% | 高信号源，建议保留 |
-| Buzzing | 535/1791 | 29.9% | 高信号源，建议保留 |
-| Info Flow | 192/730 | 26.3% | 高信号源，建议保留 |
-| TechURLs | 144/475 | 30.3% | 高信号源，建议保留 |
-| Zeli | 76/90 | 84.4% | 高信号源，建议保留 |
-| NewsNow | 24/174 | 13.8% | 高信号源，建议保留 |
+| TopHub | 805/3262 | 24.7% | 高信号源，建议保留 |
+| Buzzing | 526/1761 | 29.9% | 高信号源，建议保留 |
+| Info Flow | 185/660 | 28.0% | 高信号源，建议保留 |
+| TechURLs | 140/446 | 31.4% | 高信号源，建议保留 |
+| Zeli | 73/88 | 83.0% | 高信号源，建议保留 |
+| NewsNow | 25/194 | 12.9% | 高信号源，建议保留 |
+| Follow Builders | 22/48 | 45.8% | 高信号源，建议保留 |
 | OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
-| AIbase | 18/18 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
