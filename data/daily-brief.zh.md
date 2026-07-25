@@ -1,16 +1,16 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-25T22:01:34.521540Z
-- 24小时AI信号：1529 条
+- 生成时间：2026-07-25T23:01:44.377683Z
+- 24小时AI信号：1546 条
 - 源健康：14/14
-- 原始抓取：7144 条
+- 原始抓取：7143 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Midjourney V8.2 发布：专注美学提升与个性化理解](https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7)
+1. [Midjourney V8.2 发布：专注美学提升与个性化理解](https://updates.midjourney.com/version-8-2)
    - 时间：昨天 06:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度](https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉](https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向](https://www.thepaper.cn/newsDetail_forward_33656318)
-   - 时间：今天 06:02
+   - 时间：今天 07:02
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Bright Data Scraper Studio 深度评测：用 AI 提示词，几分钟为任意网站搭建数据管道（2026）](https://blog.csdn.net/weixin_66592566/article/details/162835498)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [【程序员】 我把 7000 多篇 AI 顶会论文，整理成了一份可以被机器读懂的数据集，需要自取](https://www.v2ex.com/t/1229793)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -88,37 +88,37 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [美国多家科技企业表明支持开放权重AI模型](https://www.zaochenbao.com/news/politics/202607/2577282.html)
-   - 时间：今天 06:02
+   - 时间：今天 07:02
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 19. [黄仁勋首条推文力挺开源AI，25家科技巨头联名背书](https://view.inews.qq.com/a/20260725A08R0I00)
-   - 时间：今天 06:02
+   - 时间：今天 07:02
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [Ask HN: 有哪些流行的AI检测软件？](https://news.ycombinator.com/item?id=49051022)
-   - 时间：1小时前
+20. [据彭博社报道，DeepSeek 向潜在投资者通报了融资暂停的消息 - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWExVWVlHMlpBUVQxbV9rU1NVZ0w2LVlSbVk0RjBtS0dtRjc4TW85M3hGT3hscVdkb3J6ZHhIU1NWMEJ2RGlhdXQwdkQ2cHVYN2RpN2Z4THlfZ3NlREhaa2dhNERLU0xKRENLbTgySE1CalYtdTV3VmFOR2g0SkNtaE9pV3RTdWJRSDNWS092dnFUcExFa0ZhRnBtNjhweXJ4TWhLSUFVVUk5WU14bWNvd2NpNHdOWk1BVklxTmxB?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：10分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0801-560e-b838-6bb751a88ca2&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0902-070c-8340-deb5b13cad08&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0702-28c0-9a00-bfe6aa64025f&fp=-3)
-   - 时间：59分钟前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0801-560e-b838-6bb751a88ca2&fp=-3)
+   - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0546-22a3-833c-9efd1859ee5b&fp=-3)
-   - 时间：2小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0702-28c0-9a00-bfe6aa64025f&fp=-3)
+   - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0432-14d4-9c60-100363091524&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0546-22a3-833c-9efd1859ee5b&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0333-30aa-a9a5-b96fc20b89e6&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0432-14d4-9c60-100363091524&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 722/3007 | 24.0% | 高信号源，建议保留 |
-| Buzzing | 391/1288 | 30.4% | 高信号源，建议保留 |
-| Info Flow | 151/556 | 27.2% | 高信号源，建议保留 |
-| TechURLs | 80/251 | 31.9% | 高信号源，建议保留 |
+| TopHub | 752/3126 | 24.1% | 高信号源，建议保留 |
+| Buzzing | 382/1256 | 30.4% | 高信号源，建议保留 |
+| Info Flow | 148/553 | 26.8% | 高信号源，建议保留 |
+| TechURLs | 78/241 | 32.4% | 高信号源，建议保留 |
 | Zeli | 55/60 | 91.7% | 高信号源，建议保留 |
-| NewsNow | 25/159 | 15.7% | 高信号源，建议保留 |
-| AI HubToday | 15/15 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 4/10 | 40.0% | 高信号源，建议保留 |
+| NewsNow | 26/164 | 15.9% | 高信号源，建议保留 |
+| AI HubToday | 16/16 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 4/9 | 44.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
