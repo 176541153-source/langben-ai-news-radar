@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-25T18:31:50.938511Z
-- 24小时AI信号：1628 条
+- 生成时间：2026-07-25T19:46:01.032004Z
+- 24小时AI信号：1600 条
 - 源健康：14/14
-- 原始抓取：7216 条
+- 原始抓取：7219 条
 
 ## 今日重点
 
@@ -14,7 +14,7 @@
    - 时间：昨天 06:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管](https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am)
+2. [英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
    - 时间：昨天 03:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度](https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉](https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk)
@@ -64,17 +64,17 @@
    - 时间：07-23 19:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [讨论不足：世界顶级人工智能研究人员在建立递归自动研究时摆脱自己的工作，这是一个根本性的讽刺。](https://x.com/mattturck/status/2080738638065729741)
-   - 时间：昨天 03:35
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持](https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219)
-   - 时间：昨天 03:30
-   - 来源：OPML RSS
-   - 评分：7.9/10 · matched_tracked_ai_keyword
-15. [事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向](https://www.thepaper.cn/newsDetail_forward_33656318)
-   - 时间：今天 02:32
+13. [事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向](https://www.thepaper.cn/newsDetail_forward_33656318)
+   - 时间：今天 03:47
    - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [Bright Data Scraper Studio 深度评测：用 AI 提示词，几分钟为任意网站搭建数据管道（2026）](https://blog.csdn.net/weixin_66592566/article/details/162835498)
+   - 时间：4小时前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [【程序员】 我把 7000 多篇 AI 顶会论文，整理成了一份可以被机器读懂的数据集，需要自取](https://www.v2ex.com/t/1229793)
+   - 时间：5小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -88,37 +88,37 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [美国多家科技企业表明支持开放权重AI模型](https://www.zaochenbao.com/news/politics/202607/2577282.html)
-   - 时间：今天 02:33
+   - 时间：今天 03:47
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 19. [黄仁勋首条推文力挺开源AI，25家科技巨头联名背书](https://view.inews.qq.com/a/20260725A08R0I00)
-   - 时间：今天 02:32
+   - 时间：今天 03:47
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [据称，DeepSeek在相关帖子引发热议后，已向投资者通报暂停融资的消息 - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmM5SHI4SGhzcko5THg1SGx5a1RiY2p0MExUU0R0NHM3T2pjN0NaR1piRGhGbTVDQll5aElhOHpOWnFUNC14S1dHNUtMaElCLTZFLTd5SW5OTmEyb2lUT1ZhVE5qQ2JvNzRiX3JrMWNIcDB5YWJYZ2luLXFfSk5hNXpLMndhdHpfWURFVl9OcmVpSGUzeDBTdEJlUFQ4cUZHQXZTMjdyM1NfQ3Z5N09zX0FPMEtvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+20. [这种 AI SSD 技术使 8 个 RTX 5090 在推理方面的性能相当于 46 个 GPU](https://www.techradar.com/pro/this-ai-ssd-tech-makes-8-rtx-5090s-perform-like-46-gpus-in-inference)
    - 时间：1小时前
-   - 来源：Buzzing
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0432-14d4-9c60-100363091524&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0546-22a3-833c-9efd1859ee5b&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0333-30aa-a9a5-b96fc20b89e6&fp=-3)
-   - 时间：58分钟前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0432-14d4-9c60-100363091524&fp=-3)
+   - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0227-13a5-8029-3bf9ed2a9410&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0333-30aa-a9a5-b96fc20b89e6&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0111-5764-8054-79424b71d8ff&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0227-13a5-8029-3bf9ed2a9410&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260725-2357-21dc-b365-76da40fa37ad&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-0111-5764-8054-79424b71d8ff&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 786/3178 | 24.7% | 高信号源，建议保留 |
-| Buzzing | 429/1415 | 30.3% | 高信号源，建议保留 |
-| Info Flow | 147/545 | 27.0% | 高信号源，建议保留 |
-| TechURLs | 89/277 | 32.1% | 高信号源，建议保留 |
-| Zeli | 44/50 | 88.0% | 高信号源，建议保留 |
-| NewsNow | 24/162 | 14.8% | 高信号源，建议保留 |
+| TopHub | 768/3100 | 24.8% | 高信号源，建议保留 |
+| Buzzing | 419/1395 | 30.0% | 高信号源，建议保留 |
+| Info Flow | 151/550 | 27.5% | 高信号源，建议保留 |
+| TechURLs | 88/270 | 32.6% | 高信号源，建议保留 |
+| Zeli | 44/49 | 89.8% | 高信号源，建议保留 |
+| NewsNow | 24/157 | 15.3% | 高信号源，建议保留 |
 | AI HubToday | 15/15 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 6/16 | 37.5% | 高信号源，建议保留 |
+| Follow Builders | 5/14 | 35.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
