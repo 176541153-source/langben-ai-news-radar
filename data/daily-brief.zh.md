@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-26T22:07:54.159547Z
-- 24小时AI信号：1396 条
+- 生成时间：2026-07-26T23:31:21.212706Z
+- 24小时AI信号：1433 条
 - 源健康：14/14
-- 原始抓取：7149 条
+- 原始抓取：7192 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对](https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南](https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q)
@@ -61,15 +61,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [星辰研究所_《不周山下·古武篇》  夯爆沉浸式观影 一个人24天手搓90分钟AI电影无剧本，无脚本](http://www.acfun.cn/v/ac48725098)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [数学大佬在前面拓荒，AI 研究员在后面捡宝，菲尔兹奖还能拿来破 AI「黑盒」？](https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [上海交大医学院：全面调查仇某某发表医学论文及新华医院开展的一例临床研究](https://mp.weixin.qq.com/s/huv0koiABumSb9ZCmXAEdA)
-   - 时间：11小时前
+   - 时间：昨天 19:04
    - 来源：TopHub
    - 评分：6.5/10 · matched_tracked_internet_keyword
 15. [2026年7月25日俄罗斯进攻行动评估——战争研究所](https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWsxaWhmQkpUcHJ0N1lUM2hOV3hKZFRxVzJwc0JrOUg2MURYSjBiN2FMcnZodlhqd1R5OXM3aGxnbnFrRkxUSWd6WGsweklwRHAzbWZidmVZQlVyZGVVdi05VUdCZlRweVdwdkM4VF95S2N6Q2c1aTZWN2VBbVNsT3BiODA4ajExdTFQbTQwUGZVaGx6ZWlVYlRwcnpNbGpxenJCM3M4QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
@@ -84,57 +84,57 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [巨头慌了：AI"越狱"，还把隔壁公司给"黑"了](https://view.inews.qq.com/a/20260726A09QJO00)
-   - 时间：今天 06:08
+   - 时间：今天 07:32
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-18. [Marvell Technology 与 UiPath：这两家人工智能公司的季度营收趋势向投资者传递了什么信号？](https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-uipath-quarterly-205801759.html)
-   - 时间：21分钟前
+18. [假如莫奈遇上AI机器人](https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA)
+   - 时间：16分钟前
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [别再关注IonQ、Rigetti Computing和D-Wave Quantum了。这只市值达万亿美元的人工智能（AI）股票才是量子计算领域最值得投资的机会，而且其当前估值已跌至7年来的低点。](https://finance.yahoo.com/technology/ai/articles/forget-ionq-rigetti-computing-d-214300737.html)
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [Piper Sandler 列出了5只能够降低AI代币成本的软件股](https://finance.yahoo.com/technology/ai/articles/piper-sandler-names-5-software-170700233.html)
-   - 时间：4小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [工会成员正在与机器人进行谈判](https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption)
-   - 时间：5小时前
+20. [Marvell Technology 与 UiPath：这两家人工智能公司的季度营收趋势向投资者传递了什么信号？](https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-uipath-quarterly-205801759.html)
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0808-14cd-9235-b2f54a1a50e7&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0931-4218-8c09-2050f5348bd5&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0705-332d-a3c6-d635db3bc202&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0808-14cd-9235-b2f54a1a50e7&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0546-4802-8771-4efe23e105d2&fp=-3)
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0705-332d-a3c6-d635db3bc202&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0435-04d9-9415-fd3d3cd599c1&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0546-4802-8771-4efe23e105d2&fp=-3)
    - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Suno 推出多项新功能，含MIDI导出等](https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd)
-   - 时间：3小时前
-   - 来源：AI HOT
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260727-0435-04d9-9415-fd3d3cd599c1&fp=-3)
+   - 时间：4小时前
+   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 644/2869 | 22.4% | 高信号源，建议保留 |
-| Buzzing | 328/1143 | 28.7% | 高信号源，建议保留 |
-| Info Flow | 147/535 | 27.5% | 高信号源，建议保留 |
-| TechURLs | 68/211 | 32.2% | 高信号源，建议保留 |
-| Zeli | 59/67 | 88.1% | 高信号源，建议保留 |
-| NewsNow | 38/164 | 23.2% | 高信号源，建议保留 |
+| TopHub | 663/2907 | 22.8% | 高信号源，建议保留 |
+| Buzzing | 340/1161 | 29.3% | 高信号源，建议保留 |
+| Info Flow | 152/551 | 27.6% | 高信号源，建议保留 |
+| TechURLs | 70/208 | 33.7% | 高信号源，建议保留 |
+| Zeli | 60/67 | 89.6% | 高信号源，建议保留 |
+| NewsNow | 38/163 | 23.3% | 高信号源，建议保留 |
 | AI HubToday | 14/14 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 8/19 | 42.1% | 高信号源，建议保留 |
+| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
