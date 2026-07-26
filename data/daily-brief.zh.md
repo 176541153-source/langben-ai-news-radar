@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-26T09:20:13.776236Z
-- 24小时AI信号：1480 条
+- 生成时间：2026-07-26T11:04:37.685457Z
+- 24小时AI信号：1457 条
 - 源健康：14/14
-- 原始抓取：7260 条
+- 原始抓取：7258 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南](https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q)
-   - 时间：44分钟前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token](https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型](https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Midjourney V8.2 发布：专注美学提升与个性化理解](https://updates.midjourney.com/version-8-2)
@@ -72,9 +72,9 @@
    - 时间：昨天 20:06
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [2026年7月25日俄罗斯进攻行动评估——战争研究所](https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWsxaWhmQkpUcHJ0N1lUM2hOV3hKZFRxVzJwc0JrOUg2MURYSjBiN2FMcnZodlhqd1R5OXM3aGxnbnFrRkxUSWd6WGsweklwRHAzbWZidmVZQlVyZGVVdi05VUdCZlRweVdwdkM4VF95S2N6Q2c1aTZWN2VBbVNsT3BiODA4ajExdTFQbTQwUGZVaGx6ZWlVYlRwcnpNbGpxenJCM3M4QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：3小时前
-   - 来源：Buzzing
+15. [上海交大医学院：全面调查仇某某发表医学论文及新华医院开展的一例临床研究](https://mp.weixin.qq.com/s/huv0koiABumSb9ZCmXAEdA)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：6.5/10 · matched_tracked_internet_keyword
 
 ### 产业、算力与机器人
@@ -84,55 +84,55 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [黄仁勋首条推文力挺开源AI，25家科技巨头联名背书](https://view.inews.qq.com/a/20260725A08R0I00)
-   - 时间：今天 17:21
+   - 时间：今天 19:05
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-18. [具身智能的「ChatGPT 时刻」还没到，科沃斯先把机器人拆开了](https://hub.baai.ac.cn/view/56645)
+18. [中国AI芯片国产替代率五年从10%升至40%](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E8%8A%AF%E7%89%87%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E7%8E%87%E4%BA%94%E5%B9%B4%E4%BB%8E10%25%E5%8D%87%E8%87%B340%25)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [欧盟 AI 透明度准则 8 月 2 日起生效：聊天机器人需“自报身份”，深度伪造内容须带有机读标签](https://www.ithome.com/0/981/755.htm)
-   - 时间：1小时前
-   - 来源：Info Flow
+19. [一位华尔街分析师表示，这家人工智能（AI）股票公司可能是全球最优秀的企业](https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-stock-may-083200659.html)
+   - 时间：45分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [米哈游 AI 聊天软件 AnuNeko 下周永久关闭](https://www.ithome.com/0/981/748.htm)
+20. [在创始人泄露的投资者评论疯传后，DeepSeek 暂停了第二轮融资](https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng)
    - 时间：1小时前
-   - 来源：Info Flow
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-1920-3706-96b3-71b2555100e2&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-2104-582f-8e0c-bf2ae63abe7c&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-1643-38f3-9a06-d2dc66472998&fp=-3)
-   - 时间：2小时前
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-1920-3706-96b3-71b2555100e2&fp=-3)
+   - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-1349-43ec-924e-d896b1969865&fp=-3)
-   - 时间：5小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-1643-38f3-9a06-d2dc66472998&fp=-3)
+   - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [xAI 发布 Grok CLI 并支持 /tutorial 命令](https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg)
-   - 时间：8小时前
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-1349-43ec-924e-d896b1969865&fp=-3)
+   - 时间：7小时前
+   - 来源：AI HubToday
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [xAI 发布 Grok CLI 并支持 /tutorial 命令](https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg)
+   - 时间：10小时前
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260726-1006-5268-a9d9-065d39b0794e&fp=-3)
-   - 时间：9小时前
-   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 692/2928 | 23.6% | 高信号源，建议保留 |
-| Buzzing | 357/1159 | 30.8% | 高信号源，建议保留 |
-| Info Flow | 145/579 | 25.0% | 高信号源，建议保留 |
-| Zeli | 73/81 | 90.1% | 高信号源，建议保留 |
-| TechURLs | 63/226 | 27.9% | 高信号源，建议保留 |
-| NewsNow | 32/162 | 19.8% | 高信号源，建议保留 |
+| TopHub | 671/2904 | 23.1% | 高信号源，建议保留 |
+| Buzzing | 349/1136 | 30.7% | 高信号源，建议保留 |
+| Info Flow | 140/577 | 24.3% | 高信号源，建议保留 |
+| Zeli | 74/83 | 89.2% | 高信号源，建议保留 |
+| TechURLs | 65/217 | 30.0% | 高信号源，建议保留 |
+| NewsNow | 41/179 | 22.9% | 高信号源，建议保留 |
 | AI HubToday | 15/15 | 100.0% | 高信号源，建议保留 |
 | Follow Builders | 13/31 | 41.9% | 高信号源，建议保留 |
 
