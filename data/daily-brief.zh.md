@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-28T12:22:51.412973Z
-- 24小时AI信号：2146 条
+- 生成时间：2026-07-28T15:01:32.506131Z
+- 24小时AI信号：2122 条
 - 源健康：14/14
-- 原始抓取：7362 条
+- 原始抓取：7376 条
 
 ## 今日重点
 
@@ -11,47 +11,47 @@
 ### 模型发布与能力更新
 
 1. [AI大模型将全面拥抱IPv6，雄安新区率先试点"单栈"网络](https://www.aibase.com/news/29951)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络](https://www.aibase.com/news/29943)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论](https://www.aibase.com/news/29941)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%](https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix)
-   - 时间：3小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA](https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf)
-   - 时间：7小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力](https://www.aibase.com/news/29952)
-   - 时间：2小时前
-   - 来源：AIbase
+6. [Perplexity 推出 Windows 版个人电脑智能体](https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76)
+   - 时间：1小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程](https://www.aibase.com/news/29950)
+7. [Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活](https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk)
    - 时间：2小时前
-   - 来源：AIbase
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标](https://www.aibase.com/news/29945)
-   - 时间：2小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力](https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2)
+8. [火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力](https://www.aibase.com/news/29952)
    - 时间：4小时前
-   - 来源：AI HOT
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权](https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka)
-   - 时间：6小时前
-   - 来源：AI HOT
+9. [阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程](https://www.aibase.com/news/29950)
+   - 时间：4小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标](https://www.aibase.com/news/29945)
+   - 时间：4小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
@@ -72,69 +72,69 @@
    - 时间：今天 04:41
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
-15. [【OpenAI】 gpt 网页端无法加载 deep research 的卡片控件](https://www.v2ex.com/t/1230508)
-   - 时间：37分钟前
+15. [【酷工作】 怎么看 xx 人工智能研究院有限公司 是否靠谱](https://www.v2ex.com/t/1230539)
+   - 时间：53分钟前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊](https://www.aibase.com/news/29948)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. ["抱抱脸"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码](https://www.aibase.com/news/29947)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿](https://www.aibase.com/news/29946)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [Kimi K3 开源首夜至少 18 家美国企业火速部署](https://www.aibase.com/news/29942)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地](https://www.aibase.com/news/29940)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-2223-15fe-a709-e2cb011eabdf&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260729-0101-596d-9e18-1ca751a883c2&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被"直接给答案"取代](https://www.aibase.com/news/29953)
-   - 时间：2小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句"以人为本"戳中行业痛点](https://www.aibase.com/news/29944)
-   - 时间：2小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-2010-2989-83ef-c8f40cae68c9&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-2223-15fe-a709-e2cb011eabdf&fp=-3)
    - 时间：2小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化](https://www.aibase.com/news/29939)
-   - 时间：5小时前
+23. [​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被"直接给答案"取代](https://www.aibase.com/news/29953)
+   - 时间：4小时前
    - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句"以人为本"戳中行业痛点](https://www.aibase.com/news/29944)
+   - 时间：4小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-2010-2989-83ef-c8f40cae68c9&fp=-3)
+   - 时间：4小时前
+   - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 862/3345 | 25.8% | 高信号源，建议保留 |
-| Buzzing | 569/1935 | 29.4% | 高信号源，建议保留 |
-| Info Flow | 281/992 | 28.3% | 高信号源，建议保留 |
-| TechURLs | 151/431 | 35.0% | 高信号源，建议保留 |
-| Zeli | 72/83 | 86.7% | 高信号源，建议保留 |
-| AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 32/165 | 19.4% | 高信号源，建议保留 |
-| AI HOT | 18/18 | 100.0% | 高信号源，建议保留 |
+| TopHub | 822/3201 | 25.7% | 高信号源，建议保留 |
+| Buzzing | 565/1960 | 28.8% | 高信号源，建议保留 |
+| Info Flow | 278/995 | 27.9% | 高信号源，建议保留 |
+| TechURLs | 166/447 | 37.1% | 高信号源，建议保留 |
+| Zeli | 73/85 | 85.9% | 高信号源，建议保留 |
+| NewsNow | 38/184 | 20.7% | 高信号源，建议保留 |
+| AIbase | 34/34 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 20/20 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
