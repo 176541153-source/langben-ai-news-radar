@@ -1,57 +1,57 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-28T00:56:57.836364Z
-- 24小时AI信号：1958 条
+- 生成时间：2026-07-28T04:16:27.791927Z
+- 24小时AI信号：2138 条
 - 源健康：14/14
-- 原始抓取：7220 条
+- 原始抓取：7288 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能](https://openrouter.ai/blog/insights/evaluate-llm-provider-performance)
-   - 时间：56分钟前
-   - 来源：AI HOT
+1. [​Kimi K3 权重正式落地：全球首个 3 万亿开源模型，颠覆的不只是技术排位](https://www.aibase.com/news/29926)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作](https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e)
-   - 时间：5小时前
-   - 来源：AI HOT
+2. [小米MiMo-V2. 5 登顶全球AI大模型调用量榜，周调用量突破10. 5 万亿Token](https://www.aibase.com/news/29924)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Kimi 发布视觉感知基准 PerceptionBench](https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09)
-   - 时间：6小时前
-   - 来源：AI HOT
+3. [微软发布首款网络安全AI模型MAI-Cyber-1-Flash，推出Perception安全平台](https://www.aibase.com/news/29923)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持](https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9)
-   - 时间：7小时前
-   - 来源：AI HOT
+4. [Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录](https://www.aibase.com/news/29922)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Kimi K3 上线 Modal，支持无损加速推理](https://aihot.virxact.com/items/cms3f0d9200b8rondo4rsvd7o)
-   - 时间：9小时前
-   - 来源：AI HOT
+5. [小度 AI 手表 Fit 开售：文心大模型塞进 159.8 元的腕上空间](https://www.aibase.com/news/29921)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [用Claude和Python构建技能驱动的金融分析智能体](https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7)
-   - 时间：6小时前
-   - 来源：AI HOT
+6. [TaiXu-Admin V0.1.2 发布：把 LLM、RAG 与 Agent 收进同一套管理后台](https://www.aibase.com/news/29937)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查](https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3)
-   - 时间：6小时前
-   - 来源：AI HOT
+7. [OpenAI 想把 ChatGPT 塞进你的眼镜：布罗克曼盯上可穿戴，API 仍是早期雏形](https://www.aibase.com/news/29936)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [GitHub Copilot 发布"Harness"工作流：用单一工具完成原型、规划、实现与代码审查](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly)
-   - 时间：6小时前
-   - 来源：AI HOT
+8. [Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样](https://www.aibase.com/news/29935)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览](https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy)
-   - 时间：8小时前
-   - 来源：AI HOT
+9. [50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件](https://www.aibase.com/news/29934)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Google AI Overviews 搜索结果出现率升至43%](https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa)
-   - 时间：8小时前
-   - 来源：AI HOT
+10. [微软亮出首枚安全模型与智能体作战系统：MDASH 里绑着它，把 Gemini 和 GPT 甩在 Cyber Gym](https://www.aibase.com/news/29930)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
@@ -64,62 +64,62 @@
    - 时间：07-24 23:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Vercel 自豪地共同签署了 Open Weights 和美国人工智能领导力信函。开源、数据、协议和研究使我们每天都能享受到技术奇迹，丰富我们的生活和世界。开放称重...](https://x.com/rauchg/status/2081546513885622760)
-   - 时间：昨天 09:05
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”](https://www.thepaper.cn/newsDetail_forward_33662866)
-   - 时间：今天 08:59
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [提示词约束对AI辅助FPGA RTL设计的场景适配性影响研究](https://blog.csdn.net/ccsss22/article/details/163251024)
-   - 时间：5小时前
+13. [三分之一 arXiv 沦陷！CS 论文 65% 被判「AI 味」，数学仅 0.7%](https://hub.baai.ac.cn/view/56670)
+   - 时间：1分钟前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [提示词约束对AI辅助FPGA RTL设计的场景适配性影响研究](https://blog.csdn.net/ccsss22/article/details/163251024)
+   - 时间：9小时前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [英伟达将向伊利亚·苏茨克维尔的人工智能研究实验室投资50亿美元](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup)
+   - 时间：11小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试](https://www.aibase.com/news/29919)
+16. [Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单](https://www.aibase.com/news/29932)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试](https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化](https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg)
-   - 时间：昨天 17:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [​企业微信AI助理"大圆"内测：一句话写周报，专治99+群聊消息](https://www.aibase.com/news/29909)
-   - 时间：昨天 16:56
+17. [英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作](https://www.aibase.com/news/29931)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行](https://www.aibase.com/news/29904)
-   - 时间：昨天 16:56
+18. [三星博通联手超 2000 亿美元，全面押注下一代AI芯片](https://www.aibase.com/news/29927)
+   - 时间：1分钟前
    - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试](https://www.aibase.com/news/29919)
+   - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [黄仁勋、Kimi K3，与一场即将到来的开源战争](https://aihot.virxact.com/items/cms44nn8406anro829pjmki30)
+   - 时间：4小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-1059-14bb-bc9e-d700954700f4&fp=-3)
+21. [安徽卫视播出国内首部全AI制作非遗剧《桃花潭记》，AIGC剧集登陆上星平台](https://www.aibase.com/news/29933)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [Similarweb报告:谷歌AI概览出现率一年升至43%，AI搜索成为主流入口](https://www.aibase.com/news/29928)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [美团否认 LongCat 核心负责人离职](https://www.aibase.com/news/29925)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-1416-52f8-8212-206fe5feeda4&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0912-47de-8bb9-3b685d7ce6a2&fp=-3)
-   - 时间：1小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0742-3183-80fb-c0facb54581f&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-1059-14bb-bc9e-d700954700f4&fp=-3)
    - 时间：3小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0626-43bd-918c-0c41208468aa&fp=-3)
-   - 时间：4小时前
-   - 来源：AI HubToday
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0458-137b-9666-f0e9b471b67e&fp=-3)
-   - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 777/3054 | 25.4% | 高信号源，建议保留 |
-| Buzzing | 529/1861 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 223/891 | 25.0% | 高信号源，建议保留 |
-| TechURLs | 155/441 | 35.1% | 高信号源，建议保留 |
-| Zeli | 75/83 | 90.4% | 高信号源，建议保留 |
-| AIbase | 37/37 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 35/158 | 22.2% | 高信号源，建议保留 |
-| AI HOT | 14/14 | 100.0% | 高信号源，建议保留 |
+| TopHub | 879/3386 | 26.0% | 高信号源，建议保留 |
+| Buzzing | 552/1925 | 28.7% | 高信号源，建议保留 |
+| Info Flow | 253/931 | 27.2% | 高信号源，建议保留 |
+| TechURLs | 157/444 | 35.4% | 高信号源，建议保留 |
+| Zeli | 83/92 | 90.2% | 高信号源，建议保留 |
+| AIbase | 51/51 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 35/164 | 21.3% | 高信号源，建议保留 |
+| AI HOT | 16/16 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
