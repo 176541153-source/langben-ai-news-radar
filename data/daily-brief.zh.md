@@ -1,56 +1,56 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-27T23:12:25.191020Z
-- 24小时AI信号：1943 条
+- 生成时间：2026-07-28T00:56:57.836364Z
+- 24小时AI信号：1958 条
 - 源健康：14/14
-- 原始抓取：7192 条
+- 原始抓取：7220 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作](https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e)
-   - 时间：4小时前
+1. [如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能](https://openrouter.ai/blog/insights/evaluate-llm-provider-performance)
+   - 时间：56分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Kimi 发布视觉感知基准 PerceptionBench](https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持](https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9)
+2. [OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作](https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e)
    - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Kimi K3 上线 Modal，支持无损加速推理](https://aihot.virxact.com/items/cms3f0d9200b8rondo4rsvd7o)
+3. [Kimi 发布视觉感知基准 PerceptionBench](https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持](https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9)
    - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Kimi K3 开源：2.8T MoE 模型与技术报告](https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j)
-   - 时间：7小时前
+5. [Kimi K3 上线 Modal，支持无损加速推理](https://aihot.virxact.com/items/cms3f0d9200b8rondo4rsvd7o)
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [用Claude和Python构建技能驱动的金融分析智能体](https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查](https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [GitHub Copilot 发布"Harness"工作流：用单一工具完成原型、规划、实现与代码审查](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览](https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Google AI Overviews 搜索结果出现率升至43%](https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -69,56 +69,56 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 14. [全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”](https://www.thepaper.cn/newsDetail_forward_33662866)
-   - 时间：今天 07:13
+   - 时间：今天 08:59
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [提示词约束对AI辅助FPGA RTL设计的场景适配性影响研究](https://blog.csdn.net/ccsss22/article/details/163251024)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试](https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v)
-   - 时间：46分钟前
+16. [Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试](https://www.aibase.com/news/29919)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试](https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化](https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg)
+18. [NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化](https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg)
    - 时间：昨天 17:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [​企业微信AI助理"大圆"内测：一句话写周报，专治99+群聊消息](https://www.aibase.com/news/29909)
+19. [​企业微信AI助理"大圆"内测：一句话写周报，专治99+群聊消息](https://www.aibase.com/news/29909)
    - 时间：昨天 16:56
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行](https://www.aibase.com/news/29904)
-   - 时间：昨天 16:56
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入](https://www.aibase.com/news/29903)
+20. [Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行](https://www.aibase.com/news/29904)
    - 时间：昨天 16:56
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0912-47de-8bb9-3b685d7ce6a2&fp=-3)
+21. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-1059-14bb-bc9e-d700954700f4&fp=-3)
    - 时间：1分钟前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0742-3183-80fb-c0facb54581f&fp=-3)
+22. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0912-47de-8bb9-3b685d7ce6a2&fp=-3)
    - 时间：1小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0626-43bd-918c-0c41208468aa&fp=-3)
-   - 时间：2小时前
+23. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0742-3183-80fb-c0facb54581f&fp=-3)
+   - 时间：3小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0458-137b-9666-f0e9b471b67e&fp=-3)
+24. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0626-43bd-918c-0c41208468aa&fp=-3)
    - 时间：4小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0319-137e-9250-239fc1abe537&fp=-3)
+25. [点击这里进入](http://ai.hubtoday.app/?tr_uuid=20260728-0458-137b-9666-f0e9b471b67e&fp=-3)
    - 时间：5小时前
    - 来源：AI HubToday
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 782/2937 | 26.6% | 高信号源，建议保留 |
-| Buzzing | 518/1842 | 28.1% | 高信号源，建议保留 |
-| Info Flow | 217/889 | 24.4% | 高信号源，建议保留 |
-| TechURLs | 152/426 | 35.7% | 高信号源，建议保留 |
-| Zeli | 74/82 | 90.2% | 高信号源，建议保留 |
-| AIbase | 36/36 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 34/152 | 22.4% | 高信号源，建议保留 |
-| AI HOT | 15/15 | 100.0% | 高信号源，建议保留 |
+| TopHub | 777/3054 | 25.4% | 高信号源，建议保留 |
+| Buzzing | 529/1861 | 28.4% | 高信号源，建议保留 |
+| Info Flow | 223/891 | 25.0% | 高信号源，建议保留 |
+| TechURLs | 155/441 | 35.1% | 高信号源，建议保留 |
+| Zeli | 75/83 | 90.4% | 高信号源，建议保留 |
+| AIbase | 37/37 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 35/158 | 22.2% | 高信号源，建议保留 |
+| AI HOT | 14/14 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
