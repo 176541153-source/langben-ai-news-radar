@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-07-31T22:34:31.204397Z
-- 24小时AI信号：1961 条
+- 生成时间：2026-07-31T23:35:18.305192Z
+- 24小时AI信号：1976 条
 - 源健康：12/14
-- 原始抓取：7162 条
+- 原始抓取：7201 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [DeepSeek V4 Flash 0731 开源，登顶开源模型前三](https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk)
-   - 时间：56分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统](https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd)
-   - 时间：11小时前
+   - 时间：昨天 18:57
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频](https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [DeepSeek 发布 DeepSeek-V4-Flash-0731，智能体与编程能力大幅提升](https://aihot.virxact.com/items/cms9ilrh70g6lro9k6cya98ik)
-   - 时间：30分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [面壁智能ALIGN：自动对齐智能体与环境接口](https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队](https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga)
-   - 时间：11小时前
+   - 时间：昨天 19:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题](https://www.aibase.com/news/30047)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [smevals：用于评测模型、提示词与评测框架的小型评测套件](https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑](https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
@@ -65,26 +65,26 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [路透：中国军事研究员蒸馏美国前沿AI模型](https://www.zaochenbao.com/news/politics/202607/3177755.html)
-   - 时间：今天 06:35
+   - 时间：今天 07:36
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [中国人工智能研究人员在 X 上发出自己的声音](https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x)
-   - 时间：4小时前
-   - 来源：OPML RSS
+14. [用了3年AI，终于知道怎么去掉AI味！](https://www.uisdc.com/aigc-ui-3)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [中国军事研究人员借助美国的人工智能模型来训练防御系统](https://www.reuters.com/es/negocio/O4LE76JOSRNJVIZE46LP3RAVJ4-2026-07-31)
-   - 时间：5小时前
-   - 来源：Buzzing
+15. [《奥德赛》导演克里斯·诺兰 (Chris Nolan) 今日引述：“人工智能研究人员将当前时刻称为‘奥本海默时刻’”——全面审视人工智能将带来的变革规模](https://www.techradar.com/pro/quote-of-the-day-by-the-odyssey-director-chris-nolan-ai-researchers-refer-to-the-present-moment-as-an-oppenheimer-moment-putting-into-perspective-the-scale-of-change-ai-will-bring)
+   - 时间：1小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [animated-voiceover 开源：一人干翻动画工作室](https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [微软云端隐忧：千亿营收背后的增速换挡与杠杆风险](https://www.aibase.com/news/30049)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍](https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i)
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行](https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [微信公众号推出 AI"一键排版"：自动分段、生成小标题、匹配配图三步到位](https://www.aibase.com/news/30048)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 683/3009 | 22.7% | 高信号源，建议保留 |
-| Buzzing | 586/1967 | 29.8% | 高信号源，建议保留 |
-| Info Flow | 255/901 | 28.3% | 高信号源，建议保留 |
-| TechURLs | 158/422 | 37.4% | 高信号源，建议保留 |
-| Zeli | 78/88 | 88.6% | 高信号源，建议保留 |
+| TopHub | 699/3024 | 23.1% | 高信号源，建议保留 |
+| Buzzing | 597/1982 | 30.1% | 高信号源，建议保留 |
+| Info Flow | 255/893 | 28.6% | 高信号源，建议保留 |
+| TechURLs | 147/410 | 35.9% | 高信号源，建议保留 |
+| Zeli | 79/87 | 90.8% | 高信号源，建议保留 |
 | AIbase | 34/34 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 33/155 | 21.3% | 高信号源，建议保留 |
-| OPML RSS | 23/36 | 63.9% | 高信号源，建议保留 |
+| NewsNow | 33/157 | 21.0% | 高信号源，建议保留 |
+| OPML RSS | 22/35 | 62.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
