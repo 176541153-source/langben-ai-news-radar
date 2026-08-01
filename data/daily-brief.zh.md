@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-01T22:02:11.140148Z
-- 24小时AI信号：1576 条
+- 生成时间：2026-08-01T23:01:57.504413Z
+- 24小时AI信号：1568 条
 - 源健康：12/14
-- 原始抓取：7209 条
+- 原始抓取：7187 条
 
 ## 今日重点
 
@@ -37,20 +37,20 @@
    - 时间：昨天 15:39
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [DeepSeek 发布 DeepSeek-V4-Flash-0731，智能体与编程能力大幅提升](https://aihot.virxact.com/items/cms9ilrh70g6lro9k6cya98ik)
-   - 时间：昨天 06:03
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [面壁智能ALIGN：自动对齐智能体与环境接口](https://x.com/OpenBMB/status/2083175856563003724)
+7. [面壁智能ALIGN：自动对齐智能体与环境接口](https://x.com/OpenBMB/status/2083175856563003724)
    - 时间：07-31 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队](https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de)
+8. [教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队](https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de)
    - 时间：07-31 19:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [DeepSeek-V4-Flash API公测上线，Agent能力大幅升级](https://x.com/deepseek_ai/status/2083084415157022911)
+9. [DeepSeek-V4-Flash API公测上线，Agent能力大幅升级](https://x.com/deepseek_ai/status/2083084415157022911)
    - 时间：07-31 14:56
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label)
+   - 时间：07-31 04:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
-   - 时间：今天 06:03
+   - 时间：今天 07:03
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [GitHub深度工程评测：AI 系统提示词泄露知识库深度评测：6万星system_prompts_leaks情报资产背后，藏着什么？](https://blog.csdn.net/TunerT_TQ/article/details/163376615)
-   - 时间：1分钟前
+   - 时间：59分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [人工智能为野生灵长类动物的认知研究开启了新纪元](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -95,15 +95,15 @@
    - 时间：07-30 23:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Show HN: Lumaris——人工智能生物技术情报简报（示例：EGFR耐药性）](https://lumaris.nanocorp.app/reports/egfr-resistance-nsclc-2026)
-   - 时间：48分钟前
-   - 来源：Buzzing
+20. [OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示](https://wallstreetcn.com/articles/3778497)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0)
-   - 时间：11小时前
+   - 时间：昨天 18:40
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://tailscale.com/blog/hugging-face-intrusion)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 713/3117 | 22.9% | 高信号源，建议保留 |
-| Buzzing | 460/1338 | 34.4% | 高信号源，建议保留 |
-| Info Flow | 140/575 | 24.3% | 高信号源，建议保留 |
-| TechURLs | 67/240 | 27.9% | 高信号源，建议保留 |
-| Zeli | 48/56 | 85.7% | 高信号源，建议保留 |
-| NewsNow | 45/206 | 21.8% | 高信号源，建议保留 |
-| OPML RSS | 9/14 | 64.3% | 高信号源，建议保留 |
-| Follow Builders | 9/18 | 50.0% | 高信号源，建议保留 |
+| TopHub | 717/3134 | 22.9% | 高信号源，建议保留 |
+| Buzzing | 451/1316 | 34.3% | 高信号源，建议保留 |
+| Info Flow | 140/581 | 24.1% | 高信号源，建议保留 |
+| TechURLs | 64/236 | 27.1% | 高信号源，建议保留 |
+| Zeli | 52/61 | 85.2% | 高信号源，建议保留 |
+| NewsNow | 44/198 | 22.2% | 高信号源，建议保留 |
+| OPML RSS | 8/14 | 57.1% | 高信号源，建议保留 |
+| Follow Builders | 8/17 | 47.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
