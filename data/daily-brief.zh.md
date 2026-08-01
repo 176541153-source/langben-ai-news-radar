@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-01T17:33:22.128594Z
-- 24小时AI信号：1704 条
+- 生成时间：2026-08-01T18:32:09.503595Z
+- 24小时AI信号：1653 条
 - 源健康：12/14
-- 原始抓取：7223 条
+- 原始抓取：7249 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI Astra 以约2000美元证明10项数学难题](https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [DeepSeek 发布 DeepSeek-V4-Flash-0731，智能体与编程能力大幅提升](https://aihot.virxact.com/items/cms9ilrh70g6lro9k6cya98ik)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
-   - 时间：今天 01:34
+   - 时间：今天 02:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [AI生图无法编辑？Crop2Draw —— 把论文架构图「拆」进 draw.io](https://blog.csdn.net/2403_87969572/article/details/163397476)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [中国科大最新研究：AI 接管机器科学家实验室，通过真实物理世界压力测试](https://hub.baai.ac.cn/view/56809)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -95,15 +95,15 @@
    - 时间：07-30 23:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [企业团队在公共预览版中对策略定位进行建模](https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview)
-   - 时间：昨天 02:11
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
+20. [亚马逊股价飙升，云业务收入激增缓解了市场对该公司人工智能投资不断膨胀的担忧 - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU13OFo1TkgwWll2aVdISjdjUVpSYl9zZ1lHVDZxZElxWWw0SXRNYnFOd3Y3ZnA4Vm1NUDg3N1ZZVUtkQVFQTUZsakdseDk1RjQtOWhmLUtMN3pHbmh6YzdSX01yYUM5dGFTM0FBRFE1a0tSNmdxRlFPd0o5VkkzVzRJSnJ1SnJ3WFBBUDhRTHNkZm5jY0lOYURCTEJmZmxQWkduT2JoU3E1amQ1dVcwWlc2OUxQcWV0cjUzREFDdw?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：30分钟前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 772/3289 | 23.5% | 高信号源，建议保留 |
-| Buzzing | 511/1552 | 32.9% | 高信号源，建议保留 |
-| Info Flow | 139/571 | 24.3% | 高信号源，建议保留 |
-| TechURLs | 79/266 | 29.7% | 高信号源，建议保留 |
-| Zeli | 47/55 | 85.5% | 高信号源，建议保留 |
-| NewsNow | 43/210 | 20.5% | 高信号源，建议保留 |
-| OPML RSS | 14/20 | 70.0% | 高信号源，建议保留 |
+| TopHub | 725/3121 | 23.2% | 高信号源，建议保留 |
+| Buzzing | 515/1537 | 33.5% | 高信号源，建议保留 |
+| Info Flow | 141/564 | 25.0% | 高信号源，建议保留 |
+| TechURLs | 78/257 | 30.4% | 高信号源，建议保留 |
+| Zeli | 42/51 | 82.4% | 高信号源，建议保留 |
+| NewsNow | 42/197 | 21.3% | 高信号源，建议保留 |
+| OPML RSS | 12/17 | 70.6% | 高信号源，建议保留 |
 | Follow Builders | 9/21 | 42.9% | 高信号源，建议保留 |
 
 ## 维护提示
