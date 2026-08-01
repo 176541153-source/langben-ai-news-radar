@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-01T04:57:44.171981Z
-- 24小时AI信号：1890 条
+- 生成时间：2026-08-01T07:32:37.641498Z
+- 24小时AI信号：1874 条
 - 源健康：12/14
-- 原始抓取：7325 条
+- 原始抓取：7334 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [GLM 5.2 助 Hugging Face 抵御秘密模型攻击](https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [DeepSeek V4 Flash 0731 开源，登顶开源模型前三](https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统](https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [DeepSeek 发布 DeepSeek-V4-Flash-0731，智能体与编程能力大幅提升](https://aihot.virxact.com/items/cms9ilrh70g6lro9k6cya98ik)
-   - 时间：6小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [面壁智能ALIGN：自动对齐智能体与环境接口](https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv)
@@ -57,24 +57,24 @@
 ### 论文研究与评测
 
 11. [smevals：用于评测模型、提示词与评测框架的小型评测套件](https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow)
-   - 时间：7小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑](https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [路透：中国军事研究员蒸馏美国前沿AI模型](https://www.zaochenbao.com/news/politics/202607/3177755.html)
-   - 时间：今天 12:58
+13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
+   - 时间：今天 15:34
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [用了3年AI，终于知道怎么去掉AI味！](https://www.uisdc.com/aigc-ui-3)
-   - 时间：5小时前
+14. [全球 317 家 AI 独角兽调查：超半数不发论文，中国公司更积极](https://hub.baai.ac.cn/view/56793)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [《奥德赛》导演克里斯·诺兰 (Chris Nolan) 今日引述：“人工智能研究人员将当前时刻称为‘奥本海默时刻’”——全面审视人工智能将带来的变革规模](https://www.techradar.com/pro/quote-of-the-day-by-the-odyssey-director-chris-nolan-ai-researchers-refer-to-the-present-moment-as-an-oppenheimer-moment-putting-into-perspective-the-scale-of-change-ai-will-bring)
-   - 时间：6小时前
-   - 来源：TechURLs
+15. [用了3年AI，终于知道怎么去掉AI味！](https://www.uisdc.com/aigc-ui-3)
+   - 时间：7小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -87,7 +87,7 @@
    - 时间：昨天 20:06
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍](https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i)
+18. [国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍](https://www.ithome.com/0/984/130.htm)
    - 时间：昨天 14:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行](https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 713/3039 | 23.5% | 高信号源，建议保留 |
-| Buzzing | 578/1902 | 30.4% | 高信号源，建议保留 |
-| Info Flow | 218/809 | 26.9% | 高信号源，建议保留 |
-| TechURLs | 133/395 | 33.7% | 高信号源，建议保留 |
-| Zeli | 75/84 | 89.3% | 高信号源，建议保留 |
-| NewsNow | 35/160 | 21.9% | 高信号源，建议保留 |
-| OPML RSS | 23/35 | 65.7% | 高信号源，建议保留 |
-| AI HOT | 15/15 | 100.0% | 高信号源，建议保留 |
+| TopHub | 723/3024 | 23.9% | 高信号源，建议保留 |
+| Buzzing | 578/1901 | 30.4% | 高信号源，建议保留 |
+| Info Flow | 186/781 | 23.8% | 高信号源，建议保留 |
+| TechURLs | 132/392 | 33.7% | 高信号源，建议保留 |
+| Zeli | 76/83 | 91.6% | 高信号源，建议保留 |
+| NewsNow | 37/179 | 20.7% | 高信号源，建议保留 |
+| OPML RSS | 24/36 | 66.7% | 高信号源，建议保留 |
+| Follow Builders | 13/32 | 40.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
