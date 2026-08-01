@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-01T21:02:23.606840Z
-- 24小时AI信号：1607 条
+- 生成时间：2026-08-01T22:02:11.140148Z
+- 24小时AI信号：1576 条
 - 源健康：12/14
-- 原始抓取：7240 条
+- 原始抓取：7209 条
 
 ## 今日重点
 
@@ -14,7 +14,7 @@
    - 时间：昨天 11:57
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [DeepSeek V4 Flash 0731 开源，登顶开源模型前三](https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk)
+2. [DeepSeek V4 Flash 0731 开源，登顶开源模型前三](https://x.com/ArtificialAnlys/status/2083306229074739285)
    - 时间：昨天 05:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -56,7 +56,7 @@
 
 ### 论文研究与评测
 
-11. [smevals：用于评测模型、提示词与评测框架的小型评测套件](https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow)
+11. [smevals：用于评测模型、提示词与评测框架的小型评测套件](https://simonwillison.net/2026/Jul/31/smevals)
    - 时间：昨天 05:15
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -65,16 +65,16 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
-   - 时间：今天 05:03
+   - 时间：今天 06:03
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [人工智能为野生灵长类动物的认知研究开启了新纪元](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html)
-   - 时间：53分钟前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [AI生图无法编辑？Crop2Draw —— 把论文架构图「拆」进 draw.io](https://blog.csdn.net/2403_87969572/article/details/163397476)
-   - 时间：5小时前
+14. [GitHub深度工程评测：AI 系统提示词泄露知识库深度评测：6万星system_prompts_leaks情报资产背后，藏着什么？](https://blog.csdn.net/TunerT_TQ/article/details/163376615)
+   - 时间：1分钟前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [人工智能为野生灵长类动物的认知研究开启了新纪元](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html)
+   - 时间：1小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -95,15 +95,15 @@
    - 时间：07-30 23:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [特朗普政府公布8.74亿美元《芯片法案》人工智能计划，格罗方德斩获最大一笔拨款](https://finance.yahoo.com/technology/ai/articles/trump-administration-unveils-874-million-180020242.html)
-   - 时间：1小时前
+20. [Show HN: Lumaris——人工智能生物技术情报简报（示例：EGFR耐药性）](https://lumaris.nanocorp.app/reports/egfr-resistance-nsclc-2026)
+   - 时间：48分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://tailscale.com/blog/hugging-face-intrusion)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 724/3154 | 23.0% | 高信号源，建议保留 |
-| Buzzing | 477/1405 | 34.0% | 高信号源，建议保留 |
-| Info Flow | 137/571 | 24.0% | 高信号源，建议保留 |
-| TechURLs | 72/246 | 29.3% | 高信号源，建议保留 |
+| TopHub | 713/3117 | 22.9% | 高信号源，建议保留 |
+| Buzzing | 460/1338 | 34.4% | 高信号源，建议保留 |
+| Info Flow | 140/575 | 24.3% | 高信号源，建议保留 |
+| TechURLs | 67/240 | 27.9% | 高信号源，建议保留 |
 | Zeli | 48/56 | 85.7% | 高信号源，建议保留 |
-| NewsNow | 43/202 | 21.3% | 高信号源，建议保留 |
-| OPML RSS | 10/15 | 66.7% | 高信号源，建议保留 |
-| Follow Builders | 9/19 | 47.4% | 高信号源，建议保留 |
+| NewsNow | 45/206 | 21.8% | 高信号源，建议保留 |
+| OPML RSS | 9/14 | 64.3% | 高信号源，建议保留 |
+| Follow Builders | 9/18 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
