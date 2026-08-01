@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-01T19:45:20.051379Z
-- 24小时AI信号：1649 条
+- 生成时间：2026-08-01T21:02:23.606840Z
+- 24小时AI信号：1607 条
 - 源健康：12/14
-- 原始抓取：7207 条
+- 原始抓取：7240 条
 
 ## 今日重点
 
@@ -65,14 +65,14 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
-   - 时间：今天 03:46
+   - 时间：今天 05:03
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [AI生图无法编辑？Crop2Draw —— 把论文架构图「拆」进 draw.io](https://blog.csdn.net/2403_87969572/article/details/163397476)
-   - 时间：4小时前
-   - 来源：TopHub
+14. [人工智能为野生灵长类动物的认知研究开启了新纪元](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html)
+   - 时间：53分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [中国科大最新研究：AI 接管机器科学家实验室，通过真实物理世界压力测试](https://hub.baai.ac.cn/view/56809)
+15. [AI生图无法编辑？Crop2Draw —— 把论文架构图「拆」进 draw.io](https://blog.csdn.net/2403_87969572/article/details/163397476)
    - 时间：5小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -96,17 +96,17 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [特朗普政府公布8.74亿美元《芯片法案》人工智能计划，格罗方德斩获最大一笔拨款](https://finance.yahoo.com/technology/ai/articles/trump-administration-unveils-874-million-180020242.html)
-   - 时间：7分钟前
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx)
+22. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://tailscale.com/blog/hugging-face-intrusion)
    - 时间：昨天 04:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 742/3241 | 22.9% | 高信号源，建议保留 |
-| Buzzing | 504/1472 | 34.2% | 高信号源，建议保留 |
-| Info Flow | 140/570 | 24.6% | 高信号源，建议保留 |
-| TechURLs | 73/253 | 28.9% | 高信号源，建议保留 |
-| Zeli | 41/50 | 82.0% | 高信号源，建议保留 |
-| NewsNow | 41/195 | 21.0% | 高信号源，建议保留 |
-| OPML RSS | 10/14 | 71.4% | 高信号源，建议保留 |
-| Follow Builders | 9/21 | 42.9% | 高信号源，建议保留 |
+| TopHub | 724/3154 | 23.0% | 高信号源，建议保留 |
+| Buzzing | 477/1405 | 34.0% | 高信号源，建议保留 |
+| Info Flow | 137/571 | 24.0% | 高信号源，建议保留 |
+| TechURLs | 72/246 | 29.3% | 高信号源，建议保留 |
+| Zeli | 48/56 | 85.7% | 高信号源，建议保留 |
+| NewsNow | 43/202 | 21.3% | 高信号源，建议保留 |
+| OPML RSS | 10/15 | 66.7% | 高信号源，建议保留 |
+| Follow Builders | 9/19 | 47.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
