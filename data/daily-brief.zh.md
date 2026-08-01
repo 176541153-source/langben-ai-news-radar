@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-01T12:06:39.002738Z
-- 24小时AI信号：1767 条
+- 生成时间：2026-08-01T13:47:29.259686Z
+- 24小时AI信号：1749 条
 - 源健康：12/14
-- 原始抓取：7337 条
+- 原始抓取：7340 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [GLM 5.2 助 Hugging Face 抵御秘密模型攻击](https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [DeepSeek V4 Flash 0731 开源，登顶开源模型前三](https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk)
@@ -34,14 +34,14 @@
 ### 产品与开发者工具
 
 6. [OpenAI Astra 以约2000美元证明10项数学难题](https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [DeepSeek 发布 DeepSeek-V4-Flash-0731，智能体与编程能力大幅提升](https://aihot.virxact.com/items/cms9ilrh70g6lro9k6cya98ik)
    - 时间：今天 06:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [面壁智能ALIGN：自动对齐智能体与环境接口](https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv)
+8. [面壁智能ALIGN：自动对齐智能体与环境接口](https://x.com/OpenBMB/status/2083175856563003724)
    - 时间：昨天 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -65,14 +65,14 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
-   - 时间：今天 20:07
+   - 时间：今天 21:48
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [AI 能接管实验室了？中国科大最新研究给出真实物理世界的压力测试](https://hub.baai.ac.cn/view/56809)
+14. [中国科大最新研究：AI 接管机器科学家实验室，通过真实物理世界压力测试](https://hub.baai.ac.cn/view/56809)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [SIGGRAPH 时间检验奖揭晓：这项研究，提前十年押中了物理 AI](https://hub.baai.ac.cn/view/56803)
+15. [AI 能接管实验室了？中国科大最新研究给出真实物理世界的压力测试](https://hub.baai.ac.cn/view/56809)
    - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 703/2917 | 24.1% | 高信号源，建议保留 |
-| Buzzing | 554/1787 | 31.0% | 高信号源，建议保留 |
-| Info Flow | 147/636 | 23.1% | 高信号源，建议保留 |
-| TechURLs | 123/362 | 34.0% | 高信号源，建议保留 |
-| Zeli | 75/83 | 90.4% | 高信号源，建议保留 |
-| NewsNow | 41/206 | 19.9% | 高信号源，建议保留 |
+| TopHub | 730/3098 | 23.6% | 高信号源，建议保留 |
+| Buzzing | 533/1757 | 30.3% | 高信号源，建议保留 |
+| Info Flow | 140/602 | 23.3% | 高信号源，建议保留 |
+| TechURLs | 106/332 | 31.9% | 高信号源，建议保留 |
+| Zeli | 74/79 | 93.7% | 高信号源，建议保留 |
+| NewsNow | 43/209 | 20.6% | 高信号源，建议保留 |
 | OPML RSS | 19/28 | 67.9% | 高信号源，建议保留 |
 | Follow Builders | 12/29 | 41.4% | 高信号源，建议保留 |
 
