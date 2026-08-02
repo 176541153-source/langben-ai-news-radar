@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-02T14:09:54.925517Z
-- 24小时AI信号：1357 条
+- 生成时间：2026-08-02T15:40:16.640900Z
+- 24小时AI信号：1356 条
 - 源健康：12/14
-- 原始抓取：7294 条
+- 原始抓取：7303 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Codex 用 Sol 指挥 Luna Max 省额度翻倍产出](https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI Astra 以约2000美元证明10项数学难题](https://x.com/gdb/status/2083457463337287721)
@@ -68,13 +68,13 @@
    - 时间：今天 00:43
    - 来源：Follow Builders
    - 评分：8.9/10 · matched_tracked_ai_keyword
-14. [评论文章：美国在人工智能领域对中国的领先优势已几乎不复存在 - CNBC](https://news.google.com/read/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?hl=en-US&gl=US&ceid=US%3Aen)
+14. [一项针对7.7万名在线学习者的研究显示，AI的使用情况与学生的课程表相吻合](https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html)
    - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [DeepTutor深度评测：AI原生学习系统是如何把碎片化学习流程串起来的](https://www.woshipm.com/?p=6438678)
-   - 时间：1小时前
-   - 来源：TopHub
+15. [评论文章：美国在人工智能领域对中国的领先优势已几乎不复存在 - CNBC](https://news.google.com/read/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：3小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -91,19 +91,19 @@
    - 时间：07-30 23:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [迪士尼加速器公布第12期名单，押注具身智能与生成式AI](https://www.mittrchina.com/news/detail/16723)
+19. [深度复盘理想汽车：短期销量阵痛、长期AI具身智能叙事，当前是赔率极高的布局窗口](http://xueqiu.com/9711112749/403270702)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [李飞飞 World Labs 收购 SceniX，物理 AI 训练正从「采数据」走向「造世界」](https://hub.baai.ac.cn/view/56824)
-   - 时间：1分钟前
-   - 来源：TopHub
+20. [沃伦·巴菲特以轰动之势从伯克希尔·哈撒韦公司退居二线；该公司对某只AI股票的投资额现已超过300亿美元](https://finance.yahoo.com/markets/stocks/articles/warren-buffett-stepped-back-berkshire-144100533.html)
+   - 时间：19分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [Grok 支持分析任意视频](https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 571/2848 | 20.0% | 高信号源，建议保留 |
-| Buzzing | 400/1164 | 34.4% | 高信号源，建议保留 |
-| Info Flow | 115/517 | 22.2% | 高信号源，建议保留 |
-| Zeli | 80/86 | 93.0% | 高信号源，建议保留 |
-| TechURLs | 62/224 | 27.7% | 高信号源，建议保留 |
-| NewsNow | 34/195 | 17.4% | 高信号源，建议保留 |
-| Follow Builders | 9/28 | 32.1% | 高信号源，建议保留 |
+| TopHub | 583/2868 | 20.3% | 高信号源，建议保留 |
+| Buzzing | 389/1128 | 34.5% | 高信号源，建议保留 |
+| Info Flow | 114/518 | 22.0% | 高信号源，建议保留 |
+| Zeli | 82/87 | 94.3% | 高信号源，建议保留 |
+| TechURLs | 59/219 | 26.9% | 高信号源，建议保留 |
+| NewsNow | 34/197 | 17.3% | 高信号源，建议保留 |
+| Follow Builders | 9/26 | 34.6% | 高信号源，建议保留 |
 | OPML RSS | 3/9 | 33.3% | 高信号源，建议保留 |
 
 ## 维护提示
