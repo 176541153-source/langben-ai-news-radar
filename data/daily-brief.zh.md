@@ -1,16 +1,16 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-02T03:42:01.210332Z
-- 24小时AI信号：1529 条
+- 生成时间：2026-08-02T06:40:02.282340Z
+- 24小时AI信号：1498 条
 - 源健康：12/14
-- 原始抓取：7262 条
+- 原始抓取：7280 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [GLM 5.2 助 Hugging Face 抵御秘密模型攻击](https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c)
+1. [GLM 5.2 助 Hugging Face 抵御秘密模型攻击](https://x.com/AYi_AInotes/status/2083401614623133921)
    - 时间：昨天 11:57
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -64,17 +64,17 @@
    - 时间：07-31 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
-   - 时间：今天 11:43
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [GitHub深度工程评测：AI 系统提示词泄露知识库深度评测：6万星system_prompts_leaks情报资产背后，藏着什么？](https://blog.csdn.net/TunerT_TQ/article/details/163376615)
-   - 时间：5小时前
+13. [每人最多 20 篇？ICLR 新规遭 DeepMind 研究者「反讽」请愿](https://news.qq.com/rain/a/20260802A06O5400)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [人工智能为野生灵长类动物的认知研究开启了新纪元](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html)
-   - 时间：7小时前
-   - 来源：Buzzing
+14. [因 AI 生成大量低质漏洞报告，苹果限制安全研究人员漏洞提交数量](https://www.ithome.com/0/984/722.htm)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [中国 AI 大模型领跑全球榜单，央视详解背后的优势所在](https://www.ithome.com/0/984/725.htm)
+   - 时间：27分钟前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -91,35 +91,35 @@
    - 时间：07-30 23:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Google DeepMind 发布 Gemini Robotics 2 物理 AI](https://x.com/GoogleDeepMind/status/2082844162928381956)
-   - 时间：07-30 23:02
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI：失控AI曾试图入侵其他公司系统](https://www.zaochenbao.com/news/politics/202608/0277837.html)
-   - 时间：今天 11:43
-   - 来源：TrendRadar
+19. [人工智能发展公开信：235家企业呼吁国际合作](https://simonwillison.net/2026/Aug/2/open-letters)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [AI互联网日报：Kimi进入DoorDash工作流、Gemini Spark开放更多用户、DeepSeek加码1GW算力、小米手机涨价300元起](https://www.woshipm.com/?p=6438635)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0)
+21. [Grok 支持分析任意视频](https://x.com/elonmusk/status/2083800942927839307)
+   - 时间：16分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩](https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0)
    - 时间：昨天 18:40
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://tailscale.com/blog/hugging-face-intrusion)
+23. [Tailscale 未能阻止 Hugging Face 入侵事件复盘](https://tailscale.com/blog/hugging-face-intrusion)
    - 时间：昨天 04:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行](https://www.ithome.com/0/984/365.htm)
+24. [欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行](https://www.ithome.com/0/984/365.htm)
    - 时间：07-31 19:40
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [国家发改委：将加快《人工智能法》立法进程](https://www.ithome.com/0/983/974.htm)
+25. [国家发改委：将加快《人工智能法》立法进程](https://www.ithome.com/0/983/974.htm)
    - 时间：07-31 10:48
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Replit Design 推出数百设计模板](https://x.com/Replit/status/2082979584799060267)
-   - 时间：07-31 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 696/3311 | 21.0% | 高信号源，建议保留 |
-| Buzzing | 445/1274 | 34.9% | 高信号源，建议保留 |
-| Info Flow | 120/542 | 22.1% | 高信号源，建议保留 |
-| TechURLs | 66/240 | 27.5% | 高信号源，建议保留 |
-| Zeli | 61/70 | 87.1% | 高信号源，建议保留 |
-| NewsNow | 49/212 | 23.1% | 高信号源，建议保留 |
-| OPML RSS | 6/12 | 50.0% | 高信号源，建议保留 |
-| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
+| TopHub | 669/3147 | 21.3% | 高信号源，建议保留 |
+| Buzzing | 435/1222 | 35.6% | 高信号源，建议保留 |
+| Info Flow | 125/520 | 24.0% | 高信号源，建议保留 |
+| Zeli | 67/77 | 87.0% | 高信号源，建议保留 |
+| TechURLs | 64/246 | 26.0% | 高信号源，建议保留 |
+| NewsNow | 47/204 | 23.0% | 高信号源，建议保留 |
+| OPML RSS | 8/15 | 53.3% | 高信号源，建议保留 |
+| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
