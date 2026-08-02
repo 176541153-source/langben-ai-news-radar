@@ -1,17 +1,17 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-02T22:02:18.107561Z
-- 24小时AI信号：1296 条
+- 生成时间：2026-08-02T23:01:02.769864Z
+- 24小时AI信号：1350 条
 - 源健康：12/14
-- 原始抓取：7140 条
+- 原始抓取：7093 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [OpenAI 新模型 Astra 数学表现出色，但被过度吹捧](https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold)
-   - 时间：36分钟前
+1. [OpenAI 新模型 Astra 数学表现出色，但被过度吹捧](https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [GLM 5.2 助 Hugging Face 抵御秘密模型攻击](https://x.com/AYi_AInotes/status/2083401614623133921)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Codex 用 Sol 指挥 Luna Max 省额度翻倍产出](https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1)
-   - 时间：11小时前
+   - 时间：昨天 18:47
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI Astra 以约2000美元证明10项数学难题](https://x.com/gdb/status/2083457463337287721)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”](https://news.ycombinator.com/item?id=49147622)
-   - 时间：58分钟前
+   - 时间：1小时前
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”](https://frogs.vaguespac.es)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [研究人员使用人工智能辅助代码，对广泛使用的犯罪实验室机器生成的物理 DNA 证据进行计算机扫描所得的数据进行不可察觉的篡改（Mariah Timms/华尔街日报）](https://www.techmeme.com/260802/p9)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -87,17 +87,17 @@
    - 时间：07-31 14:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [企业纷纷向人工智能领域投入数十亿美元，“自由现金流”成为王道（META、GOOG、UPS）](https://www.bloomberg.com/news/newsletters/2026-08-02/free-cash-is-king-as-companies-pour-billions-into-ai-meta-goog-ups)
-   - 时间：1小时前
+18. [AI 产业扩张引发内存芯片短缺，消息称苹果 MacBook Air 笔记本出现供应紧张局面](https://www.ithome.com/0/984/822.htm)
+   - 时间：26分钟前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [企业纷纷向人工智能领域投入数十亿美元，“自由现金流”成为王道（META、GOOG、UPS）](https://www.bloomberg.com/news/newsletters/2026-08-02/free-cash-is-king-as-companies-pour-billions-into-ai-meta-goog-ups)
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [AI 不会成为世界的主人，但 AI 公司可能会](https://www.huxiu.com/article/4880099.html?f=rss)
-   - 时间：4小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [ASML 与台积电：哪只半导体供应链股票是更好的 AI 投资标的？](https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html)
+20. [AI 不会成为世界的主人，但 AI 公司可能会](https://www.huxiu.com/article/4880099.html?f=rss)
    - 时间：5小时前
-   - 来源：Buzzing
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 548/2615 | 21.0% | 高信号源，建议保留 |
-| Buzzing | 374/1193 | 31.3% | 高信号源，建议保留 |
-| Info Flow | 120/518 | 23.2% | 高信号源，建议保留 |
-| Zeli | 79/86 | 91.9% | 高信号源，建议保留 |
-| TechURLs | 54/210 | 25.7% | 高信号源，建议保留 |
-| NewsNow | 30/190 | 15.8% | 高信号源，建议保留 |
-| Follow Builders | 6/20 | 30.0% | 高信号源，建议保留 |
-| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
+| TopHub | 596/2737 | 21.8% | 高信号源，建议保留 |
+| Buzzing | 382/1224 | 31.2% | 高信号源，建议保留 |
+| Info Flow | 124/513 | 24.2% | 高信号源，建议保留 |
+| Zeli | 74/81 | 91.4% | 高信号源，建议保留 |
+| TechURLs | 55/213 | 25.8% | 高信号源，建议保留 |
+| NewsNow | 28/188 | 14.9% | 高信号源，建议保留 |
+| Follow Builders | 5/17 | 29.4% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
