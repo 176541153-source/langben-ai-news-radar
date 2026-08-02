@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-01T23:01:57.504413Z
-- 24小时AI信号：1568 条
+- 生成时间：2026-08-02T00:03:43.666433Z
+- 24小时AI信号：1560 条
 - 源健康：12/14
-- 原始抓取：7187 条
+- 原始抓取：7261 条
 
 ## 今日重点
 
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变](https://www.thepaper.cn/newsDetail_forward_33692011)
-   - 时间：今天 07:03
+   - 时间：今天 08:04
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [GitHub深度工程评测：AI 系统提示词泄露知识库深度评测：6万星system_prompts_leaks情报资产背后，藏着什么？](https://blog.csdn.net/TunerT_TQ/article/details/163376615)
-   - 时间：59分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [人工智能为野生灵长类动物的认知研究开启了新纪元](https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -96,7 +96,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示](https://wallstreetcn.com/articles/3778497)
-   - 时间：1分钟前
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 717/3134 | 22.9% | 高信号源，建议保留 |
-| Buzzing | 451/1316 | 34.3% | 高信号源，建议保留 |
-| Info Flow | 140/581 | 24.1% | 高信号源，建议保留 |
-| TechURLs | 64/236 | 27.1% | 高信号源，建议保留 |
-| Zeli | 52/61 | 85.2% | 高信号源，建议保留 |
-| NewsNow | 44/198 | 22.2% | 高信号源，建议保留 |
-| OPML RSS | 8/14 | 57.1% | 高信号源，建议保留 |
-| Follow Builders | 8/17 | 47.1% | 高信号源，建议保留 |
+| TopHub | 712/3165 | 22.5% | 高信号源，建议保留 |
+| Buzzing | 445/1295 | 34.4% | 高信号源，建议保留 |
+| Info Flow | 142/584 | 24.3% | 高信号源，建议保留 |
+| TechURLs | 64/234 | 27.4% | 高信号源，建议保留 |
+| Zeli | 55/64 | 85.9% | 高信号源，建议保留 |
+| NewsNow | 45/199 | 22.6% | 高信号源，建议保留 |
+| Follow Builders | 7/12 | 58.3% | 高信号源，建议保留 |
+| OPML RSS | 6/10 | 60.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
