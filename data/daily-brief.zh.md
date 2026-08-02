@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-02T18:32:22.316950Z
-- 24小时AI信号：1318 条
+- 生成时间：2026-08-02T19:44:53.811827Z
+- 24小时AI信号：1347 条
 - 源健康：12/14
-- 原始抓取：7251 条
+- 原始抓取：7268 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Codex 用 Sol 指挥 Luna Max 省额度翻倍产出](https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI Astra 以约2000美元证明10项数学难题](https://x.com/gdb/status/2083457463337287721)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [一项针对7.7万名在线学习者的研究显示，AI的使用情况与学生的课程表相吻合](https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [评论文章：美国在人工智能领域对中国的领先优势已几乎不复存在 - CNBC](https://news.google.com/read/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [DeepTutor深度评测：AI原生学习系统是如何把碎片化学习流程串起来的](https://www.woshipm.com/?p=6438678)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -92,11 +92,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [AI 不会成为世界的主人，但 AI 公司可能会](https://www.huxiu.com/article/4880099.html?f=rss)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [ASML 与台积电：哪只半导体供应链股票是更好的 AI 投资标的？](https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 563/2701 | 20.8% | 高信号源，建议保留 |
-| Buzzing | 384/1165 | 33.0% | 高信号源，建议保留 |
-| Info Flow | 119/523 | 22.8% | 高信号源，建议保留 |
-| Zeli | 80/85 | 94.1% | 高信号源，建议保留 |
-| TechURLs | 52/209 | 24.9% | 高信号源，建议保留 |
-| NewsNow | 28/194 | 14.4% | 高信号源，建议保留 |
-| Follow Builders | 7/24 | 29.2% | 高信号源，建议保留 |
+| TopHub | 587/2811 | 20.9% | 高信号源，建议保留 |
+| Buzzing | 392/1187 | 33.0% | 高信号源，建议保留 |
+| Info Flow | 120/520 | 23.1% | 高信号源，建议保留 |
+| Zeli | 77/83 | 92.8% | 高信号源，建议保留 |
+| TechURLs | 51/208 | 24.5% | 高信号源，建议保留 |
+| NewsNow | 29/185 | 15.7% | 高信号源，建议保留 |
+| Follow Builders | 6/23 | 26.1% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
