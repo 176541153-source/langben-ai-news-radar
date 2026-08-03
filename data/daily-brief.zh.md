@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-02T23:01:02.769864Z
-- 24小时AI信号：1350 条
+- 生成时间：2026-08-03T00:04:40.825198Z
+- 24小时AI信号：1301 条
 - 源健康：12/14
-- 原始抓取：7093 条
+- 原始抓取：7200 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 新模型 Astra 数学表现出色，但被过度吹捧](https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [GLM 5.2 助 Hugging Face 抵御秘密模型攻击](https://x.com/AYi_AInotes/status/2083401614623133921)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”](https://news.ycombinator.com/item?id=49147622)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”](https://frogs.vaguespac.es)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [研究人员使用人工智能辅助代码，对广泛使用的犯罪实验室机器生成的物理 DNA 证据进行计算机扫描所得的数据进行不可察觉的篡改（Mariah Timms/华尔街日报）](https://www.techmeme.com/260802/p9)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -87,17 +87,17 @@
    - 时间：07-31 14:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [AI 产业扩张引发内存芯片短缺，消息称苹果 MacBook Air 笔记本出现供应紧张局面](https://www.ithome.com/0/984/822.htm)
-   - 时间：26分钟前
+18. [中国AI反超美国，答案可能藏在“开源”里](https://www.huxiu.com/article/4879619.html?f=rss)
+   - 时间：4分钟前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [企业纷纷向人工智能领域投入数十亿美元，“自由现金流”成为王道（META、GOOG、UPS）](https://www.bloomberg.com/news/newsletters/2026-08-02/free-cash-is-king-as-companies-pour-billions-into-ai-meta-goog-ups)
-   - 时间：2小时前
-   - 来源：Buzzing
+19. [AI 公开信：企业支持开放权重，员工呼吁管控前沿](https://thysrael.github.io/Horizon/2026/08/03/summary-zh.html#item-3)
+   - 时间：4分钟前
+   - 来源：Horizon
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [AI 不会成为世界的主人，但 AI 公司可能会](https://www.huxiu.com/article/4880099.html?f=rss)
-   - 时间：5小时前
-   - 来源：TopHub
+20. [EBay settles harassment case with bloggers for nearly $ 56 M | LinkedIn eBay execs who allegedly harassed journalists to pay $ 56 M Cockroaches, Bloody Pig Mask: eBay Forks Over $ 56 Million To... 标签: #eBay, #tech industry, #corporate security, #legal, #ethics AI 公开信：企业支持开放权重，员工呼吁管控前沿](https://thysrael.github.io/Horizon/2026/08/03/summary-zh.html#item-7)
+   - 时间：4分钟前
+   - 来源：Horizon
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 596/2737 | 21.8% | 高信号源，建议保留 |
-| Buzzing | 382/1224 | 31.2% | 高信号源，建议保留 |
-| Info Flow | 124/513 | 24.2% | 高信号源，建议保留 |
-| Zeli | 74/81 | 91.4% | 高信号源，建议保留 |
-| TechURLs | 55/213 | 25.8% | 高信号源，建议保留 |
-| NewsNow | 28/188 | 14.9% | 高信号源，建议保留 |
-| Follow Builders | 5/17 | 29.4% | 高信号源，建议保留 |
+| TopHub | 544/2624 | 20.7% | 高信号源，建议保留 |
+| Buzzing | 384/1242 | 30.9% | 高信号源，建议保留 |
+| Info Flow | 126/536 | 23.5% | 高信号源，建议保留 |
+| Zeli | 73/81 | 90.1% | 高信号源，建议保留 |
+| TechURLs | 56/215 | 26.0% | 高信号源，建议保留 |
+| NewsNow | 28/184 | 15.2% | 高信号源，建议保留 |
+| Follow Builders | 4/13 | 30.8% | 高信号源，建议保留 |
 | AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
