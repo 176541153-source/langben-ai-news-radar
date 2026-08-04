@@ -1,56 +1,56 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-04T10:13:14.817907Z
-- 24小时AI信号：2039 条
+- 生成时间：2026-08-04T12:27:00.932805Z
+- 24小时AI信号：2008 条
 - 源健康：12/14
-- 原始抓取：7369 条
+- 原始抓取：7391 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境](https://www.aibase.com/news/30110)
-   - 时间：1分钟前
+1. [工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施](https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境](https://www.aibase.com/news/30110)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段](https://www.aibase.com/news/30108)
-   - 时间：1分钟前
+3. [腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段](https://www.aibase.com/news/30108)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版](https://www.aibase.com/news/30107)
-   - 时间：1分钟前
+4. [8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版](https://www.aibase.com/news/30107)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B](https://www.aibase.com/news/30104)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型](https://www.aibase.com/news/30103)
-   - 时间：1分钟前
+5. [Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B](https://www.aibase.com/news/30104)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入](https://www.aibase.com/news/30105)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁](https://www.aibase.com/news/30101)
-   - 时间：2小时前
+   - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外](https://www.aibase.com/news/30099)
-   - 时间：2小时前
+   - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂"反乌托邦"](https://www.aibase.com/news/30096)
-   - 时间：5小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [白宫 AI 评估框架按时完成却秘而不宣，OpenAI、Anthropic、谷歌都没看到全文](https://www.aibase.com/news/30095)
-   - 时间：5小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -80,46 +80,46 @@
 ### 产业、算力与机器人
 
 16. [AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟](https://www.aibase.com/news/30109)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅](https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [北京酒吧推出"Token 免费畅饮"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力](https://www.aibase.com/news/30100)
-   - 时间：2小时前
+   - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [蚂蚁阿福回应管理层调整传闻:网传“1号位伟鹤调整”为假消息](https://www.aibase.com/news/30097)
-   - 时间：2小时前
+   - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入](https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8)
-   - 时间：5小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线](https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [一个人撑起百万美元年收入：AI 正在催生"独行创业者"黄金时代](https://www.aibase.com/news/30098)
-   - 时间：2小时前
+   - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造](https://www.aibase.com/news/30094)
-   - 时间：5小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元](https://www.aibase.com/news/30093)
-   - 时间：5小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万](https://www.aibase.com/news/30086)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 817/3368 | 24.3% | 高信号源，建议保留 |
-| Buzzing | 573/1955 | 29.3% | 高信号源，建议保留 |
-| Info Flow | 230/907 | 25.4% | 高信号源，建议保留 |
-| TechURLs | 156/404 | 38.6% | 高信号源，建议保留 |
-| Zeli | 67/76 | 88.2% | 高信号源，建议保留 |
-| AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 33/178 | 18.5% | 高信号源，建议保留 |
+| TopHub | 789/3287 | 24.0% | 高信号源，建议保留 |
+| Buzzing | 566/1929 | 29.3% | 高信号源，建议保留 |
+| Info Flow | 230/910 | 25.3% | 高信号源，建议保留 |
+| TechURLs | 167/441 | 37.9% | 高信号源，建议保留 |
+| Zeli | 67/75 | 89.3% | 高信号源，建议保留 |
+| NewsNow | 35/184 | 19.0% | 高信号源，建议保留 |
+| AIbase | 26/26 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 21/21 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
