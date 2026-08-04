@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-04T20:38:03.283950Z
-- 24小时AI信号：2062 条
+- 生成时间：2026-08-04T22:18:42.383797Z
+- 24小时AI信号：2075 条
 - 源健康：12/14
-- 原始抓取：7288 条
+- 原始抓取：7213 条
 
 ## 今日重点
 
@@ -11,114 +11,114 @@
 ### 模型发布与能力更新
 
 1. [OpenRouter 上线 FLUX 3 Video 统一多模态模型](https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型](https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [商汤 SenseNova U1 开源：统一推理与图像生成](https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi)
    - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型](https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [商汤 SenseNova U1 开源：统一推理与图像生成](https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [在单颗 AMD MI300X 上运行 DeepSeek V4 Flash](https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施](https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码](https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT](https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Google Cloud 推出 Database Operations Agents，实现自主数据库管理](https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [Cloudflare 让智能体通过本地追踪调试 Workers](https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Cloudflare 推出 Agents 平台，率先上线智能体追踪功能](https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜](https://www.thepaper.cn/newsDetail_forward_33711893)
-   - 时间：今天 04:39
+   - 时间：今天 06:19
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [研究发现，目前非洲超过一半的网络犯罪由人工智能驱动](https://www.bloomberg.com/news/articles/2026-08-04/ai-now-fuels-over-half-of-africa-s-cybercrime-study-finds)
-   - 时间：3小时前
+12. [安全事件 INC-2026-07-28-01 – 英国人工智能安全研究所 【pdf】](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
+   - 时间：25分钟前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [研究发现，目前非洲超过一半的网络犯罪由人工智能驱动](https://www.bloomberg.com/news/articles/2026-08-04/ai-now-fuels-over-half-of-africa-s-cybercrime-study-finds)
+   - 时间：4小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [NVIDIA 加入 NSF 州和地区 AI 中心计划，以扩大美国各地的 AI 研究和教育](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program)
-   - 时间：3小时前
+14. [NVIDIA 加入 NSF 州和地区 AI 中心计划，以扩大美国各地的 AI 研究和教育](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program)
+   - 时间：5小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [当人工智能基准达到稳定水平时：基准饱和度的系统研究](https://news.ycombinator.com/item?id=49170915)
-   - 时间：4小时前
+15. [当人工智能基准达到稳定水平时：基准饱和度的系统研究](https://news.ycombinator.com/item?id=49170915)
+   - 时间：5小时前
    - 来源：NewsNow
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [最新研究为管理者提供了一个框架，帮助他们理解在人工智能生态系统中谁能胜出以及原因何在](https://phys.org/news/2026-08-framework-ai-ecosystems.html)
-   - 时间：4小时前
-   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型](https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh)
-   - 时间：2小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [蚂蚁百灵发布Ling-3.0-flash开源权重](https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型](https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [NVIDIA 开源 cuFile API，推动 GPU 直连存储](https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议](https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行](https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux)
-   - 时间：1小时前
+21. [Replit 环境智能：免提示词自动生成设计](https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5)
+   - 时间：18分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线](https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps)
+22. [MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行](https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux)
+   - 时间：3小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线](https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps)
    - 时间：昨天 16:12
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [一个人撑起百万美元年收入：AI 正在催生"独行创业者"黄金时代](https://www.aibase.com/news/30098)
+24. [一个人撑起百万美元年收入：AI 正在催生"独行创业者"黄金时代](https://www.aibase.com/news/30098)
    - 时间：昨天 15:16
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造](https://www.aibase.com/news/30094)
-   - 时间：昨天 12:18
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元](https://www.aibase.com/news/30093)
+25. [微软为Teams加入“举报会议”功能，打击AI身份冒用和深度伪造](https://www.aibase.com/news/30094)
    - 时间：昨天 12:18
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 795/3086 | 25.8% | 高信号源，建议保留 |
-| Buzzing | 594/1932 | 30.7% | 高信号源，建议保留 |
-| Info Flow | 225/956 | 23.5% | 高信号源，建议保留 |
-| TechURLs | 181/474 | 38.2% | 高信号源，建议保留 |
-| Zeli | 67/79 | 84.8% | 高信号源，建议保留 |
+| TopHub | 806/3114 | 25.9% | 高信号源，建议保留 |
+| Buzzing | 584/1917 | 30.5% | 高信号源，建议保留 |
+| Info Flow | 227/954 | 23.8% | 高信号源，建议保留 |
+| TechURLs | 192/489 | 39.3% | 高信号源，建议保留 |
+| Zeli | 66/79 | 83.5% | 高信号源，建议保留 |
 | NewsNow | 38/160 | 23.7% | 高信号源，建议保留 |
-| AI HOT | 30/30 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 31/31 | 100.0% | 高信号源，建议保留 |
 | AIbase | 26/26 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
