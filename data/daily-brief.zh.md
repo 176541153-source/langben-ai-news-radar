@@ -1,52 +1,52 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-07T22:45:57.204085Z
-- 24小时AI信号：2080 条
+- 生成时间：2026-08-07T23:40:13.357241Z
+- 24小时AI信号：2049 条
 - 源健康：12/14
-- 原始抓取：7158 条
+- 原始抓取：7218 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
-   - 时间：2小时前
+1. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
+   - 时间：31分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
+2. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
    - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
-   - 时间：3小时前
+3. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元](https://www.aibase.com/news/30195)
+4. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元](https://www.aibase.com/news/30195)
    - 时间：昨天 16:18
    - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Krea 推出 Seedance 2.5 视频模型](https://aihot.virxact.com/items/cmsimzpmf1ks3ronk4hh1d0z0)
-   - 时间：昨天 15:30
-   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [Runway 上线 Seedance 2.5，支持 50 个角色参考](https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk)
-   - 时间：11小时前
+   - 时间：昨天 19:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境](https://www.aibase.com/news/30199)
@@ -69,22 +69,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [美研究机构：月之暗面Kimi K3模型“越狱”逃出测试环境](https://www.zaochenbao.com/news/china/202608/0778251.html)
-   - 时间：今天 06:47
+   - 时间：今天 07:41
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [英伟达与SpaceX达成AI合作后，现在是买入这两家公司股票的好时机吗？ - Zacks Investment Research](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkxnSEFCVmdtSl9JNWplZEstX2FrN1RpOEpoVnVSUjR3UWFCRm13M2RmSVZKWlFubGhQbWwtNDZuaDIyU0ZsZE1JQTNDakRMQ3lBZzZheTNaME1mMFU0ejNJaVJVb3h3S0otSWtyV3A3bl9FSU1qRkd4ZE9IWm5oZzRPeXh6LU4yeUNFNDlDOXdlTXhZTTVNSDlQSnRwM09VNGxyeQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：1小时前
-   - 来源：Buzzing
+15. [四大会计事务所的研究报告集体陷入「AI  幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？](https://www.zhihu.com/question/2068674224802067300)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子](https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品](https://www.aibase.com/news/30197)
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器](https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI 写出 70 万份病毒基因组，16 个在实验室"活了"：生成式生物学的里程碑与安全拷问](https://www.aibase.com/news/30192)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 838/3728 | 22.5% | 高信号源，建议保留 |
-| Buzzing | 627/2417 | 25.9% | 高信号源，建议保留 |
-| Info Flow | 230/797 | 28.9% | 高信号源，建议保留 |
-| TechURLs | 134/412 | 32.5% | 高信号源，建议保留 |
-| Zeli | 60/69 | 87.0% | 高信号源，建议保留 |
-| NewsNow | 34/206 | 16.5% | 高信号源，建议保留 |
+| TopHub | 850/3816 | 22.3% | 高信号源，建议保留 |
+| Buzzing | 589/2305 | 25.6% | 高信号源，建议保留 |
+| Info Flow | 228/795 | 28.7% | 高信号源，建议保留 |
+| TechURLs | 131/402 | 32.6% | 高信号源，建议保留 |
+| Zeli | 57/66 | 86.4% | 高信号源，建议保留 |
+| NewsNow | 35/208 | 16.8% | 高信号源，建议保留 |
 | AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 19/19 | 100.0% | 高信号源，建议保留 |
 
