@@ -1,63 +1,63 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-07T19:55:46.709866Z
-- 24小时AI信号：2016 条
+- 生成时间：2026-08-07T20:50:34.857554Z
+- 24小时AI信号：2019 条
 - 源健康：12/14
-- 原始抓取：7248 条
+- 原始抓取：7246 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
+1. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
+   - 时间：55分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
    - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
+3. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
    - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元](https://www.aibase.com/news/30195)
-   - 时间：11小时前
+4. [小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元](https://www.aibase.com/news/30195)
+   - 时间：昨天 16:18
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Krea 推出 Seedance 2.5 视频模型](https://aihot.virxact.com/items/cmsimzpmf1ks3ronk4hh1d0z0)
+5. [Krea 推出 Seedance 2.5 视频模型](https://aihot.virxact.com/items/cmsimzpmf1ks3ronk4hh1d0z0)
    - 时间：昨天 15:30
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一](https://www.aibase.com/news/30194)
-   - 时间：昨天 14:49
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Runway 上线 Seedance 2.5，支持 50 个角色参考](https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk)
    - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [Runway 上线 Seedance 2.5，支持 50 个角色参考](https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境](https://www.aibase.com/news/30199)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026](https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX](https://aihot.virxact.com/items/cmsib6211178jronko75alzk2)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [美研究机构：月之暗面Kimi K3模型“越狱”逃出测试环境](https://www.zaochenbao.com/news/china/202608/0778251.html)
-   - 时间：今天 03:56
+   - 时间：今天 04:52
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”](https://www.thepaper.cn/newsDetail_forward_33729568)
-   - 时间：今天 03:56
+   - 时间：今天 04:52
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -88,7 +88,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品](https://www.aibase.com/news/30197)
-   - 时间：11小时前
+   - 时间：昨天 16:18
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力](https://www.aibase.com/news/30189)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 796/3496 | 22.8% | 高信号源，建议保留 |
-| Buzzing | 587/2191 | 26.8% | 高信号源，建议保留 |
-| Info Flow | 234/795 | 29.4% | 高信号源，建议保留 |
-| TechURLs | 144/421 | 34.2% | 高信号源，建议保留 |
-| Zeli | 67/78 | 85.9% | 高信号源，建议保留 |
-| NewsNow | 33/196 | 16.8% | 高信号源，建议保留 |
+| TopHub | 806/3573 | 22.6% | 高信号源，建议保留 |
+| Buzzing | 586/2213 | 26.5% | 高信号源，建议保留 |
+| Info Flow | 233/792 | 29.4% | 高信号源，建议保留 |
+| TechURLs | 139/413 | 33.7% | 高信号源，建议保留 |
+| Zeli | 65/75 | 86.7% | 高信号源，建议保留 |
+| NewsNow | 34/201 | 16.9% | 高信号源，建议保留 |
 | AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 18/18 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 19/19 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
