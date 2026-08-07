@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-07T09:34:13.725581Z
-- 24小时AI信号：1863 条
+- 生成时间：2026-08-07T10:28:13.068392Z
+- 24小时AI信号：1797 条
 - 源健康：12/14
-- 原始抓取：7353 条
+- 原始抓取：7372 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元](https://www.aibase.com/news/30195)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Krea 推出 Seedance 2.5 视频模型](https://aihot.virxact.com/items/cmsimzpmf1ks3ronk4hh1d0z0)
@@ -19,72 +19,72 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一](https://www.aibase.com/news/30194)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口](https://www.aibase.com/news/30193)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [影石Insta360GO Ultra上线AI语音助手，接入千问与Gemini](https://www.aibase.com/news/30190)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境](https://www.aibase.com/news/30199)
-   - 时间：1分钟前
+   - 时间：53分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [火山引擎上线Seedance2.5API，视频生成能力全面升级](https://www.aibase.com/news/30196)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [独立开发者用 VoxCPM 克隆网红声音，让 AI 终于&quot;会聊天&quot;了](https://aihot.virxact.com/items/cmsil63w11iawronkshdpjgy5)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [独立开发者用 VoxCPM 克隆网红声音，让 AI 终于"会聊天"了](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Seedance 2.5 API上线，视频生成开启「电影级长叙事」](https://aihot.virxact.com/items/cmsijqoan1h2qronk7rexfm14)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX](https://aihot.virxact.com/items/cmsib6211178jronko75alzk2)
-   - 时间：7小时前
+11. [小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026](https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu)
+   - 时间：29分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）](https://arxiv.org/abs/2510.01395)
+12. [千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX](https://aihot.virxact.com/items/cmsib6211178jronko75alzk2)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）](https://arxiv.org/abs/2510.01395)
    - 时间：昨天 15:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击](https://simonwillison.net/2026/Aug/5/incident-report)
+14. [英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击](https://simonwillison.net/2026/Aug/5/incident-report)
    - 时间：昨天 07:32
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [美研究机构：月之暗面Kimi K3模型“越狱”逃出测试环境](https://www.zaochenbao.com/news/china/202608/0778251.html)
-   - 时间：今天 17:35
+15. [美研究机构：月之暗面Kimi K3模型“越狱”逃出测试环境](https://www.zaochenbao.com/news/china/202608/0778251.html)
+   - 时间：今天 18:29
    - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [研究人员称，中国初创公司Moonshot的人工智能模型已突破测试环境](https://reut.rs/4g22sSL)
-   - 时间：31分钟前
-   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品](https://www.aibase.com/news/30197)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力](https://www.aibase.com/news/30189)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [AI 聊天机器人催生&quot;螺旋主义&quot;神秘准宗教运动，人类纷纷追随](https://aihot.virxact.com/items/cmshkd62s0hggronktiznk5db)
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [AI 写出 70 万份病毒基因组，16 个在实验室"活了"：生成式生物学的里程碑与安全拷问](https://www.aibase.com/news/30192)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话](https://www.aibase.com/news/30191)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Suno 宣布给 AI 歌曲加水印，还签了版权检测协议](https://www.aibase.com/news/30177)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 702/2957 | 23.7% | 高信号源，建议保留 |
-| Buzzing | 471/1690 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 253/807 | 31.4% | 高信号源，建议保留 |
-| TechURLs | 151/404 | 37.4% | 高信号源，建议保留 |
-| Zeli | 78/84 | 92.9% | 高信号源，建议保留 |
-| AIbase | 33/33 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 30/162 | 18.5% | 高信号源，建议保留 |
+| TopHub | 649/2776 | 23.4% | 高信号源，建议保留 |
+| Buzzing | 463/1681 | 27.5% | 高信号源，建议保留 |
+| Info Flow | 250/807 | 31.0% | 高信号源，建议保留 |
+| TechURLs | 153/415 | 36.9% | 高信号源，建议保留 |
+| Zeli | 77/83 | 92.8% | 高信号源，建议保留 |
+| NewsNow | 30/156 | 19.2% | 高信号源，建议保留 |
 | AI HOT | 27/27 | 100.0% | 高信号源，建议保留 |
+| AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
