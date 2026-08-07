@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-07T16:59:48.657965Z
-- 24小时AI信号：1854 条
+- 生成时间：2026-08-07T17:53:26.318056Z
+- 24小时AI信号：1910 条
 - 源健康：12/14
-- 原始抓取：7251 条
+- 原始抓取：7245 条
 
 ## 今日重点
 
@@ -11,45 +11,45 @@
 ### 模型发布与能力更新
 
 1. [小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元](https://www.aibase.com/news/30195)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Krea 推出 Seedance 2.5 视频模型](https://aihot.virxact.com/items/cmsimzpmf1ks3ronk4hh1d0z0)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一](https://www.aibase.com/news/30194)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口](https://www.aibase.com/news/30193)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [影石Insta360GO Ultra上线AI语音助手，接入千问与Gemini](https://www.aibase.com/news/30190)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
-   - 时间：2小时前
+6. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
+   - 时间：29分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr)
-   - 时间：4小时前
+7. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Runway 上线 Seedance 2.5，支持 50 个角色参考](https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk)
+8. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr)
    - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境](https://www.aibase.com/news/30199)
-   - 时间：7小时前
-   - 来源：AIbase
+9. [Runway 上线 Seedance 2.5，支持 50 个角色参考](https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk)
+   - 时间：6小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [火山引擎上线Seedance2.5API，视频生成能力全面升级](https://www.aibase.com/news/30196)
+10. [Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境](https://www.aibase.com/news/30199)
    - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -68,50 +68,50 @@
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）](https://arxiv.org/abs/2510.01395)
-   - 时间：08-06 15:03
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [美研究机构：月之暗面Kimi K3模型“越狱”逃出测试环境](https://www.zaochenbao.com/news/china/202608/0778251.html)
-   - 时间：今天 01:01
+14. [美研究机构：月之暗面Kimi K3模型“越狱”逃出测试环境](https://www.zaochenbao.com/news/china/202608/0778251.html)
+   - 时间：今天 01:54
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”](https://www.thepaper.cn/newsDetail_forward_33729568)
+   - 时间：今天 01:54
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品](https://www.aibase.com/news/30197)
-   - 时间：8小时前
+16. [HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子](https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang)
+   - 时间：2分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品](https://www.aibase.com/news/30197)
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力](https://www.aibase.com/news/30189)
-   - 时间：11小时前
+18. [字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力](https://www.aibase.com/news/30189)
+   - 时间：昨天 13:16
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [AI 聊天机器人催生"螺旋主义"神秘准宗教运动，人类纷纷追随](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
+19. [AI 聊天机器人催生"螺旋主义"神秘准宗教运动，人类纷纷追随](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
    - 时间：08-06 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均](https://www.ithome.com/0/986/699.htm)
+20. [宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均](https://www.ithome.com/0/986/699.htm)
    - 时间：08-06 19:21
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [ChatGPT 推出改进版 GPT-5.6 Sol，并扩大免费用户访问权限](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt)
-   - 时间：08-06 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI 写出 70 万份病毒基因组，16 个在实验室"活了"：生成式生物学的里程碑与安全拷问](https://www.aibase.com/news/30192)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [谷歌掏出离线翻译硬件 Gemma Translator：树莓派塞进 51 亿参数，全程不联网也能跨语种对话](https://www.aibase.com/news/30191)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [Suno 宣布给 AI 歌曲加水印，还签了版权检测协议](https://www.aibase.com/news/30177)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 709/3114 | 22.8% | 高信号源，建议保留 |
-| Buzzing | 518/1953 | 26.5% | 高信号源，建议保留 |
-| Info Flow | 236/780 | 30.3% | 高信号源，建议保留 |
-| TechURLs | 139/412 | 33.7% | 高信号源，建议保留 |
-| Zeli | 66/73 | 90.4% | 高信号源，建议保留 |
-| NewsNow | 30/181 | 16.6% | 高信号源，建议保留 |
+| TopHub | 743/3264 | 22.8% | 高信号源，建议保留 |
+| Buzzing | 537/2002 | 26.8% | 高信号源，建议保留 |
+| Info Flow | 237/782 | 30.3% | 高信号源，建议保留 |
+| TechURLs | 141/421 | 33.5% | 高信号源，建议保留 |
+| Zeli | 66/75 | 88.0% | 高信号源，建议保留 |
+| NewsNow | 30/185 | 16.2% | 高信号源，建议保留 |
 | AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 21/33 | 63.6% | 高信号源，建议保留 |
+| OPML RSS | 21/32 | 65.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
