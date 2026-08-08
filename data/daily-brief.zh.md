@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T19:36:27.462325Z
-- 24小时AI信号：1468 条
+- 生成时间：2026-08-08T19:57:40.498504Z
+- 24小时AI信号：1439 条
 - 源健康：12/14
-- 原始抓取：7054 条
+- 原始抓取：7195 条
 
 ## 今日重点
 
@@ -18,7 +18,7 @@
    - 时间：昨天 07:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
+3. [Claude Code 会话间可互发消息](https://x.com/ClaudeDevs/status/2085817074816070014)
    - 时间：昨天 03:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
@@ -69,22 +69,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 03:37
+   - 时间：今天 03:58
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 03:37
+   - 时间：今天 03:58
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;](https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [中国最大单体AI数据中心正式投产](https://ckxxapp.ckxx.net/pages/2026/08/08/8ef386eaf0234235a161d04bf3fe2916.html)
-   - 时间：今天 03:37
+   - 时间：今天 03:58
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [苹果称中国大陆Mac用户可接入阿里巴巴千问AI服务](https://www.zaochenbao.com/news/china/202608/0878336.html)
-   - 时间：今天 03:37
+   - 时间：今天 03:58
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 688/3498 | 19.7% | 高信号源，建议保留 |
-| Buzzing | 431/1593 | 27.1% | 高信号源，建议保留 |
-| Info Flow | 133/523 | 25.4% | 高信号源，建议保留 |
-| TechURLs | 58/227 | 25.6% | 高信号源，建议保留 |
-| Zeli | 35/41 | 85.4% | 高信号源，建议保留 |
+| TopHub | 659/3444 | 19.1% | 高信号源，建议保留 |
+| Buzzing | 433/1570 | 27.6% | 高信号源，建议保留 |
+| Info Flow | 135/523 | 25.8% | 高信号源，建议保留 |
+| TechURLs | 56/219 | 25.6% | 高信号源，建议保留 |
+| Zeli | 34/40 | 85.0% | 高信号源，建议保留 |
 | NewsNow | 24/175 | 13.7% | 高信号源，建议保留 |
-| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 5/16 | 31.2% | 高信号源，建议保留 |
+| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 5/15 | 33.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
