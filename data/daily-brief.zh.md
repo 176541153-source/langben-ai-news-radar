@@ -1,44 +1,44 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T10:41:08.670720Z
-- 24小时AI信号：1679 条
+- 生成时间：2026-08-08T11:35:46.408960Z
+- 24小时AI信号：1658 条
 - 源健康：12/14
-- 原始抓取：7272 条
+- 原始抓取：7271 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
-   - 时间：11小时前
+1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
+   - 时间：29分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
+2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
+   - 时间：今天 07:08
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
    - 时间：今天 03:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
+4. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
    - 时间：今天 02:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
+5. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
    - 时间：今天 02:52
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Krea 推出 Seedance 2.5 视频模型](https://x.com/krea_ai/status/2085629541385736662)
-   - 时间：昨天 15:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 18:42
+   - 时间：今天 19:36
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌四位顶尖人工智能研究员刚刚离职，共同创立了一家公司。Alphabet正在对该公司进行投资。](https://finance.yahoo.com/technology/ai/articles/four-googles-top-ai-researchers-000200653.html)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 702/3341 | 21.0% | 高信号源，建议保留 |
-| Buzzing | 515/1992 | 25.9% | 高信号源，建议保留 |
-| Info Flow | 141/558 | 25.3% | 高信号源，建议保留 |
-| TechURLs | 115/360 | 31.9% | 高信号源，建议保留 |
-| Zeli | 54/61 | 88.5% | 高信号源，建议保留 |
-| NewsNow | 27/187 | 14.4% | 高信号源，建议保留 |
-| OPML RSS | 15/25 | 60.0% | 高信号源，建议保留 |
+| TopHub | 694/3325 | 20.9% | 高信号源，建议保留 |
+| Buzzing | 514/1946 | 26.4% | 高信号源，建议保留 |
+| Info Flow | 137/549 | 25.0% | 高信号源，建议保留 |
+| TechURLs | 111/355 | 31.3% | 高信号源，建议保留 |
+| Zeli | 54/60 | 90.0% | 高信号源，建议保留 |
+| NewsNow | 23/185 | 12.4% | 高信号源，建议保留 |
+| OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
 | AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
