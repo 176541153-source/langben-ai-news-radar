@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T13:04:16.198466Z
-- 24小时AI信号：1638 条
+- 生成时间：2026-08-08T13:51:15.293508Z
+- 24小时AI信号：1646 条
 - 源健康：12/14
-- 原始抓取：7264 条
+- 原始抓取：7270 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 21:05
+   - 时间：今天 21:52
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Show HN: 一个面向全球市场的、配备人工智能指导功能的免费模拟交易平台](https://paper-trader.org)
-   - 时间：17分钟前
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 708/3405 | 20.8% | 高信号源，建议保留 |
-| Buzzing | 499/1895 | 26.3% | 高信号源，建议保留 |
-| Info Flow | 134/532 | 25.2% | 高信号源，建议保留 |
-| TechURLs | 105/336 | 31.2% | 高信号源，建议保留 |
-| Zeli | 50/59 | 84.7% | 高信号源，建议保留 |
-| NewsNow | 23/184 | 12.5% | 高信号源，建议保留 |
-| OPML RSS | 11/21 | 52.4% | 高信号源，建议保留 |
-| Follow Builders | 11/32 | 34.4% | 高信号源，建议保留 |
+| TopHub | 723/3504 | 20.6% | 高信号源，建议保留 |
+| Buzzing | 492/1867 | 26.4% | 高信号源，建议保留 |
+| Info Flow | 137/549 | 25.0% | 高信号源，建议保留 |
+| TechURLs | 102/334 | 30.5% | 高信号源，建议保留 |
+| Zeli | 49/57 | 86.0% | 高信号源，建议保留 |
+| NewsNow | 25/182 | 13.7% | 高信号源，建议保留 |
+| Follow Builders | 11/31 | 35.5% | 高信号源，建议保留 |
+| OPML RSS | 10/20 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
