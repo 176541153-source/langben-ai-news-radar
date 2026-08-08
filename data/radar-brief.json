@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T11:35:46.408960Z",
+  "generated_at": "2026-08-08T11:57:18.223295Z",
   "timezone": "Asia/Shanghai",
   "window_hours": 24,
   "upstream_hub_url": "data/upstream-hub.json",
   "summary": {
-    "ai_items": 1658,
-    "raw_items": 6498,
-    "fetched_raw_items": 7271,
+    "ai_items": 1664,
+    "raw_items": 6536,
+    "fetched_raw_items": 7266,
     "successful_sites": 12,
     "site_count": 14,
     "source_quality": {
@@ -15,7 +15,7 @@
       "watch": 2,
       "downgrade": 0,
       "fix_fetch": 2,
-      "average_ai_hit_rate": 0.344
+      "average_ai_hit_rate": 0.337
     }
   },
   "top_stories": [
@@ -377,18 +377,18 @@
       ]
     },
     {
-      "story_id": "187e30cef3cb",
-      "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "category_id": "product_tool",
-      "category_title": "产品与开发者工具",
-      "score": 8.3,
-      "time_label": "11小时前",
+      "story_id": "e11a6aff5d8a",
+      "title": "DeepMind 的 WeatherNext 模型在预测气旋方面取得突破",
+      "url": "https://news.ycombinator.com/item?id=49220126",
+      "category_id": "model_release",
+      "category_title": "模型发布与能力更新",
+      "score": 8.2,
+      "time_label": "今天 19:57",
       "source_count": 2,
       "item_count": 2,
       "sources": [
-        "OPML RSS",
-        "TopHub"
+        "Info Flow",
+        "NewsNow"
       ],
       "source_refs": [
         {
@@ -396,47 +396,48 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "opmlrss",
-          "name": "Simon Willison",
-          "source_key": "ai_news_radar::collector::opmlrss"
+          "source_id": "newsnow",
+          "name": "hackernews",
+          "source_key": "ai_news_radar::collector::newsnow"
         },
         {
           "project_id": "ai_news_radar",
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "tophub",
-          "name": "Readhub · AI",
-          "source_key": "ai_news_radar::collector::tophub"
+          "source_id": "iris",
+          "name": "Hacker News (黑客新闻)",
+          "source_key": "ai_news_radar::collector::iris"
         }
       ],
       "primary": {
-        "id": "755cf1d31d3794e0d339f6d6320d0a8565153f25",
-        "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
-        "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-        "site_id": "opmlrss",
-        "site_name": "OPML RSS",
-        "source": "Simon Willison",
-        "published_at": "2026-08-07T23:55:58Z",
-        "first_seen_at": "2026-08-08T02:07:32.127450Z",
-        "time_label": "11小时前",
-        "category_id": "product_tool",
-        "category_title": "产品与开发者工具",
-        "score": 8.3,
-        "ai_score": 0.79,
-        "ai_label": "ai_product_update",
+        "id": "4e01567ff4bebfd6aea1446ffa7dbd02dbffed30",
+        "title": "DeepMind 的 WeatherNext 模型在预测气旋方面取得突破",
+        "title_original": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "url": "https://news.ycombinator.com/item?id=49220126",
+        "site_id": "newsnow",
+        "site_name": "NewsNow",
+        "source": "hackernews",
+        "published_at": "2026-08-08T11:57:45.973000Z",
+        "first_seen_at": "2026-08-08T11:57:18.223295Z",
+        "time_label": "今天 19:57",
+        "category_id": "model_release",
+        "category_title": "模型发布与能力更新",
+        "score": 8.2,
+        "ai_score": 0.78,
+        "ai_label": "model_release",
         "reason": "matched_tracked_ai_keyword",
         "signals": [
-          "hugging face",
-          "openai",
-          "OpenAI"
+          "Google Gemini",
+          "谷歌"
         ],
         "topic_labels": [
-          "OpenAI"
+          "Google Gemini",
+          "谷歌"
         ],
         "topic_sections": [
-          "ai_related"
+          "ai_related",
+          "internet"
         ],
         "project_source": "AI News Radar",
         "source_ref": {
@@ -444,40 +445,41 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "opmlrss",
-          "name": "Simon Willison",
-          "source_key": "ai_news_radar::collector::opmlrss"
+          "source_id": "newsnow",
+          "name": "hackernews",
+          "source_key": "ai_news_radar::collector::newsnow"
         },
-        "source_key": "ai_news_radar::collector::opmlrss"
+        "source_key": "ai_news_radar::collector::newsnow"
       },
       "related": [
         {
-          "id": "4e2a37c2212a1082f40d53192379b2d5c237b4dd",
-          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
-          "title_original": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "site_id": "tophub",
-          "site_name": "TopHub",
-          "source": "Readhub · AI",
-          "published_at": null,
-          "first_seen_at": "2026-08-08T02:07:32.127450Z",
-          "time_label": "9小时前",
-          "category_id": "product_tool",
-          "category_title": "产品与开发者工具",
+          "id": "4e01567ff4bebfd6aea1446ffa7dbd02dbffed30",
+          "title": "DeepMind 的 WeatherNext 模型在预测气旋方面取得突破",
+          "title_original": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "url": "https://news.ycombinator.com/item?id=49220126",
+          "site_id": "newsnow",
+          "site_name": "NewsNow",
+          "source": "hackernews",
+          "published_at": "2026-08-08T11:57:45.973000Z",
+          "first_seen_at": "2026-08-08T11:57:18.223295Z",
+          "time_label": "今天 19:57",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
           "score": 8.2,
           "ai_score": 0.78,
-          "ai_label": "ai_product_update",
+          "ai_label": "model_release",
           "reason": "matched_tracked_ai_keyword",
           "signals": [
-            "hugging face",
-            "openai",
-            "OpenAI"
+            "Google Gemini",
+            "谷歌"
           ],
           "topic_labels": [
-            "OpenAI"
+            "Google Gemini",
+            "谷歌"
           ],
           "topic_sections": [
-            "ai_related"
+            "ai_related",
+            "internet"
           ],
           "project_source": "AI News Radar",
           "source_ref": {
@@ -485,39 +487,42 @@
             "project_name": "AI News Radar",
             "kind": "collector",
             "kind_label": "采集器",
-            "source_id": "tophub",
-            "name": "Readhub · AI",
-            "source_key": "ai_news_radar::collector::tophub"
+            "source_id": "newsnow",
+            "name": "hackernews",
+            "source_key": "ai_news_radar::collector::newsnow"
           },
-          "source_key": "ai_news_radar::collector::tophub"
+          "source_key": "ai_news_radar::collector::newsnow"
         },
         {
-          "id": "755cf1d31d3794e0d339f6d6320d0a8565153f25",
-          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
-          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "site_id": "opmlrss",
-          "site_name": "OPML RSS",
-          "source": "Simon Willison",
-          "published_at": "2026-08-07T23:55:58Z",
-          "first_seen_at": "2026-08-08T02:07:32.127450Z",
-          "time_label": "11小时前",
-          "category_id": "product_tool",
-          "category_title": "产品与开发者工具",
-          "score": 8.3,
-          "ai_score": 0.79,
-          "ai_label": "ai_product_update",
+          "id": "8db2d60ea38ae0b6018b3863733e42b400c90fe5",
+          "title": "DeepMind 的 WeatherNext 模型在预测气旋方面取得突破",
+          "title_original": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "site_id": "iris",
+          "site_name": "Info Flow",
+          "source": "Hacker News (黑客新闻)",
+          "published_at": "2026-08-08T09:18:50Z",
+          "first_seen_at": "2026-08-08T11:35:46.408960Z",
+          "time_label": "2小时前",
+          "category_id": "model_release",
+          "category_title": "模型发布与能力更新",
+          "score": 8.2,
+          "ai_score": 0.78,
+          "ai_label": "model_release",
           "reason": "matched_tracked_ai_keyword",
           "signals": [
-            "hugging face",
-            "openai",
-            "OpenAI"
+            "AI",
+            "Google Gemini",
+            "谷歌"
           ],
           "topic_labels": [
-            "OpenAI"
+            "AI",
+            "Google Gemini",
+            "谷歌"
           ],
           "topic_sections": [
-            "ai_related"
+            "ai_related",
+            "internet"
           ],
           "project_source": "AI News Radar",
           "source_ref": {
@@ -525,11 +530,11 @@
             "project_name": "AI News Radar",
             "kind": "collector",
             "kind_label": "采集器",
-            "source_id": "opmlrss",
-            "name": "Simon Willison",
-            "source_key": "ai_news_radar::collector::opmlrss"
+            "source_id": "iris",
+            "name": "Hacker News (黑客新闻)",
+            "source_key": "ai_news_radar::collector::iris"
           },
-          "source_key": "ai_news_radar::collector::opmlrss"
+          "source_key": "ai_news_radar::collector::iris"
         }
       ]
     },
@@ -540,7 +545,7 @@
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 8.2,
-      "time_label": "1分钟前",
+      "time_label": "21分钟前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -577,7 +582,7 @@
         "source": "IT之家 · 日榜",
         "published_at": null,
         "first_seen_at": "2026-08-08T11:35:46.408960Z",
-        "time_label": "1分钟前",
+        "time_label": "21分钟前",
         "category_id": "product_tool",
         "category_title": "产品与开发者工具",
         "score": 8.2,
@@ -621,7 +626,7 @@
           "source": "IT之家 · 日榜",
           "published_at": null,
           "first_seen_at": "2026-08-08T11:35:46.408960Z",
-          "time_label": "1分钟前",
+          "time_label": "21分钟前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 8.2,
@@ -696,6 +701,163 @@
             "source_key": "ai_news_radar::collector::iris"
           },
           "source_key": "ai_news_radar::collector::iris"
+        }
+      ]
+    },
+    {
+      "story_id": "187e30cef3cb",
+      "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "category_id": "product_tool",
+      "category_title": "产品与开发者工具",
+      "score": 8.2,
+      "time_label": "59分钟前",
+      "source_count": 2,
+      "item_count": 2,
+      "sources": [
+        "Info Flow",
+        "TopHub"
+      ],
+      "source_refs": [
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "iris",
+          "name": "Hacker News (黑客新闻)",
+          "source_key": "ai_news_radar::collector::iris"
+        },
+        {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "tophub",
+          "name": "Readhub · AI",
+          "source_key": "ai_news_radar::collector::tophub"
+        }
+      ],
+      "primary": {
+        "id": "f3322cdb03b9204d5bfa111f6a6de7808a57b307",
+        "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+        "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+        "site_id": "iris",
+        "site_name": "Info Flow",
+        "source": "Hacker News (黑客新闻)",
+        "published_at": "2026-08-08T10:57:44Z",
+        "first_seen_at": "2026-08-08T11:57:18.223295Z",
+        "time_label": "59分钟前",
+        "category_id": "product_tool",
+        "category_title": "产品与开发者工具",
+        "score": 8.2,
+        "ai_score": 0.78,
+        "ai_label": "ai_product_update",
+        "reason": "matched_tracked_ai_keyword",
+        "signals": [
+          "hugging face",
+          "openai",
+          "OpenAI"
+        ],
+        "topic_labels": [
+          "OpenAI"
+        ],
+        "topic_sections": [
+          "ai_related"
+        ],
+        "project_source": "AI News Radar",
+        "source_ref": {
+          "project_id": "ai_news_radar",
+          "project_name": "AI News Radar",
+          "kind": "collector",
+          "kind_label": "采集器",
+          "source_id": "iris",
+          "name": "Hacker News (黑客新闻)",
+          "source_key": "ai_news_radar::collector::iris"
+        },
+        "source_key": "ai_news_radar::collector::iris"
+      },
+      "related": [
+        {
+          "id": "f3322cdb03b9204d5bfa111f6a6de7808a57b307",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "site_id": "iris",
+          "site_name": "Info Flow",
+          "source": "Hacker News (黑客新闻)",
+          "published_at": "2026-08-08T10:57:44Z",
+          "first_seen_at": "2026-08-08T11:57:18.223295Z",
+          "time_label": "59分钟前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
+          "score": 8.2,
+          "ai_score": 0.78,
+          "ai_label": "ai_product_update",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "hugging face",
+            "openai",
+            "OpenAI"
+          ],
+          "topic_labels": [
+            "OpenAI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "iris",
+            "name": "Hacker News (黑客新闻)",
+            "source_key": "ai_news_radar::collector::iris"
+          },
+          "source_key": "ai_news_radar::collector::iris"
+        },
+        {
+          "id": "4e2a37c2212a1082f40d53192379b2d5c237b4dd",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+          "title_original": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "site_id": "tophub",
+          "site_name": "TopHub",
+          "source": "Readhub · AI",
+          "published_at": null,
+          "first_seen_at": "2026-08-08T02:07:32.127450Z",
+          "time_label": "9小时前",
+          "category_id": "product_tool",
+          "category_title": "产品与开发者工具",
+          "score": 8.2,
+          "ai_score": 0.78,
+          "ai_label": "ai_product_update",
+          "reason": "matched_tracked_ai_keyword",
+          "signals": [
+            "hugging face",
+            "openai",
+            "OpenAI"
+          ],
+          "topic_labels": [
+            "OpenAI"
+          ],
+          "topic_sections": [
+            "ai_related"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "tophub",
+            "name": "Readhub · AI",
+            "source_key": "ai_news_radar::collector::tophub"
+          },
+          "source_key": "ai_news_radar::collector::tophub"
         }
       ]
     },
@@ -860,7 +1022,7 @@
       "category_id": "industry_compute",
       "category_title": "产业、算力与机器人",
       "score": 8.2,
-      "time_label": "1小时前",
+      "time_label": "2小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -897,7 +1059,7 @@
         "source": "www.businessinsider.com",
         "published_at": "2026-08-08T09:50:49.654000Z",
         "first_seen_at": "2026-08-08T10:41:08.670720Z",
-        "time_label": "1小时前",
+        "time_label": "2小时前",
         "category_id": "industry_compute",
         "category_title": "产业、算力与机器人",
         "score": 8.2,
@@ -936,7 +1098,7 @@
           "source": "www.businessinsider.com",
           "published_at": "2026-08-08T09:50:49.654000Z",
           "first_seen_at": "2026-08-08T10:41:08.670720Z",
-          "time_label": "1小时前",
+          "time_label": "2小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 8.2,
@@ -974,7 +1136,7 @@
           "source": "Business Insider",
           "published_at": "2026-08-08T09:36:01Z",
           "first_seen_at": "2026-08-08T10:41:08.670720Z",
-          "time_label": "1小时前",
+          "time_label": "2小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 8.2,
@@ -1011,7 +1173,7 @@
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 8.2,
-      "time_label": "1小时前",
+      "time_label": "2小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -1048,7 +1210,7 @@
         "source": "IT之家 · 日榜",
         "published_at": null,
         "first_seen_at": "2026-08-08T09:46:02.113118Z",
-        "time_label": "1小时前",
+        "time_label": "2小时前",
         "category_id": "product_tool",
         "category_title": "产品与开发者工具",
         "score": 8.2,
@@ -1090,7 +1252,7 @@
           "source": "IT之家 · 日榜",
           "published_at": null,
           "first_seen_at": "2026-08-08T09:46:02.113118Z",
-          "time_label": "1小时前",
+          "time_label": "2小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 8.2,
@@ -2835,157 +2997,6 @@
           "source_key": "ai_news_radar::collector::newsnow"
         }
       ]
-    },
-    {
-      "story_id": "4352f9dad003",
-      "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "category_id": "product_tool",
-      "category_title": "产品与开发者工具",
-      "score": 8.2,
-      "time_label": "今天 02:38",
-      "source_count": 2,
-      "item_count": 2,
-      "sources": [
-        "Buzzing",
-        "Zeli"
-      ],
-      "source_refs": [
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "app.dealroom.co",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "zeli",
-          "name": "Hacker News · 24h最热",
-          "source_key": "ai_news_radar::collector::zeli"
-        }
-      ],
-      "primary": {
-        "id": "245e1489906e00027a5c0cc106e451ff1be2522d",
-        "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-        "title_original": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "site_id": "buzzing",
-        "site_name": "Buzzing",
-        "source": "app.dealroom.co",
-        "published_at": "2026-08-07T18:38:41.025000Z",
-        "first_seen_at": "2026-08-07T19:07:10.461287Z",
-        "time_label": "今天 02:38",
-        "category_id": "product_tool",
-        "category_title": "产品与开发者工具",
-        "score": 8.2,
-        "ai_score": 0.78,
-        "ai_label": "developer_tool",
-        "reason": "matched_tracked_ai_keyword",
-        "signals": [
-          "AI"
-        ],
-        "topic_labels": [
-          "AI"
-        ],
-        "topic_sections": [
-          "ai_related"
-        ],
-        "project_source": "AI News Radar",
-        "source_ref": {
-          "project_id": "ai_news_radar",
-          "project_name": "AI News Radar",
-          "kind": "collector",
-          "kind_label": "采集器",
-          "source_id": "buzzing",
-          "name": "app.dealroom.co",
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        "source_key": "ai_news_radar::collector::buzzing"
-      },
-      "related": [
-        {
-          "id": "245e1489906e00027a5c0cc106e451ff1be2522d",
-          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-          "title_original": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "site_id": "buzzing",
-          "site_name": "Buzzing",
-          "source": "app.dealroom.co",
-          "published_at": "2026-08-07T18:38:41.025000Z",
-          "first_seen_at": "2026-08-07T19:07:10.461287Z",
-          "time_label": "今天 02:38",
-          "category_id": "product_tool",
-          "category_title": "产品与开发者工具",
-          "score": 8.2,
-          "ai_score": 0.78,
-          "ai_label": "developer_tool",
-          "reason": "matched_tracked_ai_keyword",
-          "signals": [
-            "AI"
-          ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "buzzing",
-            "name": "app.dealroom.co",
-            "source_key": "ai_news_radar::collector::buzzing"
-          },
-          "source_key": "ai_news_radar::collector::buzzing"
-        },
-        {
-          "id": "ff09546fd3e590eb379499b04112092d7cbbaf24",
-          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-          "title_original": "Oracle bans AI-generated code from OpenJDK",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "site_id": "zeli",
-          "site_name": "Zeli",
-          "source": "Hacker News · 24h最热",
-          "published_at": "2026-08-07T17:36:30Z",
-          "first_seen_at": "2026-08-07T19:07:10.461287Z",
-          "time_label": "今天 01:36",
-          "category_id": "practice_insight",
-          "category_title": "实践技巧与观点",
-          "score": 6.9,
-          "ai_score": 0.65,
-          "ai_label": "curated_hotlist",
-          "reason": "zeli_24h_hot_allowlist",
-          "signals": [
-            "zeli_24h_hot"
-          ],
-          "topic_labels": [
-            "AI"
-          ],
-          "topic_sections": [
-            "ai_related"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "zeli",
-            "name": "Hacker News · 24h最热",
-            "source_key": "ai_news_radar::collector::zeli"
-          },
-          "source_key": "ai_news_radar::collector::zeli"
-        }
-      ]
     }
   ],
   "sections": [
@@ -2993,7 +3004,7 @@
       "id": "model_release",
       "title": "模型发布与能力更新",
       "description": "新模型、推理能力、上下文、价格和API更新。",
-      "count": 134,
+      "count": 135,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -3057,7 +3068,7 @@
           "source": "Ars Technica：AI（RSS）",
           "published_at": "2026-08-08T11:05:50Z",
           "first_seen_at": "2026-08-08T11:35:46.408960Z",
-          "time_label": "29分钟前",
+          "time_label": "51分钟前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -3096,9 +3107,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "参考消息",
-          "published_at": "2026-08-08T11:36:45.149000Z",
-          "first_seen_at": "2026-08-08T11:36:45.149000Z",
-          "time_label": "今天 19:36",
+          "published_at": "2026-08-08T11:58:34.845000Z",
+          "first_seen_at": "2026-08-08T11:58:34.845000Z",
+          "time_label": "今天 19:58",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 7.8,
@@ -3405,7 +3416,7 @@
       "id": "product_tool",
       "title": "产品与开发者工具",
       "description": "Agent、开发工具、MCP、应用和工作流。",
-      "count": 174,
+      "count": 173,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -3503,9 +3514,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "腾讯",
-          "published_at": "2026-08-08T11:36:38.914000Z",
-          "first_seen_at": "2026-08-08T11:36:38.914000Z",
-          "time_label": "今天 19:36",
+          "published_at": "2026-08-08T11:58:28.600000Z",
+          "first_seen_at": "2026-08-08T11:58:28.600000Z",
+          "time_label": "今天 19:58",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 7.8,
@@ -3823,7 +3834,7 @@
           "source": "finance.yahoo.com",
           "published_at": "2026-08-08T06:54:44.549000Z",
           "first_seen_at": "2026-08-08T07:04:45.334865Z",
-          "time_label": "4小时前",
+          "time_label": "5小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -3903,9 +3914,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "澎湃新闻",
-          "published_at": "2026-08-08T11:36:36.195000Z",
-          "first_seen_at": "2026-08-08T11:36:36.195000Z",
-          "time_label": "今天 19:36",
+          "published_at": "2026-08-08T11:58:26.078000Z",
+          "first_seen_at": "2026-08-08T11:58:26.078000Z",
+          "time_label": "今天 19:58",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -4062,7 +4073,7 @@
           "source": "知乎 · 热榜",
           "published_at": null,
           "first_seen_at": "2026-08-07T23:40:13.357241Z",
-          "time_label": "11小时前",
+          "time_label": "今天 07:40",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -4213,7 +4224,7 @@
       "id": "industry_compute",
       "title": "产业、算力与机器人",
       "description": "公司、融资、芯片、算力、机器人和政策生态。",
-      "count": 1063,
+      "count": 1068,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -4302,9 +4313,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "澎湃新闻",
-          "published_at": "2026-08-08T11:36:36.195000Z",
-          "first_seen_at": "2026-08-08T11:36:36.195000Z",
-          "time_label": "今天 19:36",
+          "published_at": "2026-08-08T11:58:26.078000Z",
+          "first_seen_at": "2026-08-08T11:58:26.078000Z",
+          "time_label": "今天 19:58",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 7.8,
@@ -4490,7 +4501,7 @@
           "source": "news.ycombinator.com",
           "published_at": "2026-08-08T10:38:51.761000Z",
           "first_seen_at": "2026-08-08T11:35:46.408960Z",
-          "time_label": "56分钟前",
+          "time_label": "1小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 7.8,
@@ -4569,7 +4580,7 @@
           "source": "V2EX (创意工作者社区)",
           "published_at": "2026-08-08T09:52:54Z",
           "first_seen_at": "2026-08-08T10:41:08.670720Z",
-          "time_label": "1小时前",
+          "time_label": "2小时前",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 7.8,
@@ -4604,7 +4615,7 @@
       "id": "practice_insight",
       "title": "实践技巧与观点",
       "description": "教程、经验、观点、方法论和可落地案例。",
-      "count": 266,
+      "count": 267,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -4698,9 +4709,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "参考消息",
-          "published_at": "2026-08-08T11:36:45.149000Z",
-          "first_seen_at": "2026-08-08T11:36:45.149000Z",
-          "time_label": "今天 19:36",
+          "published_at": "2026-08-08T11:58:34.845000Z",
+          "first_seen_at": "2026-08-08T11:58:34.845000Z",
+          "time_label": "今天 19:58",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 7.8,
@@ -4993,8 +5004,8 @@
       "url": "https://wallstreetcn.com/articles/3778984",
       "source": "华尔街见闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:35.854000Z",
-      "first_seen_at": "2026-08-08T11:36:35.854000Z",
+      "published_at": "2026-08-08T11:58:25.746000Z",
+      "first_seen_at": "2026-08-08T11:58:25.746000Z",
       "rank": 3,
       "platform_id": "wallstreetcn-hot",
       "ai_is_related": true,
@@ -5025,8 +5036,8 @@
       "url": "https://www.zhihu.com/question/2068108635620774765",
       "source": "知乎",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:38.535000Z",
-      "first_seen_at": "2026-08-08T11:36:38.535000Z",
+      "published_at": "2026-08-08T11:29:07.500000Z",
+      "first_seen_at": "2026-08-08T11:29:07.500000Z",
       "rank": 5,
       "platform_id": "zhihu",
       "ai_is_related": true,
@@ -5058,8 +5069,8 @@
       "url": "https://www.zhihu.com/question/2042649810709239000",
       "source": "知乎",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:38.535000Z",
-      "first_seen_at": "2026-08-08T11:36:38.535000Z",
+      "published_at": "2026-08-08T11:29:07.500000Z",
+      "first_seen_at": "2026-08-08T11:29:07.500000Z",
       "rank": 6,
       "platform_id": "zhihu",
       "ai_is_related": true,
@@ -5090,9 +5101,9 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33740664",
       "source": "澎湃新闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:36.195000Z",
-      "first_seen_at": "2026-08-08T11:36:36.195000Z",
-      "rank": 8,
+      "published_at": "2026-08-08T11:58:26.078000Z",
+      "first_seen_at": "2026-08-08T11:58:26.078000Z",
+      "rank": 7,
       "platform_id": "thepaper",
       "ai_is_related": true,
       "ai_score": 0.78,
@@ -5122,8 +5133,8 @@
       "url": "https://view.inews.qq.com/a/20260808A03RCU00",
       "source": "腾讯",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:38.914000Z",
-      "first_seen_at": "2026-08-08T11:36:38.914000Z",
+      "published_at": "2026-08-08T11:58:28.600000Z",
+      "first_seen_at": "2026-08-08T11:58:28.600000Z",
       "rank": 10,
       "platform_id": "tencent",
       "ai_is_related": true,
@@ -5153,45 +5164,13 @@
       "source_key": "trendradar::platform::tencent"
     },
     {
-      "id": "f19bef553ee84aca",
-      "title": "怪兽中出了一个奥特曼的卧底",
-      "url": "https://search.bilibili.com/all?keyword=%E6%80%AA%E5%85%BD%E4%B8%AD%E5%87%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%84%E5%8D%A7%E5%BA%95",
-      "source": "哔哩哔哩",
-      "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:15:46.127000Z",
-      "first_seen_at": "2026-08-08T11:15:46.127000Z",
-      "rank": 12,
-      "platform_id": "bilibili",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_signals": [
-        "OpenAI"
-      ],
-      "topic_labels": [
-        "OpenAI"
-      ],
-      "topic_sections": [
-        "ai_related"
-      ],
-      "source_ref": {
-        "project_id": "trendradar",
-        "project_name": "TrendRadar",
-        "kind": "platform",
-        "kind_label": "热榜平台",
-        "source_id": "bilibili",
-        "name": "哔哩哔哩",
-        "source_key": "trendradar::platform::bilibili"
-      },
-      "source_key": "trendradar::platform::bilibili"
-    },
-    {
       "id": "cb4d912386b1dca2",
       "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
       "url": "https://www.cls.cn/detail/2448766",
       "source": "财联社热门",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:10:36.376000Z",
-      "first_seen_at": "2026-08-08T11:10:36.376000Z",
+      "published_at": "2026-08-08T11:40:37.492000Z",
+      "first_seen_at": "2026-08-08T11:40:37.492000Z",
       "rank": 12,
       "platform_id": "cls-hot",
       "ai_is_related": true,
@@ -5222,8 +5201,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33739348",
       "source": "澎湃新闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:36.195000Z",
-      "first_seen_at": "2026-08-08T11:36:36.195000Z",
+      "published_at": "2026-08-08T11:58:26.078000Z",
+      "first_seen_at": "2026-08-08T11:58:26.078000Z",
       "rank": 13,
       "platform_id": "thepaper",
       "ai_is_related": true,
@@ -5258,8 +5237,8 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_33739067",
       "source": "澎湃新闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:36.195000Z",
-      "first_seen_at": "2026-08-08T11:36:36.195000Z",
+      "published_at": "2026-08-08T11:58:26.078000Z",
+      "first_seen_at": "2026-08-08T11:58:26.078000Z",
       "rank": 14,
       "platform_id": "thepaper",
       "ai_is_related": true,
@@ -5291,8 +5270,8 @@
       "url": "https://www.zaochenbao.com/news/politics/202608/0878313.html",
       "source": "早报",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:39.261000Z",
-      "first_seen_at": "2026-08-08T11:36:39.261000Z",
+      "published_at": "2026-08-08T11:58:28.951000Z",
+      "first_seen_at": "2026-08-08T11:58:28.951000Z",
       "rank": 15,
       "platform_id": "zaobao",
       "ai_is_related": true,
@@ -5324,8 +5303,8 @@
       "url": "https://www.zhihu.com/question/2069009991709857177",
       "source": "知乎",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:38.535000Z",
-      "first_seen_at": "2026-08-08T11:36:38.535000Z",
+      "published_at": "2026-08-08T11:29:07.500000Z",
+      "first_seen_at": "2026-08-08T11:29:07.500000Z",
       "rank": 16,
       "platform_id": "zhihu",
       "ai_is_related": true,
@@ -5364,8 +5343,8 @@
       "url": "https://ckxxapp.ckxx.net/pages/2026/08/08/8ef386eaf0234235a161d04bf3fe2916.html",
       "source": "参考消息",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:45.149000Z",
-      "first_seen_at": "2026-08-08T11:36:45.149000Z",
+      "published_at": "2026-08-08T11:58:34.845000Z",
+      "first_seen_at": "2026-08-08T11:58:34.845000Z",
       "rank": 18,
       "platform_id": "cankaoxiaoxi",
       "ai_is_related": true,
@@ -5396,8 +5375,8 @@
       "url": "https://ckxxapp.ckxx.net/pages/2026/08/08/f8669240a60f4f93a1aa3a0d89ff09fa.html",
       "source": "参考消息",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:45.149000Z",
-      "first_seen_at": "2026-08-08T11:36:45.149000Z",
+      "published_at": "2026-08-08T11:58:34.845000Z",
+      "first_seen_at": "2026-08-08T11:58:34.845000Z",
       "rank": 19,
       "platform_id": "cankaoxiaoxi",
       "ai_is_related": true,
@@ -5428,8 +5407,8 @@
       "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
       "source": "百度",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:11:09.522000Z",
-      "first_seen_at": "2026-08-08T11:11:09.522000Z",
+      "published_at": "2026-08-08T11:41:15.118000Z",
+      "first_seen_at": "2026-08-08T11:41:15.118000Z",
       "rank": 21,
       "platform_id": "baidu",
       "ai_is_related": true,
@@ -5455,13 +5434,45 @@
       "source_key": "trendradar::platform::baidu"
     },
     {
+      "id": "f19bef553ee84aca",
+      "title": "怪兽中出了一个奥特曼的卧底",
+      "url": "https://search.bilibili.com/all?keyword=%E6%80%AA%E5%85%BD%E4%B8%AD%E5%87%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%84%E5%8D%A7%E5%BA%95",
+      "source": "哔哩哔哩",
+      "site_name": "TrendRadar 中文热榜",
+      "published_at": "2026-08-08T11:45:58.241000Z",
+      "first_seen_at": "2026-08-08T11:45:58.241000Z",
+      "rank": 21,
+      "platform_id": "bilibili",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_signals": [
+        "OpenAI"
+      ],
+      "topic_labels": [
+        "OpenAI"
+      ],
+      "topic_sections": [
+        "ai_related"
+      ],
+      "source_ref": {
+        "project_id": "trendradar",
+        "project_name": "TrendRadar",
+        "kind": "platform",
+        "kind_label": "热榜平台",
+        "source_id": "bilibili",
+        "name": "哔哩哔哩",
+        "source_key": "trendradar::platform::bilibili"
+      },
+      "source_key": "trendradar::platform::bilibili"
+    },
+    {
       "id": "9ef00eae35235737",
       "title": "中国AI模型在非洲迅速崛起",
       "url": "https://ckxxapp.ckxx.net/pages/2026/08/08/c8a7b1df1e4c41c99712962ff05c2fb1.html",
       "source": "参考消息",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:36:45.149000Z",
-      "first_seen_at": "2026-08-08T11:36:45.149000Z",
+      "published_at": "2026-08-08T11:58:34.845000Z",
+      "first_seen_at": "2026-08-08T11:58:34.845000Z",
       "rank": 21,
       "platform_id": "cankaoxiaoxi",
       "ai_is_related": true,
@@ -5487,21 +5498,19 @@
       "source_key": "trendradar::platform::cankaoxiaoxi"
     },
     {
-      "id": "e13cf6b72a8e8004",
-      "title": "专为 AI 智能体打造的云端浏览器，Cloudflare 发布 Kitesurf",
-      "url": "https://www.ithome.com/0/987/374.htm",
-      "source": "it之家",
+      "id": "7131e79bff28ad99",
+      "title": "美国AI开始攻击真人了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+      "source": "微博",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-08T11:22:39.219000Z",
-      "first_seen_at": "2026-08-08T11:22:39.219000Z",
-      "rank": 25,
-      "platform_id": "ithome",
+      "published_at": "2026-08-08T11:50:23.952000Z",
+      "first_seen_at": "2026-08-08T11:50:23.952000Z",
+      "rank": 27,
+      "platform_id": "weibo",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_signals": [
-        "智能体",
-        "AI",
-        "cloud"
+        "AI"
       ],
       "topic_labels": [
         "AI"
@@ -5514,11 +5523,11 @@
         "project_name": "TrendRadar",
         "kind": "platform",
         "kind_label": "热榜平台",
-        "source_id": "ithome",
-        "name": "it之家",
-        "source_key": "trendradar::platform::ithome"
+        "source_id": "weibo",
+        "name": "微博",
+        "source_key": "trendradar::platform::weibo"
       },
-      "source_key": "trendradar::platform::ithome"
+      "source_key": "trendradar::platform::weibo"
     }
   ],
   "new_items": [
@@ -5532,7 +5541,7 @@
       "source": "Ars Technica：AI（RSS）",
       "published_at": "2026-08-08T11:05:50Z",
       "first_seen_at": "2026-08-08T11:35:46.408960Z",
-      "time_label": "29分钟前",
+      "time_label": "51分钟前",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 10.0,
@@ -6133,9 +6142,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "参考消息",
-      "published_at": "2026-08-08T11:36:45.149000Z",
-      "first_seen_at": "2026-08-08T11:36:45.149000Z",
-      "time_label": "今天 19:36",
+      "published_at": "2026-08-08T11:58:34.845000Z",
+      "first_seen_at": "2026-08-08T11:58:34.845000Z",
+      "time_label": "今天 19:58",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 7.8,
@@ -6171,9 +6180,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "参考消息",
-      "published_at": "2026-08-08T11:36:45.149000Z",
-      "first_seen_at": "2026-08-08T11:36:45.149000Z",
-      "time_label": "今天 19:36",
+      "published_at": "2026-08-08T11:58:34.845000Z",
+      "first_seen_at": "2026-08-08T11:58:34.845000Z",
+      "time_label": "今天 19:58",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 7.8,
@@ -6209,9 +6218,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "参考消息",
-      "published_at": "2026-08-08T11:36:45.149000Z",
-      "first_seen_at": "2026-08-08T11:36:45.149000Z",
-      "time_label": "今天 19:36",
+      "published_at": "2026-08-08T11:58:34.845000Z",
+      "first_seen_at": "2026-08-08T11:58:34.845000Z",
+      "time_label": "今天 19:58",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 7.8,
@@ -6247,9 +6256,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "早报",
-      "published_at": "2026-08-08T11:36:39.261000Z",
-      "first_seen_at": "2026-08-08T11:36:39.261000Z",
-      "time_label": "今天 19:36",
+      "published_at": "2026-08-08T11:58:28.951000Z",
+      "first_seen_at": "2026-08-08T11:58:28.951000Z",
+      "time_label": "今天 19:58",
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 7.8,
@@ -6286,9 +6295,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "腾讯",
-      "published_at": "2026-08-08T11:36:38.914000Z",
-      "first_seen_at": "2026-08-08T11:36:38.914000Z",
-      "time_label": "今天 19:36",
+      "published_at": "2026-08-08T11:58:28.600000Z",
+      "first_seen_at": "2026-08-08T11:58:28.600000Z",
+      "time_label": "今天 19:58",
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 7.8,
@@ -6346,10 +6355,10 @@
             "source_key": "ai_news_radar::collector::tophub",
             "enabled": true,
             "status": "ok",
-            "item_count": 3024,
-            "raw_24h": 3325,
-            "ai_24h": 694,
-            "ai_hit_rate": 0.209,
+            "item_count": 3018,
+            "raw_24h": 3383,
+            "ai_24h": 704,
+            "ai_hit_rate": 0.208,
             "decision": "keep",
             "error": null
           },
@@ -6362,9 +6371,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 744,
-            "raw_24h": 1946,
-            "ai_24h": 514,
-            "ai_hit_rate": 0.264,
+            "raw_24h": 1933,
+            "ai_24h": 513,
+            "ai_hit_rate": 0.265,
             "decision": "keep",
             "error": null
           },
@@ -6376,10 +6385,10 @@
             "source_key": "ai_news_radar::collector::iris",
             "enabled": true,
             "status": "ok",
-            "item_count": 366,
-            "raw_24h": 549,
-            "ai_24h": 137,
-            "ai_hit_rate": 0.25,
+            "item_count": 367,
+            "raw_24h": 546,
+            "ai_24h": 139,
+            "ai_hit_rate": 0.255,
             "decision": "keep",
             "error": null
           },
@@ -6392,9 +6401,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 405,
-            "raw_24h": 355,
-            "ai_24h": 111,
-            "ai_hit_rate": 0.313,
+            "raw_24h": 352,
+            "ai_24h": 109,
+            "ai_hit_rate": 0.31,
             "decision": "keep",
             "error": null
           },
@@ -6422,9 +6431,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 127,
-            "raw_24h": 185,
-            "ai_24h": 23,
-            "ai_hit_rate": 0.124,
+            "raw_24h": 187,
+            "ai_24h": 24,
+            "ai_hit_rate": 0.128,
             "decision": "keep",
             "error": null
           },
@@ -6437,9 +6446,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 2280,
-            "raw_24h": 24,
-            "ai_24h": 15,
-            "ai_hit_rate": 0.625,
+            "raw_24h": 21,
+            "ai_24h": 11,
+            "ai_hit_rate": 0.524,
             "decision": "keep",
             "error": "1 feeds failed"
           },
@@ -6535,8 +6544,8 @@
           }
         ],
         "source_count": 13,
-        "ai_24h": 1567,
-        "raw_24h": 6508
+        "ai_24h": 1573,
+        "raw_24h": 6546
       },
       {
         "id": "aihot",
@@ -6887,7 +6896,7 @@
             "status": "ok",
             "item_count": 30,
             "raw_24h": 30,
-            "ai_24h": 6
+            "ai_24h": 7
           },
           {
             "id": "cankaoxiaoxi",
@@ -6912,18 +6921,6 @@
             "item_count": 20,
             "raw_24h": 20,
             "ai_24h": 3
-          },
-          {
-            "id": "weibo",
-            "name": "微博",
-            "kind": "platform",
-            "kind_label": "热榜平台",
-            "source_key": "trendradar::platform::weibo",
-            "enabled": true,
-            "status": "ok",
-            "item_count": 30,
-            "raw_24h": 30,
-            "ai_24h": 1
           },
           {
             "id": "zaobao",
@@ -6979,6 +6976,18 @@
             "kind": "platform",
             "kind_label": "热榜平台",
             "source_key": "trendradar::platform::bilibili",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 30,
+            "raw_24h": 30,
+            "ai_24h": 0
+          },
+          {
+            "id": "weibo",
+            "name": "微博",
+            "kind": "platform",
+            "kind_label": "热榜平台",
+            "source_key": "trendradar::platform::weibo",
             "enabled": true,
             "status": "ok",
             "item_count": 30,
@@ -7097,11 +7106,11 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "fetch_item_count": 3024,
-      "raw_24h": 3325,
-      "ai_24h": 694,
-      "ai_hit_rate": 0.209,
-      "duration_ms": 856,
+      "fetch_item_count": 3018,
+      "raw_24h": 3383,
+      "ai_24h": 704,
+      "ai_hit_rate": 0.208,
+      "duration_ms": 1557,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7111,10 +7120,10 @@
       "site_name": "Buzzing",
       "ok": true,
       "fetch_item_count": 744,
-      "raw_24h": 1946,
-      "ai_24h": 514,
-      "ai_hit_rate": 0.264,
-      "duration_ms": 384,
+      "raw_24h": 1933,
+      "ai_24h": 513,
+      "ai_hit_rate": 0.265,
+      "duration_ms": 271,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7123,11 +7132,11 @@
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "fetch_item_count": 366,
-      "raw_24h": 549,
-      "ai_24h": 137,
-      "ai_hit_rate": 0.25,
-      "duration_ms": 12797,
+      "fetch_item_count": 367,
+      "raw_24h": 546,
+      "ai_24h": 139,
+      "ai_hit_rate": 0.255,
+      "duration_ms": 11667,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7137,10 +7146,10 @@
       "site_name": "TechURLs",
       "ok": true,
       "fetch_item_count": 405,
-      "raw_24h": 355,
-      "ai_24h": 111,
-      "ai_hit_rate": 0.313,
-      "duration_ms": 522,
+      "raw_24h": 352,
+      "ai_24h": 109,
+      "ai_hit_rate": 0.31,
+      "duration_ms": 483,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7153,7 +7162,7 @@
       "raw_24h": 60,
       "ai_24h": 54,
       "ai_hit_rate": 0.9,
-      "duration_ms": 751,
+      "duration_ms": 762,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7163,26 +7172,13 @@
       "site_name": "NewsNow",
       "ok": true,
       "fetch_item_count": 127,
-      "raw_24h": 185,
-      "ai_24h": 23,
-      "ai_hit_rate": 0.124,
-      "duration_ms": 1975,
+      "raw_24h": 187,
+      "ai_24h": 24,
+      "ai_hit_rate": 0.128,
+      "duration_ms": 919,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
-    },
-    {
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "ok": true,
-      "fetch_item_count": 2280,
-      "raw_24h": 24,
-      "ai_24h": 15,
-      "ai_hit_rate": 0.625,
-      "duration_ms": 4920,
-      "decision": "keep",
-      "decision_reason": "高信号源，建议保留",
-      "error": "1 feeds failed"
     },
     {
       "site_id": "aihot",
@@ -7192,10 +7188,23 @@
       "raw_24h": 11,
       "ai_24h": 11,
       "ai_hit_rate": 1.0,
-      "duration_ms": 1017,
+      "duration_ms": 1386,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "ok": true,
+      "fetch_item_count": 2280,
+      "raw_24h": 21,
+      "ai_24h": 11,
+      "ai_hit_rate": 0.524,
+      "duration_ms": 6010,
+      "decision": "keep",
+      "decision_reason": "高信号源，建议保留",
+      "error": "1 feeds failed"
     },
     {
       "site_id": "followbuilders",
@@ -7205,7 +7214,7 @@
       "raw_24h": 33,
       "ai_24h": 11,
       "ai_hit_rate": 0.333,
-      "duration_ms": 65,
+      "duration_ms": 21,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7218,7 +7227,7 @@
       "raw_24h": 10,
       "ai_24h": 8,
       "ai_hit_rate": 0.8,
-      "duration_ms": 2495,
+      "duration_ms": 2712,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7231,7 +7240,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 1200,
+      "duration_ms": 1083,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -7244,7 +7253,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 1371,
+      "duration_ms": 1247,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -7257,7 +7266,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 96,
+      "duration_ms": 37,
       "decision": "fix_fetch",
       "decision_reason": "抓取失败，先修复源",
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
@@ -7270,7 +7279,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 5177,
+      "duration_ms": 5059,
       "decision": "fix_fetch",
       "decision_reason": "抓取失败，先修复源",
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"

@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T11:35:46.408960Z
-- 24小时AI信号：1658 条
+- 生成时间：2026-08-08T11:57:18.223295Z
+- 24小时AI信号：1664 条
 - 源健康：12/14
-- 原始抓取：7271 条
+- 原始抓取：7266 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
-   - 时间：29分钟前
+   - 时间：51分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 19:36
+   - 时间：今天 19:58
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌四位顶尖人工智能研究员刚刚离职，共同创立了一家公司。Alphabet正在对该公司进行投资。](https://finance.yahoo.com/technology/ai/articles/four-googles-top-ai-researchers-000200653.html)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 694/3325 | 20.9% | 高信号源，建议保留 |
-| Buzzing | 514/1946 | 26.4% | 高信号源，建议保留 |
-| Info Flow | 137/549 | 25.0% | 高信号源，建议保留 |
-| TechURLs | 111/355 | 31.3% | 高信号源，建议保留 |
+| TopHub | 704/3383 | 20.8% | 高信号源，建议保留 |
+| Buzzing | 513/1933 | 26.5% | 高信号源，建议保留 |
+| Info Flow | 139/546 | 25.5% | 高信号源，建议保留 |
+| TechURLs | 109/352 | 31.0% | 高信号源，建议保留 |
 | Zeli | 54/60 | 90.0% | 高信号源，建议保留 |
-| NewsNow | 23/185 | 12.4% | 高信号源，建议保留 |
-| OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
+| NewsNow | 24/187 | 12.8% | 高信号源，建议保留 |
 | AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 11/21 | 52.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
