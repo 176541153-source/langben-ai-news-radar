@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T18:50:13.223322Z
-- 24小时AI信号：1502 条
+- 生成时间：2026-08-08T19:36:27.462325Z
+- 24小时AI信号：1468 条
 - 源健康：12/14
-- 原始抓取：7199 条
+- 原始抓取：7054 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
@@ -22,12 +22,12 @@
    - 时间：昨天 03:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
+4. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
    - 时间：昨天 02:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
-   - 时间：昨天 02:52
+5. [Claude Code 八月起默认自动模式](https://x.com/ClaudeDevs/status/2085794862608318627)
+   - 时间：昨天 02:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -38,11 +38,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [LangChain 推出 Managed Deep Agents 公开测试版](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 02:51
+   - 时间：今天 03:37
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 02:51
+   - 时间：今天 03:37
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -103,38 +103,38 @@
 ### 实践技巧与观点
 
 21. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器](https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws)
-   - 时间：昨天 02:54
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
+22. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
    - 时间：08-07 20:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [科学家首次用AI制造新病毒](https://x.com/AISafetyMemes/status/2085447739320758622)
+23. [科学家首次用AI制造新病毒](https://x.com/AISafetyMemes/status/2085447739320758622)
    - 时间：08-07 03:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [与 @huggingface 的 @Thom_Wolf 进行的关于人工智能安全和开源人工智能的未来的重要而及时的对话也可以在 Spotify、Apple 播客和 Youtube 上观看 https://t.co/rooEdLz3c6](https://x.com/mattturck/status/2085803904671826243)
-   - 时间：昨天 03:02
-   - 来源：Follow Builders
-   - 评分：9.3/10 · matched_tracked_ai_keyword
+24. [中国最大单体AI数据中心正式投产](https://ckxxapp.ckxx.net/pages/2026/08/08/8ef386eaf0234235a161d04bf3fe2916.html)
+   - 时间：今天 03:37
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [苹果称中国大陆Mac用户可接入阿里巴巴千问AI服务](https://www.zaochenbao.com/news/china/202608/0878336.html)
+   - 时间：今天 03:37
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 698/3578 | 19.5% | 高信号源，建议保留 |
-| Buzzing | 441/1626 | 27.1% | 高信号源，建议保留 |
-| Info Flow | 132/524 | 25.2% | 高信号源，建议保留 |
-| TechURLs | 60/227 | 26.4% | 高信号源，建议保留 |
-| Zeli | 40/46 | 87.0% | 高信号源，建议保留 |
-| NewsNow | 27/185 | 14.6% | 高信号源，建议保留 |
-| AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 8/21 | 38.1% | 高信号源，建议保留 |
+| TopHub | 688/3498 | 19.7% | 高信号源，建议保留 |
+| Buzzing | 431/1593 | 27.1% | 高信号源，建议保留 |
+| Info Flow | 133/523 | 25.4% | 高信号源，建议保留 |
+| TechURLs | 58/227 | 25.6% | 高信号源，建议保留 |
+| Zeli | 35/41 | 85.4% | 高信号源，建议保留 |
+| NewsNow | 24/175 | 13.7% | 高信号源，建议保留 |
+| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 5/16 | 31.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
