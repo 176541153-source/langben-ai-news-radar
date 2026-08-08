@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T14:38:57.154537Z
-- 24小时AI信号：1609 条
+- 生成时间：2026-08-08T15:36:54.840964Z
+- 24小时AI信号：1592 条
 - 源健康：12/14
-- 原始抓取：7276 条
+- 原始抓取：7279 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
-   - 时间：6小时前
+6. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8)
+   - 时间：58分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
-   - 时间：6小时前
+7. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
+8. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
+   - 时间：7小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
    - 时间：今天 01:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Suno移动端上线Voices功能](https://x.com/suno/status/2085731234970227145)
+10. [Suno移动端上线Voices功能](https://x.com/suno/status/2085731234970227145)
    - 时间：昨天 22:14
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112)
-   - 时间：昨天 20:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -69,12 +69,12 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 22:40
+   - 时间：今天 23:38
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Show HN: 一个面向全球市场的、配备人工智能指导功能的免费模拟交易平台](https://paper-trader.org)
-   - 时间：1小时前
-   - 来源：Buzzing
+15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
+   - 时间：今天 23:38
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -118,23 +118,23 @@
    - 时间：08-06 23:10
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [左右两派罕见达成一致：反对数据中心](https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan)
-   - 时间：08-06 22:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [与 @huggingface 的 @Thom_Wolf 进行的关于人工智能安全和开源人工智能的未来的重要而及时的对话也可以在 Spotify、Apple 播客和 Youtube 上观看 https://t.co/rooEdLz3c6](https://x.com/mattturck/status/2085803904671826243)
+   - 时间：今天 03:02
+   - 来源：Follow Builders
+   - 评分：9.3/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 702/3454 | 20.3% | 高信号源，建议保留 |
-| Buzzing | 487/1821 | 26.7% | 高信号源，建议保留 |
-| Info Flow | 138/550 | 25.1% | 高信号源，建议保留 |
-| TechURLs | 91/308 | 29.5% | 高信号源，建议保留 |
-| Zeli | 47/56 | 83.9% | 高信号源，建议保留 |
-| NewsNow | 26/188 | 13.8% | 高信号源，建议保留 |
-| Follow Builders | 11/28 | 39.3% | 高信号源，建议保留 |
-| OPML RSS | 10/20 | 50.0% | 高信号源，建议保留 |
+| TopHub | 699/3503 | 20.0% | 高信号源，建议保留 |
+| Buzzing | 484/1800 | 26.9% | 高信号源，建议保留 |
+| Info Flow | 132/529 | 25.0% | 高信号源，建议保留 |
+| TechURLs | 89/295 | 30.2% | 高信号源，建议保留 |
+| Zeli | 45/55 | 81.8% | 高信号源，建议保留 |
+| NewsNow | 27/185 | 14.6% | 高信号源，建议保留 |
+| AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 11/27 | 40.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
