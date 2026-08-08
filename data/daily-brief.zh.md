@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T07:54:46.889515Z
-- 24小时AI信号：1758 条
+- 生成时间：2026-08-08T08:52:04.113093Z
+- 24小时AI信号：1732 条
 - 源健康：12/14
-- 原始抓取：7275 条
+- 原始抓取：7277 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
-   - 时间：11小时前
+   - 时间：今天 03:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型](https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si)
@@ -26,9 +26,9 @@
    - 时间：今天 02:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元](https://www.aibase.com/news/30195)
-   - 时间：昨天 16:18
-   - 来源：AIbase
+5. [Krea 推出 Seedance 2.5 视频模型](https://x.com/krea_ai/status/2085629541385736662)
+   - 时间：昨天 15:30
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
@@ -69,7 +69,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 15:55
+   - 时间：今天 16:53
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌四位顶尖人工智能研究员刚刚离职，共同创立了一家公司。Alphabet正在对该公司进行投资。](https://finance.yahoo.com/technology/ai/articles/four-googles-top-ai-researchers-000200653.html)
@@ -87,16 +87,16 @@
    - 时间：今天 01:51
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品](https://www.aibase.com/news/30197)
-   - 时间：昨天 16:18
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [AI 聊天机器人催生"螺旋主义"神秘准宗教运动，人类纷纷追随](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
+18. [AI 聊天机器人催生"螺旋主义"神秘准宗教运动，人类纷纷追随](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
    - 时间：08-06 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
-   - 时间：10小时前
+19. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
+   - 时间：11小时前
+   - 来源：Official AI Updates
+   - 评分：9.5/10 · matched_tracked_internet_keyword
+20. [副驾驶代码审查工作水平通常可用](https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available)
+   - 时间：今天 04:49
    - 来源：Official AI Updates
    - 评分：9.5/10 · matched_tracked_internet_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 714/3485 | 20.5% | 高信号源，建议保留 |
-| Buzzing | 541/2127 | 25.4% | 高信号源，建议保留 |
-| Info Flow | 166/627 | 26.5% | 高信号源，建议保留 |
-| TechURLs | 118/378 | 31.2% | 高信号源，建议保留 |
+| TopHub | 708/3430 | 20.6% | 高信号源，建议保留 |
+| Buzzing | 533/2102 | 25.4% | 高信号源，建议保留 |
+| Info Flow | 150/596 | 25.2% | 高信号源，建议保留 |
+| TechURLs | 125/387 | 32.3% | 高信号源，建议保留 |
 | Zeli | 56/64 | 87.5% | 高信号源，建议保留 |
-| NewsNow | 29/188 | 15.4% | 高信号源，建议保留 |
+| NewsNow | 29/201 | 14.4% | 高信号源，建议保留 |
 | OPML RSS | 20/31 | 64.5% | 高信号源，建议保留 |
 | AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 
