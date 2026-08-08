@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T07:04:45.334865Z
-- 24小时AI信号：1754 条
+- 生成时间：2026-08-08T07:54:46.889515Z
+- 24小时AI信号：1758 条
 - 源健康：12/14
 - 原始抓取：7275 条
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 15:05
+   - 时间：今天 15:55
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌四位顶尖人工智能研究员刚刚离职，共同创立了一家公司。Alphabet正在对该公司进行投资。](https://finance.yahoo.com/technology/ai/articles/four-googles-top-ai-researchers-000200653.html)
-   - 时间：10分钟前
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -96,7 +96,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：Official AI Updates
    - 评分：9.5/10 · matched_tracked_internet_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 686/3352 | 20.5% | 高信号源，建议保留 |
-| Buzzing | 547/2144 | 25.5% | 高信号源，建议保留 |
-| Info Flow | 183/653 | 28.0% | 高信号源，建议保留 |
-| TechURLs | 119/375 | 31.7% | 高信号源，建议保留 |
-| Zeli | 55/63 | 87.3% | 高信号源，建议保留 |
-| NewsNow | 29/183 | 15.8% | 高信号源，建议保留 |
+| TopHub | 714/3485 | 20.5% | 高信号源，建议保留 |
+| Buzzing | 541/2127 | 25.4% | 高信号源，建议保留 |
+| Info Flow | 166/627 | 26.5% | 高信号源，建议保留 |
+| TechURLs | 118/378 | 31.2% | 高信号源，建议保留 |
+| Zeli | 56/64 | 87.5% | 高信号源，建议保留 |
+| NewsNow | 29/188 | 15.4% | 高信号源，建议保留 |
 | OPML RSS | 20/31 | 64.5% | 高信号源，建议保留 |
-| AI HOT | 12/12 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
