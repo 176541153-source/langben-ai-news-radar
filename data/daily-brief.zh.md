@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T20:39:05.480691Z
-- 24小时AI信号：1449 条
+- 生成时间：2026-08-08T21:37:55.972853Z
+- 24小时AI信号：1421 条
 - 源健康：12/14
-- 原始抓取：7199 条
+- 原始抓取：7124 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 04:40
+   - 时间：今天 05:39
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 04:40
+   - 时间：今天 05:39
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -95,15 +95,15 @@
    - 时间：08-07 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
-   - 时间：昨天 05:05
+20. [企业现在可以安装第三方 GitHub 应用程序](https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps)
+   - 时间：昨天 05:40
    - 来源：Official AI Updates
-   - 评分：9.5/10 · matched_tracked_internet_keyword
+   - 评分：8.7/10 · matched_ai_signal
 
 ### 实践技巧与观点
 
 21. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [中国最大单体AI数据中心正式投产](https://ckxxapp.ckxx.net/pages/2026/08/08/8ef386eaf0234235a161d04bf3fe2916.html)
-   - 时间：今天 04:40
+   - 时间：今天 05:39
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [苹果称中国大陆Mac用户可接入阿里巴巴千问AI服务](https://www.zaochenbao.com/news/china/202608/0878336.html)
-   - 时间：今天 04:40
+   - 时间：今天 05:39
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 677/3514 | 19.3% | 高信号源，建议保留 |
-| Buzzing | 424/1531 | 27.7% | 高信号源，建议保留 |
-| Info Flow | 136/526 | 25.9% | 高信号源，建议保留 |
-| TechURLs | 56/216 | 25.9% | 高信号源，建议保留 |
-| Zeli | 35/41 | 85.4% | 高信号源，建议保留 |
+| TopHub | 668/3486 | 19.2% | 高信号源，建议保留 |
+| Buzzing | 412/1444 | 28.5% | 高信号源，建议保留 |
+| Info Flow | 138/520 | 26.5% | 高信号源，建议保留 |
+| TechURLs | 49/204 | 24.0% | 高信号源，建议保留 |
+| Zeli | 35/42 | 83.3% | 高信号源，建议保留 |
 | NewsNow | 24/172 | 14.0% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
-| Official AI Updates | 4/4 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 4/14 | 28.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
