@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T05:05:16.879826Z
-- 24小时AI信号：1873 条
+- 生成时间：2026-08-08T05:51:18.448686Z
+- 24小时AI信号：1813 条
 - 源健康：12/14
-- 原始抓取：7271 条
+- 原始抓取：7273 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
-   - 时间：11小时前
+   - 时间：今天 01:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 13:06
+   - 时间：今天 13:52
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [四大会计事务所的研究报告集体陷入「AI  幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？](https://www.zhihu.com/question/2068674224802067300)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,14 +91,14 @@
    - 时间：昨天 16:18
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [字节要冲 5 万亿参数：豆包的智商有望拉满，代价是百万显卡级别算力](https://www.aibase.com/news/30189)
-   - 时间：昨天 13:16
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [AI 聊天机器人催生"螺旋主义"神秘准宗教运动，人类纷纷追随](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
+19. [AI 聊天机器人催生"螺旋主义"神秘准宗教运动，人类纷纷追随](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
    - 时间：08-06 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
+   - 时间：8小时前
+   - 来源：Official AI Updates
+   - 评分：9.5/10 · matched_tracked_internet_keyword
 
 ### 实践技巧与观点
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 753/3594 | 21.0% | 高信号源，建议保留 |
-| Buzzing | 571/2180 | 26.2% | 高信号源，建议保留 |
-| Info Flow | 201/692 | 29.0% | 高信号源，建议保留 |
-| TechURLs | 121/384 | 31.5% | 高信号源，建议保留 |
-| Zeli | 57/67 | 85.1% | 高信号源，建议保留 |
-| NewsNow | 33/189 | 17.5% | 高信号源，建议保留 |
+| TopHub | 702/3408 | 20.6% | 高信号源，建议保留 |
+| Buzzing | 571/2194 | 26.0% | 高信号源，建议保留 |
+| Info Flow | 198/686 | 28.9% | 高信号源，建议保留 |
+| TechURLs | 120/381 | 31.5% | 高信号源，建议保留 |
+| Zeli | 55/64 | 85.9% | 高信号源，建议保留 |
+| NewsNow | 32/187 | 17.1% | 高信号源，建议保留 |
 | OPML RSS | 20/31 | 64.5% | 高信号源，建议保留 |
 | AI HOT | 16/16 | 100.0% | 高信号源，建议保留 |
 
