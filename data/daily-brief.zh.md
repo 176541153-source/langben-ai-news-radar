@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T15:36:54.840964Z
-- 24小时AI信号：1592 条
+- 生成时间：2026-08-08T15:59:21.221138Z
+- 24小时AI信号：1580 条
 - 源健康：12/14
-- 原始抓取：7279 条
+- 原始抓取：7283 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8)
-   - 时间：58分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
@@ -69,22 +69,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 23:38
+   - 时间：08-09 00:00
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 23:38
+   - 时间：08-09 00:00
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;](https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 699/3503 | 20.0% | 高信号源，建议保留 |
-| Buzzing | 484/1800 | 26.9% | 高信号源，建议保留 |
-| Info Flow | 132/529 | 25.0% | 高信号源，建议保留 |
-| TechURLs | 89/295 | 30.2% | 高信号源，建议保留 |
-| Zeli | 45/55 | 81.8% | 高信号源，建议保留 |
-| NewsNow | 27/185 | 14.6% | 高信号源，建议保留 |
+| TopHub | 702/3539 | 19.8% | 高信号源，建议保留 |
+| Buzzing | 467/1767 | 26.4% | 高信号源，建议保留 |
+| Info Flow | 133/531 | 25.0% | 高信号源，建议保留 |
+| TechURLs | 89/291 | 30.6% | 高信号源，建议保留 |
+| Zeli | 46/56 | 82.1% | 高信号源，建议保留 |
+| NewsNow | 27/186 | 14.5% | 高信号源，建议保留 |
 | AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 | Follow Builders | 11/27 | 40.7% | 高信号源，建议保留 |
 
