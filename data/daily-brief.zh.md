@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T13:51:15.293508Z
-- 24小时AI信号：1646 条
+- 生成时间：2026-08-08T14:38:57.154537Z
+- 24小时AI信号：1609 条
 - 源健康：12/14
-- 原始抓取：7270 条
+- 原始抓取：7276 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
@@ -34,18 +34,18 @@
 ### 产品与开发者工具
 
 6. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
    - 时间：今天 01:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
+9. [Suno移动端上线Voices功能](https://x.com/suno/status/2085731234970227145)
    - 时间：昨天 22:14
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -69,7 +69,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 21:52
+   - 时间：今天 22:40
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Show HN: 一个面向全球市场的、配备人工智能指导功能的免费模拟交易平台](https://paper-trader.org)
@@ -79,26 +79,26 @@
 
 ### 产业、算力与机器人
 
-16. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
+16. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;](https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
    - 时间：今天 02:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子](https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq)
+19. [HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子](https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq)
    - 时间：今天 01:51
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
+20. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
    - 时间：今天 05:05
    - 来源：Official AI Updates
    - 评分：9.5/10 · matched_tracked_internet_keyword
-19. [副驾驶代码审查工作水平通常可用](https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available)
-   - 时间：今天 04:49
-   - 来源：Official AI Updates
-   - 评分：9.5/10 · matched_tracked_internet_keyword
-20. [企业现在可以安装第三方 GitHub 应用程序](https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps)
-   - 时间：今天 05:40
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
 
 ### 实践技巧与观点
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 723/3504 | 20.6% | 高信号源，建议保留 |
-| Buzzing | 492/1867 | 26.4% | 高信号源，建议保留 |
-| Info Flow | 137/549 | 25.0% | 高信号源，建议保留 |
-| TechURLs | 102/334 | 30.5% | 高信号源，建议保留 |
-| Zeli | 49/57 | 86.0% | 高信号源，建议保留 |
-| NewsNow | 25/182 | 13.7% | 高信号源，建议保留 |
-| Follow Builders | 11/31 | 35.5% | 高信号源，建议保留 |
+| TopHub | 702/3454 | 20.3% | 高信号源，建议保留 |
+| Buzzing | 487/1821 | 26.7% | 高信号源，建议保留 |
+| Info Flow | 138/550 | 25.1% | 高信号源，建议保留 |
+| TechURLs | 91/308 | 29.5% | 高信号源，建议保留 |
+| Zeli | 47/56 | 83.9% | 高信号源，建议保留 |
+| NewsNow | 26/188 | 13.8% | 高信号源，建议保留 |
+| Follow Builders | 11/28 | 39.3% | 高信号源，建议保留 |
 | OPML RSS | 10/20 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
