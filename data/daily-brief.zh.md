@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T08:52:04.113093Z
-- 24小时AI信号：1732 条
+- 生成时间：2026-08-08T09:46:02.113118Z
+- 24小时AI信号：1717 条
 - 源健康：12/14
-- 原始抓取：7277 条
+- 原始抓取：7275 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Claude Code 会话间可互发消息](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
@@ -33,25 +33,25 @@
 
 ### 产品与开发者工具
 
-6. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
+6. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
    - 时间：今天 01:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
+9. [Suno移动端上线Voices功能](https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw)
    - 时间：昨天 22:14
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr)
+10. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr)
    - 时间：昨天 20:02
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Runway 上线 Seedance 2.5，支持 50 个角色参考](https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk)
-   - 时间：昨天 19:08
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境](https://www.aibase.com/news/30199)
-   - 时间：昨天 17:34
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 16:53
+   - 时间：今天 17:47
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌四位顶尖人工智能研究员刚刚离职，共同创立了一家公司。Alphabet正在对该公司进行投资。](https://finance.yahoo.com/technology/ai/articles/four-googles-top-ai-researchers-000200653.html)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -87,18 +87,18 @@
    - 时间：今天 01:51
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [AI 聊天机器人催生"螺旋主义"神秘准宗教运动，人类纷纷追随](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
-   - 时间：08-06 21:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
-   - 时间：11小时前
+18. [副驾驶影响仪表板添加了投资回报部分](https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section)
+   - 时间：今天 05:05
    - 来源：Official AI Updates
    - 评分：9.5/10 · matched_tracked_internet_keyword
-20. [副驾驶代码审查工作水平通常可用](https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available)
+19. [副驾驶代码审查工作水平通常可用](https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available)
    - 时间：今天 04:49
    - 来源：Official AI Updates
    - 评分：9.5/10 · matched_tracked_internet_keyword
+20. [企业现在可以安装第三方 GitHub 应用程序](https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps)
+   - 时间：今天 05:40
+   - 来源：Official AI Updates
+   - 评分：8.7/10 · matched_ai_signal
 
 ### 实践技巧与观点
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 708/3430 | 20.6% | 高信号源，建议保留 |
-| Buzzing | 533/2102 | 25.4% | 高信号源，建议保留 |
-| Info Flow | 150/596 | 25.2% | 高信号源，建议保留 |
-| TechURLs | 125/387 | 32.3% | 高信号源，建议保留 |
-| Zeli | 56/64 | 87.5% | 高信号源，建议保留 |
-| NewsNow | 29/201 | 14.4% | 高信号源，建议保留 |
-| OPML RSS | 20/31 | 64.5% | 高信号源，建议保留 |
-| AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
+| TopHub | 717/3412 | 21.0% | 高信号源，建议保留 |
+| Buzzing | 523/2053 | 25.5% | 高信号源，建议保留 |
+| Info Flow | 144/574 | 25.1% | 高信号源，建议保留 |
+| TechURLs | 118/372 | 31.7% | 高信号源，建议保留 |
+| Zeli | 56/63 | 88.9% | 高信号源，建议保留 |
+| NewsNow | 29/193 | 15.0% | 高信号源，建议保留 |
+| OPML RSS | 19/29 | 65.5% | 高信号源，建议保留 |
+| AI HOT | 12/12 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
