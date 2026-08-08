@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-08T16:43:29.876992Z
-- 24小时AI信号：1588 条
+- 生成时间：2026-08-08T17:37:20.711082Z
+- 24小时AI信号：1537 条
 - 源健康：12/14
-- 原始抓取：7218 条
+- 原始抓取：7199 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6)
@@ -38,14 +38,14 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [LangChain 推出 Managed Deep Agents 公开测试版](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
+9. [LangChain 推出 Managed Deep Agents 公开测试版](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
    - 时间：昨天 01:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情](https://www.thepaper.cn/newsDetail_forward_33740664)
-   - 时间：今天 00:44
+   - 时间：今天 01:38
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 00:44
+   - 时间：今天 01:38
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -102,8 +102,8 @@
 
 ### 实践技巧与观点
 
-21. [Grok Imagine 图像编辑迎来重大升级](https://x.com/elonmusk/status/2086127247077843282)
-   - 时间：15分钟前
+21. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器](https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 728/3661 | 19.9% | 高信号源，建议保留 |
-| Buzzing | 465/1752 | 26.5% | 高信号源，建议保留 |
-| Info Flow | 131/527 | 24.9% | 高信号源，建议保留 |
-| TechURLs | 81/274 | 29.6% | 高信号源，建议保留 |
-| Zeli | 41/49 | 83.7% | 高信号源，建议保留 |
-| NewsNow | 27/181 | 14.9% | 高信号源，建议保留 |
+| TopHub | 712/3600 | 19.8% | 高信号源，建议保留 |
+| Buzzing | 449/1669 | 26.9% | 高信号源，建议保留 |
+| Info Flow | 131/525 | 25.0% | 高信号源，建议保留 |
+| TechURLs | 69/257 | 26.8% | 高信号源，建议保留 |
+| Zeli | 39/47 | 83.0% | 高信号源，建议保留 |
+| NewsNow | 26/176 | 14.8% | 高信号源，建议保留 |
 | AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 11/26 | 42.3% | 高信号源，建议保留 |
+| Follow Builders | 9/23 | 39.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
