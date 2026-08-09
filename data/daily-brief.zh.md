@@ -1,40 +1,40 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T14:41:54.602146Z
-- 24小时AI信号：1333 条
+- 生成时间：2026-08-09T15:38:45.653510Z
+- 24小时AI信号：1340 条
 - 源健康：12/14
-- 原始抓取：7253 条
+- 原始抓取：7258 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
+1. [从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡](https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol)
+   - 时间：41分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
    - 时间：今天 06:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day)
+3. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day)
    - 时间：昨天 19:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://www.ithome.com/0/987/221.htm)
+4. [OpenAI：因网络安全风险，延缓 Astra 模型发布](https://www.ithome.com/0/987/221.htm)
    - 时间：昨天 07:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Claude Code 会话间可互发消息](https://x.com/ClaudeDevs/status/2085817074816070014)
+5. [Claude Code 会话间可互发消息](https://x.com/ClaudeDevs/status/2085817074816070014)
    - 时间：昨天 03:55
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI 将 Astra 列为首个"关键"网络安全模型](https://x.com/OpenAI/status/2085801349866729975)
-   - 时间：昨天 02:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://simonwillison.net/2026/Aug/7/openai-timeline)
@@ -68,13 +68,13 @@
    - 时间：08-07 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [这篇论文给一个你已经深入骨髓的问题起了一个奇特的名字：“认知共享的悲剧”。检查人工智能输出需要深厚的专业知识。深厚的专业知识来自于多年的繁重工作。一个...](https://x.com/zarazhangrui/status/2086111492018221523)
-   - 时间：昨天 23:25
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-15. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
-   - 时间：4小时前
+14. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
+   - 时间：5小时前
    - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [研究：人们无法有效区分 AI 生成与人类原创短篇小说](https://www.ithome.com/0/987/465.htm)
+   - 时间：今天 10:20
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -91,50 +91,50 @@
    - 时间：昨天 23:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-19. [一家以色列初创公司如何与OpenAI、Anthropic和Meta遭遇的恶意AI黑客攻击产生关联 - CNBC](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：35分钟前
+19. [Palantir 与 Salesforce：两种企业级人工智能愿景，胜负已定](https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html)
+   - 时间：28分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [全球首款可食用 AI Chip 来了](https://www.mittrchina.com/news/detail/16759)
+20. [一家以色列初创公司如何与OpenAI、Anthropic和Meta遭遇的恶意AI黑客攻击产生关联 - CNBC](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
    - 时间：1小时前
-   - 来源：TopHub
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
-   - 时间：7小时前
+21. [AI安全测试正成为安全风险](https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
+22. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
    - 时间：今天 00:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
+24. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
    - 时间：08-07 20:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [我不明白科技行业对数据中心的抵制不了解什么。 * 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不...](https://x.com/mattturck/status/2086142103646872050)
+25. [我不明白科技行业对数据中心的抵制不了解什么。 * 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不...](https://x.com/mattturck/status/2086142103646872050)
    - 时间：今天 01:26
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 22:42
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 605/3390 | 17.8% | 高信号源，建议保留 |
-| Buzzing | 373/1287 | 29.0% | 高信号源，建议保留 |
-| Info Flow | 130/521 | 25.0% | 高信号源，建议保留 |
-| Zeli | 48/54 | 88.9% | 高信号源，建议保留 |
-| TechURLs | 43/182 | 23.6% | 高信号源，建议保留 |
-| NewsNow | 34/219 | 15.5% | 高信号源，建议保留 |
-| Follow Builders | 12/22 | 54.5% | 高信号源，建议保留 |
-| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
+| TopHub | 598/3294 | 18.2% | 高信号源，建议保留 |
+| Buzzing | 387/1324 | 29.2% | 高信号源，建议保留 |
+| Info Flow | 132/533 | 24.8% | 高信号源，建议保留 |
+| Zeli | 48/53 | 90.6% | 高信号源，建议保留 |
+| TechURLs | 41/182 | 22.5% | 高信号源，建议保留 |
+| NewsNow | 34/220 | 15.5% | 高信号源，建议保留 |
+| Follow Builders | 10/18 | 55.6% | 高信号源，建议保留 |
+| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
