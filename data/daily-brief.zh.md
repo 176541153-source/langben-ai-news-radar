@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T11:37:04.665041Z
-- 24小时AI信号：1391 条
+- 生成时间：2026-08-09T11:58:56.965585Z
+- 24小时AI信号：1373 条
 - 源健康：12/14
-- 原始抓取：7235 条
+- 原始抓取：7236 条
 
 ## 今日重点
 
@@ -72,9 +72,9 @@
    - 时间：昨天 23:25
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-15. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
-   - 时间：1小时前
-   - 来源：Info Flow
+15. [苹果官网：Mac电脑可配合苹果智能使用千问，进行文本创作、使用Siri问答](https://www.thepaper.cn/newsDetail_forward_33745492)
+   - 时间：今天 20:00
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -96,7 +96,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 20. [收听《华尔街日报》推出的三集播客系列，了解人工智能心理健康聊天机器人如何满足日益增长的心理治疗需求，以及它们可能带来的风险](https://on.wsj.com/4hopntH)
-   - 时间：26分钟前
+   - 时间：48分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 19:38
+   - 时间：今天 20:00
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 635/3428 | 18.5% | 高信号源，建议保留 |
-| Buzzing | 383/1358 | 28.2% | 高信号源，建议保留 |
-| Info Flow | 140/519 | 27.0% | 高信号源，建议保留 |
+| TopHub | 626/3412 | 18.3% | 高信号源，建议保留 |
+| Buzzing | 380/1336 | 28.4% | 高信号源，建议保留 |
+| Info Flow | 138/519 | 26.6% | 高信号源，建议保留 |
 | Zeli | 50/55 | 90.9% | 高信号源，建议保留 |
-| TechURLs | 44/192 | 22.9% | 高信号源，建议保留 |
-| NewsNow | 36/225 | 16.0% | 高信号源，建议保留 |
+| TechURLs | 42/187 | 22.5% | 高信号源，建议保留 |
+| NewsNow | 34/221 | 15.4% | 高信号源，建议保留 |
 | Follow Builders | 13/24 | 54.2% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
