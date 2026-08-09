@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T19:39:33.286393Z
-- 24小时AI信号：1429 条
+- 生成时间：2026-08-09T20:42:10.438059Z
+- 24小时AI信号：1437 条
 - 源健康：12/14
-- 原始抓取：7208 条
+- 原始抓取：7175 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡](https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Anthropic 称已基本解决提示注入攻击](https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
@@ -65,7 +65,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [研究：人们无法有效区分 AI 生成与人类原创短篇小说](https://www.ithome.com/0/987/465.htm)
@@ -87,23 +87,23 @@
    - 时间：08-08 02:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Marvell（MRVL）与AVGO及NVDA对比：AI互连业务的增长能否支撑其高估值所要求的盈利水平？](https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html)
-   - 时间：45分钟前
+18. [山姆同款！这个早餐夯爆了！朕宅早餐合集 原价¥792 券后¥99](https://tophub.today/link?domain=taobao.com&url=https%3A%2F%2Fremai.today%2Flink%2F1%2FO2wzdWbfzt6Qzw5GWxhN5NTMtJ-MPGaznpUApya5687CRb)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [Arista Networks 与 Arm：这两家人工智能公司的营收增长轨迹对比](https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-arm-comparing-192901271.html)
+   - 时间：59分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [Show HN: 一个开源实验平台，用于针对公开提示对AI代理进行红队测试](https://playground.fabraix.com)
-   - 时间：2小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [Show HN: RunOnMine——关于人工智能访问您的机器的本地政策和审批流程](https://github.com/ademisler/RunOnMine)
-   - 时间：2小时前
+20. [据Meta的马克·扎克伯格称，这就是Iren在新云市场中占据优势的原因](https://finance.yahoo.com/technology/ai/articles/heres-why-iren-edge-neocloud-192000275.html)
+   - 时间：59分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [AI安全测试正成为安全风险](https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
@@ -119,7 +119,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 03:40
+   - 时间：今天 04:43
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 643/3372 | 19.1% | 高信号源，建议保留 |
-| Buzzing | 406/1375 | 29.5% | 高信号源，建议保留 |
-| Info Flow | 128/541 | 23.7% | 高信号源，建议保留 |
-| Zeli | 62/69 | 89.9% | 高信号源，建议保留 |
-| TechURLs | 57/207 | 27.5% | 高信号源，建议保留 |
-| NewsNow | 38/241 | 15.8% | 高信号源，建议保留 |
+| TopHub | 640/3360 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 408/1367 | 29.8% | 高信号源，建议保留 |
+| Info Flow | 128/537 | 23.8% | 高信号源，建议保留 |
+| Zeli | 72/80 | 90.0% | 高信号源，建议保留 |
+| TechURLs | 58/208 | 27.9% | 高信号源，建议保留 |
+| NewsNow | 38/243 | 15.6% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 5/9 | 55.6% | 高信号源，建议保留 |
+| OPML RSS | 4/5 | 80.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
