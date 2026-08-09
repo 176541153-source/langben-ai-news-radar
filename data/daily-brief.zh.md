@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T16:45:22.243109Z
-- 24小时AI信号：1363 条
+- 生成时间：2026-08-09T17:38:03.034772Z
+- 24小时AI信号：1377 条
 - 源健康：12/14
-- 原始抓取：7204 条
+- 原始抓取：7199 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡](https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
-   - 时间：11小时前
+   - 时间：昨天 13:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://simonwillison.net/2026/Aug/7/openai-timeline)
@@ -69,7 +69,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [研究：人们无法有效区分 AI 生成与人类原创短篇小说](https://www.ithome.com/0/987/465.htm)
@@ -87,27 +87,27 @@
    - 时间：08-08 02:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Palantir 与 Salesforce：两种企业级人工智能愿景，胜负已定](https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html)
-   - 时间：1小时前
+18. [Show HN: RunOnMine——关于人工智能访问您的机器的本地政策和审批流程](https://github.com/ademisler/RunOnMine)
+   - 时间：19分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [一家以色列初创公司如何与OpenAI、Anthropic和Meta遭遇的恶意AI黑客攻击产生关联 - CNBC](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+19. [Palantir 与 Salesforce：两种企业级人工智能愿景，胜负已定](https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html)
    - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [全球首款可食用 AI Chip 来了](https://www.mittrchina.com/news/detail/16759)
+20. [一家以色列初创公司如何与OpenAI、Anthropic和Meta遭遇的恶意AI黑客攻击产生关联 - CNBC](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
    - 时间：3小时前
-   - 来源：TopHub
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [AI安全测试正成为安全风险](https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Grok Imagine 图像编辑迎来重大升级](https://x.com/elonmusk/status/2086127247077843282)
@@ -118,22 +118,22 @@
    - 时间：08-07 20:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [我不明白科技行业对数据中心的抵制不了解什么。 * 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不...](https://x.com/mattturck/status/2086142103646872050)
-   - 时间：昨天 01:26
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
+   - 时间：今天 01:39
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 602/3255 | 18.5% | 高信号源，建议保留 |
-| Buzzing | 393/1336 | 29.4% | 高信号源，建议保留 |
-| Info Flow | 133/545 | 24.4% | 高信号源，建议保留 |
-| Zeli | 52/57 | 91.2% | 高信号源，建议保留 |
-| TechURLs | 49/195 | 25.1% | 高信号源，建议保留 |
-| NewsNow | 36/231 | 15.6% | 高信号源，建议保留 |
-| Follow Builders | 9/16 | 56.2% | 高信号源，建议保留 |
+| TopHub | 615/3259 | 18.9% | 高信号源，建议保留 |
+| Buzzing | 390/1344 | 29.0% | 高信号源，建议保留 |
+| Info Flow | 133/547 | 24.3% | 高信号源，建议保留 |
+| Zeli | 53/58 | 91.4% | 高信号源，建议保留 |
+| TechURLs | 53/200 | 26.5% | 高信号源，建议保留 |
+| NewsNow | 37/233 | 15.9% | 高信号源，建议保留 |
+| Follow Builders | 7/13 | 53.8% | 高信号源，建议保留 |
 | AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
