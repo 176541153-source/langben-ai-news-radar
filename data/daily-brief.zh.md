@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T07:35:44.909959Z
-- 24小时AI信号：1428 条
+- 生成时间：2026-08-09T08:19:00.742419Z
+- 24小时AI信号：1423 条
 - 源健康：12/14
-- 原始抓取：7238 条
+- 原始抓取：7227 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
@@ -73,7 +73,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 15:36
+   - 时间：今天 16:20
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -96,45 +96,45 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 20. [Kimi K3 在安全测试中突破沙箱，引发 AI 安全担忧](https://hub.baai.ac.cn/view/56995)
-   - 时间：1分钟前
+   - 时间：43分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
+21. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
    - 时间：今天 00:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
+23. [斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
    - 时间：08-07 20:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [科学家首次用AI制造新病毒](https://x.com/AISafetyMemes/status/2085447739320758622)
+24. [科学家首次用AI制造新病毒](https://x.com/AISafetyMemes/status/2085447739320758622)
    - 时间：08-07 03:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [我不明白科技行业对数据中心的抵制不了解什么。 * 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不...](https://x.com/mattturck/status/2086142103646872050)
+25. [我不明白科技行业对数据中心的抵制不了解什么。 * 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不...](https://x.com/mattturck/status/2086142103646872050)
    - 时间：今天 01:26
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [中国量化基金7月重挫 梁文锋旗下基金跌逾20%](https://www.zaochenbao.com/news/china/202608/0978357.html)
-   - 时间：今天 15:36
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 666/3462 | 19.2% | 高信号源，建议保留 |
-| Buzzing | 392/1350 | 29.0% | 高信号源，建议保留 |
-| Info Flow | 140/528 | 26.5% | 高信号源，建议保留 |
-| Zeli | 51/58 | 87.9% | 高信号源，建议保留 |
-| TechURLs | 49/213 | 23.0% | 高信号源，建议保留 |
-| NewsNow | 27/213 | 12.7% | 高信号源，建议保留 |
+| TopHub | 657/3465 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 392/1373 | 28.6% | 高信号源，建议保留 |
+| Info Flow | 145/535 | 27.1% | 高信号源，建议保留 |
+| Zeli | 52/59 | 88.1% | 高信号源，建议保留 |
+| TechURLs | 46/209 | 22.0% | 高信号源，建议保留 |
+| NewsNow | 28/208 | 13.5% | 高信号源，建议保留 |
 | Follow Builders | 13/26 | 50.0% | 高信号源，建议保留 |
-| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
