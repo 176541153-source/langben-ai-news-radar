@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T13:55:28.287238Z
-- 24小时AI信号：1343 条
+- 生成时间：2026-08-09T14:41:54.602146Z
+- 24小时AI信号：1333 条
 - 源健康：12/14
-- 原始抓取：7248 条
+- 原始抓取：7253 条
 
 ## 今日重点
 
@@ -34,10 +34,10 @@
 ### 产品与开发者工具
 
 6. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8)
+7. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://simonwillison.net/2026/Aug/7/openai-timeline)
    - 时间：昨天 22:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -73,7 +73,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 15. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,19 +91,19 @@
    - 时间：昨天 23:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-19. [全球首款可食用 AI Chip 来了](https://www.mittrchina.com/news/detail/16759)
-   - 时间：48分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [比尔·阿克曼旗下这只规模达350亿美元的对冲基金员工不足50人，而所有员工——从清洁工到前台接待员——都持有价值数百万的公司股票。](https://finance.yahoo.com/technology/ai/articles/bill-ackman-35-billion-hedge-113000653.html)
-   - 时间：1小时前
+19. [一家以色列初创公司如何与OpenAI、Anthropic和Meta遭遇的恶意AI黑客攻击产生关联 - CNBC](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：35分钟前
    - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [全球首款可食用 AI Chip 来了](https://www.mittrchina.com/news/detail/16759)
+   - 时间：1小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 21:56
+   - 时间：今天 22:42
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 605/3409 | 17.7% | 高信号源，建议保留 |
-| Buzzing | 374/1299 | 28.8% | 高信号源，建议保留 |
-| Info Flow | 132/519 | 25.4% | 高信号源，建议保留 |
-| Zeli | 51/58 | 87.9% | 高信号源，建议保留 |
-| TechURLs | 45/182 | 24.7% | 高信号源，建议保留 |
+| TopHub | 605/3390 | 17.8% | 高信号源，建议保留 |
+| Buzzing | 373/1287 | 29.0% | 高信号源，建议保留 |
+| Info Flow | 130/521 | 25.0% | 高信号源，建议保留 |
+| Zeli | 48/54 | 88.9% | 高信号源，建议保留 |
+| TechURLs | 43/182 | 23.6% | 高信号源，建议保留 |
 | NewsNow | 34/219 | 15.5% | 高信号源，建议保留 |
-| Follow Builders | 13/24 | 54.2% | 高信号源，建议保留 |
-| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 12/22 | 54.5% | 高信号源，建议保留 |
+| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
