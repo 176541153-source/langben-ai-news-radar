@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T13:06:40.126778Z
-- 24小时AI信号：1357 条
+- 生成时间：2026-08-09T13:55:28.287238Z
+- 24小时AI信号：1343 条
 - 源健康：12/14
-- 原始抓取：7239 条
+- 原始抓取：7248 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8)
@@ -73,37 +73,37 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 15. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;](https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v)
+16. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
    - 时间：昨天 21:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
-   - 时间：昨天 21:38
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
+17. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
    - 时间：昨天 02:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [如果您在企业中推动人工智能或为企业构建人工智能，那么这篇文章很棒。人工智能生产力的提升将会有很大差异——比你想象的要广泛得多——因为你在前沿能做的事情是如此重要……](https://x.com/levie/status/2086115009915142648)
+18. [如果您在企业中推动人工智能或为企业构建人工智能，那么这篇文章很棒。人工智能生产力的提升将会有很大差异——比你想象的要广泛得多——因为你在前沿能做的事情是如此重要……](https://x.com/levie/status/2086115009915142648)
    - 时间：昨天 23:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-20. [全球首款可食用 AI Chip 来了](https://www.mittrchina.com/news/detail/16759)
-   - 时间：1分钟前
+19. [全球首款可食用 AI Chip 来了](https://www.mittrchina.com/news/detail/16759)
+   - 时间：48分钟前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [比尔·阿克曼旗下这只规模达350亿美元的对冲基金员工不足50人，而所有员工——从清洁工到前台接待员——都持有价值数百万的公司股票。](https://finance.yahoo.com/technology/ai/articles/bill-ackman-35-billion-hedge-113000653.html)
+   - 时间：1小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 21:07
+   - 时间：今天 21:56
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 613/3388 | 18.1% | 高信号源，建议保留 |
-| Buzzing | 375/1320 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 139/522 | 26.6% | 高信号源，建议保留 |
-| Zeli | 50/55 | 90.9% | 高信号源，建议保留 |
-| TechURLs | 42/183 | 23.0% | 高信号源，建议保留 |
-| NewsNow | 35/220 | 15.9% | 高信号源，建议保留 |
+| TopHub | 605/3409 | 17.7% | 高信号源，建议保留 |
+| Buzzing | 374/1299 | 28.8% | 高信号源，建议保留 |
+| Info Flow | 132/519 | 25.4% | 高信号源，建议保留 |
+| Zeli | 51/58 | 87.9% | 高信号源，建议保留 |
+| TechURLs | 45/182 | 24.7% | 高信号源，建议保留 |
+| NewsNow | 34/219 | 15.5% | 高信号源，建议保留 |
 | Follow Builders | 13/24 | 54.2% | 高信号源，建议保留 |
-| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
