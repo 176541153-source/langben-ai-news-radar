@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T09:19:17.357704Z
-- 24小时AI信号：1396 条
+- 生成时间：2026-08-09T10:06:10.563324Z
+- 24小时AI信号：1401 条
 - 源健康：12/14
-- 原始抓取：7246 条
+- 原始抓取：7242 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
@@ -72,33 +72,33 @@
    - 时间：昨天 23:25
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 17:20
-   - 来源：TrendRadar
+15. [研究：人们无法有效区分 AI 生成与人类原创短篇小说](https://www.ithome.com/0/987/465.htm)
+   - 时间：7小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;](https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v)
+16. [Seedance 2.5 上线一周新增六种创意玩法](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;](https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v)
    - 时间：昨天 21:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
+18. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
    - 时间：昨天 21:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
+19. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
    - 时间：昨天 02:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [如果您在企业中推动人工智能或为企业构建人工智能，那么这篇文章很棒。人工智能生产力的提升将会有很大差异——比你想象的要广泛得多——因为你在前沿能做的事情是如此重要……](https://x.com/levie/status/2086115009915142648)
+20. [如果您在企业中推动人工智能或为企业构建人工智能，那么这篇文章很棒。人工智能生产力的提升将会有很大差异——比你想象的要广泛得多——因为你在前沿能做的事情是如此重要……](https://x.com/levie/status/2086115009915142648)
    - 时间：昨天 23:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-20. [Kimi K3 在安全测试中突破沙箱，引发 AI 安全担忧](https://hub.baai.ac.cn/view/56995)
-   - 时间：1小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
@@ -114,25 +114,25 @@
    - 时间：08-07 20:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [科学家首次用AI制造新病毒](https://x.com/AISafetyMemes/status/2085447739320758622)
-   - 时间：08-07 03:27
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [我不明白科技行业对数据中心的抵制不了解什么。 * 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不...](https://x.com/mattturck/status/2086142103646872050)
+24. [我不明白科技行业对数据中心的抵制不了解什么。 * 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不...](https://x.com/mattturck/status/2086142103646872050)
    - 时间：今天 01:26
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
+   - 时间：今天 18:07
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 649/3423 | 19.0% | 高信号源，建议保留 |
-| Buzzing | 378/1330 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 138/531 | 26.0% | 高信号源，建议保留 |
-| Zeli | 53/59 | 89.8% | 高信号源，建议保留 |
-| TechURLs | 49/202 | 24.3% | 高信号源，建议保留 |
-| NewsNow | 27/208 | 13.0% | 高信号源，建议保留 |
+| TopHub | 645/3403 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 386/1347 | 28.7% | 高信号源，建议保留 |
+| Info Flow | 138/529 | 26.1% | 高信号源，建议保留 |
+| Zeli | 52/59 | 88.1% | 高信号源，建议保留 |
+| TechURLs | 44/191 | 23.0% | 高信号源，建议保留 |
+| NewsNow | 34/217 | 15.7% | 高信号源，建议保留 |
 | Follow Builders | 13/25 | 52.0% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
