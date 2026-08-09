@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T10:46:57.939157Z
-- 24小时AI信号：1405 条
+- 生成时间：2026-08-09T11:37:04.665041Z
+- 24小时AI信号：1391 条
 - 源健康：12/14
-- 原始抓取：7236 条
+- 原始抓取：7235 条
 
 ## 今日重点
 
@@ -14,7 +14,7 @@
    - 时间：今天 06:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
+2. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day)
    - 时间：昨天 19:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8)
@@ -73,7 +73,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 15. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
-   - 时间：33分钟前
+   - 时间：1小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -95,15 +95,15 @@
    - 时间：昨天 23:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-20. [GrayMatter Robotics首席执行官：美国联邦通信委员会（FCC）禁止中国机器人是正确的。但仅靠保护措施无法赢得机器人竞赛](https://finance.yahoo.com/technology/ai/articles/graymatter-robotics-ceo-fcc-ban-090000788.html)
-   - 时间：24分钟前
+20. [收听《华尔街日报》推出的三集播客系列，了解人工智能心理健康聊天机器人如何满足日益增长的心理治疗需求，以及它们可能带来的风险](https://on.wsj.com/4hopntH)
+   - 时间：26分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 18:48
+   - 时间：今天 19:38
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 647/3416 | 18.9% | 高信号源，建议保留 |
-| Buzzing | 386/1357 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 140/520 | 26.9% | 高信号源，建议保留 |
-| Zeli | 50/56 | 89.3% | 高信号源，建议保留 |
-| TechURLs | 45/197 | 22.8% | 高信号源，建议保留 |
-| NewsNow | 33/220 | 15.0% | 高信号源，建议保留 |
+| TopHub | 635/3428 | 18.5% | 高信号源，建议保留 |
+| Buzzing | 383/1358 | 28.2% | 高信号源，建议保留 |
+| Info Flow | 140/519 | 27.0% | 高信号源，建议保留 |
+| Zeli | 50/55 | 90.9% | 高信号源，建议保留 |
+| TechURLs | 44/192 | 22.9% | 高信号源，建议保留 |
+| NewsNow | 36/225 | 16.0% | 高信号源，建议保留 |
 | Follow Builders | 13/24 | 54.2% | 高信号源，建议保留 |
-| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
