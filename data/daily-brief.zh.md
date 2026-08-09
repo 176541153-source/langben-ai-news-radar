@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T08:19:00.742419Z
-- 24小时AI信号：1423 条
+- 生成时间：2026-08-09T09:19:17.357704Z
+- 24小时AI信号：1396 条
 - 源健康：12/14
-- 原始抓取：7227 条
+- 原始抓取：7246 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
@@ -37,20 +37,20 @@
    - 时间：昨天 22:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身](https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r)
+7. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
    - 时间：昨天 16:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [苹果 Mac 简体中文支持文档更新，"Apple 智能"阿里千问扩展现身](https://www.ithome.com/0/987/366.htm)
-   - 时间：昨天 16:25
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [LangChain 推出 Managed Deep Agents 公开测试版](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
+8. [LangChain 推出 Managed Deep Agents 公开测试版](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
    - 时间：昨天 01:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Suno移动端上线Voices功能](https://x.com/suno/status/2085731234970227145)
+9. [Suno移动端上线Voices功能](https://x.com/suno/status/2085731234970227145)
    - 时间：08-07 22:14
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112)
+   - 时间：08-07 20:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -73,7 +73,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 15. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 16:20
+   - 时间：今天 17:20
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -96,14 +96,14 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 20. [Kimi K3 在安全测试中突破沙箱，引发 AI 安全担忧](https://hub.baai.ac.cn/view/56995)
-   - 时间：43分钟前
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 657/3465 | 19.0% | 高信号源，建议保留 |
-| Buzzing | 392/1373 | 28.6% | 高信号源，建议保留 |
-| Info Flow | 145/535 | 27.1% | 高信号源，建议保留 |
-| Zeli | 52/59 | 88.1% | 高信号源，建议保留 |
-| TechURLs | 46/209 | 22.0% | 高信号源，建议保留 |
-| NewsNow | 28/208 | 13.5% | 高信号源，建议保留 |
-| Follow Builders | 13/26 | 50.0% | 高信号源，建议保留 |
-| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| TopHub | 649/3423 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 378/1330 | 28.4% | 高信号源，建议保留 |
+| Info Flow | 138/531 | 26.0% | 高信号源，建议保留 |
+| Zeli | 53/59 | 89.8% | 高信号源，建议保留 |
+| TechURLs | 49/202 | 24.3% | 高信号源，建议保留 |
+| NewsNow | 27/208 | 13.0% | 高信号源，建议保留 |
+| Follow Builders | 13/25 | 52.0% | 高信号源，建议保留 |
+| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
