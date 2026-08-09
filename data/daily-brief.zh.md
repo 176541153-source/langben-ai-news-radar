@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T22:39:20.033337Z
-- 24小时AI信号：1451 条
+- 生成时间：2026-08-09T23:38:24.905419Z
+- 24小时AI信号：1426 条
 - 源健康：12/14
-- 原始抓取：7112 条
+- 原始抓取：7201 条
 
 ## 今日重点
 
@@ -11,10 +11,10 @@
 ### 模型发布与能力更新
 
 1. [从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡](https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
+2. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://www.ithome.com/0/987/452.htm)
    - 时间：昨天 06:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Anthropic 称已基本解决提示注入攻击](https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
@@ -79,31 +79,31 @@
 
 ### 产业、算力与机器人
 
-16. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
+16. [宇树科技今日启动申购，A 股迎来&quot;人形机器人第一股&quot;](https://aihot.virxact.com/items/cmsmf2q0t030sroadf0o5jwoa)
+   - 时间：31分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [宇树科技今日启动申购，A 股迎来"人形机器人第一股"](https://www.ithome.com/0/987/649.htm)
+   - 时间：31分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎"误差"](https://www.ithome.com/0/987/438.htm)
    - 时间：08-08 21:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
+19. [Kitesurf：一款在 V8 隔离环境中运行的"代理优先"浏览器](https://blog.cloudflare.com/kitesurf)
    - 时间：08-08 02:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [中国押注人工智能股票，与美国竞逐芯片和科技领域的霸主地位](https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance)
-   - 时间：1小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [深陷困境的对冲基金Situational Awareness向芯片初创公司Source Foundry投资4亿美元](https://finance.yahoo.com/technology/ai/articles/embattled-hedge-fund-situational-awareness-203517065.html)
-   - 时间：1小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [山姆同款！这个早餐夯爆了！朕宅早餐合集 原价¥792 券后¥99](https://tophub.today/link?domain=taobao.com&url=https%3A%2F%2Fremai.today%2Flink%2F1%2FO2wzdWbfzt6Qzw5GWxhN5NTMtJ-MPGaznpUApya5687CRb)
-   - 时间：1小时前
-   - 来源：TopHub
+20. [人工智能助手入侵健身房网站，这是澳大利亚首次已知的自主网络攻击](https://news.ycombinator.com/item?id=49236439)
+   - 时间：今天 07:38
+   - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [AI安全测试正成为安全风险](https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
@@ -119,7 +119,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 06:40
+   - 时间：今天 07:39
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 655/3391 | 19.3% | 高信号源，建议保留 |
-| Buzzing | 405/1379 | 29.4% | 高信号源，建议保留 |
-| Info Flow | 127/549 | 23.1% | 高信号源，建议保留 |
-| Zeli | 72/82 | 87.8% | 高信号源，建议保留 |
-| TechURLs | 60/214 | 28.0% | 高信号源，建议保留 |
-| NewsNow | 41/256 | 16.0% | 高信号源，建议保留 |
+| TopHub | 626/3388 | 18.5% | 高信号源，建议保留 |
+| Buzzing | 408/1408 | 29.0% | 高信号源，建议保留 |
+| Info Flow | 126/545 | 23.1% | 高信号源，建议保留 |
+| Zeli | 71/82 | 86.6% | 高信号源，建议保留 |
+| TechURLs | 61/218 | 28.0% | 高信号源，建议保留 |
+| NewsNow | 42/257 | 16.3% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 3/4 | 75.0% | 高信号源，建议保留 |
+| OPML RSS | 4/7 | 57.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
