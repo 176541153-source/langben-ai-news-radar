@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T05:11:53.011632Z
-- 24小时AI信号：1391 条
+- 生成时间：2026-08-09T06:10:39.044054Z
+- 24小时AI信号：1432 条
 - 源健康：12/14
-- 原始抓取：7234 条
+- 原始抓取：7240 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
@@ -69,11 +69,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系](https://www.thepaper.cn/newsDetail_forward_33744426)
-   - 时间：今天 13:12
+   - 时间：今天 14:11
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [研究：人们无法有效区分 AI 生成与人类原创短篇小说](https://www.ithome.com/0/987/465.htm)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,13 +91,13 @@
    - 时间：昨天 02:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [首个全国产10万卡AI超集群投用，峰值算力相当于全人类持续计算200年](https://news.mydrivers.com/1/1142/1142423.htm)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [迈克尔·克拉齐奥斯表示，一些公司将裁员归咎于人工智能，是因为“这样在媒体上更讨好”](https://finance.yahoo.com/technology/ai/articles/michael-kratsios-says-companies-blame-213030325.html)
-   - 时间：25分钟前
+19. [美国监管机构驳回了荷兰金融科技公司Bunq申请国家银行牌照的申请](https://finance.yahoo.com/technology/ai/articles/us-regulator-rejects-dutch-fintech-224025636.html)
+   - 时间：35分钟前
    - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [首个全国产10万卡AI超集群投用，峰值算力相当于全人类持续计算200年](https://news.mydrivers.com/1/1142/1142423.htm)
+   - 时间：58分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [中国量化基金7月重挫 梁文锋旗下基金跌逾20%](https://www.zaochenbao.com/news/china/202608/0978357.html)
-   - 时间：今天 13:12
+   - 时间：今天 14:11
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [韩咏梅：让人弱智的人工智能短剧](https://www.zaochenbao.com/news/opinion/202608/0978348.html)
-   - 时间：今天 13:12
+   - 时间：今天 14:11
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 650/3369 | 19.3% | 高信号源，建议保留 |
-| Buzzing | 386/1364 | 28.3% | 高信号源，建议保留 |
+| TopHub | 689/3467 | 19.9% | 高信号源，建议保留 |
+| Buzzing | 384/1344 | 28.6% | 高信号源，建议保留 |
 | Info Flow | 147/533 | 27.6% | 高信号源，建议保留 |
-| TechURLs | 49/207 | 23.7% | 高信号源，建议保留 |
-| Zeli | 46/53 | 86.8% | 高信号源，建议保留 |
-| NewsNow | 23/186 | 12.4% | 高信号源，建议保留 |
+| Zeli | 50/57 | 87.7% | 高信号源，建议保留 |
+| TechURLs | 48/210 | 22.9% | 高信号源，建议保留 |
+| NewsNow | 24/190 | 12.6% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 4/8 | 50.0% | 高信号源，建议保留 |
 
