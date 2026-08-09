@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-09T11:58:56.965585Z
-- 24小时AI信号：1373 条
+- 生成时间：2026-08-09T13:06:40.126778Z
+- 24小时AI信号：1357 条
 - 源健康：12/14
-- 原始抓取：7236 条
+- 原始抓取：7239 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Seedance 2.5 上线一周新增六种创意玩法](https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉](https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8)
@@ -72,9 +72,9 @@
    - 时间：昨天 23:25
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-15. [苹果官网：Mac电脑可配合苹果智能使用千问，进行文本创作、使用Siri问答](https://www.thepaper.cn/newsDetail_forward_33745492)
-   - 时间：今天 20:00
-   - 来源：TrendRadar
+15. [OpenAI研究员：我们都不读论文了](https://www.huxiu.com/article/4881800.html?f=rss)
+   - 时间：2小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -95,15 +95,15 @@
    - 时间：昨天 23:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-20. [收听《华尔街日报》推出的三集播客系列，了解人工智能心理健康聊天机器人如何满足日益增长的心理治疗需求，以及它们可能带来的风险](https://on.wsj.com/4hopntH)
-   - 时间：48分钟前
-   - 来源：Buzzing
+20. [全球首款可食用 AI Chip 来了](https://www.mittrchina.com/news/detail/16759)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Grok Imagine 图像编辑迎来重大升级](https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1)
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [德媒：中国通往人工智能新世界秩序之路](https://ckxxapp.ckxx.net/pages/2026/08/09/0eb09399fd944649bfc26b3a6c7178b9.html)
-   - 时间：今天 20:00
+   - 时间：今天 21:07
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 626/3412 | 18.3% | 高信号源，建议保留 |
-| Buzzing | 380/1336 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 138/519 | 26.6% | 高信号源，建议保留 |
+| TopHub | 613/3388 | 18.1% | 高信号源，建议保留 |
+| Buzzing | 375/1320 | 28.4% | 高信号源，建议保留 |
+| Info Flow | 139/522 | 26.6% | 高信号源，建议保留 |
 | Zeli | 50/55 | 90.9% | 高信号源，建议保留 |
-| TechURLs | 42/187 | 22.5% | 高信号源，建议保留 |
-| NewsNow | 34/221 | 15.4% | 高信号源，建议保留 |
+| TechURLs | 42/183 | 23.0% | 高信号源，建议保留 |
+| NewsNow | 35/220 | 15.9% | 高信号源，建议保留 |
 | Follow Builders | 13/24 | 54.2% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
