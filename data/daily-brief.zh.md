@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-10T20:52:58.693146Z
-- 24小时AI信号：1930 条
+- 生成时间：2026-08-10T21:50:42.742666Z
+- 24小时AI信号：1965 条
 - 源健康：12/14
-- 原始抓取：7248 条
+- 原始抓取：7251 条
 
 ## 今日重点
 
@@ -11,30 +11,30 @@
 ### 模型发布与能力更新
 
 1. [Claude Code 自动模式默认开启原理](https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Meta 发布开源模型 Muse Glimmer](https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Scale AI 开源 Muse 系列模型](https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶](https://www.aibase.com/news/30225)
-   - 时间：11小时前
+   - 时间：昨天 17:41
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号](https://www.aibase.com/news/30224)
-   - 时间：11小时前
+   - 时间：昨天 17:41
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [智能体真的会用电脑吗？a16z 用数据给出答案](https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理](https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta)
@@ -57,11 +57,11 @@
 ### 论文研究与评测
 
 11. [Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%](https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [OpenAI 推出 GPT-5.6-Cyber，面向授权漏洞研究的网络安全专用模型](https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [研究人员：人工智能代理现在可以使用零日漏洞逃离气隙沙箱，然后通过协调存储在未被发现的共享文件系统中的秘密留言板来攻击外部系统实际代理：h...](https://x.com/levie/status/2086625684353605941)
@@ -69,11 +69,11 @@
    - 来源：Follow Builders
    - 评分：8.4/10 · matched_tracked_ai_keyword
 14. [白宫国家经济委员会主任哈塞特：政府正在审慎研究人工智能安全相关问题。](https://finance.sina.com.cn/7x24/2026-08-10/doc-inimvsvm4889164.shtml)
-   - 时间：1分钟前
+   - 时间：57分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [研究人员称，那些充满血腥场面的水果和蔬菜角色AI视频可能会使孩子们走向极端](https://news.sky.com/story/violent-ai-clips-of-fruit-and-veg-characters-could-help-radicalise-young-people-researchers-claim-13571768)
-   - 时间：26分钟前
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -103,15 +103,15 @@
 ### 实践技巧与观点
 
 21. [tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话](https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [扎克伯格：超级智能应人人可用](https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到](https://www.aibase.com/news/30223)
-   - 时间：11小时前
+   - 时间：昨天 17:41
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [OpenChamber：一个基于代理的开发环境](https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 746/3348 | 22.3% | 高信号源，建议保留 |
-| Buzzing | 552/1978 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 227/854 | 26.6% | 高信号源，建议保留 |
-| TechURLs | 152/422 | 36.0% | 高信号源，建议保留 |
-| Zeli | 66/83 | 79.5% | 高信号源，建议保留 |
-| NewsNow | 35/211 | 16.6% | 高信号源，建议保留 |
+| TopHub | 768/3384 | 22.7% | 高信号源，建议保留 |
+| Buzzing | 559/2010 | 27.8% | 高信号源，建议保留 |
+| Info Flow | 226/855 | 26.4% | 高信号源，建议保留 |
+| TechURLs | 161/438 | 36.8% | 高信号源，建议保留 |
+| Zeli | 68/86 | 79.1% | 高信号源，建议保留 |
+| NewsNow | 32/204 | 15.7% | 高信号源，建议保留 |
 | AIbase | 25/25 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 17/31 | 54.8% | 高信号源，建议保留 |
 
