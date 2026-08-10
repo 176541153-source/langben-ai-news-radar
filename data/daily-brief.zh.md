@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-10T22:47:47.752977Z
-- 24小时AI信号：2003 条
+- 生成时间：2026-08-10T23:41:39.981716Z
+- 24小时AI信号：2007 条
 - 源健康：12/14
-- 原始抓取：7230 条
+- 原始抓取：7262 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Claude Code 自动模式默认开启原理](https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Meta 发布开源模型 Muse Glimmer](https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [智能体真的会用电脑吗？a16z 用数据给出答案](https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理](https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [阿里千问开放平台正式上线：支持手机、PC及AI眼镜，覆盖租房与寄快递等十余大生活领域](https://www.aibase.com/news/30219)
@@ -68,19 +68,19 @@
    - 时间：昨天 09:28
    - 来源：Follow Builders
    - 评分：8.4/10 · matched_tracked_ai_keyword
-14. [白宫国家经济委员会主任哈塞特：政府正在审慎研究人工智能安全相关问题。](https://finance.sina.com.cn/7x24/2026-08-10/doc-inimvsvm4889164.shtml)
-   - 时间：1小时前
+14. [用AI辅助UI设计后，我发现了4个真香技巧！](https://www.uisdc.com/ui-design-31)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [研究人员称，那些充满血腥场面的水果和蔬菜角色AI视频可能会使孩子们走向极端](https://news.sky.com/story/violent-ai-clips-of-fruit-and-veg-characters-could-help-radicalise-young-people-researchers-claim-13571768)
-   - 时间：2小时前
-   - 来源：Buzzing
+15. [AI时代最该读的10本书，没有一本讲AI](https://www.uisdc.com/books-over-bots)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [英伟达联合六大机构融资5000亿美元建AI工厂](https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6)
-   - 时间：51分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [A股“人形机器人第一股”诞生：宇树科技今日正式启动申购](https://www.aibase.com/news/30218)
@@ -95,7 +95,7 @@
    - 时间：昨天 10:24
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [宇树科技今日启动申购，A 股迎来&quot;人形机器人第一股&quot;](https://aihot.virxact.com/items/cmsmf2q0t030sroadf0o5jwoa)
+20. [宇树科技今日启动申购，A 股迎来"人形机器人第一股"](https://www.ithome.com/0/987/649.htm)
    - 时间：昨天 07:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话](https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [扎克伯格：超级智能应人人可用](https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 761/3398 | 22.4% | 高信号源，建议保留 |
-| Buzzing | 583/2086 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 234/856 | 27.3% | 高信号源，建议保留 |
-| TechURLs | 174/459 | 37.9% | 高信号源，建议保留 |
-| Zeli | 65/85 | 76.5% | 高信号源，建议保留 |
+| TopHub | 757/3379 | 22.4% | 高信号源，建议保留 |
+| Buzzing | 585/2094 | 27.9% | 高信号源，建议保留 |
+| Info Flow | 236/861 | 27.4% | 高信号源，建议保留 |
+| TechURLs | 176/465 | 37.8% | 高信号源，建议保留 |
+| Zeli | 68/87 | 78.2% | 高信号源，建议保留 |
 | NewsNow | 32/200 | 16.0% | 高信号源，建议保留 |
 | AIbase | 25/25 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 19/32 | 59.4% | 高信号源，建议保留 |
+| OPML RSS | 19/30 | 63.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
