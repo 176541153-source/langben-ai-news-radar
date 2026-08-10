@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-10T17:03:42.557417Z
-- 24小时AI信号：1872 条
+- 生成时间：2026-08-10T17:55:56.853533Z
+- 24小时AI信号：1935 条
 - 源健康：12/14
-- 原始抓取：7156 条
+- 原始抓取：7247 条
 
 ## 今日重点
 
@@ -15,19 +15,19 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Meta 发布开源模型 Muse Glimmer](https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Scale AI 开源 Muse 系列模型](https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶](https://www.aibase.com/news/30225)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号](https://www.aibase.com/news/30224)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -38,7 +38,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理](https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [阿里千问开放平台正式上线：支持手机、PC及AI眼镜，覆盖租房与寄快递等十余大生活领域](https://www.aibase.com/news/30219)
@@ -61,19 +61,19 @@
    - 来源：Follow Builders
    - 评分：8.4/10 · matched_tracked_ai_keyword
 12. [AI倒查论文100年！99.2%的顶刊都有问题…](https://www.qbitai.com/2026/08/469795.html)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [Show HN: Neolabs.fyi——按研究领域、估值等分类的100家新兴AI实验室](https://neolabs.fyi)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [在线课程作弊已经从聊天机器人撰写的论文加速到代理执行“登录并完成我的测验”等命令；主要人工智能工具并没有拒绝（纽约时报）](https://www.techmeme.com/260810/p25)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Meta Muse Glimmer——开放权重 30B 本地编码模型](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -111,7 +111,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到](https://www.aibase.com/news/30223)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [OpenChamber：一个基于代理的开发环境](https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 768/3378 | 22.7% | 高信号源，建议保留 |
-| Buzzing | 510/1775 | 28.7% | 高信号源，建议保留 |
-| Info Flow | 217/834 | 26.0% | 高信号源，建议保留 |
-| TechURLs | 126/378 | 33.3% | 高信号源，建议保留 |
-| Zeli | 67/83 | 80.7% | 高信号源，建议保留 |
-| NewsNow | 35/214 | 16.4% | 高信号源，建议保留 |
+| TopHub | 797/3473 | 22.9% | 高信号源，建议保留 |
+| Buzzing | 533/1857 | 28.7% | 高信号源，建议保留 |
+| Info Flow | 219/839 | 26.1% | 高信号源，建议保留 |
+| TechURLs | 131/396 | 33.1% | 高信号源，建议保留 |
+| Zeli | 70/90 | 77.8% | 高信号源，建议保留 |
+| NewsNow | 35/225 | 15.6% | 高信号源，建议保留 |
 | AIbase | 25/25 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 15/15 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 16/30 | 53.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
