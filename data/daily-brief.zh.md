@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-12T21:23:13.606603Z
-- 24小时AI信号：2131 条
+- 生成时间：2026-08-12T22:19:46.748162Z
+- 24小时AI信号：2137 条
 - 源健康：12/14
-- 原始抓取：7269 条
+- 原始抓取：7218 条
 
 ## 今日重点
 
@@ -11,19 +11,19 @@
 ### 模型发布与能力更新
 
 1. [Claude in Chrome 侧边栏升级为 Claude Cowork 会话](https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文](https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [微软首发自研推理模型MAI-Thinking-1](https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Grok 4.6 发布：智能、快速且性价比高](https://aihot.virxact.com/items/cmsq9k89v020vronddoxp07vt)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测](https://www.aibase.com/news/30289)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [使用 GitHub Copilot 应用编写您的第一个提示](https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Official AI Updates
    - 评分：10.0/10 · matched_tracked_ai_keyword
 7. [AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求](https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入](https://www.aibase.com/news/30287)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈](https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Research Gold 号称"100%人类撰写、绝不使用AI"，实则全程由AI驱动](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [Meta 开源 Muse Glimmer 登陆 OpenRouter](https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [前通义千问负责人林俊旸官宣创业 Pragmatik Labs获数亿美元融资估值达20亿](https://www.aibase.com/news/30283)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业](https://www.aibase.com/news/30288)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 736/3377 | 21.8% | 高信号源，建议保留 |
-| Buzzing | 599/2388 | 25.1% | 高信号源，建议保留 |
-| Info Flow | 287/880 | 32.6% | 高信号源，建议保留 |
-| TechURLs | 240/545 | 44.0% | 高信号源，建议保留 |
-| Zeli | 75/94 | 79.8% | 高信号源，建议保留 |
-| NewsNow | 40/210 | 19.0% | 高信号源，建议保留 |
+| TopHub | 723/3377 | 21.4% | 高信号源，建议保留 |
+| Buzzing | 613/2395 | 25.6% | 高信号源，建议保留 |
+| Info Flow | 286/883 | 32.4% | 高信号源，建议保留 |
+| TechURLs | 246/554 | 44.4% | 高信号源，建议保留 |
+| Zeli | 75/92 | 81.5% | 高信号源，建议保留 |
+| NewsNow | 39/207 | 18.8% | 高信号源，建议保留 |
 | AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 16/27 | 59.3% | 高信号源，建议保留 |
+| OPML RSS | 17/28 | 60.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
