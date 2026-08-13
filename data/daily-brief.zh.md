@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-13T20:05:48.374212Z
-- 24小时AI信号：2152 条
+- 生成时间：2026-08-13T20:55:30.429501Z
+- 24小时AI信号：2115 条
 - 源健康：12/14
-- 原始抓取：7295 条
+- 原始抓取：7293 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型](https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用](https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Qwen3.8-2.4T-A95B 开源，硅基流动即日上线](https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm)
@@ -27,7 +27,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [DeepSeek Harness 公测，对标 Claude Cowork 并开放插件生态](https://aihot.virxact.com/items/cmsrjkbcd02tiro46cfjwidak)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -46,11 +46,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强](https://aihot.virxact.com/items/cmsrfaw5c0xo2roz2s8b4p2sv)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Al代码测试初创公司Blacksmith估值一年内上涨近10倍](https://www.aibase.com/news/30320)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -88,7 +88,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [Anthropic被曝拟10月上市，目标估值或超2万亿美元](https://www.aibase.com/news/30318)
-   - 时间：11小时前
+   - 时间：昨天 16:26
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资](https://www.aibase.com/news/30312)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [哈萨比斯卸任前密谋"AI 原子能机构"：已与美国财长通气，对标国际原子能机构](https://www.aibase.com/news/30319)
-   - 时间：11小时前
+   - 时间：昨天 16:26
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工](https://www.aibase.com/news/30310)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 782/3449 | 22.7% | 高信号源，建议保留 |
-| Buzzing | 650/2298 | 28.3% | 高信号源，建议保留 |
-| Info Flow | 277/859 | 32.2% | 高信号源，建议保留 |
-| TechURLs | 188/478 | 39.3% | 高信号源，建议保留 |
-| Zeli | 74/86 | 86.0% | 高信号源，建议保留 |
-| NewsNow | 34/201 | 16.9% | 高信号源，建议保留 |
+| TopHub | 761/3371 | 22.6% | 高信号源，建议保留 |
+| Buzzing | 637/2214 | 28.8% | 高信号源，建议保留 |
+| Info Flow | 275/861 | 31.9% | 高信号源，建议保留 |
+| TechURLs | 185/475 | 38.9% | 高信号源，建议保留 |
+| Zeli | 77/90 | 85.6% | 高信号源，建议保留 |
+| NewsNow | 36/206 | 17.5% | 高信号源，建议保留 |
 | AIbase | 33/33 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 14/14 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 13/13 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
