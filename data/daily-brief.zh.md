@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-13T11:04:51.003271Z
-- 24小时AI信号：2126 条
+- 生成时间：2026-08-13T11:54:56.885844Z
+- 24小时AI信号：2141 条
 - 源健康：12/14
 - 原始抓取：7375 条
 
@@ -15,11 +15,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上](https://www.aibase.com/news/30323)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点](https://www.aibase.com/news/30322)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？](https://www.aibase.com/news/30315)
@@ -33,31 +33,31 @@
 
 ### 产品与开发者工具
 
-6. [Al代码测试初创公司Blacksmith估值一年内上涨近10倍](https://www.aibase.com/news/30320)
-   - 时间：1小时前
-   - 来源：AIbase
+6. [DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强](https://aihot.virxact.com/items/cmsrfaw5c0xo2roz2s8b4p2sv)
+   - 时间：38分钟前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患](https://www.aibase.com/news/30317)
+7. [Al代码测试初创公司Blacksmith估值一年内上涨近10倍](https://www.aibase.com/news/30320)
    - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版](https://www.aibase.com/news/30316)
-   - 时间：2小时前
+8. [6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患](https://www.aibase.com/news/30317)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测](https://www.aibase.com/news/30313)
+9. [CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版](https://www.aibase.com/news/30316)
+   - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测](https://www.aibase.com/news/30313)
    - 时间：4小时前
    - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式](https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk)
-   - 时间：6小时前
-   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [新兴多智能体系统的模式与问题](https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈](https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7)
@@ -80,11 +80,11 @@
 ### 产业、算力与机器人
 
 16. [下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧](https://www.aibase.com/news/30324)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Anthropic被曝拟10月上市，目标估值或超2万亿美元](https://www.aibase.com/news/30318)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [估值飙升至 133 亿美元！欧洲热门AI编程新星Lovable再获 400 万美元C轮融资](https://www.aibase.com/news/30312)
@@ -92,18 +92,18 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元](https://www.aibase.com/news/30309)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [传Anthropic正洽谈收购AI初创公司Decart，交易估值达 60 亿美元](https://www.aibase.com/news/30307)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [哈萨比斯卸任前密谋"AI 原子能机构"：已与美国财长通气，对标国际原子能机构](https://www.aibase.com/news/30319)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工](https://www.aibase.com/news/30310)
@@ -111,11 +111,11 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [注册资本增至223. 85 万元，北京月之暗面科技完成最新工商变更](https://www.aibase.com/news/30300)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法](https://www.aibase.com/news/30292)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 705/3309 | 21.3% | 高信号源，建议保留 |
-| Buzzing | 630/2382 | 26.4% | 高信号源，建议保留 |
-| Info Flow | 276/869 | 31.8% | 高信号源，建议保留 |
-| TechURLs | 253/544 | 46.5% | 高信号源，建议保留 |
-| Zeli | 78/94 | 83.0% | 高信号源，建议保留 |
+| TopHub | 712/3312 | 21.5% | 高信号源，建议保留 |
+| Buzzing | 630/2396 | 26.3% | 高信号源，建议保留 |
+| Info Flow | 277/873 | 31.7% | 高信号源，建议保留 |
+| TechURLs | 263/557 | 47.2% | 高信号源，建议保留 |
+| Zeli | 72/87 | 82.8% | 高信号源，建议保留 |
 | AIbase | 33/33 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 28/205 | 13.7% | 高信号源，建议保留 |
-| OPML RSS | 15/28 | 53.6% | 高信号源，建议保留 |
+| NewsNow | 30/197 | 15.2% | 高信号源，建议保留 |
+| OPML RSS | 15/27 | 55.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
