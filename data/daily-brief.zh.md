@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-14T21:32:00.522992Z
-- 24小时AI信号：2018 条
+- 生成时间：2026-08-14T21:51:51.887331Z
+- 24小时AI信号：2035 条
 - 源健康：12/14
-- 原始抓取：7279 条
+- 原始抓取：7225 条
 
 ## 今日重点
 
@@ -69,7 +69,7 @@
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [不公平使用的证据：AI书籍将人类作者挤出市场](https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [不公平使用的证据：AI书籍将人类作者挤出市场](https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8)
@@ -84,7 +84,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [AI企业也能按Token融资：广东首推“Token贷”](https://www.aibase.com/news/30365)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心](https://www.aibase.com/news/30359)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 767/3474 | 22.1% | 高信号源，建议保留 |
-| Buzzing | 554/2155 | 25.7% | 高信号源，建议保留 |
-| Info Flow | 271/819 | 33.1% | 高信号源，建议保留 |
-| TechURLs | 159/406 | 39.2% | 高信号源，建议保留 |
-| Zeli | 67/81 | 82.7% | 高信号源，建议保留 |
+| TopHub | 768/3487 | 22.0% | 高信号源，建议保留 |
+| Buzzing | 571/2222 | 25.7% | 高信号源，建议保留 |
+| Info Flow | 271/821 | 33.0% | 高信号源，建议保留 |
+| TechURLs | 158/414 | 38.2% | 高信号源，建议保留 |
+| Zeli | 69/83 | 83.1% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 37/187 | 19.8% | 高信号源，建议保留 |
-| OPML RSS | 20/24 | 83.3% | 高信号源，建议保留 |
+| NewsNow | 37/188 | 19.7% | 高信号源，建议保留 |
+| OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
