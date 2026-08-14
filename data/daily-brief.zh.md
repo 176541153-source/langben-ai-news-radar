@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-14T22:30:49.781451Z
-- 24小时AI信号：2040 条
+- 生成时间：2026-08-14T22:52:18.038452Z
+- 24小时AI信号：2067 条
 - 源健康：12/14
-- 原始抓取：7207 条
+- 原始抓取：7203 条
 
 ## 今日重点
 
@@ -65,11 +65,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [生物风险的交汇](https://www.axios.com/2026/08/14/biological-threats-ai-lab-research)
-   - 时间：30分钟前
+   - 时间：52分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [开发者机会雷达第12期：1万美元以上的丰厚资助、免费CodePath课程、AI社会影响实验室研究员项目以及面试准备入门指南](https://dev.to/devengers/dev-opportunity-radar-12-10k-magnificent-grants-free-codepath-courses-ai-societal-impact-lab-56h5)
-   - 时间：30分钟前
+   - 时间：52分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [新研究证实，AI 生成书籍已挤压人类作者作品市场空间](https://www.ithome.com/0/989/951.htm)
@@ -84,7 +84,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [AI企业也能按Token融资：广东首推“Token贷”](https://www.aibase.com/news/30365)
-   - 时间：11小时前
+   - 时间：昨天 18:34
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心](https://www.aibase.com/news/30359)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 761/3477 | 21.9% | 高信号源，建议保留 |
-| Buzzing | 593/2280 | 26.0% | 高信号源，建议保留 |
-| Info Flow | 269/823 | 32.7% | 高信号源，建议保留 |
-| TechURLs | 148/393 | 37.7% | 高信号源，建议保留 |
-| Zeli | 71/85 | 83.5% | 高信号源，建议保留 |
+| TopHub | 771/3517 | 21.9% | 高信号源，建议保留 |
+| Buzzing | 607/2328 | 26.1% | 高信号源，建议保留 |
+| Info Flow | 267/822 | 32.5% | 高信号源，建议保留 |
+| TechURLs | 152/400 | 38.0% | 高信号源，建议保留 |
+| Zeli | 73/87 | 83.9% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 37/190 | 19.5% | 高信号源，建议保留 |
-| OPML RSS | 19/25 | 76.0% | 高信号源，建议保留 |
+| NewsNow | 37/191 | 19.4% | 高信号源，建议保留 |
+| OPML RSS | 18/24 | 75.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
