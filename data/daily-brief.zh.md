@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-14T21:51:51.887331Z
-- 24小时AI信号：2035 条
+- 生成时间：2026-08-14T22:30:49.781451Z
+- 24小时AI信号：2040 条
 - 源健康：12/14
-- 原始抓取：7225 条
+- 原始抓取：7207 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Claude 文本水印机制如何运作](https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv)
    - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [通义千问开源 Qwen3.8 系列模型](https://aihot.virxact.com/items/cmst3j53e03ncro068tgsr4xn)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲](https://www.aibase.com/news/30362)
@@ -34,19 +34,19 @@
 ### 产品与开发者工具
 
 6. [随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战](https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Cursor 正式并入 SpaceXAI 助力 Grok](https://aihot.virxact.com/items/cmssyoxc90mssroff4k237ysa)
    - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [Cursor 正式并入 SpaceXAI 助力 Grok](https://aihot.virxact.com/items/cmssyoxc90mssroff4k237ysa)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台](https://www.aibase.com/news/30364)
@@ -64,23 +64,23 @@
    - 时间：08-12 13:41
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [新研究证实，AI 生成书籍已挤压人类作者作品市场空间](https://www.ithome.com/0/989/951.htm)
-   - 时间：6小时前
-   - 来源：Info Flow
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [不公平使用的证据：AI书籍将人类作者挤出市场](https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8)
-   - 时间：7小时前
+13. [生物风险的交汇](https://www.axios.com/2026/08/14/biological-threats-ai-lab-research)
+   - 时间：30分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [不公平使用的证据：AI书籍将人类作者挤出市场](https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8)
+14. [开发者机会雷达第12期：1万美元以上的丰厚资助、免费CodePath课程、AI社会影响实验室研究员项目以及面试准备入门指南](https://dev.to/devengers/dev-opportunity-radar-12-10k-magnificent-grants-free-codepath-courses-ai-societal-impact-lab-56h5)
+   - 时间：30分钟前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [新研究证实，AI 生成书籍已挤压人类作者作品市场空间](https://www.ithome.com/0/989/951.htm)
    - 时间：7小时前
-   - 来源：TechURLs
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [AI企业也能按Token融资：广东首推“Token贷”](https://www.aibase.com/news/30365)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 768/3487 | 22.0% | 高信号源，建议保留 |
-| Buzzing | 571/2222 | 25.7% | 高信号源，建议保留 |
-| Info Flow | 271/821 | 33.0% | 高信号源，建议保留 |
-| TechURLs | 158/414 | 38.2% | 高信号源，建议保留 |
-| Zeli | 69/83 | 83.1% | 高信号源，建议保留 |
+| TopHub | 761/3477 | 21.9% | 高信号源，建议保留 |
+| Buzzing | 593/2280 | 26.0% | 高信号源，建议保留 |
+| Info Flow | 269/823 | 32.7% | 高信号源，建议保留 |
+| TechURLs | 148/393 | 37.7% | 高信号源，建议保留 |
+| Zeli | 71/85 | 83.5% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 37/188 | 19.7% | 高信号源，建议保留 |
-| OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
+| NewsNow | 37/190 | 19.5% | 高信号源，建议保留 |
+| OPML RSS | 19/25 | 76.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
