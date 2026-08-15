@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T09:33:01.806573Z
-- 24小时AI信号：1834 条
+- 生成时间：2026-08-15T09:51:11.628167Z
+- 24小时AI信号：1840 条
 - 源健康：12/14
-- 原始抓取：7312 条
+- 原始抓取：7313 条
 
 ## 今日重点
 
@@ -69,11 +69,11 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 14. [人工智能研究大师](https://www.producthunt.com/products/researchmaster-ai)
-   - 时间：11分钟前
+   - 时间：29分钟前
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -107,7 +107,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
 23. [人工智能并不是“锯齿状”的，它只是人工智能形状的。这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。](https://x.com/thenanyu/status/2088335744909619230)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 751/3480 | 21.6% | 高信号源，建议保留 |
-| Buzzing | 519/2132 | 24.3% | 高信号源，建议保留 |
-| Info Flow | 193/660 | 29.2% | 高信号源，建议保留 |
-| TechURLs | 124/365 | 34.0% | 高信号源，建议保留 |
+| TopHub | 759/3527 | 21.5% | 高信号源，建议保留 |
+| Buzzing | 519/2126 | 24.4% | 高信号源，建议保留 |
+| Info Flow | 185/649 | 28.5% | 高信号源，建议保留 |
+| TechURLs | 130/398 | 32.7% | 高信号源，建议保留 |
 | Zeli | 81/96 | 84.4% | 高信号源，建议保留 |
-| NewsNow | 40/228 | 17.5% | 高信号源，建议保留 |
+| NewsNow | 40/229 | 17.5% | 高信号源，建议保留 |
 | OPML RSS | 20/25 | 80.0% | 高信号源，建议保留 |
 | Follow Builders | 15/32 | 46.9% | 高信号源，建议保留 |
 
