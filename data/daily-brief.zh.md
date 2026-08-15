@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T22:29:11.704041Z
-- 24小时AI信号：1583 条
+- 生成时间：2026-08-15T22:50:42.130487Z
+- 24小时AI信号：1594 条
 - 源健康：12/14
-- 原始抓取：7210 条
+- 原始抓取：7203 条
 
 ## 今日重点
 
@@ -65,15 +65,15 @@
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：11小时前
+   - 时间：昨天 18:45
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：11小时前
+   - 时间：昨天 18:40
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -114,12 +114,12 @@
    - 时间：08-12 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
-   - 时间：昨天 06:43
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
-25. [莫迪勾勒印度增长蓝图 为年轻人提供免费辅导与AI培训](https://www.zaochenbao.com/news/politics/202608/1578825.html)
-   - 时间：今天 06:30
+24. [莫迪勾勒印度增长蓝图 为年轻人提供免费辅导与AI培训](https://www.zaochenbao.com/news/politics/202608/1578825.html)
+   - 时间：今天 06:51
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [60岁AI动画赛道新人](https://www.douyin.com/hot/2610767)
+   - 时间：今天 06:51
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 706/3529 | 20.0% | 高信号源，建议保留 |
-| Buzzing | 442/1543 | 28.6% | 高信号源，建议保留 |
-| Info Flow | 152/585 | 26.0% | 高信号源，建议保留 |
-| TechURLs | 81/277 | 29.2% | 高信号源，建议保留 |
-| Zeli | 62/73 | 84.9% | 高信号源，建议保留 |
-| NewsNow | 45/245 | 18.4% | 高信号源，建议保留 |
+| TopHub | 721/3539 | 20.4% | 高信号源，建议保留 |
+| Buzzing | 433/1508 | 28.7% | 高信号源，建议保留 |
+| Info Flow | 154/595 | 25.9% | 高信号源，建议保留 |
+| TechURLs | 81/285 | 28.4% | 高信号源，建议保留 |
+| Zeli | 65/76 | 85.5% | 高信号源，建议保留 |
+| NewsNow | 46/249 | 18.5% | 高信号源，建议保留 |
 | OPML RSS | 6/7 | 85.7% | 高信号源，建议保留 |
 | Follow Builders | 5/11 | 45.5% | 高信号源，建议保留 |
 
