@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T14:30:14.678453Z
-- 24小时AI信号：1748 条
+- 生成时间：2026-08-15T14:50:31.181152Z
+- 24小时AI信号：1736 条
 - 源健康：12/14
-- 原始抓取：7323 条
+- 原始抓取：7325 条
 
 ## 今日重点
 
@@ -65,15 +65,15 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
-   - 时间：1分钟前
+   - 时间：20分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 736/3532 | 20.8% | 高信号源，建议保留 |
-| Buzzing | 510/2009 | 25.4% | 高信号源，建议保留 |
-| Info Flow | 161/611 | 26.4% | 高信号源，建议保留 |
-| TechURLs | 111/354 | 31.4% | 高信号源，建议保留 |
-| Zeli | 70/86 | 81.4% | 高信号源，建议保留 |
-| NewsNow | 47/245 | 19.2% | 高信号源，建议保留 |
-| OPML RSS | 13/17 | 76.5% | 高信号源，建议保留 |
+| TopHub | 739/3573 | 20.7% | 高信号源，建议保留 |
+| Buzzing | 505/1996 | 25.3% | 高信号源，建议保留 |
+| Info Flow | 157/608 | 25.8% | 高信号源，建议保留 |
+| TechURLs | 112/360 | 31.1% | 高信号源，建议保留 |
+| Zeli | 66/83 | 79.5% | 高信号源，建议保留 |
+| NewsNow | 48/244 | 19.7% | 高信号源，建议保留 |
 | Follow Builders | 12/27 | 44.4% | 高信号源，建议保留 |
+| OPML RSS | 9/13 | 69.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
