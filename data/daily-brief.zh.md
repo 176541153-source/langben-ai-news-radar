@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T13:54:53.758398Z
-- 24小时AI信号：1799 条
+- 生成时间：2026-08-15T14:30:14.678453Z
+- 24小时AI信号：1748 条
 - 源健康：12/14
-- 原始抓取：7310 条
+- 原始抓取：7323 条
 
 ## 今日重点
 
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战](https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av)
+6. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
    - 时间：昨天 22:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
-   - 时间：昨天 22:27
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff)
+7. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff)
    - 时间：昨天 19:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c)
+8. [蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c)
    - 时间：昨天 12:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型](https://deepmind.google/blog/introducing-gemini-3-7-flash)
+9. [Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型](https://deepmind.google/blog/introducing-gemini-3-7-flash)
    - 时间：昨天 01:04
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Cursor 推出 builds：云智能体启动速度提升至 3 倍](https://cursor.com/blog/builds)
+   - 时间：08-13 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -64,17 +64,17 @@
    - 时间：今天 00:15
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-13. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：3小时前
-   - 来源：Buzzing
+13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
    - 时间：3小时前
-   - 来源：Info Flow
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [谷歌研究：GPT-5 和 Gemini 3 也会“话到嘴边想不起来”，提出“知识画像”框架](https://hub.baai.ac.cn/view/57144)
+15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
    - 时间：3小时前
-   - 来源：TopHub
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 767/3691 | 20.8% | 高信号源，建议保留 |
-| Buzzing | 522/1997 | 26.1% | 高信号源，建议保留 |
-| Info Flow | 159/607 | 26.2% | 高信号源，建议保留 |
-| TechURLs | 117/373 | 31.4% | 高信号源，建议保留 |
-| Zeli | 71/87 | 81.6% | 高信号源，建议保留 |
-| NewsNow | 47/244 | 19.3% | 高信号源，建议保留 |
-| OPML RSS | 14/18 | 77.8% | 高信号源，建议保留 |
-| Follow Builders | 13/28 | 46.4% | 高信号源，建议保留 |
+| TopHub | 736/3532 | 20.8% | 高信号源，建议保留 |
+| Buzzing | 510/2009 | 25.4% | 高信号源，建议保留 |
+| Info Flow | 161/611 | 26.4% | 高信号源，建议保留 |
+| TechURLs | 111/354 | 31.4% | 高信号源，建议保留 |
+| Zeli | 70/86 | 81.4% | 高信号源，建议保留 |
+| NewsNow | 47/245 | 19.2% | 高信号源，建议保留 |
+| OPML RSS | 13/17 | 76.5% | 高信号源，建议保留 |
+| Follow Builders | 12/27 | 44.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
