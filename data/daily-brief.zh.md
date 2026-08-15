@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T16:53:00.034631Z
-- 24小时AI信号：1699 条
+- 生成时间：2026-08-15T17:26:42.564004Z
+- 24小时AI信号：1696 条
 - 源健康：12/14
 - 原始抓取：7258 条
 
@@ -61,7 +61,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 763/3675 | 20.8% | 高信号源，建议保留 |
-| Buzzing | 491/1856 | 26.5% | 高信号源，建议保留 |
-| Info Flow | 144/585 | 24.6% | 高信号源，建议保留 |
-| TechURLs | 96/315 | 30.5% | 高信号源，建议保留 |
-| Zeli | 60/69 | 87.0% | 高信号源，建议保留 |
-| NewsNow | 44/239 | 18.4% | 高信号源，建议保留 |
+| TopHub | 767/3584 | 21.4% | 高信号源，建议保留 |
+| Buzzing | 485/1823 | 26.6% | 高信号源，建议保留 |
+| Info Flow | 143/579 | 24.7% | 高信号源，建议保留 |
+| TechURLs | 90/302 | 29.8% | 高信号源，建议保留 |
+| Zeli | 66/74 | 89.2% | 高信号源，建议保留 |
+| NewsNow | 44/244 | 18.0% | 高信号源，建议保留 |
 | Follow Builders | 10/22 | 45.5% | 高信号源，建议保留 |
 | OPML RSS | 6/9 | 66.7% | 高信号源，建议保留 |
 
