@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T09:51:11.628167Z
-- 24小时AI信号：1840 条
+- 生成时间：2026-08-15T10:29:26.423106Z
+- 24小时AI信号：1833 条
 - 源健康：12/14
-- 原始抓取：7313 条
+- 原始抓取：7310 条
 
 ## 今日重点
 
@@ -68,13 +68,13 @@
    - 时间：今天 00:15
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [人工智能研究大师](https://www.producthunt.com/products/researchmaster-ai)
-   - 时间：29分钟前
-   - 来源：NewsNow
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
-   - 时间：2小时前
+14. [谷歌研究：GPT-5 和 Gemini 3 也会“话到嘴边想不起来”，提出“知识画像”框架](https://hub.baai.ac.cn/view/57144)
+   - 时间：1分钟前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [人工智能研究大师](https://www.producthunt.com/products/researchmaster-ai)
+   - 时间：1小时前
+   - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 759/3527 | 21.5% | 高信号源，建议保留 |
-| Buzzing | 519/2126 | 24.4% | 高信号源，建议保留 |
-| Info Flow | 185/649 | 28.5% | 高信号源，建议保留 |
-| TechURLs | 130/398 | 32.7% | 高信号源，建议保留 |
-| Zeli | 81/96 | 84.4% | 高信号源，建议保留 |
-| NewsNow | 40/229 | 17.5% | 高信号源，建议保留 |
-| OPML RSS | 20/25 | 80.0% | 高信号源，建议保留 |
+| TopHub | 775/3685 | 21.0% | 高信号源，建议保留 |
+| Buzzing | 518/2094 | 24.7% | 高信号源，建议保留 |
+| Info Flow | 175/632 | 27.7% | 高信号源，建议保留 |
+| TechURLs | 124/379 | 32.7% | 高信号源，建议保留 |
+| Zeli | 77/93 | 82.8% | 高信号源，建议保留 |
+| NewsNow | 41/228 | 18.0% | 高信号源，建议保留 |
+| OPML RSS | 17/22 | 77.3% | 高信号源，建议保留 |
 | Follow Builders | 15/32 | 46.9% | 高信号源，建议保留 |
 
 ## 维护提示
