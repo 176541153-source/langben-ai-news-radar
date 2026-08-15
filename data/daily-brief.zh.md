@@ -1,33 +1,33 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T18:39:47.959195Z
-- 24小时AI信号：1698 条
+- 生成时间：2026-08-15T19:26:49.970007Z
+- 24小时AI信号：1625 条
 - 源健康：12/14
-- 原始抓取：7259 条
+- 原始抓取：7026 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude 文本水印机制如何运作](https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas)
-   - 时间：昨天 03:22
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://x.com/GeminiApp/status/2088326407730692538)
+1. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://x.com/GeminiApp/status/2088326407730692538)
    - 时间：昨天 02:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [通义千问开源 Qwen3.8 系列模型](https://x.com/Alibaba_Qwen/status/2088280182356611304)
+2. [通义千问开源 Qwen3.8 系列模型](https://x.com/Alibaba_Qwen/status/2088280182356611304)
    - 时间：08-14 23:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [DeepSeek V4 Pro 登陆硅基流动，1M 上下文](https://x.com/SiliconFlowAI/status/2088127458558271885)
+3. [DeepSeek V4 Pro 登陆硅基流动，1M 上下文](https://x.com/SiliconFlowAI/status/2088127458558271885)
    - 时间：08-14 12:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量](https://huggingface.co/blog/state-of-open-models-summer-2026)
+4. [2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量](https://huggingface.co/blog/state-of-open-models-summer-2026)
    - 时间：08-14 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [从0到1带你速通DeepSeek Harness。](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2)
+   - 时间：08-14 07:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -61,7 +61,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
@@ -69,11 +69,11 @@
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
@@ -118,23 +118,23 @@
    - 时间：昨天 06:43
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
-25. [人工智能并不是“锯齿状”的，它只是人工智能形状的。这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。](https://x.com/thenanyu/status/2088335744909619230)
-   - 时间：昨天 02:43
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [莫迪勾勒印度增长蓝图 为年轻人提供免费辅导与AI培训](https://www.zaochenbao.com/news/politics/202608/1578825.html)
+   - 时间：今天 03:28
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 784/3690 | 21.2% | 高信号源，建议保留 |
-| Buzzing | 471/1751 | 26.9% | 高信号源，建议保留 |
-| Info Flow | 148/580 | 25.5% | 高信号源，建议保留 |
-| TechURLs | 90/293 | 30.7% | 高信号源，建议保留 |
-| Zeli | 68/77 | 88.3% | 高信号源，建议保留 |
-| NewsNow | 39/238 | 16.4% | 高信号源，建议保留 |
-| Follow Builders | 8/19 | 42.1% | 高信号源，建议保留 |
+| TopHub | 739/3575 | 20.7% | 高信号源，建议保留 |
+| Buzzing | 460/1695 | 27.1% | 高信号源，建议保留 |
+| Info Flow | 148/564 | 26.2% | 高信号源，建议保留 |
+| TechURLs | 86/286 | 30.1% | 高信号源，建议保留 |
+| Zeli | 57/65 | 87.7% | 高信号源，建议保留 |
+| NewsNow | 40/240 | 16.7% | 高信号源，建议保留 |
 | OPML RSS | 6/9 | 66.7% | 高信号源，建议保留 |
+| Follow Builders | 6/17 | 35.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
