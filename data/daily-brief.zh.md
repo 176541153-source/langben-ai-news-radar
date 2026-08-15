@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T02:58:45.123304Z
-- 24小时AI信号：1958 条
+- 生成时间：2026-08-15T03:46:24.602626Z
+- 24小时AI信号：1973 条
 - 源健康：12/14
-- 原始抓取：7296 条
+- 原始抓取：7243 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Claude 文本水印机制如何运作](https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv)
    - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [通义千问开源 Qwen3.8 系列模型](https://aihot.virxact.com/items/cmst3j53e03ncro068tgsr4xn)
-   - 时间：11小时前
+   - 时间：昨天 23:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲](https://www.aibase.com/news/30362)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [AI漫剧爆发在即：AIGC技术驱动动漫短剧内容变现新风口与市场变革深度研究报告](https://www.woshipm.com/?p=6326925)
-   - 时间：1分钟前
+   - 时间：47分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [想用GPT-Image2做产品详情页？先学会这2个思路！](https://www.uisdc.com/gpt-image2-listings)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [新手快收藏！一篇文章快速了解AI常用工具+案例+工作流](https://www.uisdc.com/design-flow-2)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -119,7 +119,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 753/3462 | 21.8% | 高信号源，建议保留 |
-| Buzzing | 577/2225 | 25.9% | 高信号源，建议保留 |
-| Info Flow | 228/764 | 29.8% | 高信号源，建议保留 |
-| TechURLs | 148/406 | 36.5% | 高信号源，建议保留 |
+| TopHub | 781/3618 | 21.6% | 高信号源，建议保留 |
+| Buzzing | 574/2227 | 25.8% | 高信号源，建议保留 |
+| Info Flow | 219/741 | 29.6% | 高信号源，建议保留 |
+| TechURLs | 147/407 | 36.1% | 高信号源，建议保留 |
 | Zeli | 76/90 | 84.4% | 高信号源，建议保留 |
-| NewsNow | 37/196 | 18.9% | 高信号源，建议保留 |
+| NewsNow | 39/199 | 19.6% | 高信号源，建议保留 |
 | AIbase | 23/23 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 19/23 | 82.6% | 高信号源，建议保留 |
+| OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
