@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T21:48:04.807719Z
-- 24小时AI信号：1593 条
+- 生成时间：2026-08-15T22:29:11.704041Z
+- 24小时AI信号：1583 条
 - 源健康：12/14
-- 原始抓取：7128 条
+- 原始抓取：7210 条
 
 ## 今日重点
 
@@ -61,7 +61,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
@@ -119,7 +119,7 @@
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
 25. [莫迪勾勒印度增长蓝图 为年轻人提供免费辅导与AI培训](https://www.zaochenbao.com/news/politics/202608/1578825.html)
-   - 时间：今天 05:49
+   - 时间：今天 06:30
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 709/3512 | 20.2% | 高信号源，建议保留 |
-| Buzzing | 450/1564 | 28.8% | 高信号源，建议保留 |
-| Info Flow | 152/579 | 26.3% | 高信号源，建议保留 |
-| TechURLs | 86/284 | 30.3% | 高信号源，建议保留 |
-| Zeli | 57/66 | 86.4% | 高信号源，建议保留 |
-| NewsNow | 43/239 | 18.0% | 高信号源，建议保留 |
-| OPML RSS | 6/8 | 75.0% | 高信号源，建议保留 |
-| Follow Builders | 6/14 | 42.9% | 高信号源，建议保留 |
+| TopHub | 706/3529 | 20.0% | 高信号源，建议保留 |
+| Buzzing | 442/1543 | 28.6% | 高信号源，建议保留 |
+| Info Flow | 152/585 | 26.0% | 高信号源，建议保留 |
+| TechURLs | 81/277 | 29.2% | 高信号源，建议保留 |
+| Zeli | 62/73 | 84.9% | 高信号源，建议保留 |
+| NewsNow | 45/245 | 18.4% | 高信号源，建议保留 |
+| OPML RSS | 6/7 | 85.7% | 高信号源，建议保留 |
+| Follow Builders | 5/11 | 45.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
