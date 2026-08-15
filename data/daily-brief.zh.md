@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T23:27:13.875127Z
-- 24小时AI信号：1570 条
+- 生成时间：2026-08-15T23:47:50.949427Z
+- 24小时AI信号：1567 条
 - 源健康：12/14
-- 原始抓取：7260 条
+- 原始抓取：7266 条
 
 ## 今日重点
 
@@ -65,7 +65,7 @@
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [莫迪勾勒印度增长蓝图 为年轻人提供免费辅导与AI培训](https://www.zaochenbao.com/news/politics/202608/1578825.html)
-   - 时间：今天 07:28
+   - 时间：今天 07:48
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [60岁AI动画赛道新人](https://www.douyin.com/hot/2610767)
-   - 时间：今天 07:28
+25. [大爷手搓AI长片赛博英雄传](https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0)
+   - 时间：今天 07:48
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 698/3542 | 19.7% | 高信号源，建议保留 |
-| Buzzing | 429/1509 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 157/593 | 26.5% | 高信号源，建议保留 |
-| TechURLs | 79/277 | 28.5% | 高信号源，建议保留 |
-| Zeli | 65/77 | 84.4% | 高信号源，建议保留 |
-| NewsNow | 48/249 | 19.3% | 高信号源，建议保留 |
-| OPML RSS | 6/7 | 85.7% | 高信号源，建议保留 |
+| TopHub | 700/3519 | 19.9% | 高信号源，建议保留 |
+| Buzzing | 426/1504 | 28.3% | 高信号源，建议保留 |
+| Info Flow | 155/598 | 25.9% | 高信号源，建议保留 |
+| TechURLs | 80/281 | 28.5% | 高信号源，建议保留 |
+| Zeli | 66/78 | 84.6% | 高信号源，建议保留 |
+| NewsNow | 47/247 | 19.0% | 高信号源，建议保留 |
+| OPML RSS | 5/6 | 83.3% | 高信号源，建议保留 |
 | Follow Builders | 5/11 | 45.5% | 高信号源，建议保留 |
 
 ## 维护提示
