@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T07:36:48.069089Z
-- 24小时AI信号：1949 条
+- 生成时间：2026-08-15T07:55:57.649191Z
+- 24小时AI信号：1890 条
 - 源健康：12/14
-- 原始抓取：7314 条
+- 原始抓取：7316 条
 
 ## 今日重点
 
@@ -69,11 +69,11 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 14. [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
-   - 时间：1分钟前
+   - 时间：19分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research）](https://www.techmeme.com/260815/p2)
-   - 时间：2小时前
+15. [人工智能真的能帮助您的中小企业吗？研究发现四分之一的高管无法解释他们的人工智能实际上做了什么](https://www.techradar.com/pro/is-ai-really-helping-your-smb-study-finds-a-quarter-of-execs-cant-explain-what-their-ai-actually-does)
+   - 时间：55分钟前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,35 +91,35 @@
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [京东七鲜咖啡全球首发 24 小时无人店：机器人现制、AI 荐饮，落地北京银河 Soho](https://www.aibase.com/news/30356)
-   - 时间：昨天 15:42
-   - 来源：AIbase
+19. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
+   - 时间：昨天 13:31
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [百度GenFlow官宣中文名“库库AI”：推出PC、网页、小程序及企业版](https://www.aibase.com/news/30354)
-   - 时间：昨天 15:42
-   - 来源：AIbase
+20. [GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能](https://openai.com/index/builders-guide-to-gpt-5-6)
+   - 时间：08-13 19:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [​贾樟柯新片《敦煌妈妈》备案立项：独居母亲爱上 AI，实现横穿中国](https://www.aibase.com/news/30352)
-   - 时间：昨天 15:42
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [​反垄断风暴席卷科技圈：美国司法部强势推进禁令，Firefox 面临生存危机](https://www.aibase.com/news/30351)
-   - 时间：昨天 15:42
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
+21. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
    - 时间：08-12 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
-   - 时间：8小时前
+22. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
+   - 时间：9小时前
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
-25. [人工智能并不是“锯齿状”的，它只是人工智能形状的。这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。](https://x.com/thenanyu/status/2088335744909619230)
+23. [人工智能并不是“锯齿状”的，它只是人工智能形状的。这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。](https://x.com/thenanyu/status/2088335744909619230)
    - 时间：今天 02:43
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
+24. [Vercel 是世界上最快的 【AI 网关】 基础设施 https://t.co/AdxxRBdgvt](https://x.com/rauchg/status/2088323451132199338)
+   - 时间：今天 01:54
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [工作日的演变： 在人工智能之前：【决定】【过程】【过程】【决定】【过程】【过程】【过程】晚上10点：仍在进行人工智能之前：【决定】【决定】【决定】【决定】【决定】下午3点：【大脑空虚】【需要...](https://x.com/mattturck/status/2088323186819539041)
+   - 时间：今天 01:53
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 827/3718 | 22.2% | 高信号源，建议保留 |
-| Buzzing | 528/2140 | 24.7% | 高信号源，建议保留 |
-| Info Flow | 198/696 | 28.4% | 高信号源，建议保留 |
-| TechURLs | 141/395 | 35.7% | 高信号源，建议保留 |
-| Zeli | 81/95 | 85.3% | 高信号源，建议保留 |
-| NewsNow | 35/200 | 17.5% | 高信号源，建议保留 |
+| TopHub | 766/3454 | 22.2% | 高信号源，建议保留 |
+| Buzzing | 534/2170 | 24.6% | 高信号源，建议保留 |
+| Info Flow | 197/691 | 28.5% | 高信号源，建议保留 |
+| TechURLs | 144/399 | 36.1% | 高信号源，建议保留 |
+| Zeli | 82/96 | 85.4% | 高信号源，建议保留 |
+| NewsNow | 36/219 | 16.4% | 高信号源，建议保留 |
 | OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
-| AIbase | 15/15 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 15/32 | 46.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
