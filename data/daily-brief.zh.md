@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T07:55:57.649191Z
+- 生成时间：2026-08-15T08:37:45.570867Z
 - 24小时AI信号：1890 条
 - 源健康：12/14
-- 原始抓取：7316 条
+- 原始抓取：7312 条
 
 ## 今日重点
 
@@ -69,11 +69,11 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 14. [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
-   - 时间：19分钟前
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [人工智能真的能帮助您的中小企业吗？研究发现四分之一的高管无法解释他们的人工智能实际上做了什么](https://www.techradar.com/pro/is-ai-really-helping-your-smb-study-finds-a-quarter-of-execs-cant-explain-what-their-ai-actually-does)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 766/3454 | 22.2% | 高信号源，建议保留 |
-| Buzzing | 534/2170 | 24.6% | 高信号源，建议保留 |
-| Info Flow | 197/691 | 28.5% | 高信号源，建议保留 |
-| TechURLs | 144/399 | 36.1% | 高信号源，建议保留 |
-| Zeli | 82/96 | 85.4% | 高信号源，建议保留 |
-| NewsNow | 36/219 | 16.4% | 高信号源，建议保留 |
+| TopHub | 773/3561 | 21.7% | 高信号源，建议保留 |
+| Buzzing | 531/2153 | 24.7% | 高信号源，建议保留 |
+| Info Flow | 196/677 | 29.0% | 高信号源，建议保留 |
+| TechURLs | 140/391 | 35.8% | 高信号源，建议保留 |
+| Zeli | 81/95 | 85.3% | 高信号源，建议保留 |
+| NewsNow | 38/235 | 16.2% | 高信号源，建议保留 |
 | OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
 | Follow Builders | 15/32 | 46.9% | 高信号源，建议保留 |
 
