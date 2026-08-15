@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T16:33:06.896711Z
-- 24小时AI信号：1700 条
+- 生成时间：2026-08-15T16:53:00.034631Z
+- 24小时AI信号：1699 条
 - 源健康：12/14
-- 原始抓取：7257 条
+- 原始抓取：7258 条
 
 ## 今日重点
 
@@ -69,11 +69,11 @@
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -96,7 +96,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [Cursor 对人工智能产品文化的影响被低估了。有一段时间，人工智能产品陷入了聊天机器人阶段，正在寻找可以利用的产品元。就在那时，“x 的光标”出现了……](https://x.com/realmadhuguru/status/2088489059115270532)
-   - 时间：11小时前
+   - 时间：昨天 12:52
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 751/3591 | 20.9% | 高信号源，建议保留 |
-| Buzzing | 496/1887 | 26.3% | 高信号源，建议保留 |
-| Info Flow | 148/586 | 25.3% | 高信号源，建议保留 |
-| TechURLs | 95/310 | 30.6% | 高信号源，建议保留 |
-| Zeli | 61/71 | 85.9% | 高信号源，建议保留 |
-| NewsNow | 47/247 | 19.0% | 高信号源，建议保留 |
-| Follow Builders | 11/23 | 47.8% | 高信号源，建议保留 |
+| TopHub | 763/3675 | 20.8% | 高信号源，建议保留 |
+| Buzzing | 491/1856 | 26.5% | 高信号源，建议保留 |
+| Info Flow | 144/585 | 24.6% | 高信号源，建议保留 |
+| TechURLs | 96/315 | 30.5% | 高信号源，建议保留 |
+| Zeli | 60/69 | 87.0% | 高信号源，建议保留 |
+| NewsNow | 44/239 | 18.4% | 高信号源，建议保留 |
+| Follow Builders | 10/22 | 45.5% | 高信号源，建议保留 |
 | OPML RSS | 6/9 | 66.7% | 高信号源，建议保留 |
 
 ## 维护提示
