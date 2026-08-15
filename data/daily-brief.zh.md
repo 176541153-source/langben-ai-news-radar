@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T06:50:42.936425Z
-- 24小时AI信号：1948 条
+- 生成时间：2026-08-15T07:36:48.069089Z
+- 24小时AI信号：1949 条
 - 源健康：12/14
-- 原始抓取：7311 条
+- 原始抓取：7314 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Claude 文本水印机制如何运作](https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas)
-   - 时间：11小时前
+   - 时间：今天 03:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv)
@@ -68,13 +68,13 @@
    - 时间：今天 00:15
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research）](https://www.techmeme.com/260815/p2)
-   - 时间：1小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [浙大团队开源 AI 科研智能体 Polaris：让 AI 与你一起做研究](https://news.qq.com/rain/a/20260815A06F5J00)
-   - 时间：2小时前
+14. [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
+   - 时间：1分钟前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research）](https://www.techmeme.com/260815/p2)
+   - 时间：2小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 804/3607 | 22.3% | 高信号源，建议保留 |
-| Buzzing | 536/2179 | 24.6% | 高信号源，建议保留 |
-| Info Flow | 204/711 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 143/404 | 35.4% | 高信号源，建议保留 |
+| TopHub | 827/3718 | 22.2% | 高信号源，建议保留 |
+| Buzzing | 528/2140 | 24.7% | 高信号源，建议保留 |
+| Info Flow | 198/696 | 28.4% | 高信号源，建议保留 |
+| TechURLs | 141/395 | 35.7% | 高信号源，建议保留 |
 | Zeli | 81/95 | 85.3% | 高信号源，建议保留 |
-| NewsNow | 41/209 | 19.6% | 高信号源，建议保留 |
+| NewsNow | 35/200 | 17.5% | 高信号源，建议保留 |
 | OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
 | AIbase | 15/15 | 100.0% | 高信号源，建议保留 |
 
