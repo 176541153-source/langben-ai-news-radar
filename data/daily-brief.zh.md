@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-14T23:50:22.732660Z
-- 24小时AI信号：2064 条
+- 生成时间：2026-08-15T01:42:19.924047Z
+- 24小时AI信号：2061 条
 - 源健康：12/14
-- 原始抓取：7284 条
+- 原始抓取：7277 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Claude 文本水印机制如何运作](https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [通义千问开源 Qwen3.8 系列模型](https://aihot.virxact.com/items/cmst3j53e03ncro068tgsr4xn)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲](https://www.aibase.com/news/30362)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战](https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Cursor 正式并入 SpaceXAI 助力 Grok](https://aihot.virxact.com/items/cmssyoxc90mssroff4k237ysa)
-   - 时间：10小时前
+   - 时间：昨天 21:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88)
@@ -65,22 +65,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [想用GPT-Image2做产品详情页？先学会这2个思路！](https://www.uisdc.com/gpt-image2-listings)
-   - 时间：21分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [新手快收藏！一篇文章快速了解AI常用工具+案例+工作流](https://www.uisdc.com/design-flow-2)
-   - 时间：21分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [AI时代最该学的笔记软件！教你从零到一学会Obsidian](https://www.uisdc.com/obsidian-2)
-   - 时间：21分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3)
-   - 时间：11小时前
+   - 时间：昨天 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [AI企业也能按Token融资：广东首推“Token贷”](https://www.aibase.com/news/30365)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 753/3492 | 21.6% | 高信号源，建议保留 |
-| Buzzing | 622/2375 | 26.2% | 高信号源，建议保留 |
-| Info Flow | 268/827 | 32.4% | 高信号源，建议保留 |
-| TechURLs | 150/398 | 37.7% | 高信号源，建议保留 |
-| Zeli | 72/86 | 83.7% | 高信号源，建议保留 |
+| TopHub | 802/3675 | 21.8% | 高信号源，建议保留 |
+| Buzzing | 584/2230 | 26.2% | 高信号源，建议保留 |
+| Info Flow | 255/807 | 31.6% | 高信号源，建议保留 |
+| TechURLs | 150/408 | 36.8% | 高信号源，建议保留 |
+| Zeli | 75/89 | 84.3% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 38/194 | 19.6% | 高信号源，建议保留 |
-| OPML RSS | 18/24 | 75.0% | 高信号源，建议保留 |
+| NewsNow | 39/202 | 19.3% | 高信号源，建议保留 |
+| OPML RSS | 18/22 | 81.8% | 高信号源，建议保留 |
 
 ## 维护提示
 
