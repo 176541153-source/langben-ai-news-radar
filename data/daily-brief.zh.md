@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T10:50:01.082082Z
-- 24小时AI信号：1806 条
+- 生成时间：2026-08-15T11:27:18.003066Z
+- 24小时AI信号：1775 条
 - 源健康：12/14
-- 原始抓取：7309 条
+- 原始抓取：7302 条
 
 ## 今日重点
 
@@ -45,7 +45,7 @@
    - 时间：昨天 21:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88)
+9. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff)
    - 时间：昨天 19:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -60,20 +60,20 @@
    - 时间：08-13 09:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Research Gold 号称"100%人类撰写、绝不使用AI"，实则全程由AI驱动](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai)
-   - 时间：08-12 13:41
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [有些人使用人工智能的方式让周围的每个人都感觉有点落后。我们希望这些人参与《论文：2027》。如果想到某个人（高管、建设者、创意人员），请提名他们。我们已经预订了...](https://x.com/danshipper/status/2088298533912989736)
+12. [有些人使用人工智能的方式让周围的每个人都感觉有点落后。我们希望这些人参与《论文：2027》。如果想到某个人（高管、建设者、创意人员），请提名他们。我们已经预订了...](https://x.com/danshipper/status/2088298533912989736)
    - 时间：今天 00:15
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [培训人工智能科学家复制研究](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：9分钟前
+13. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
+   - 时间：41分钟前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
+   - 时间：46分钟前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌研究：GPT-5 和 Gemini 3 也会“话到嘴边想不起来”，提出“知识画像”框架](https://hub.baai.ac.cn/view/57144)
-   - 时间：20分钟前
+   - 时间：57分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -96,30 +96,30 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [Cursor 对人工智能产品文化的影响被低估了。有一段时间，人工智能产品陷入了聊天机器人阶段，正在寻找可以利用的产品元。就在那时，“x 的光标”出现了……](https://x.com/realmadhuguru/status/2088489059115270532)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
+21. [AI-generated books are flooding Amazon and tanking sales for human authors](https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors)
+   - 时间：26分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
    - 时间：08-12 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
+23. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
    - 时间：今天 06:43
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
-23. [人工智能并不是“锯齿状”的，它只是人工智能形状的。这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。](https://x.com/thenanyu/status/2088335744909619230)
+24. [人工智能并不是“锯齿状”的，它只是人工智能形状的。这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。](https://x.com/thenanyu/status/2088335744909619230)
    - 时间：今天 02:43
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-24. [Vercel 是世界上最快的 【AI 网关】 基础设施 https://t.co/AdxxRBdgvt](https://x.com/rauchg/status/2088323451132199338)
+25. [Vercel 是世界上最快的 【AI 网关】 基础设施 https://t.co/AdxxRBdgvt](https://x.com/rauchg/status/2088323451132199338)
    - 时间：今天 01:54
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [工作日的演变： 在人工智能之前：【决定】【过程】【过程】【决定】【过程】【过程】【过程】晚上10点：仍在进行人工智能之前：【决定】【决定】【决定】【决定】【决定】下午3点：【大脑空虚】【需要...](https://x.com/mattturck/status/2088323186819539041)
-   - 时间：今天 01:53
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 748/3552 | 21.1% | 高信号源，建议保留 |
-| Buzzing | 520/2088 | 24.9% | 高信号源，建议保留 |
-| Info Flow | 175/619 | 28.3% | 高信号源，建议保留 |
-| TechURLs | 123/378 | 32.5% | 高信号源，建议保留 |
-| Zeli | 75/91 | 82.4% | 高信号源，建议保留 |
-| NewsNow | 44/247 | 17.8% | 高信号源，建议保留 |
+| TopHub | 734/3515 | 20.9% | 高信号源，建议保留 |
+| Buzzing | 514/2051 | 25.1% | 高信号源，建议保留 |
+| Info Flow | 168/605 | 27.8% | 高信号源，建议保留 |
+| TechURLs | 119/362 | 32.9% | 高信号源，建议保留 |
+| Zeli | 76/92 | 82.6% | 高信号源，建议保留 |
+| NewsNow | 44/239 | 18.4% | 高信号源，建议保留 |
 | OPML RSS | 16/20 | 80.0% | 高信号源，建议保留 |
 | Follow Builders | 15/32 | 46.9% | 高信号源，建议保留 |
 
