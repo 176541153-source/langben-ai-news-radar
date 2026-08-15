@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T05:31:24.790530Z
-- 24小时AI信号：1936 条
+- 生成时间：2026-08-15T05:53:21.748657Z
+- 24小时AI信号：1939 条
 - 源健康：12/14
-- 原始抓取：7312 条
+- 原始抓取：7313 条
 
 ## 今日重点
 
@@ -64,16 +64,16 @@
    - 时间：08-12 13:41
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [浙大团队开源 AI 科研智能体 Polaris：让 AI 与你一起做研究](https://news.qq.com/rain/a/20260815A06F5J00)
-   - 时间：52分钟前
+13. [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research）](https://www.techmeme.com/260815/p2)
+   - 时间：28分钟前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [浙大团队开源 AI 科研智能体 Polaris：让 AI 与你一起做研究](https://news.qq.com/rain/a/20260815A06F5J00)
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [AI漫剧爆发在即：AIGC技术驱动动漫短剧内容变现新风口与市场变革深度研究报告](https://www.woshipm.com/?p=6326925)
+15. [AI漫剧爆发在即：AIGC技术驱动动漫短剧内容变现新风口与市场变革深度研究报告](https://www.woshipm.com/?p=6326925)
    - 时间：2小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [想用GPT-Image2做产品详情页？先学会这2个思路！](https://www.uisdc.com/gpt-image2-listings)
-   - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
 25. [王彼得：AI进化论：从无心之过到恶向胆边生](https://www.zaochenbao.com/news/opinion/202608/1578771.html)
-   - 时间：今天 13:32
+   - 时间：今天 13:54
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 773/3548 | 21.8% | 高信号源，建议保留 |
-| Buzzing | 564/2209 | 25.5% | 高信号源，建议保留 |
-| Info Flow | 212/731 | 29.0% | 高信号源，建议保留 |
-| TechURLs | 145/402 | 36.1% | 高信号源，建议保留 |
-| Zeli | 77/91 | 84.6% | 高信号源，建议保留 |
-| NewsNow | 39/202 | 19.3% | 高信号源，建议保留 |
+| TopHub | 787/3625 | 21.7% | 高信号源，建议保留 |
+| Buzzing | 551/2179 | 25.3% | 高信号源，建议保留 |
+| Info Flow | 209/732 | 28.6% | 高信号源，建议保留 |
+| TechURLs | 148/405 | 36.5% | 高信号源，建议保留 |
+| Zeli | 79/93 | 84.9% | 高信号源，建议保留 |
+| NewsNow | 39/201 | 19.4% | 高信号源，建议保留 |
 | OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
 | AIbase | 17/17 | 100.0% | 高信号源，建议保留 |
 
