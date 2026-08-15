@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T11:47:50.200256Z
-- 24小时AI信号：1796 条
+- 生成时间：2026-08-15T12:52:06.638447Z
+- 24小时AI信号：1792 条
 - 源健康：12/14
-- 原始抓取：7303 条
+- 原始抓取：7307 条
 
 ## 今日重点
 
@@ -65,21 +65,21 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 13. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌研究：GPT-5 和 Gemini 3 也会“话到嘴边想不起来”，提出“知识画像”框架](https://hub.baai.ac.cn/view/57144)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3)
+16. [Cursor 正式被 SpaceX 收购](https://cursor.com/blog/joining-spacex)
    - 时间：昨天 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -96,18 +96,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [Cursor 对人工智能产品文化的影响被低估了。有一段时间，人工智能产品陷入了聊天机器人阶段，正在寻找可以利用的产品元。就在那时，“x 的光标”出现了……](https://x.com/realmadhuguru/status/2088489059115270532)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：47分钟前
+21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI-generated books are flooding Amazon and tanking sales for human authors](https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors)
-   - 时间：47分钟前
+22. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 745/3562 | 20.9% | 高信号源，建议保留 |
-| Buzzing | 518/2042 | 25.4% | 高信号源，建议保留 |
-| Info Flow | 168/609 | 27.6% | 高信号源，建议保留 |
-| TechURLs | 125/378 | 33.1% | 高信号源，建议保留 |
-| Zeli | 75/91 | 82.4% | 高信号源，建议保留 |
-| NewsNow | 45/240 | 18.8% | 高信号源，建议保留 |
+| TopHub | 742/3567 | 20.8% | 高信号源，建议保留 |
+| Buzzing | 523/2041 | 25.6% | 高信号源，建议保留 |
+| Info Flow | 169/623 | 27.1% | 高信号源，建议保留 |
+| TechURLs | 120/371 | 32.3% | 高信号源，建议保留 |
+| Zeli | 73/90 | 81.1% | 高信号源，建议保留 |
+| NewsNow | 45/241 | 18.7% | 高信号源，建议保留 |
 | OPML RSS | 15/19 | 78.9% | 高信号源，建议保留 |
-| Follow Builders | 15/32 | 46.9% | 高信号源，建议保留 |
+| Follow Builders | 15/31 | 48.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
