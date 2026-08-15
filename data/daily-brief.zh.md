@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T08:37:45.570867Z
-- 24小时AI信号：1890 条
+- 生成时间：2026-08-15T09:33:01.806573Z
+- 24小时AI信号：1834 条
 - 源健康：12/14
 - 原始抓取：7312 条
 
@@ -22,13 +22,13 @@
    - 时间：昨天 23:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲](https://www.aibase.com/news/30362)
-   - 时间：昨天 17:13
-   - 来源：AIbase
+4. [DeepSeek V4 Pro 登陆硅基流动，1M 上下文](https://x.com/SiliconFlowAI/status/2088127458558271885)
+   - 时间：昨天 12:55
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [重磅！AI座舱再添猛将，一汽-大众纯电新星正式接入豆包大模型](https://www.aibase.com/news/30360)
-   - 时间：昨天 17:13
-   - 来源：AIbase
+5. [2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量](https://huggingface.co/blog/state-of-open-models-summer-2026)
+   - 时间：昨天 08:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
@@ -49,9 +49,9 @@
    - 时间：昨天 19:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台](https://www.aibase.com/news/30364)
-   - 时间：昨天 17:13
-   - 来源：AIbase
+10. [蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c)
+   - 时间：昨天 12:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
@@ -68,13 +68,13 @@
    - 时间：今天 00:15
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
+14. [人工智能研究大师](https://www.producthunt.com/products/researchmaster-ai)
+   - 时间：11分钟前
+   - 来源：NewsNow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
    - 时间：1小时前
    - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [人工智能真的能帮助您的中小企业吗？研究发现四分之一的高管无法解释他们的人工智能实际上做了什么](https://www.techradar.com/pro/is-ai-really-helping-your-smb-study-finds-a-quarter-of-execs-cant-explain-what-their-ai-actually-does)
-   - 时间：1小时前
-   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -87,16 +87,16 @@
    - 时间：昨天 18:34
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心](https://www.aibase.com/news/30359)
-   - 时间：昨天 17:13
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
+18. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
    - 时间：昨天 13:31
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能](https://openai.com/index/builders-guide-to-gpt-5-6)
+19. [GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能](https://openai.com/index/builders-guide-to-gpt-5-6)
    - 时间：08-13 19:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [Meta 开源 Muse Glimmer 登陆 OpenRouter](https://x.com/OpenRouter/status/2087509478480765218)
+   - 时间：08-12 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -107,7 +107,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [OAuth 应用程序的多个重定向 URI 和令牌刷新](https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
 23. [人工智能并不是“锯齿状”的，它只是人工智能形状的。这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。](https://x.com/thenanyu/status/2088335744909619230)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 773/3561 | 21.7% | 高信号源，建议保留 |
-| Buzzing | 531/2153 | 24.7% | 高信号源，建议保留 |
-| Info Flow | 196/677 | 29.0% | 高信号源，建议保留 |
-| TechURLs | 140/391 | 35.8% | 高信号源，建议保留 |
-| Zeli | 81/95 | 85.3% | 高信号源，建议保留 |
-| NewsNow | 38/235 | 16.2% | 高信号源，建议保留 |
-| OPML RSS | 19/24 | 79.2% | 高信号源，建议保留 |
+| TopHub | 751/3480 | 21.6% | 高信号源，建议保留 |
+| Buzzing | 519/2132 | 24.3% | 高信号源，建议保留 |
+| Info Flow | 193/660 | 29.2% | 高信号源，建议保留 |
+| TechURLs | 124/365 | 34.0% | 高信号源，建议保留 |
+| Zeli | 81/96 | 84.4% | 高信号源，建议保留 |
+| NewsNow | 40/228 | 17.5% | 高信号源，建议保留 |
+| OPML RSS | 20/25 | 80.0% | 高信号源，建议保留 |
 | Follow Builders | 15/32 | 46.9% | 高信号源，建议保留 |
 
 ## 维护提示
