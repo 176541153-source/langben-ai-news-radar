@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T13:36:16.419596Z
-- 24小时AI信号：1791 条
+- 生成时间：2026-08-15T13:54:53.758398Z
+- 24小时AI信号：1799 条
 - 源健康：12/14
-- 原始抓取：7308 条
+- 原始抓取：7310 条
 
 ## 今日重点
 
@@ -65,11 +65,11 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 13. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [谷歌研究：GPT-5 和 Gemini 3 也会“话到嘴边想不起来”，提出“知识画像”框架](https://hub.baai.ac.cn/view/57144)
@@ -96,7 +96,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [Cursor 对人工智能产品文化的影响被低估了。有一段时间，人工智能产品陷入了聊天机器人阶段，正在寻找可以利用的产品元。就在那时，“x 的光标”出现了……](https://x.com/realmadhuguru/status/2088489059115270532)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 757/3650 | 20.7% | 高信号源，建议保留 |
-| Buzzing | 525/2020 | 26.0% | 高信号源，建议保留 |
-| Info Flow | 161/608 | 26.5% | 高信号源，建议保留 |
-| TechURLs | 114/354 | 32.2% | 高信号源，建议保留 |
-| Zeli | 70/86 | 81.4% | 高信号源，建议保留 |
-| NewsNow | 45/242 | 18.6% | 高信号源，建议保留 |
-| OPML RSS | 15/19 | 78.9% | 高信号源，建议保留 |
-| Follow Builders | 15/31 | 48.4% | 高信号源，建议保留 |
+| TopHub | 767/3691 | 20.8% | 高信号源，建议保留 |
+| Buzzing | 522/1997 | 26.1% | 高信号源，建议保留 |
+| Info Flow | 159/607 | 26.2% | 高信号源，建议保留 |
+| TechURLs | 117/373 | 31.4% | 高信号源，建议保留 |
+| Zeli | 71/87 | 81.6% | 高信号源，建议保留 |
+| NewsNow | 47/244 | 19.3% | 高信号源，建议保留 |
+| OPML RSS | 14/18 | 77.8% | 高信号源，建议保留 |
+| Follow Builders | 13/28 | 46.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
