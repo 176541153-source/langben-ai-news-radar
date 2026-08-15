@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T20:30:52.440658Z
-- 24小时AI信号：1613 条
+- 生成时间：2026-08-15T20:50:15.517415Z
+- 24小时AI信号：1625 条
 - 源健康：12/14
-- 原始抓取：7251 条
+- 原始抓取：7249 条
 
 ## 今日重点
 
@@ -69,18 +69,18 @@
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Cursor 正式被 SpaceX 收购](https://cursor.com/blog/joining-spacex)
-   - 时间：24分钟前
+16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
+   - 时间：44分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
@@ -119,7 +119,7 @@
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
 25. [莫迪勾勒印度增长蓝图 为年轻人提供免费辅导与AI培训](https://www.zaochenbao.com/news/politics/202608/1578825.html)
-   - 时间：今天 04:31
+   - 时间：今天 04:51
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 724/3574 | 20.3% | 高信号源，建议保留 |
-| Buzzing | 466/1649 | 28.3% | 高信号源，建议保留 |
-| Info Flow | 151/567 | 26.6% | 高信号源，建议保留 |
-| TechURLs | 82/281 | 29.2% | 高信号源，建议保留 |
-| Zeli | 54/62 | 87.1% | 高信号源，建议保留 |
-| NewsNow | 41/242 | 16.9% | 高信号源，建议保留 |
+| TopHub | 725/3592 | 20.2% | 高信号源，建议保留 |
+| Buzzing | 470/1649 | 28.5% | 高信号源，建议保留 |
+| Info Flow | 150/569 | 26.4% | 高信号源，建议保留 |
+| TechURLs | 88/285 | 30.9% | 高信号源，建议保留 |
+| Zeli | 55/63 | 87.3% | 高信号源，建议保留 |
+| NewsNow | 41/237 | 17.3% | 高信号源，建议保留 |
 | OPML RSS | 6/9 | 66.7% | 高信号源，建议保留 |
 | Follow Builders | 6/15 | 40.0% | 高信号源，建议保留 |
 
