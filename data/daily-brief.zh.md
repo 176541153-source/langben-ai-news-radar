@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T03:07:28.322443Z
-- 24小时AI信号：1522 条
+- 生成时间：2026-08-16T04:09:33.927246Z
+- 24小时AI信号：1509 条
 - 源健康：12/14
-- 原始抓取：7278 条
+- 原始抓取：7284 条
 
 ## 今日重点
 
@@ -60,27 +60,27 @@
    - 时间：08-13 09:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem – sankalp's blog 标签: #AI-assisted development, #kernel optimization, #performance engineering, #Codex, #GPU computing 阿里开放权重模型下载量超 30 亿，超越 Meta 与谷歌](https://thysrael.github.io/Horizon/2026/08/16/summary-zh.html#item-7)
-   - 时间：3小时前
-   - 来源：Horizon
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
-   - 时间：11小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
-   - 时间：昨天 22:30
+12. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：昨天 18:45
+13. [Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem – sankalp's blog 标签: #AI-assisted development, #kernel optimization, #performance engineering, #Codex, #GPU computing 阿里开放权重模型下载量超 30 亿，超越 Meta 与谷歌](https://thysrael.github.io/Horizon/2026/08/16/summary-zh.html#item-7)
+   - 时间：4小时前
+   - 来源：Horizon
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
+   - 时间：昨天 23:17
    - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
+   - 时间：昨天 22:30
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
@@ -119,7 +119,7 @@
    - 来源：OPML RSS
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [中国特稿：中国缩小与美国前沿差距引恐慌 华盛顿祭出防堵大招 硅谷AI罕见降价应战](https://www.zaochenbao.com/news/politics/202608/1678839.html)
-   - 时间：今天 11:08
+   - 时间：今天 12:10
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 665/3415 | 19.5% | 高信号源，建议保留 |
-| Buzzing | 420/1464 | 28.7% | 高信号源，建议保留 |
-| Info Flow | 153/597 | 25.6% | 高信号源，建议保留 |
-| TechURLs | 77/285 | 27.0% | 高信号源，建议保留 |
-| Zeli | 65/77 | 84.4% | 高信号源，建议保留 |
-| NewsNow | 50/246 | 20.3% | 高信号源，建议保留 |
-| OPML RSS | 5/8 | 62.5% | 高信号源，建议保留 |
-| Follow Builders | 4/7 | 57.1% | 高信号源，建议保留 |
+| TopHub | 667/3403 | 19.6% | 高信号源，建议保留 |
+| Buzzing | 413/1433 | 28.8% | 高信号源，建议保留 |
+| Info Flow | 143/583 | 24.5% | 高信号源，建议保留 |
+| TechURLs | 78/285 | 27.4% | 高信号源，建议保留 |
+| Zeli | 68/80 | 85.0% | 高信号源，建议保留 |
+| NewsNow | 49/250 | 19.6% | 高信号源，建议保留 |
+| OPML RSS | 5/7 | 71.4% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
