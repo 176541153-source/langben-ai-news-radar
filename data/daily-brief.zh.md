@@ -1,40 +1,40 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T22:49:19.283078Z
-- 24小时AI信号：1396 条
+- 生成时间：2026-08-16T23:27:04.563860Z
+- 24小时AI信号：1376 条
 - 源健康：12/14
-- 原始抓取：7137 条
+- 原始抓取：7202 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://x.com/GeminiApp/status/2088326407730692538)
+1. [Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考](https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://x.com/GeminiApp/status/2088326407730692538)
    - 时间：08-15 02:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [通义千问开源 Qwen3.8 系列模型](https://x.com/Alibaba_Qwen/status/2088280182356611304)
+3. [通义千问开源 Qwen3.8 系列模型](https://x.com/Alibaba_Qwen/status/2088280182356611304)
    - 时间：08-14 23:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [DeepSeek V4 Pro 登陆硅基流动，1M 上下文](https://x.com/SiliconFlowAI/status/2088127458558271885)
+4. [DeepSeek V4 Pro 登陆硅基流动，1M 上下文](https://x.com/SiliconFlowAI/status/2088127458558271885)
    - 时间：08-14 12:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量](https://huggingface.co/blog/state-of-open-models-summer-2026)
+5. [2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量](https://huggingface.co/blog/state-of-open-models-summer-2026)
    - 时间：08-14 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [从0到1带你速通DeepSeek Harness。](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2)
-   - 时间：08-14 07:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [新兴多智能体系统的模式与问题](https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l)
-   - 时间：11小时前
+   - 时间：昨天 19:17
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
@@ -57,23 +57,23 @@
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 06:50
+   - 时间：今天 07:28
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [明查｜南极冰川现“神秘生物”？AI又整活了](https://www.thepaper.cn/newsDetail_forward_33792037)
-   - 时间：今天 06:50
+   - 时间：今天 07:28
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [哈佛教授因使用人工智能撰写反特朗普评论文章而遭到猛烈抨击：“这是我见过的最糟糕的烂文章” - New York Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkowMlRoeTF6RTU1MzYxdk91OTdFS1dwaDJZemJnTUpNLUpyYjdqRjh4ZC1meUJ6WERvMW5udk40Mzl1dGRlRmU1MWxtUzA4bTlYTDJTTGdYUmxhdEJrZkwzMldMWXBlVWVPNVVfblpYMVRkNFpUZ1I4XzNHUUh0MjBrb3l2cEp0QkJOeXNrTmcwZmU1eXhjdWx2V1VmZkdZVXN2c3JFSkM?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [DeepSeek Harness论文——它想让AI学会安全地“自我升级“](https://blog.csdn.net/liuzi511/article/details/163792037)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
-   - 时间：11小时前
+   - 时间：昨天 19:17
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -92,11 +92,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [估值超过2万亿美元 Anthropic冲刺“史上最大IPO”](https://ckxxapp.ckxx.net/pages/2026/08/16/7cd05f98ca084b05a1ee507c0dfa8f06.html)
-   - 时间：今天 06:50
+   - 时间：今天 07:28
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 06:50
+   - 时间：今天 07:28
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -106,20 +106,20 @@
    - 时间：08-15 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
-   - 时间：08-12 21:01
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
+22. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
    - 时间：昨天 13:56
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-24. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
+23. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
    - 时间：昨天 07:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [“首个被AI老板开除的人类员工”](https://view.inews.qq.com/a/20260816A07VRZ00)
-   - 时间：今天 06:50
+24. [“首个被AI老板开除的人类员工”](https://view.inews.qq.com/a/20260816A07VRZ00)
+   - 时间：今天 07:28
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [大爷手搓AI长片赛博英雄传](https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0)
+   - 时间：今天 07:28
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 650/3396 | 19.1% | 高信号源，建议保留 |
-| Buzzing | 394/1228 | 32.1% | 高信号源，建议保留 |
-| Info Flow | 124/523 | 23.7% | 高信号源，建议保留 |
-| TechURLs | 59/210 | 28.1% | 高信号源，建议保留 |
-| Zeli | 48/61 | 78.7% | 高信号源，建议保留 |
-| NewsNow | 35/227 | 15.4% | 高信号源，建议保留 |
+| TopHub | 624/3400 | 18.4% | 高信号源，建议保留 |
+| Buzzing | 402/1245 | 32.3% | 高信号源，建议保留 |
+| Info Flow | 125/522 | 23.9% | 高信号源，建议保留 |
+| TechURLs | 59/209 | 28.2% | 高信号源，建议保留 |
+| Zeli | 46/59 | 78.0% | 高信号源，建议保留 |
+| NewsNow | 33/224 | 14.7% | 高信号源，建议保留 |
 | Follow Builders | 3/11 | 27.3% | 高信号源，建议保留 |
-| OPML RSS | 2/5 | 40.0% | 高信号源，建议保留 |
+| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
