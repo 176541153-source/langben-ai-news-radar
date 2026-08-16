@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T13:37:02.309051Z
-- 24小时AI信号：1427 条
+- 生成时间：2026-08-16T13:55:41.321295Z
+- 24小时AI信号：1430 条
 - 源健康：12/14
-- 原始抓取：7297 条
+- 原始抓取：7300 条
 
 ## 今日重点
 
@@ -57,11 +57,11 @@
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 21:37
+   - 时间：今天 21:56
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [明查｜南极冰川现“神秘生物”？AI又整活了](https://www.thepaper.cn/newsDetail_forward_33792037)
-   - 时间：今天 21:37
+   - 时间：今天 21:56
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
@@ -69,7 +69,7 @@
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
@@ -92,11 +92,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [估值超过2万亿美元 Anthropic冲刺“史上最大IPO”](https://ckxxapp.ckxx.net/pages/2026/08/16/7cd05f98ca084b05a1ee507c0dfa8f06.html)
-   - 时间：今天 21:38
+   - 时间：今天 21:56
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 21:37
+   - 时间：今天 21:56
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [一条AI短片演绎时间焦虑](https://www.douyin.com/hot/2612104)
-   - 时间：今天 21:37
+   - 时间：今天 21:56
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,11 +127,11 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 649/3310 | 19.6% | 高信号源，建议保留 |
-| Buzzing | 388/1247 | 31.1% | 高信号源，建议保留 |
-| Info Flow | 130/531 | 24.5% | 高信号源，建议保留 |
+| TopHub | 646/3300 | 19.6% | 高信号源，建议保留 |
+| Buzzing | 394/1244 | 31.7% | 高信号源，建议保留 |
+| Info Flow | 126/529 | 23.8% | 高信号源，建议保留 |
 | Zeli | 70/81 | 86.4% | 高信号源，建议保留 |
-| TechURLs | 57/231 | 24.7% | 高信号源，建议保留 |
+| TechURLs | 61/242 | 25.2% | 高信号源，建议保留 |
 | NewsNow | 40/248 | 16.1% | 高信号源，建议保留 |
 | Follow Builders | 8/23 | 34.8% | 高信号源，建议保留 |
 | OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
