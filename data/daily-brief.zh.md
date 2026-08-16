@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T11:26:51.799948Z
-- 24小时AI信号：1454 条
+- 生成时间：2026-08-16T11:48:06.058855Z
+- 24小时AI信号：1450 条
 - 源健康：12/14
-- 原始抓取：7296 条
+- 原始抓取：7292 条
 
 ## 今日重点
 
@@ -33,43 +33,43 @@
 
 ### 产品与开发者工具
 
-6. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
+6. [新兴多智能体系统的模式与问题](https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l)
+   - 时间：30分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
    - 时间：08-14 22:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff)
+8. [dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理](https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff)
    - 时间：08-14 19:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c)
+9. [蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c)
    - 时间：08-14 12:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型](https://deepmind.google/blog/introducing-gemini-3-7-flash)
+10. [Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型](https://deepmind.google/blog/introducing-gemini-3-7-flash)
    - 时间：08-14 01:04
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Cursor 推出 builds：云智能体启动速度提升至 3 倍](https://cursor.com/blog/builds)
-   - 时间：08-13 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 19:27
+   - 时间：今天 19:49
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
-   - 时间：8分钟前
+   - 时间：30分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
@@ -92,11 +92,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 19:27
+   - 时间：今天 19:49
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨](https://www.cls.cn/detail/2455064)
-   - 时间：今天 19:27
+   - 时间：今天 19:49
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -115,11 +115,11 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 24. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
-   - 时间：11小时前
+   - 时间：今天 07:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [用AI编造“青岛大学新校徽像旭日旗” 男子被行拘](https://www.zaochenbao.com/news/china/202608/1678867.html)
-   - 时间：今天 19:27
+   - 时间：今天 19:49
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 657/3310 | 19.8% | 高信号源，建议保留 |
-| Buzzing | 405/1299 | 31.2% | 高信号源，建议保留 |
-| Info Flow | 122/528 | 23.1% | 高信号源，建议保留 |
+| TopHub | 651/3252 | 20.0% | 高信号源，建议保留 |
+| Buzzing | 402/1283 | 31.3% | 高信号源，建议保留 |
+| Info Flow | 125/531 | 23.5% | 高信号源，建议保留 |
 | Zeli | 75/85 | 88.2% | 高信号源，建议保留 |
-| TechURLs | 62/255 | 24.3% | 高信号源，建议保留 |
-| NewsNow | 41/246 | 16.7% | 高信号源，建议保留 |
+| TechURLs | 63/262 | 24.0% | 高信号源，建议保留 |
+| NewsNow | 41/245 | 16.7% | 高信号源，建议保留 |
 | Follow Builders | 8/23 | 34.8% | 高信号源，建议保留 |
 | OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
