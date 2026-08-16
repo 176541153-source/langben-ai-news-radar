@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T06:52:12.484518Z
-- 24小时AI信号：1476 条
+- 生成时间：2026-08-16T07:37:33.390021Z
+- 24小时AI信号：1469 条
 - 源健康：12/14
-- 原始抓取：7291 条
+- 原始抓取：7295 条
 
 ## 今日重点
 
@@ -61,26 +61,26 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 14:53
+   - 时间：今天 15:38
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
-   - 时间：1小时前
+13. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
+14. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
    - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem – sankalp's blog 标签: #AI-assisted development, #kernel optimization, #performance engineering, #Codex, #GPU computing 阿里开放权重模型下载量超 30 亿，超越 Meta 与谷歌](https://thysrael.github.io/Horizon/2026/08/16/summary-zh.html#item-7)
-   - 时间：6小时前
-   - 来源：Horizon
+15. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
+   - 时间：3小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
@@ -95,8 +95,8 @@
    - 时间：08-12 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨](https://www.cls.cn/detail/2455064)
-   - 时间：今天 14:53
+20. [Anthropic二季度营收同比暴涨1400%](https://www.toutiao.com/trending/7674506368329453102)
+   - 时间：14分钟前
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -115,7 +115,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 635/3263 | 19.5% | 高信号源，建议保留 |
-| Buzzing | 420/1404 | 29.9% | 高信号源，建议保留 |
-| Info Flow | 128/555 | 23.1% | 高信号源，建议保留 |
-| Zeli | 75/86 | 87.2% | 高信号源，建议保留 |
-| TechURLs | 74/288 | 25.7% | 高信号源，建议保留 |
-| NewsNow | 48/245 | 19.6% | 高信号源，建议保留 |
+| TopHub | 639/3326 | 19.2% | 高信号源，建议保留 |
+| Buzzing | 415/1376 | 30.2% | 高信号源，建议保留 |
+| Info Flow | 124/546 | 22.7% | 高信号源，建议保留 |
+| Zeli | 75/85 | 88.2% | 高信号源，建议保留 |
+| TechURLs | 70/283 | 24.7% | 高信号源，建议保留 |
+| NewsNow | 50/249 | 20.1% | 高信号源，建议保留 |
 | Follow Builders | 8/23 | 34.8% | 高信号源，建议保留 |
 | OPML RSS | 5/7 | 71.4% | 高信号源，建议保留 |
 
