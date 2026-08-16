@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T05:34:23.650180Z
-- 24小时AI信号：1476 条
+- 生成时间：2026-08-16T05:56:28.609490Z
+- 24小时AI信号：1473 条
 - 源健康：12/14
 - 原始抓取：7296 条
 
@@ -61,7 +61,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
-   - 时间：1分钟前
+   - 时间：22分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
@@ -95,9 +95,9 @@
    - 时间：08-12 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨](https://www.cls.cn/detail/2455064)
-   - 时间：27分钟前
-   - 来源：TrendRadar
+20. [2张图表：SpaceX以600亿美元完成对Cursor的收购](https://finance.yahoo.com/technology/ai/articles/2-charts-spacex-closes-60b-231946293.html)
+   - 时间：14分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -119,7 +119,7 @@
    - 来源：OPML RSS
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [中国特稿：中国缩小与美国前沿差距引恐慌 华盛顿祭出防堵大招 硅谷AI罕见降价应战](https://www.zaochenbao.com/news/politics/202608/1678839.html)
-   - 时间：今天 13:35
+   - 时间：今天 13:57
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 643/3309 | 19.4% | 高信号源，建议保留 |
-| Buzzing | 410/1405 | 29.2% | 高信号源，建议保留 |
-| Info Flow | 137/575 | 23.8% | 高信号源，建议保留 |
-| Zeli | 74/85 | 87.1% | 高信号源，建议保留 |
-| TechURLs | 73/287 | 25.4% | 高信号源，建议保留 |
-| NewsNow | 50/251 | 19.9% | 高信号源，建议保留 |
+| TopHub | 638/3274 | 19.5% | 高信号源，建议保留 |
+| Buzzing | 413/1405 | 29.4% | 高信号源，建议保留 |
+| Info Flow | 135/569 | 23.7% | 高信号源，建议保留 |
+| Zeli | 75/86 | 87.2% | 高信号源，建议保留 |
+| TechURLs | 74/291 | 25.4% | 高信号源，建议保留 |
+| NewsNow | 50/250 | 20.0% | 高信号源，建议保留 |
 | OPML RSS | 5/7 | 71.4% | 高信号源，建议保留 |
 | AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
