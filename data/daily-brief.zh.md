@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T19:46:39.423652Z
-- 24小时AI信号：1377 条
+- 生成时间：2026-08-16T20:30:33.787663Z
+- 24小时AI信号：1370 条
 - 源健康：12/14
-- 原始抓取：7232 条
+- 原始抓取：7235 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [新兴多智能体系统的模式与问题](https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
@@ -57,29 +57,29 @@
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 03:47
+   - 时间：今天 04:31
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [明查｜南极冰川现“神秘生物”？AI又整活了](https://www.thepaper.cn/newsDetail_forward_33792037)
-   - 时间：今天 03:47
+   - 时间：今天 04:31
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [DeepSeek Harness论文——它想让AI学会安全地“自我升级“](https://blog.csdn.net/liuzi511/article/details/163792037)
-   - 时间：2小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
-   - 时间：8小时前
+13. [哈佛教授因使用人工智能撰写反特朗普评论文章而遭到猛烈抨击：“这是我见过的最糟糕的烂文章” - New York Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkowMlRoeTF6RTU1MzYxdk91OTdFS1dwaDJZemJnTUpNLUpyYjdqRjh4ZC1meUJ6WERvMW5udk40Mzl1dGRlRmU1MWxtUzA4bTlYTDJTTGdYUmxhdEJrZkwzMldMWXBlVWVPNVVfblpYMVRkNFpUZ1I4XzNHUUh0MjBrb3l2cEp0QkJOeXNrTmcwZmU1eXhjdWx2V1VmZkdZVXN2c3JFSkM?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：6分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
-   - 时间：昨天 15:37
+14. [DeepSeek Harness论文——它想让AI学会安全地“自我升级“](https://blog.csdn.net/liuzi511/article/details/163792037)
+   - 时间：3小时前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
+   - 时间：9小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
+16. [Cursor 正式被 SpaceX 收购](https://cursor.com/blog/joining-spacex)
    - 时间：昨天 04:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -92,11 +92,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [估值超过2万亿美元 Anthropic冲刺“史上最大IPO”](https://ckxxapp.ckxx.net/pages/2026/08/16/7cd05f98ca084b05a1ee507c0dfa8f06.html)
-   - 时间：今天 03:47
+   - 时间：今天 04:31
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 03:47
+   - 时间：今天 04:31
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [“首个被AI老板开除的人类员工”](https://view.inews.qq.com/a/20260816A07VRZ00)
-   - 时间：今天 03:47
+   - 时间：今天 04:31
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 625/3363 | 18.6% | 高信号源，建议保留 |
-| Buzzing | 400/1238 | 32.3% | 高信号源，建议保留 |
-| Info Flow | 120/530 | 22.6% | 高信号源，建议保留 |
-| Zeli | 53/62 | 85.5% | 高信号源，建议保留 |
-| TechURLs | 52/213 | 24.4% | 高信号源，建议保留 |
-| NewsNow | 37/242 | 15.3% | 高信号源，建议保留 |
-| Follow Builders | 5/18 | 27.8% | 高信号源，建议保留 |
+| TopHub | 625/3379 | 18.5% | 高信号源，建议保留 |
+| Buzzing | 402/1243 | 32.3% | 高信号源，建议保留 |
+| Info Flow | 118/529 | 22.3% | 高信号源，建议保留 |
+| Zeli | 54/63 | 85.7% | 高信号源，建议保留 |
+| TechURLs | 47/205 | 22.9% | 高信号源，建议保留 |
+| NewsNow | 36/238 | 15.1% | 高信号源，建议保留 |
+| Follow Builders | 4/15 | 26.7% | 高信号源，建议保留 |
 | OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
 ## 维护提示
