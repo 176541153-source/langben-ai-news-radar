@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-15T23:47:50.949427Z
-- 24小时AI信号：1567 条
+- 生成时间：2026-08-16T01:49:44.974913Z
+- 24小时AI信号：1525 条
 - 源健康：12/14
-- 原始抓取：7266 条
+- 原始抓取：7265 条
 
 ## 今日重点
 
@@ -60,27 +60,27 @@
    - 时间：08-13 09:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
-   - 时间：8小时前
+12. [Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem – sankalp's blog 标签: #AI-assisted development, #kernel optimization, #performance engineering, #Codex, #GPU computing 阿里开放权重模型下载量超 30 亿，超越 Meta 与谷歌](https://thysrael.github.io/Horizon/2026/08/16/summary-zh.html#item-7)
+   - 时间：1小时前
+   - 来源：Horizon
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
+   - 时间：10小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
-   - 时间：9小时前
+14. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
+   - 时间：11小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
+15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
    - 时间：昨天 18:45
    - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [培养人工智能科学家以复现研究成果](https://inherentlabs.ai/research/training-to-replicate)
-   - 时间：昨天 18:40
-   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
@@ -114,12 +114,12 @@
    - 时间：08-12 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [莫迪勾勒印度增长蓝图 为年轻人提供免费辅导与AI培训](https://www.zaochenbao.com/news/politics/202608/1578825.html)
-   - 时间：今天 07:48
+24. [中国特稿：中国缩小与美国前沿差距引恐慌 华盛顿祭出防堵大招 硅谷AI罕见降价应战](https://www.zaochenbao.com/news/politics/202608/1678839.html)
+   - 时间：今天 09:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [大爷手搓AI长片赛博英雄传](https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0)
-   - 时间：今天 07:48
+25. [中美AI竞赛进入关键阶段 华盛顿或要各国选边站](https://www.zaochenbao.com/news/politics/202608/1678837.html)
+   - 时间：今天 09:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 700/3519 | 19.9% | 高信号源，建议保留 |
-| Buzzing | 426/1504 | 28.3% | 高信号源，建议保留 |
-| Info Flow | 155/598 | 25.9% | 高信号源，建议保留 |
-| TechURLs | 80/281 | 28.5% | 高信号源，建议保留 |
-| Zeli | 66/78 | 84.6% | 高信号源，建议保留 |
-| NewsNow | 47/247 | 19.0% | 高信号源，建议保留 |
-| OPML RSS | 5/6 | 83.3% | 高信号源，建议保留 |
-| Follow Builders | 5/11 | 45.5% | 高信号源，建议保留 |
+| TopHub | 666/3418 | 19.5% | 高信号源，建议保留 |
+| Buzzing | 430/1488 | 28.9% | 高信号源，建议保留 |
+| Info Flow | 153/591 | 25.9% | 高信号源，建议保留 |
+| TechURLs | 76/281 | 27.0% | 高信号源，建议保留 |
+| Zeli | 62/74 | 83.8% | 高信号源，建议保留 |
+| NewsNow | 47/243 | 19.3% | 高信号源，建议保留 |
+| OPML RSS | 4/6 | 66.7% | 高信号源，建议保留 |
+| Follow Builders | 4/8 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
