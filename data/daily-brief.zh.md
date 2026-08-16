@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T11:48:06.058855Z
-- 24小时AI信号：1450 条
+- 生成时间：2026-08-16T12:53:19.535455Z
+- 24小时AI信号：1437 条
 - 源健康：12/14
-- 原始抓取：7292 条
+- 原始抓取：7297 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [新兴多智能体系统的模式与问题](https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l)
-   - 时间：30分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
@@ -57,23 +57,23 @@
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 19:49
+   - 时间：今天 20:54
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
-   - 时间：30分钟前
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,12 +91,12 @@
    - 时间：08-13 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 19:49
+19. [估值超过2万亿美元 Anthropic冲刺“史上最大IPO”](https://ckxxapp.ckxx.net/pages/2026/08/16/7cd05f98ca084b05a1ee507c0dfa8f06.html)
+   - 时间：今天 20:54
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨](https://www.cls.cn/detail/2455064)
-   - 时间：今天 19:49
+20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
+   - 时间：今天 20:54
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -111,15 +111,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 24. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
    - 时间：今天 07:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [用AI编造“青岛大学新校徽像旭日旗” 男子被行拘](https://www.zaochenbao.com/news/china/202608/1678867.html)
-   - 时间：今天 19:49
+25. [AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元](https://www.cls.cn/detail/2455252)
+   - 时间：今天 20:54
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 651/3252 | 20.0% | 高信号源，建议保留 |
-| Buzzing | 402/1283 | 31.3% | 高信号源，建议保留 |
-| Info Flow | 125/531 | 23.5% | 高信号源，建议保留 |
-| Zeli | 75/85 | 88.2% | 高信号源，建议保留 |
-| TechURLs | 63/262 | 24.0% | 高信号源，建议保留 |
-| NewsNow | 41/245 | 16.7% | 高信号源，建议保留 |
+| TopHub | 644/3271 | 19.7% | 高信号源，建议保留 |
+| Buzzing | 404/1278 | 31.6% | 高信号源，建议保留 |
+| Info Flow | 123/525 | 23.4% | 高信号源，建议保留 |
+| Zeli | 72/82 | 87.8% | 高信号源，建议保留 |
+| TechURLs | 61/249 | 24.5% | 高信号源，建议保留 |
+| NewsNow | 40/247 | 16.2% | 高信号源，建议保留 |
 | Follow Builders | 8/23 | 34.8% | 高信号源，建议保留 |
 | OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
