@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T16:53:56.610769Z
-- 24小时AI信号：1417 条
+- 生成时间：2026-08-16T17:25:58.203290Z
+- 24小时AI信号：1456 条
 - 源健康：12/14
-- 原始抓取：7251 条
+- 原始抓取：7222 条
 
 ## 今日重点
 
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [新兴多智能体系统的模式与问题](https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
@@ -57,23 +57,23 @@
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 00:55
+   - 时间：今天 01:29
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [明查｜南极冰川现“神秘生物”？AI又整活了](https://www.thepaper.cn/newsDetail_forward_33792037)
-   - 时间：今天 00:55
+   - 时间：今天 01:29
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
-   - 时间：5小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
-   - 时间：9小时前
+13. [DeepSeek Harness论文——它想让AI学会安全地“自我升级“](https://blog.csdn.net/liuzi511/article/details/163792037)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
-   - 时间：11小时前
+14. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
+   - 时间：6小时前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
+   - 时间：9小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -92,11 +92,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [估值超过2万亿美元 Anthropic冲刺“史上最大IPO”](https://ckxxapp.ckxx.net/pages/2026/08/16/7cd05f98ca084b05a1ee507c0dfa8f06.html)
-   - 时间：今天 00:55
+   - 时间：今天 01:29
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 00:55
+   - 时间：今天 01:29
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -111,7 +111,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 24. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [“首个被AI老板开除的人类员工”](https://view.inews.qq.com/a/20260816A07VRZ00)
-   - 时间：今天 00:55
+   - 时间：今天 01:29
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 656/3312 | 19.8% | 高信号源，建议保留 |
-| Buzzing | 384/1197 | 32.1% | 高信号源，建议保留 |
-| Info Flow | 128/533 | 24.0% | 高信号源，建议保留 |
-| Zeli | 65/78 | 83.3% | 高信号源，建议保留 |
-| TechURLs | 57/227 | 25.1% | 高信号源，建议保留 |
-| NewsNow | 36/239 | 15.1% | 高信号源，建议保留 |
+| TopHub | 688/3472 | 19.8% | 高信号源，建议保留 |
+| Buzzing | 393/1210 | 32.5% | 高信号源，建议保留 |
+| Info Flow | 128/541 | 23.7% | 高信号源，建议保留 |
+| Zeli | 63/76 | 82.9% | 高信号源，建议保留 |
+| TechURLs | 55/219 | 25.1% | 高信号源，建议保留 |
+| NewsNow | 38/240 | 15.8% | 高信号源，建议保留 |
 | Follow Builders | 6/19 | 31.6% | 高信号源，建议保留 |
 | OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
