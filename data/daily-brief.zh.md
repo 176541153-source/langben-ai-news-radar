@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T10:50:55.995997Z
-- 24小时AI信号：1445 条
+- 生成时间：2026-08-16T11:26:51.799948Z
+- 24小时AI信号：1454 条
 - 源健康：12/14
-- 原始抓取：7301 条
+- 原始抓取：7296 条
 
 ## 今日重点
 
@@ -56,13 +56,13 @@
 
 ### 论文研究与评测
 
-11. [新兴多智能体系统的模式与问题](https://www.anthropic.com/research/multiagent-systems)
-   - 时间：08-13 09:20
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 18:51
+11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
+   - 时间：今天 19:27
    - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+12. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
+   - 时间：8分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
    - 时间：3小时前
@@ -73,7 +73,7 @@
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,50 +91,50 @@
    - 时间：08-13 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Meta 开源 Muse Glimmer 登陆 OpenRouter](https://x.com/OpenRouter/status/2087509478480765218)
-   - 时间：08-12 20:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 18:51
+19. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
+   - 时间：今天 19:27
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨](https://www.cls.cn/detail/2455064)
+   - 时间：今天 19:27
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
+21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors)
    - 时间：昨天 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v)
-   - 时间：昨天 19:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
+22. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
    - 时间：08-12 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
-   - 时间：4小时前
+23. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
+   - 时间：5小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
+24. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
    - 时间：11小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [用AI编造“青岛大学新校徽像旭日旗” 男子被行拘](https://www.zaochenbao.com/news/china/202608/1678867.html)
+   - 时间：今天 19:27
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 643/3246 | 19.8% | 高信号源，建议保留 |
-| Buzzing | 404/1300 | 31.1% | 高信号源，建议保留 |
-| Info Flow | 120/532 | 22.6% | 高信号源，建议保留 |
-| Zeli | 74/85 | 87.1% | 高信号源，建议保留 |
-| TechURLs | 66/268 | 24.6% | 高信号源，建议保留 |
-| NewsNow | 44/247 | 17.8% | 高信号源，建议保留 |
+| TopHub | 657/3310 | 19.8% | 高信号源，建议保留 |
+| Buzzing | 405/1299 | 31.2% | 高信号源，建议保留 |
+| Info Flow | 122/528 | 23.1% | 高信号源，建议保留 |
+| Zeli | 75/85 | 88.2% | 高信号源，建议保留 |
+| TechURLs | 62/255 | 24.3% | 高信号源，建议保留 |
+| NewsNow | 41/246 | 16.7% | 高信号源，建议保留 |
 | Follow Builders | 8/23 | 34.8% | 高信号源，建议保留 |
-| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
