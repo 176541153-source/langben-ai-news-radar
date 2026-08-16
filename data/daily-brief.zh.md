@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T05:02:24.515633Z
-- 24小时AI信号：1488 条
+- 生成时间：2026-08-16T05:34:23.650180Z
+- 24小时AI信号：1476 条
 - 源健康：12/14
-- 原始抓取：7300 条
+- 原始抓取：7296 条
 
 ## 今日重点
 
@@ -60,27 +60,27 @@
    - 时间：08-13 09:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
-   - 时间：52分钟前
+12. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem – sankalp's blog 标签: #AI-assisted development, #kernel optimization, #performance engineering, #Codex, #GPU computing 阿里开放权重模型下载量超 30 亿，超越 Meta 与谷歌](https://thysrael.github.io/Horizon/2026/08/16/summary-zh.html#item-7)
+13. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
+   - 时间：1小时前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem – sankalp's blog 标签: #AI-assisted development, #kernel optimization, #performance engineering, #Codex, #GPU computing 阿里开放权重模型下载量超 30 亿，超越 Meta 与谷歌](https://thysrael.github.io/Horizon/2026/08/16/summary-zh.html#item-7)
    - 时间：5小时前
    - 来源：Horizon
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
+15. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
    - 时间：昨天 23:17
    - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵](https://www.woshipm.com/?p=6447383)
-   - 时间：昨天 22:30
-   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
@@ -95,9 +95,9 @@
    - 时间：08-12 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [曾担任网络安全公司 Wiz 总裁兼首席运营官，OpenAI 挖角 Dali Rajic 担任首席营收官](https://www.ithome.com/0/990/271.htm)
-   - 时间：20分钟前
-   - 来源：Info Flow
+20. [太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨](https://www.cls.cn/detail/2455064)
+   - 时间：27分钟前
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -119,7 +119,7 @@
    - 来源：OPML RSS
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [中国特稿：中国缩小与美国前沿差距引恐慌 华盛顿祭出防堵大招 硅谷AI罕见降价应战](https://www.zaochenbao.com/news/politics/202608/1678839.html)
-   - 时间：今天 13:03
+   - 时间：今天 13:35
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 650/3358 | 19.4% | 高信号源，建议保留 |
-| Buzzing | 415/1434 | 28.9% | 高信号源，建议保留 |
-| Info Flow | 138/581 | 23.8% | 高信号源，建议保留 |
-| TechURLs | 76/289 | 26.3% | 高信号源，建议保留 |
-| Zeli | 71/82 | 86.6% | 高信号源，建议保留 |
-| NewsNow | 48/251 | 19.1% | 高信号源，建议保留 |
+| TopHub | 643/3309 | 19.4% | 高信号源，建议保留 |
+| Buzzing | 410/1405 | 29.2% | 高信号源，建议保留 |
+| Info Flow | 137/575 | 23.8% | 高信号源，建议保留 |
+| Zeli | 74/85 | 87.1% | 高信号源，建议保留 |
+| TechURLs | 73/287 | 25.4% | 高信号源，建议保留 |
+| NewsNow | 50/251 | 19.9% | 高信号源，建议保留 |
 | OPML RSS | 5/7 | 71.4% | 高信号源，建议保留 |
 | AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
