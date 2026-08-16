@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T04:09:33.927246Z
-- 24小时AI信号：1509 条
+- 生成时间：2026-08-16T05:02:24.515633Z
+- 24小时AI信号：1488 条
 - 源健康：12/14
-- 原始抓取：7284 条
+- 原始抓取：7300 条
 
 ## 今日重点
 
@@ -61,11 +61,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [arXiv 2026 | OmniScientist：一位全模态、全学科的人工智能科学家](https://hub.baai.ac.cn/view/57159)
-   - 时间：1分钟前
+   - 时间：52分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem – sankalp's blog 标签: #AI-assisted development, #kernel optimization, #performance engineering, #Codex, #GPU computing 阿里开放权重模型下载量超 30 亿，超越 Meta 与谷歌](https://thysrael.github.io/Horizon/2026/08/16/summary-zh.html#item-7)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：Horizon
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [评估安费诺（APH）在人工智能基础设施领域的布局](https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html)
@@ -95,10 +95,10 @@
    - 时间：08-12 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Cursor 对人工智能产品文化的影响被低估了。有一段时间，人工智能产品陷入了聊天机器人阶段，正在寻找可以利用的产品元。就在那时，“x 的光标”出现了……](https://x.com/realmadhuguru/status/2088489059115270532)
-   - 时间：昨天 12:52
-   - 来源：Follow Builders
-   - 评分：8.5/10 · matched_tracked_ai_keyword
+20. [曾担任网络安全公司 Wiz 总裁兼首席运营官，OpenAI 挖角 Dali Rajic 担任首席营收官](https://www.ithome.com/0/990/271.htm)
+   - 时间：20分钟前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
@@ -119,7 +119,7 @@
    - 来源：OPML RSS
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [中国特稿：中国缩小与美国前沿差距引恐慌 华盛顿祭出防堵大招 硅谷AI罕见降价应战](https://www.zaochenbao.com/news/politics/202608/1678839.html)
-   - 时间：今天 12:10
+   - 时间：今天 13:03
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 667/3403 | 19.6% | 高信号源，建议保留 |
-| Buzzing | 413/1433 | 28.8% | 高信号源，建议保留 |
-| Info Flow | 143/583 | 24.5% | 高信号源，建议保留 |
-| TechURLs | 78/285 | 27.4% | 高信号源，建议保留 |
-| Zeli | 68/80 | 85.0% | 高信号源，建议保留 |
-| NewsNow | 49/250 | 19.6% | 高信号源，建议保留 |
+| TopHub | 650/3358 | 19.4% | 高信号源，建议保留 |
+| Buzzing | 415/1434 | 28.9% | 高信号源，建议保留 |
+| Info Flow | 138/581 | 23.8% | 高信号源，建议保留 |
+| TechURLs | 76/289 | 26.3% | 高信号源，建议保留 |
+| Zeli | 71/82 | 86.6% | 高信号源，建议保留 |
+| NewsNow | 48/251 | 19.1% | 高信号源，建议保留 |
 | OPML RSS | 5/7 | 71.4% | 高信号源，建议保留 |
 | AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
