@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T15:48:56.380384Z
-- 24小时AI信号：1431 条
+- 生成时间：2026-08-16T16:33:30.850207Z
+- 24小时AI信号：1418 条
 - 源健康：12/14
-- 原始抓取：7294 条
+- 原始抓取：7253 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户](https://x.com/GeminiApp/status/2088326407730692538)
-   - 时间：昨天 02:06
+   - 时间：08-15 02:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [通义千问开源 Qwen3.8 系列模型](https://x.com/Alibaba_Qwen/status/2088280182356611304)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [新兴多智能体系统的模式与问题](https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground)
@@ -57,15 +57,15 @@
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 23:50
+   - 时间：今天 00:34
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [明查｜南极冰川现“神秘生物”？AI又整活了](https://www.thepaper.cn/newsDetail_forward_33792037)
-   - 时间：今天 23:50
+   - 时间：今天 00:34
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [Cursor 正式被 SpaceX 收购](https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk)
-   - 时间：今天 04:05
+   - 时间：昨天 04:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492)
@@ -92,18 +92,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [估值超过2万亿美元 Anthropic冲刺“史上最大IPO”](https://ckxxapp.ckxx.net/pages/2026/08/16/7cd05f98ca084b05a1ee507c0dfa8f06.html)
-   - 时间：今天 23:50
+   - 时间：今天 00:34
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 23:50
+   - 时间：今天 00:34
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入](https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors)
-   - 时间：昨天 19:00
+   - 时间：08-15 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [我写了一本 AI 教科书--AI 还要多久才能写得更好？](https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until)
@@ -111,15 +111,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。算法的改进和持续的硬件......](https://x.com/amasad/status/2088867492907327573)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 24. [我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkV...](https://x.com/petergyang/status/2088772605323214999)
-   - 时间：今天 07:39
+   - 时间：昨天 07:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [“首个被AI老板开除的人类员工”](https://view.inews.qq.com/a/20260816A07VRZ00)
-   - 时间：今天 23:50
+   - 时间：今天 00:34
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 656/3356 | 19.5% | 高信号源，建议保留 |
-| Buzzing | 394/1205 | 32.7% | 高信号源，建议保留 |
-| Info Flow | 124/524 | 23.7% | 高信号源，建议保留 |
-| Zeli | 69/80 | 86.3% | 高信号源，建议保留 |
-| TechURLs | 60/231 | 26.0% | 高信号源，建议保留 |
-| NewsNow | 37/240 | 15.4% | 高信号源，建议保留 |
-| Follow Builders | 6/20 | 30.0% | 高信号源，建议保留 |
+| TopHub | 658/3327 | 19.8% | 高信号源，建议保留 |
+| Buzzing | 385/1188 | 32.4% | 高信号源，建议保留 |
+| Info Flow | 127/534 | 23.8% | 高信号源，建议保留 |
+| Zeli | 67/80 | 83.8% | 高信号源，建议保留 |
+| TechURLs | 55/221 | 24.9% | 高信号源，建议保留 |
+| NewsNow | 35/239 | 14.6% | 高信号源，建议保留 |
+| Follow Builders | 6/19 | 31.6% | 高信号源，建议保留 |
 | OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
 ## 维护提示
