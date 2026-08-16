@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-16T15:28:30.826263Z
-- 24小时AI信号：1443 条
+- 生成时间：2026-08-16T15:48:56.380384Z
+- 24小时AI信号：1431 条
 - 源健康：12/14
 - 原始抓取：7294 条
 
@@ -57,11 +57,11 @@
 ### 论文研究与评测
 
 11. [民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹](https://www.thepaper.cn/newsDetail_forward_33791922)
-   - 时间：今天 23:31
+   - 时间：今天 23:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 12. [明查｜南极冰川现“神秘生物”？AI又整活了](https://www.thepaper.cn/newsDetail_forward_33792037)
-   - 时间：今天 23:31
+   - 时间：今天 23:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 13. [AI作弊、试卷泄露和评分错误：考试抗议活动如何席卷全球](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)
@@ -69,11 +69,11 @@
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Qwen3.8-27B 多项榜单反超 Claude，消费级显卡可跑 Opus 级 Agent](https://hub.baai.ac.cn/view/57160)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570582)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -92,11 +92,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [估值超过2万亿美元 Anthropic冲刺“史上最大IPO”](https://ckxxapp.ckxx.net/pages/2026/08/16/7cd05f98ca084b05a1ee507c0dfa8f06.html)
-   - 时间：今天 23:32
+   - 时间：今天 23:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 20. [民进党：北京利用AI技术增强介选能力](https://www.zaochenbao.com/news/taiwan/202608/1678880.html)
-   - 时间：今天 23:31
+   - 时间：今天 23:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -118,8 +118,8 @@
    - 时间：今天 07:39
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [一条AI短片演绎时间焦虑](https://www.douyin.com/hot/2612104)
-   - 时间：今天 23:31
+25. [“首个被AI老板开除的人类员工”](https://view.inews.qq.com/a/20260816A07VRZ00)
+   - 时间：今天 23:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 665/3359 | 19.8% | 高信号源，建议保留 |
-| Buzzing | 395/1212 | 32.6% | 高信号源，建议保留 |
-| Info Flow | 125/522 | 23.9% | 高信号源，建议保留 |
-| Zeli | 71/82 | 86.6% | 高信号源，建议保留 |
-| TechURLs | 57/224 | 25.4% | 高信号源，建议保留 |
-| NewsNow | 38/243 | 15.6% | 高信号源，建议保留 |
+| TopHub | 656/3356 | 19.5% | 高信号源，建议保留 |
+| Buzzing | 394/1205 | 32.7% | 高信号源，建议保留 |
+| Info Flow | 124/524 | 23.7% | 高信号源，建议保留 |
+| Zeli | 69/80 | 86.3% | 高信号源，建议保留 |
+| TechURLs | 60/231 | 26.0% | 高信号源，建议保留 |
+| NewsNow | 37/240 | 15.4% | 高信号源，建议保留 |
 | Follow Builders | 6/20 | 30.0% | 高信号源，建议保留 |
-| OPML RSS | 4/5 | 80.0% | 高信号源，建议保留 |
+| OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
