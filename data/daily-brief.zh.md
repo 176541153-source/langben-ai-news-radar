@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T15:32:03.432414Z
-- 24小时AI信号：1891 条
+- 生成时间：2026-08-17T15:51:36.506544Z
+- 24小时AI信号：1927 条
 - 源健康：12/14
-- 原始抓取：7377 条
+- 原始抓取：7384 条
 
 ## 今日重点
 
@@ -38,7 +38,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻](https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年](https://www.aibase.com/news/30398)
@@ -64,12 +64,12 @@
    - 时间：08-14 14:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [“大学指控我用AI写论文，但明明都是我自己写的”](https://www.zaochenbao.com/news/opinion/202608/1778909.html)
-   - 时间：今天 23:33
-   - 来源：TrendRadar
+13. [【分享发现】 研究了一下 local.ai](https://www.v2ex.com/t/1235143)
+   - 时间：今天 23:52
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Ask HN: 人们之所以仍在进行经典人工智能研究，是因为它有助于现代人工智能吗？](https://news.ycombinator.com/item?id=49330503)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [阿里 Qwen-Audio-3.0 系列语音模型上线千问 AI 平台，斩获国际评测「大满贯」](https://www.aibase.com/zh/news/30399)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [https://x.com/i/article/2089330332369588224](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [苹果蓄势待发！正与各大出版商密谋付费引入实时新闻](https://www.aibase.com/news/30406)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 786/3645 | 21.6% | 高信号源，建议保留 |
-| Buzzing | 495/1854 | 26.7% | 高信号源，建议保留 |
-| Info Flow | 262/863 | 30.4% | 高信号源，建议保留 |
-| TechURLs | 100/282 | 35.5% | 高信号源，建议保留 |
-| Zeli | 61/72 | 84.7% | 高信号源，建议保留 |
+| TopHub | 788/3647 | 21.6% | 高信号源，建议保留 |
+| Buzzing | 504/1902 | 26.5% | 高信号源，建议保留 |
+| Info Flow | 260/869 | 29.9% | 高信号源，建议保留 |
+| TechURLs | 122/328 | 37.2% | 高信号源，建议保留 |
+| Zeli | 64/76 | 84.2% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 35/210 | 16.7% | 高信号源，建议保留 |
+| NewsNow | 37/215 | 17.2% | 高信号源，建议保留 |
 | OPML RSS | 16/25 | 64.0% | 高信号源，建议保留 |
 
 ## 维护提示
