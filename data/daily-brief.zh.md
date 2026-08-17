@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T20:57:10.023497Z
-- 24小时AI信号：2109 条
+- 生成时间：2026-08-17T21:32:31.422849Z
+- 24小时AI信号：2125 条
 - 源健康：12/14
-- 原始抓取：7272 条
+- 原始抓取：7258 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛](https://www.aibase.com/news/30405)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [348 万澳元报告被 ChatGPT"润色"：澳大利亚社媒禁令技术依据遭假引用反噬](https://www.aibase.com/news/30393)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元](https://aihot.virxact.com/items/cmsxbrft40478robn8pxoq793)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
@@ -46,7 +46,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年](https://www.aibase.com/news/30398)
-   - 时间：11小时前
+   - 时间：昨天 17:10
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Anthropic CEO称AI抵制”从根本上说是深层的信任危机”](https://www.aibase.com/news/30391)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”](https://www.aibase.com/news/30399)
-   - 时间：11小时前
+   - 时间：昨天 17:10
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://www.zhipuai.cn/zh/research/162)
@@ -84,11 +84,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [A 股迎来&quot;人形机器人第一股&quot;，宇树科技官宣 8 月 19 日科创板上市](https://aihot.virxact.com/items/cmsx9jy2a05yerommy1e0jc6t)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [A 股迎来"人形机器人第一股"，宇树科技官宣 8 月 19 日科创板上市](https://www.ithome.com/0/990/812.htm)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望](https://www.aibase.com/news/30396)
@@ -107,7 +107,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南](https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [苹果蓄势待发！正与各大出版商密谋付费引入实时新闻](https://www.aibase.com/news/30406)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果](https://www.aibase.com/news/30404)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 795/3620 | 22.0% | 高信号源，建议保留 |
-| Buzzing | 603/2203 | 27.4% | 高信号源，建议保留 |
-| Info Flow | 272/887 | 30.7% | 高信号源，建议保留 |
-| TechURLs | 168/430 | 39.1% | 高信号源，建议保留 |
-| Zeli | 72/89 | 80.9% | 高信号源，建议保留 |
-| NewsNow | 44/230 | 19.1% | 高信号源，建议保留 |
+| TopHub | 795/3665 | 21.7% | 高信号源，建议保留 |
+| Buzzing | 618/2273 | 27.2% | 高信号源，建议保留 |
+| Info Flow | 275/886 | 31.0% | 高信号源，建议保留 |
+| TechURLs | 165/424 | 38.9% | 高信号源，建议保留 |
+| Zeli | 73/89 | 82.0% | 高信号源，建议保留 |
+| NewsNow | 45/234 | 19.2% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 17/27 | 63.0% | 高信号源，建议保留 |
+| OPML RSS | 16/27 | 59.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
