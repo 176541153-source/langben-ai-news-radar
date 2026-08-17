@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T23:29:17.660367Z
-- 24小时AI信号：2137 条
+- 生成时间：2026-08-17T23:49:04.477270Z
+- 24小时AI信号：2145 条
 - 源健康：12/14
-- 原始抓取：7275 条
+- 原始抓取：7277 条
 
 ## 今日重点
 
@@ -33,8 +33,8 @@
 
 ### 产品与开发者工具
 
-6. [用 Google 的 Agent Development Kit 构建零信任 AI 智能体](https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit)
-   - 时间：6分钟前
+6. [用 Google 的 Agent Development Kit 构建零信任 AI 智能体](https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j)
+   - 时间：26分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案](https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h)
@@ -46,11 +46,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻](https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -65,11 +65,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [40+行业案例实测！教你零基础掌握GPT Image 2](https://www.uisdc.com/gpt-image-2-17)
-   - 时间：1分钟前
+   - 时间：19分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [这样用AI做海报排版，高级感立马提升！](https://www.uisdc.com/layout-power)
-   - 时间：1分钟前
+   - 时间：19分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [GPT-Live 分析研究：从回合式语音到连续交互循环](https://blog.csdn.net/w776341482/article/details/163814317)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁](https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南](https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu)
@@ -111,7 +111,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [苹果蓄势待发！正与各大出版商密谋付费引入实时新闻](https://www.aibase.com/news/30406)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 788/3678 | 21.4% | 高信号源，建议保留 |
-| Buzzing | 635/2330 | 27.3% | 高信号源，建议保留 |
-| Info Flow | 276/894 | 30.9% | 高信号源，建议保留 |
-| TechURLs | 165/435 | 37.9% | 高信号源，建议保留 |
-| Zeli | 78/91 | 85.7% | 高信号源，建议保留 |
-| NewsNow | 41/236 | 17.4% | 高信号源，建议保留 |
+| TopHub | 788/3684 | 21.4% | 高信号源，建议保留 |
+| Buzzing | 641/2335 | 27.5% | 高信号源，建议保留 |
+| Info Flow | 277/899 | 30.8% | 高信号源，建议保留 |
+| TechURLs | 165/434 | 38.0% | 高信号源，建议保留 |
+| Zeli | 77/90 | 85.6% | 高信号源，建议保留 |
+| NewsNow | 42/237 | 17.7% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 16/26 | 61.5% | 高信号源，建议保留 |
 
