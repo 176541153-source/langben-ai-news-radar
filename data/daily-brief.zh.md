@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T16:36:05.528318Z
-- 24小时AI信号：1969 条
+- 生成时间：2026-08-17T16:58:42.060283Z
+- 24小时AI信号：1975 条
 - 源健康：12/14
-- 原始抓取：7273 条
+- 原始抓取：7275 条
 
 ## 今日重点
 
@@ -37,8 +37,8 @@
    - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://x.com/JensenHuang/status/2089331487342829862)
-   - 时间：3小时前
+7. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻](https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb)
@@ -65,11 +65,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [【分享发现】 研究了一下 local.ai](https://www.v2ex.com/t/1235143)
-   - 时间：43分钟前
+   - 时间：1小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Ask HN: 人们之所以仍在进行经典人工智能研究，是因为它有助于现代人工智能吗？](https://news.ycombinator.com/item?id=49330503)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [阿里 Qwen-Audio-3.0 系列语音模型上线千问 AI 平台，斩获国际评测「大满贯」](https://www.aibase.com/zh/news/30399)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [黄仁勋：OpenAI 承诺在 2030 年前部署约 12GW 英伟达算力](https://aihot.virxact.com/items/cmsxbp1s003zirobn3j3vbkem)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [A 股迎来&quot;人形机器人第一股&quot;，宇树科技官宣 8 月 19 日科创板上市](https://aihot.virxact.com/items/cmsx9jy2a05yerommy1e0jc6t)
@@ -102,8 +102,8 @@
 
 ### 实践技巧与观点
 
-21. [https://x.com/i/article/2089330332369588224](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
-   - 时间：3小时前
+21. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [苹果蓄势待发！正与各大出版商密谋付费引入实时新闻](https://www.aibase.com/news/30406)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 800/3692 | 21.7% | 高信号源，建议保留 |
-| Buzzing | 528/1978 | 26.7% | 高信号源，建议保留 |
-| Info Flow | 265/876 | 30.3% | 高信号源，建议保留 |
-| TechURLs | 118/316 | 37.3% | 高信号源，建议保留 |
-| Zeli | 68/82 | 82.9% | 高信号源，建议保留 |
+| TopHub | 784/3642 | 21.5% | 高信号源，建议保留 |
+| Buzzing | 532/1992 | 26.7% | 高信号源，建议保留 |
+| Info Flow | 269/884 | 30.4% | 高信号源，建议保留 |
+| TechURLs | 130/353 | 36.8% | 高信号源，建议保留 |
+| Zeli | 69/86 | 80.2% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 37/215 | 17.2% | 高信号源，建议保留 |
+| NewsNow | 37/218 | 17.0% | 高信号源，建议保留 |
 | OPML RSS | 16/25 | 64.0% | 高信号源，建议保留 |
 
 ## 维护提示
