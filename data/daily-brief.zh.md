@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T11:32:44.412164Z
-- 24小时AI信号：1777 条
+- 生成时间：2026-08-17T11:52:23.080487Z
+- 24小时AI信号：1776 条
 - 源健康：12/14
-- 原始抓取：7341 条
+- 原始抓取：7343 条
 
 ## 今日重点
 
@@ -23,11 +23,11 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合](https://www.aibase.com/news/30379)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [速度狂飙 14 倍！OpenAI重磅推出GPT-5.6 Sol UltraFast超快模式，每秒最高狂飙750tokens](https://www.aibase.com/news/30378)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -65,7 +65,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [“大学指控我用AI写论文，但明明都是我自己写的”](https://www.zaochenbao.com/news/opinion/202608/1778909.html)
-   - 时间：今天 19:34
+   - 时间：今天 19:53
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [阿里 Qwen-Audio-3.0 系列语音模型上线千问 AI 平台，斩获国际评测「大满贯」](https://www.aibase.com/zh/news/30399)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 775/3644 | 21.3% | 高信号源，建议保留 |
-| Buzzing | 445/1526 | 29.2% | 高信号源，建议保留 |
-| Info Flow | 252/827 | 30.5% | 高信号源，建议保留 |
-| TechURLs | 74/216 | 34.3% | 高信号源，建议保留 |
-| Zeli | 52/65 | 80.0% | 高信号源，建议保留 |
+| TopHub | 771/3648 | 21.1% | 高信号源，建议保留 |
+| Buzzing | 439/1530 | 28.7% | 高信号源，建议保留 |
+| Info Flow | 254/833 | 30.5% | 高信号源，建议保留 |
+| TechURLs | 81/242 | 33.5% | 高信号源，建议保留 |
+| Zeli | 51/64 | 79.7% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 34/204 | 16.7% | 高信号源，建议保留 |
+| NewsNow | 35/203 | 17.2% | 高信号源，建议保留 |
 | OPML RSS | 15/23 | 65.2% | 高信号源，建议保留 |
 
 ## 维护提示
