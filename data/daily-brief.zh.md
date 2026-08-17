@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T21:32:31.422849Z
-- 24小时AI信号：2125 条
+- 生成时间：2026-08-17T21:52:25.501138Z
+- 24小时AI信号：2130 条
 - 源健康：12/14
-- 原始抓取：7258 条
+- 原始抓取：7232 条
 
 ## 今日重点
 
@@ -38,11 +38,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻](https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年](https://www.aibase.com/news/30398)
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [GPT-Live 分析研究：从回合式语音到连续交互循环](https://blog.csdn.net/w776341482/article/details/163814317)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [【分享发现】 研究了一下 local.ai](https://www.v2ex.com/t/1235143)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Ask HN: 人们之所以仍在进行经典人工智能研究，是因为它有助于现代人工智能吗？](https://news.ycombinator.com/item?id=49330503)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁](https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南](https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu)
@@ -111,7 +111,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [苹果蓄势待发！正与各大出版商密谋付费引入实时新闻](https://www.aibase.com/news/30406)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 795/3665 | 21.7% | 高信号源，建议保留 |
-| Buzzing | 618/2273 | 27.2% | 高信号源，建议保留 |
-| Info Flow | 275/886 | 31.0% | 高信号源，建议保留 |
-| TechURLs | 165/424 | 38.9% | 高信号源，建议保留 |
-| Zeli | 73/89 | 82.0% | 高信号源，建议保留 |
-| NewsNow | 45/234 | 19.2% | 高信号源，建议保留 |
+| TopHub | 795/3658 | 21.7% | 高信号源，建议保留 |
+| Buzzing | 620/2284 | 27.1% | 高信号源，建议保留 |
+| Info Flow | 275/884 | 31.1% | 高信号源，建议保留 |
+| TechURLs | 169/445 | 38.0% | 高信号源，建议保留 |
+| Zeli | 74/89 | 83.1% | 高信号源，建议保留 |
+| NewsNow | 43/231 | 18.6% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 16/27 | 59.3% | 高信号源，建议保留 |
 
