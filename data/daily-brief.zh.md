@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T16:58:42.060283Z
-- 24小时AI信号：1975 条
+- 生成时间：2026-08-17T17:33:38.805745Z
+- 24小时AI信号：1968 条
 - 源健康：12/14
-- 原始抓取：7275 条
+- 原始抓取：7255 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛](https://www.aibase.com/news/30405)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [348 万澳元报告被 ChatGPT"润色"：澳大利亚社媒禁令技术依据遭假引用反噬](https://www.aibase.com/news/30393)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [我国科学家发布大豆垂直大模型"丰菽"2.0：多模型协同，辅助智能育种](https://www.aibase.com/news/30383)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元](https://aihot.virxact.com/items/cmsxbrft40478robn8pxoq793)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
@@ -46,18 +46,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年](https://www.aibase.com/news/30398)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Anthropic CEO称AI抵制”从根本上说是深层的信任危机”](https://www.aibase.com/news/30391)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”](https://www.aibase.com/news/30399)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://www.zhipuai.cn/zh/research/162)
@@ -73,7 +73,7 @@
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [阿里 Qwen-Audio-3.0 系列语音模型上线千问 AI 平台，斩获国际评测「大满贯」](https://www.aibase.com/zh/news/30399)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -84,19 +84,19 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [A 股迎来&quot;人形机器人第一股&quot;，宇树科技官宣 8 月 19 日科创板上市](https://aihot.virxact.com/items/cmsx9jy2a05yerommy1e0jc6t)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [A 股迎来"人形机器人第一股"，宇树科技官宣 8 月 19 日科创板上市](https://www.ithome.com/0/990/812.htm)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望](https://www.aibase.com/news/30396)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s](https://www.aibase.com/news/30395)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -107,19 +107,19 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [苹果蓄势待发！正与各大出版商密谋付费引入实时新闻](https://www.aibase.com/news/30406)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果](https://www.aibase.com/news/30404)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压](https://www.aibase.com/news/30403)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界](https://www.aibase.com/news/30402)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 784/3642 | 21.5% | 高信号源，建议保留 |
-| Buzzing | 532/1992 | 26.7% | 高信号源，建议保留 |
-| Info Flow | 269/884 | 30.4% | 高信号源，建议保留 |
-| TechURLs | 130/353 | 36.8% | 高信号源，建议保留 |
-| Zeli | 69/86 | 80.2% | 高信号源，建议保留 |
+| TopHub | 783/3616 | 21.7% | 高信号源，建议保留 |
+| Buzzing | 529/2003 | 26.4% | 高信号源，建议保留 |
+| Info Flow | 270/878 | 30.8% | 高信号源，建议保留 |
+| TechURLs | 126/345 | 36.5% | 高信号源，建议保留 |
+| Zeli | 67/84 | 79.8% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 37/218 | 17.0% | 高信号源，建议保留 |
+| NewsNow | 39/220 | 17.7% | 高信号源，建议保留 |
 | OPML RSS | 16/25 | 64.0% | 高信号源，建议保留 |
 
 ## 维护提示
