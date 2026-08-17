@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T22:51:57.150190Z
-- 24小时AI信号：2125 条
+- 生成时间：2026-08-17T23:29:17.660367Z
+- 24小时AI信号：2137 条
 - 源健康：12/14
-- 原始抓取：7227 条
+- 原始抓取：7275 条
 
 ## 今日重点
 
@@ -33,25 +33,25 @@
 
 ### 产品与开发者工具
 
-6. [Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案](https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h)
-   - 时间：37分钟前
+6. [用 Google 的 Agent Development Kit 构建零信任 AI 智能体](https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit)
+   - 时间：6分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元](https://aihot.virxact.com/items/cmsxbrft40478robn8pxoq793)
-   - 时间：8小时前
+7. [Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案](https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
+8. [OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元](https://aihot.virxact.com/items/cmsxbrft40478robn8pxoq793)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
    - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻](https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb)
+10. [NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻](https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb)
    - 时间：10小时前
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年](https://www.aibase.com/news/30398)
-   - 时间：昨天 17:10
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
@@ -64,31 +64,31 @@
    - 时间：08-14 14:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [GPT-Live 分析研究：从回合式语音到连续交互循环](https://blog.csdn.net/w776341482/article/details/163814317)
-   - 时间：4小时前
+13. [40+行业案例实测！教你零基础掌握GPT Image 2](https://www.uisdc.com/gpt-image-2-17)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [【分享发现】 研究了一下 local.ai](https://www.v2ex.com/t/1235143)
-   - 时间：6小时前
-   - 来源：Info Flow
+14. [这样用AI做海报排版，高级感立马提升！](https://www.uisdc.com/layout-power)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Ask HN: 人们之所以仍在进行经典人工智能研究，是因为它有助于现代人工智能吗？](https://news.ycombinator.com/item?id=49330503)
-   - 时间：9小时前
-   - 来源：Buzzing
+15. [GPT-Live 分析研究：从回合式语音到连续交互循环](https://blog.csdn.net/w776341482/article/details/163814317)
+   - 时间：4小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [黄仁勋：OpenAI 承诺在 2030 年前部署约 12GW 英伟达算力](https://aihot.virxact.com/items/cmsxbp1s003zirobn3j3vbkem)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [A 股迎来&quot;人形机器人第一股&quot;，宇树科技官宣 8 月 19 日科创板上市](https://aihot.virxact.com/items/cmsx9jy2a05yerommy1e0jc6t)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [A 股迎来"人形机器人第一股"，宇树科技官宣 8 月 19 日科创板上市](https://www.ithome.com/0/990/812.htm)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望](https://www.aibase.com/news/30396)
@@ -107,7 +107,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南](https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 787/3676 | 21.4% | 高信号源，建议保留 |
-| Buzzing | 629/2320 | 27.1% | 高信号源，建议保留 |
+| TopHub | 788/3678 | 21.4% | 高信号源，建议保留 |
+| Buzzing | 635/2330 | 27.3% | 高信号源，建议保留 |
 | Info Flow | 276/894 | 30.9% | 高信号源，建议保留 |
-| TechURLs | 165/438 | 37.7% | 高信号源，建议保留 |
-| Zeli | 74/87 | 85.1% | 高信号源，建议保留 |
+| TechURLs | 165/435 | 37.9% | 高信号源，建议保留 |
+| Zeli | 78/91 | 85.7% | 高信号源，建议保留 |
+| NewsNow | 41/236 | 17.4% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 40/232 | 17.2% | 高信号源，建议保留 |
 | OPML RSS | 16/26 | 61.5% | 高信号源，建议保留 |
 
 ## 维护提示
