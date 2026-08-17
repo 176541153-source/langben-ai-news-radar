@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-17T10:06:19.384457Z
-- 24小时AI信号：1726 条
+- 生成时间：2026-08-17T10:43:23.534659Z
+- 24小时AI信号：1747 条
 - 源健康：12/14
-- 原始抓取：7311 条
+- 原始抓取：7318 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛](https://www.aibase.com/news/30405)
-   - 时间：1分钟前
+   - 时间：37分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [348 万澳元报告被 ChatGPT"润色"：澳大利亚社媒禁令技术依据遭假引用反噬](https://www.aibase.com/news/30393)
@@ -19,7 +19,7 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [我国科学家发布大豆垂直大模型"丰菽"2.0：多模型协同，辅助智能育种](https://www.aibase.com/news/30383)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合](https://www.aibase.com/news/30379)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年](https://www.aibase.com/news/30398)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Anthropic CEO称AI抵制”从根本上说是深层的信任危机”](https://www.aibase.com/news/30391)
@@ -42,22 +42,22 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用](https://www.aibase.com/news/30389)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [​SpaceX 豪掷 600 亿美元完成年度最大并购，AI 编程巨头正式归入麾下！](https://www.aibase.com/news/30388)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [百万上下文全面开放，Codex迎来AI编程“终极形态”](https://www.aibase.com/news/30387)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”](https://www.aibase.com/news/30399)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力](https://www.zhipuai.cn/zh/research/162)
@@ -65,26 +65,26 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [“大学指控我用AI写论文，但明明都是我自己写的”](https://www.zaochenbao.com/news/opinion/202608/1778909.html)
-   - 时间：今天 18:07
+   - 时间：今天 18:44
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [阿里 Qwen-Audio-3.0 系列语音模型上线千问 AI 平台，斩获国际评测「大满贯」](https://www.aibase.com/zh/news/30399)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Qwen3.8 27B深度评测：开源大模型本地部署的终极选择，还是一场“免费陷阱“？](https://blog.csdn.net/ylscode/article/details/163801888)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [AI圈迎来“降本”潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望](https://www.aibase.com/news/30396)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s](https://www.aibase.com/news/30395)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局](https://www.aibase.com/news/30392)
@@ -92,34 +92,34 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter](https://www.aibase.com/news/30390)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型"路由器"傍上支付巨头](https://www.aibase.com/news/30385)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [苹果蓄势待发！正与各大出版商密谋付费引入实时新闻](https://www.aibase.com/news/30406)
-   - 时间：1分钟前
+   - 时间：37分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果](https://www.aibase.com/news/30404)
-   - 时间：1分钟前
+   - 时间：37分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压](https://www.aibase.com/news/30403)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界](https://www.aibase.com/news/30402)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [美国原告在诉状暗藏 AI 提示词：法官警告"提示注入"正侵入法庭](https://www.aibase.com/news/30401)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 768/3595 | 21.4% | 高信号源，建议保留 |
-| Buzzing | 418/1417 | 29.5% | 高信号源，建议保留 |
-| Info Flow | 245/792 | 30.9% | 高信号源，建议保留 |
-| TechURLs | 68/209 | 32.5% | 高信号源，建议保留 |
-| Zeli | 51/65 | 78.5% | 高信号源，建议保留 |
+| TopHub | 783/3640 | 21.5% | 高信号源，建议保留 |
+| Buzzing | 423/1463 | 28.9% | 高信号源，建议保留 |
+| Info Flow | 248/806 | 30.8% | 高信号源，建议保留 |
+| TechURLs | 67/203 | 33.0% | 高信号源，建议保留 |
+| Zeli | 51/64 | 79.7% | 高信号源，建议保留 |
 | AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 32/204 | 15.7% | 高信号源，建议保留 |
+| NewsNow | 31/189 | 16.4% | 高信号源，建议保留 |
 | OPML RSS | 14/21 | 66.7% | 高信号源，建议保留 |
 
 ## 维护提示
