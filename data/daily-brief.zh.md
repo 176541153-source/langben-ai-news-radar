@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-18T10:58:16.086959Z
-- 24小时AI信号：2210 条
+- 生成时间：2026-08-18T11:32:05.870956Z
+- 24小时AI信号：2206 条
 - 源健康：12/14
-- 原始抓取：7372 条
+- 原始抓取：7382 条
 
 ## 今日重点
 
@@ -50,14 +50,14 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布](https://www.aibase.com/news/30427)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [设计 AI 评测：先求清晰，再谈可视化](https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [MOSS-VL技术报告：将实时交互作为一等能力的开源视觉语言模型家族](https://arxiv.org/abs/2608.15045)
@@ -73,29 +73,29 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_ai_signal
 15. [人工智能安全：下一阶段人工智能产业竞争的新赛道](https://www.thepaper.cn/newsDetail_forward_33799807)
-   - 时间：今天 18:59
+   - 时间：今天 19:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [百度二季度营收313亿元，AI业务占比连续两季过半](https://www.aibase.com/news/30443)
+16. [OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护](https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5)
+   - 时间：32分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [百度二季度营收313亿元，AI业务占比连续两季过半](https://www.aibase.com/news/30443)
    - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！](https://www.aibase.com/news/30442)
+18. [我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！](https://www.aibase.com/news/30442)
    - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [布罗克曼敲警钟：AI 攻破 Hugging Face 成"分水岭"，企业速做 10 件事](https://www.aibase.com/news/30434)
+19. [布罗克曼敲警钟：AI 攻破 Hugging Face 成"分水岭"，企业速做 10 件事](https://www.aibase.com/news/30434)
    - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [企业微信5.0.10打通AI Agent，十大办公能力全面开放](https://www.aibase.com/news/30425)
-   - 时间：7小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [资本狂飙突进：Anthropic年化营收突破 650 亿美元并加速冲刺美股上市](https://www.aibase.com/news/30424)
+20. [企业微信5.0.10打通AI Agent，十大办公能力全面开放](https://www.aibase.com/news/30425)
    - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法](https://www.aibase.com/news/30444)
-   - 时间：21分钟前
+   - 时间：55分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [哈佛 MIT 造出 83 亿"AI 人"：用 MatrAIx 系统模拟全球人类行为](https://www.aibase.com/news/30440)
@@ -115,11 +115,11 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [首尔"卖国贼嘲讽宴"爆火，韩国年轻人用 AI 自查亲日祖先](https://www.aibase.com/news/30422)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. ["先生成后治理"：AI 垃圾淹没互联网，科技巨头终于动手大扫除](https://www.aibase.com/news/30420)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 827/3747 | 22.1% | 高信号源，建议保留 |
-| Buzzing | 694/2444 | 28.4% | 高信号源，建议保留 |
-| Info Flow | 274/906 | 30.2% | 高信号源，建议保留 |
-| TechURLs | 130/326 | 39.9% | 高信号源，建议保留 |
+| TopHub | 835/3809 | 21.9% | 高信号源，建议保留 |
+| Buzzing | 683/2438 | 28.0% | 高信号源，建议保留 |
+| Info Flow | 276/903 | 30.6% | 高信号源，建议保留 |
+| TechURLs | 122/308 | 39.6% | 高信号源，建议保留 |
 | Zeli | 70/85 | 82.4% | 高信号源，建议保留 |
-| NewsNow | 48/256 | 18.8% | 高信号源，建议保留 |
+| NewsNow | 50/259 | 19.3% | 高信号源，建议保留 |
 | AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 21/30 | 70.0% | 高信号源，建议保留 |
+| OPML RSS | 21/32 | 65.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
