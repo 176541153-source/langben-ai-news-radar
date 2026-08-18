@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-18T20:52:17.868755Z
-- 24小时AI信号：2073 条
+- 生成时间：2026-08-18T21:30:42.949033Z
+- 24小时AI信号：2055 条
 - 源健康：12/14
-- 原始抓取：7299 条
+- 原始抓取：7264 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Claude 现已支持 Gmail 邮件与 Google Drive 文件管理](https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x)
-   - 时间：46分钟前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者](https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra)
    - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenAI 暂停前沿模型 RL 训练以强化安全](https://aihot.virxact.com/items/cmsyzrlqd04xhro20xbr0dgud)
+2. [Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者](https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra)
    - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [OpenAI 暂停前沿模型 RL 训练以强化安全](https://aihot.virxact.com/items/cmsyzrlqd04xhro20xbr0dgud)
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5](https://www.aibase.com/news/30439)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [设计 AI 评测：先求清晰，再谈可视化](https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05)
@@ -80,15 +80,15 @@
 ### 产业、算力与机器人
 
 16. [OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护](https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [OpenAI 在&quot;关键网络能力&quot;时代放缓模型开发节奏](https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [OpenAI 在"关键网络能力"时代放缓模型开发节奏](https://openai.com/index/pacing-model-development-cyber-capabilities)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [百度二季度营收313亿元，AI业务占比连续两季过半](https://www.aibase.com/news/30443)
@@ -127,11 +127,11 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 808/3687 | 21.9% | 高信号源，建议保留 |
-| Buzzing | 727/2482 | 29.3% | 高信号源，建议保留 |
-| Info Flow | 258/897 | 28.8% | 高信号源，建议保留 |
-| Zeli | 75/84 | 89.3% | 高信号源，建议保留 |
-| NewsNow | 42/230 | 18.3% | 高信号源，建议保留 |
+| TopHub | 800/3688 | 21.7% | 高信号源，建议保留 |
+| Buzzing | 726/2440 | 29.8% | 高信号源，建议保留 |
+| Info Flow | 255/895 | 28.5% | 高信号源，建议保留 |
+| Zeli | 75/83 | 90.4% | 高信号源，建议保留 |
+| NewsNow | 39/224 | 17.4% | 高信号源，建议保留 |
 | AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 18/26 | 69.2% | 高信号源，建议保留 |
 | AI HOT | 12/12 | 100.0% | 高信号源，建议保留 |
