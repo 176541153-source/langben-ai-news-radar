@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-18T13:48:22.963121Z
-- 24小时AI信号：2183 条
+- 生成时间：2026-08-18T14:40:32.336520Z
+- 24小时AI信号：2179 条
 - 源健康：12/14
-- 原始抓取：7403 条
+- 原始抓取：7404 条
 
 ## 今日重点
 
@@ -46,18 +46,18 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元](https://www.aibase.com/news/30429)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布](https://www.aibase.com/news/30427)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [设计 AI 评测：先求清晰，再谈可视化](https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [MOSS-VL技术报告：将实时交互作为一等能力的开源视觉语言模型家族](https://arxiv.org/abs/2608.15045)
@@ -73,14 +73,14 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_ai_signal
 15. [人工智能安全：下一阶段人工智能产业竞争的新赛道](https://www.thepaper.cn/newsDetail_forward_33799807)
-   - 时间：今天 21:49
+   - 时间：今天 22:41
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护](https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [百度二季度营收313亿元，AI业务占比连续两季过半](https://www.aibase.com/news/30443)
@@ -96,14 +96,14 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [企业微信5.0.10打通AI Agent，十大办公能力全面开放](https://www.aibase.com/news/30425)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法](https://www.aibase.com/news/30444)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [哈佛 MIT 造出 83 亿"AI 人"：用 MatrAIx 系统模拟全球人类行为](https://www.aibase.com/news/30440)
@@ -115,11 +115,11 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [首尔"卖国贼嘲讽宴"爆火，韩国年轻人用 AI 自查亲日祖先](https://www.aibase.com/news/30422)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. ["先生成后治理"：AI 垃圾淹没互联网，科技巨头终于动手大扫除](https://www.aibase.com/news/30420)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 826/3756 | 22.0% | 高信号源，建议保留 |
-| Buzzing | 705/2458 | 28.7% | 高信号源，建议保留 |
-| Info Flow | 265/908 | 29.2% | 高信号源，建议保留 |
-| TechURLs | 103/251 | 41.0% | 高信号源，建议保留 |
-| Zeli | 70/83 | 84.3% | 高信号源，建议保留 |
-| NewsNow | 49/248 | 19.8% | 高信号源，建议保留 |
+| TopHub | 826/3772 | 21.9% | 高信号源，建议保留 |
+| Buzzing | 714/2454 | 29.1% | 高信号源，建议保留 |
+| Info Flow | 268/897 | 29.9% | 高信号源，建议保留 |
+| TechURLs | 89/216 | 41.2% | 高信号源，建议保留 |
+| Zeli | 73/82 | 89.0% | 高信号源，建议保留 |
+| NewsNow | 47/243 | 19.3% | 高信号源，建议保留 |
 | AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 22/32 | 68.8% | 高信号源，建议保留 |
+| OPML RSS | 19/30 | 63.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
