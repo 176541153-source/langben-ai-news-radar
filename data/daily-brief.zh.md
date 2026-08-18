@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-18T22:31:26.916633Z
-- 24小时AI信号：2055 条
+- 生成时间：2026-08-18T22:53:17.819123Z
+- 24小时AI信号：2028 条
 - 源健康：12/14
-- 原始抓取：7198 条
+- 原始抓取：7195 条
 
 ## 今日重点
 
@@ -56,8 +56,8 @@
 
 ### 论文研究与评测
 
-11. [Claude 如何加速蛋白质设计与分析化学研究](https://www.anthropic.com/research/Claude-accelerates-protein-design)
-   - 时间：4分钟前
+11. [Claude 如何加速蛋白质设计与分析化学研究](https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek)
+   - 时间：26分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78)
@@ -72,10 +72,10 @@
    - 时间：08-15 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [擅长评估的最佳方法是采用您非常熟悉的工作流程，并找出如何使其质量可衡量。研究实际痕迹 - 典型用户的提示顺序，什么好的反应......](https://x.com/realmadhuguru/status/2089480958571331623)
-   - 时间：昨天 06:34
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_ai_signal
+15. [人工智能安全：下一阶段人工智能产业竞争的新赛道](https://www.thepaper.cn/newsDetail_forward_33799807)
+   - 时间：今天 06:54
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法](https://www.aibase.com/news/30444)
-   - 时间：11小时前
+   - 时间：昨天 18:36
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [哈佛 MIT 造出 83 亿"AI 人"：用 MatrAIx 系统模拟全球人类行为](https://www.aibase.com/news/30440)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 800/3718 | 21.5% | 高信号源，建议保留 |
-| Buzzing | 731/2455 | 29.8% | 高信号源，建议保留 |
-| Info Flow | 250/890 | 28.1% | 高信号源，建议保留 |
-| Zeli | 75/82 | 91.5% | 高信号源，建议保留 |
-| NewsNow | 40/229 | 17.5% | 高信号源，建议保留 |
+| TopHub | 773/3676 | 21.0% | 高信号源，建议保留 |
+| Buzzing | 731/2483 | 29.4% | 高信号源，建议保留 |
+| Info Flow | 248/894 | 27.7% | 高信号源，建议保留 |
+| Zeli | 76/83 | 91.6% | 高信号源，建议保留 |
+| NewsNow | 40/226 | 17.7% | 高信号源，建议保留 |
 | AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 18/27 | 66.7% | 高信号源，建议保留 |
-| AI HOT | 12/12 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 13/13 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
