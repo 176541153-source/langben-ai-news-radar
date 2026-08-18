@@ -1,17 +1,17 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-18T19:33:18.395878Z
-- 24小时AI信号：2095 条
+- 生成时间：2026-08-18T19:51:03.040905Z
+- 24小时AI信号：2081 条
 - 源健康：12/14
-- 原始抓取：7038 条
+- 原始抓取：7128 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者](https://claude.com/blog/ai-ci-cd-on-call)
-   - 时间：7分钟前
+1. [Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者](https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra)
+   - 时间：24分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI 暂停前沿模型 RL 训练以强化安全](https://aihot.virxact.com/items/cmsyzrlqd04xhro20xbr0dgud)
@@ -19,30 +19,30 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5](https://www.aibase.com/news/30439)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？](https://www.aibase.com/news/30437)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费](https://www.aibase.com/news/30435)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测](https://www.aibase.com/news/30441)
-   - 时间：9小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元](https://www.aibase.com/news/30429)
    - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Vercel 开源 Zero 语言：专为 AI Agent 设计，把"图"当源码](https://www.aibase.com/news/30432)
+7. [独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元](https://www.aibase.com/news/30429)
    - 时间：11小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [Vercel 开源 Zero 语言：专为 AI Agent 设计，把"图"当源码](https://www.aibase.com/news/30432)
+   - 时间：昨天 15:45
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元](https://www.aibase.com/news/30429)
@@ -92,26 +92,26 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [百度二季度营收313亿元，AI业务占比连续两季过半](https://www.aibase.com/news/30443)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！](https://www.aibase.com/news/30442)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法](https://www.aibase.com/news/30444)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [哈佛 MIT 造出 83 亿"AI 人"：用 MatrAIx 系统模拟全球人类行为](https://www.aibase.com/news/30440)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？](https://www.aibase.com/news/30436)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [首尔"卖国贼嘲讽宴"爆火，韩国年轻人用 AI 自查亲日祖先](https://www.aibase.com/news/30422)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 813/3717 | 21.9% | 高信号源，建议保留 |
-| Buzzing | 731/2441 | 29.9% | 高信号源，建议保留 |
-| Info Flow | 260/893 | 29.1% | 高信号源，建议保留 |
-| Zeli | 77/86 | 89.5% | 高信号源，建议保留 |
-| NewsNow | 42/230 | 18.3% | 高信号源，建议保留 |
+| TopHub | 812/3688 | 22.0% | 高信号源，建议保留 |
+| Buzzing | 719/2428 | 29.6% | 高信号源，建议保留 |
+| Info Flow | 259/897 | 28.9% | 高信号源，建议保留 |
+| Zeli | 77/85 | 90.6% | 高信号源，建议保留 |
+| NewsNow | 43/236 | 18.2% | 高信号源，建议保留 |
 | AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 17/26 | 65.4% | 高信号源，建议保留 |
-| TechURLs | 15/44 | 34.1% | 高信号源，建议保留 |
+| OPML RSS | 17/25 | 68.0% | 高信号源，建议保留 |
+| TechURLs | 14/40 | 35.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
