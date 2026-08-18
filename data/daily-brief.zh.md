@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-18T03:02:59.636516Z
-- 24小时AI信号：2193 条
+- 生成时间：2026-08-18T03:51:07.207143Z
+- 24小时AI信号：2136 条
 - 源健康：12/14
-- 原始抓取：7305 条
+- 原始抓取：7314 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹](https://www.aibase.com/news/30421)
-   - 时间：1分钟前
+   - 时间：48分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [ChatGPT 要成"购物车"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框](https://www.aibase.com/news/30413)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [ChatGPT 内购再进一步：Synchrony 携手 OpenAI，零售商专属信用卡可直接在聊天中结账](https://www.aibase.com/news/30410)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛](https://www.aibase.com/news/30405)
@@ -33,23 +33,23 @@
 
 ### 产品与开发者工具
 
-6. [正面迎战GitHub！AI编程巨头Cursor正式推出全新代码托管服务Origin](https://www.aibase.com/news/30415)
-   - 时间：1小时前
+6. [Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌](https://www.aibase.com/news/30426)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队](https://www.aibase.com/news/30411)
-   - 时间：1小时前
+7. [正面迎战GitHub！AI编程巨头Cursor正式推出全新代码托管服务Origin](https://www.aibase.com/news/30415)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底](https://www.aibase.com/news/30407)
-   - 时间：1小时前
+8. [AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队](https://www.aibase.com/news/30411)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [用 Google 的 Agent Development Kit 构建零信任 AI 智能体](https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j)
-   - 时间：3小时前
-   - 来源：AI HOT
+9. [OpenAI 落子俄亥俄：10 吉瓦超级数据中心敲定，英伟达 15 亿美元入股兜底](https://www.aibase.com/news/30407)
+   - 时间：2小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案](https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h)
+10. [用 Google 的 Agent Development Kit 构建零信任 AI 智能体](https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j)
    - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -65,57 +65,57 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [40+行业案例实测！教你零基础掌握GPT Image 2](https://www.uisdc.com/gpt-image-2-17)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [这样用AI做海报排版，高级感立马提升！](https://www.uisdc.com/layout-power)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [GPT-Live 分析研究：从回合式语音到连续交互循环](https://blog.csdn.net/w776341482/article/details/163814317)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发](https://www.aibase.com/news/30423)
+16. [企业微信5.0.10打通AI Agent，十大办公能力全面开放](https://www.aibase.com/news/30425)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核](https://www.aibase.com/news/30418)
+17. [资本狂飙突进：Anthropic年化营收突破 650 亿美元并加速冲刺美股上市](https://www.aibase.com/news/30424)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队](https://www.aibase.com/news/30416)
-   - 时间：1小时前
+18. [谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发](https://www.aibase.com/news/30423)
+   - 时间：48分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元](https://www.aibase.com/news/30414)
-   - 时间：1小时前
+19. [字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核](https://www.aibase.com/news/30418)
+   - 时间：48分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [AI视频创作平台 Higgsfield完成4亿美元B轮融资，估值升至54亿美元](https://www.aibase.com/news/30412)
-   - 时间：1小时前
+20. [AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队](https://www.aibase.com/news/30416)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [首尔"卖国贼嘲讽宴"爆火，韩国年轻人用 AI 自查亲日祖先](https://www.aibase.com/news/30422)
-   - 时间：1分钟前
+   - 时间：48分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. ["先生成后治理"：AI 垃圾淹没互联网，科技巨头终于动手大扫除](https://www.aibase.com/news/30420)
-   - 时间：1分钟前
+   - 时间：48分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Reddit测试AI视频功能，将文本帖子转为音视频内容](https://www.aibase.com/news/30419)
-   - 时间：1分钟前
+   - 时间：48分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [美团启动2027届校招，超八成岗位要求AI能力](https://www.aibase.com/news/30417)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案](https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 835/3929 | 21.3% | 高信号源，建议保留 |
-| Buzzing | 656/2348 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 269/873 | 30.8% | 高信号源，建议保留 |
-| TechURLs | 162/416 | 38.9% | 高信号源，建议保留 |
-| Zeli | 72/88 | 81.8% | 高信号源，建议保留 |
-| NewsNow | 44/233 | 18.9% | 高信号源，建议保留 |
-| AIbase | 42/42 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 18/28 | 64.3% | 高信号源，建议保留 |
+| TopHub | 783/3746 | 20.9% | 高信号源，建议保留 |
+| Buzzing | 659/2358 | 27.9% | 高信号源，建议保留 |
+| Info Flow | 265/861 | 30.8% | 高信号源，建议保留 |
+| TechURLs | 162/411 | 39.4% | 高信号源，建议保留 |
+| Zeli | 70/86 | 81.4% | 高信号源，建议保留 |
+| NewsNow | 44/237 | 18.6% | 高信号源，建议保留 |
+| AIbase | 39/39 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 20/30 | 66.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
