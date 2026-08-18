@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-18T11:32:05.870956Z
-- 24小时AI信号：2206 条
+- 生成时间：2026-08-18T11:52:34.331899Z
+- 24小时AI信号：2187 条
 - 源健康：12/14
-- 原始抓取：7382 条
+- 原始抓取：7385 条
 
 ## 今日重点
 
@@ -11,38 +11,38 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5](https://www.aibase.com/news/30439)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？](https://www.aibase.com/news/30437)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费](https://www.aibase.com/news/30435)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [OpenRouter宣布GPT-5.6Sol调用费用减半](https://www.aibase.com/news/30433)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽](https://www.aibase.com/news/30431)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测](https://www.aibase.com/news/30441)
-   - 时间：1小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元](https://www.aibase.com/news/30429)
    - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Vercel 开源 Zero 语言：专为 AI Agent 设计，把"图"当源码](https://www.aibase.com/news/30432)
+7. [独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元](https://www.aibase.com/news/30429)
    - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [Vercel 开源 Zero 语言：专为 AI Agent 设计，把"图"当源码](https://www.aibase.com/news/30432)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元](https://www.aibase.com/news/30429)
@@ -73,45 +73,45 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_ai_signal
 15. [人工智能安全：下一阶段人工智能产业竞争的新赛道](https://www.thepaper.cn/newsDetail_forward_33799807)
-   - 时间：今天 19:33
+   - 时间：今天 19:53
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护](https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5)
-   - 时间：32分钟前
+   - 时间：52分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [百度二季度营收313亿元，AI业务占比连续两季过半](https://www.aibase.com/news/30443)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！](https://www.aibase.com/news/30442)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [布罗克曼敲警钟：AI 攻破 Hugging Face 成"分水岭"，企业速做 10 件事](https://www.aibase.com/news/30434)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [企业微信5.0.10打通AI Agent，十大办公能力全面开放](https://www.aibase.com/news/30425)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法](https://www.aibase.com/news/30444)
-   - 时间：55分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [哈佛 MIT 造出 83 亿"AI 人"：用 MatrAIx 系统模拟全球人类行为](https://www.aibase.com/news/30440)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？](https://www.aibase.com/news/30436)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [首尔"卖国贼嘲讽宴"爆火，韩国年轻人用 AI 自查亲日祖先](https://www.aibase.com/news/30422)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 835/3809 | 21.9% | 高信号源，建议保留 |
-| Buzzing | 683/2438 | 28.0% | 高信号源，建议保留 |
-| Info Flow | 276/903 | 30.6% | 高信号源，建议保留 |
-| TechURLs | 122/308 | 39.6% | 高信号源，建议保留 |
-| Zeli | 70/85 | 82.4% | 高信号源，建议保留 |
-| NewsNow | 50/259 | 19.3% | 高信号源，建议保留 |
+| TopHub | 826/3704 | 22.3% | 高信号源，建议保留 |
+| Buzzing | 680/2423 | 28.1% | 高信号源，建议保留 |
+| Info Flow | 273/902 | 30.3% | 高信号源，建议保留 |
+| TechURLs | 121/303 | 39.9% | 高信号源，建议保留 |
+| Zeli | 69/84 | 82.1% | 高信号源，建议保留 |
+| NewsNow | 48/250 | 19.2% | 高信号源，建议保留 |
 | AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 21/32 | 65.6% | 高信号源，建议保留 |
+| OPML RSS | 23/34 | 67.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
