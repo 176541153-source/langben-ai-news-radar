@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T20:36:17.490570Z
-- 24小时AI信号：2092 条
+- 生成时间：2026-08-19T20:57:48.849849Z
+- 24小时AI信号：2078 条
 - 源健康：12/14
-- 原始抓取：7323 条
+- 原始抓取：7270 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法](https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
@@ -19,7 +19,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
@@ -27,7 +27,7 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
-   - 时间：11小时前
+   - 时间：昨天 16:47
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. ["神奇小子"公司推 chestnut eGPU：车载 AI 算力飙百倍](https://www.aibase.com/news/30473)
-   - 时间：11小时前
+   - 时间：昨天 16:47
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议](https://www.aibase.com/news/30463)
@@ -107,7 +107,7 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
-   - 时间：11小时前
+   - 时间：昨天 16:47
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索](https://www.aibase.com/news/30471)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 836/3792 | 22.0% | 高信号源，建议保留 |
-| Buzzing | 728/2815 | 25.9% | 高信号源，建议保留 |
-| Info Flow | 273/945 | 28.9% | 高信号源，建议保留 |
-| Zeli | 80/90 | 88.9% | 高信号源，建议保留 |
+| TopHub | 832/3786 | 22.0% | 高信号源，建议保留 |
+| Buzzing | 714/2789 | 25.6% | 高信号源，建议保留 |
+| Info Flow | 275/950 | 28.9% | 高信号源，建议保留 |
+| Zeli | 83/93 | 89.2% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 29/198 | 14.6% | 高信号源，建议保留 |
+| NewsNow | 28/196 | 14.3% | 高信号源，建议保留 |
 | OPML RSS | 16/27 | 59.3% | 高信号源，建议保留 |
 | AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
