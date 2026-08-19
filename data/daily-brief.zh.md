@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T21:32:28.274075Z
-- 24小时AI信号：2078 条
+- 生成时间：2026-08-19T21:52:53.980923Z
+- 24小时AI信号：2071 条
 - 源健康：12/14
-- 原始抓取：7250 条
+- 原始抓取：7230 条
 
 ## 今日重点
 
@@ -19,11 +19,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [FastMetal 让 Mac 本地 30 秒生成视频](https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8)
-   - 时间：49分钟前
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 832/3804 | 21.9% | 高信号源，建议保留 |
-| Buzzing | 718/2819 | 25.5% | 高信号源，建议保留 |
-| Info Flow | 274/952 | 28.8% | 高信号源，建议保留 |
-| Zeli | 79/89 | 88.8% | 高信号源，建议保留 |
+| TopHub | 833/3850 | 21.6% | 高信号源，建议保留 |
+| Buzzing | 712/2813 | 25.3% | 高信号源，建议保留 |
+| Info Flow | 274/951 | 28.8% | 高信号源，建议保留 |
+| Zeli | 78/89 | 87.6% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 28/201 | 13.9% | 高信号源，建议保留 |
-| OPML RSS | 16/27 | 59.3% | 高信号源，建议保留 |
+| NewsNow | 27/199 | 13.6% | 高信号源，建议保留 |
+| OPML RSS | 16/26 | 61.5% | 高信号源，建议保留 |
 | AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
