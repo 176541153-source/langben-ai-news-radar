@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T22:53:13.206814Z
-- 24小时AI信号：2103 条
+- 生成时间：2026-08-19T23:29:28.604614Z
+- 24小时AI信号：2065 条
 - 源健康：12/14
-- 原始抓取：7231 条
+- 原始抓取：7283 条
 
 ## 今日重点
 
@@ -15,11 +15,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法](https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 854/3878 | 22.0% | 高信号源，建议保留 |
-| Buzzing | 726/2842 | 25.5% | 高信号源，建议保留 |
-| Info Flow | 274/941 | 29.1% | 高信号源，建议保留 |
-| Zeli | 75/85 | 88.2% | 高信号源，建议保留 |
+| TopHub | 828/3857 | 21.5% | 高信号源，建议保留 |
+| Buzzing | 717/2822 | 25.4% | 高信号源，建议保留 |
+| Info Flow | 267/934 | 28.6% | 高信号源，建议保留 |
+| Zeli | 78/88 | 88.6% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 27/199 | 13.6% | 高信号源，建议保留 |
-| OPML RSS | 17/26 | 65.4% | 高信号源，建议保留 |
+| NewsNow | 28/201 | 13.9% | 高信号源，建议保留 |
+| OPML RSS | 17/28 | 60.7% | 高信号源，建议保留 |
 | AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
