@@ -1,56 +1,56 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T13:49:44.984616Z
-- 24小时AI信号：2126 条
+- 生成时间：2026-08-19T14:41:06.297891Z
+- 24小时AI信号：2135 条
 - 源健康：12/14
-- 原始抓取：7427 条
+- 原始抓取：7443 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
-   - 时间：3小时前
+1. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
+   - 时间：52分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
+3. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
    - 时间：5小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型](https://www.aibase.com/news/30470)
+4. [腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型](https://www.aibase.com/news/30470)
    - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Claude Code额度加成延期，Anthropic或将50%提升变成长期方案](https://www.aibase.com/news/30469)
+5. [Claude Code额度加成延期，Anthropic或将50%提升变成长期方案](https://www.aibase.com/news/30469)
    - 时间：6小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭](https://www.aibase.com/news/30464)
-   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [日本公布 AI 指导草案：敦促开发者披露训练数据来源](https://www.aibase.com/news/30467)
-   - 时间：6小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [千问APP上线七夕AI送花助手 还能测情侣默契度](https://www.aibase.com/news/30466)
    - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [千问APP上线七夕AI送花助手 还能测情侣默契度](https://www.aibase.com/news/30466)
+   - 时间：8小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据](https://www.aibase.com/news/30460)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [Perplexity印度免费订阅实验显效，应用收入较促销期增长60%](https://www.aibase.com/news/30456)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [腾讯吐司上线App上架能力，打通AI应用开发与分发](https://www.aibase.com/news/30455)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -84,26 +84,26 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议](https://www.aibase.com/news/30463)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [颠覆认知！摆脱独立显卡束缚，阿里5nm RISC-V芯片成功原生跑通270亿大模型](https://www.aibase.com/news/30459)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [市值直逼马斯克！AI新贵Anthropic剑指2026最大IPO，营收狂飙六倍成最大黑马](https://www.aibase.com/news/30458)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超](https://www.aibase.com/news/30457)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
@@ -115,11 +115,11 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [腾讯"吐司"推一键上架：AI 生成应用直登应用宝](https://www.aibase.com/news/30468)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？](https://www.aibase.com/news/30465)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 841/3693 | 22.8% | 高信号源，建议保留 |
-| Buzzing | 757/2777 | 27.3% | 高信号源，建议保留 |
-| Info Flow | 268/924 | 29.0% | 高信号源，建议保留 |
-| Zeli | 80/86 | 93.0% | 高信号源，建议保留 |
+| TopHub | 842/3708 | 22.7% | 高信号源，建议保留 |
+| Buzzing | 768/2821 | 27.2% | 高信号源，建议保留 |
+| Info Flow | 267/924 | 28.9% | 高信号源，建议保留 |
+| Zeli | 78/84 | 92.9% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 30/202 | 14.9% | 高信号源，建议保留 |
-| OPML RSS | 17/28 | 60.7% | 高信号源，建议保留 |
+| NewsNow | 29/201 | 14.4% | 高信号源，建议保留 |
+| OPML RSS | 17/27 | 63.0% | 高信号源，建议保留 |
 | Follow Builders | 10/31 | 32.3% | 高信号源，建议保留 |
 
 ## 维护提示
