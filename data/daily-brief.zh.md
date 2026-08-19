@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T20:57:48.849849Z
+- 生成时间：2026-08-19T21:32:28.274075Z
 - 24小时AI信号：2078 条
 - 源健康：12/14
-- 原始抓取：7270 条
+- 原始抓取：7250 条
 
 ## 今日重点
 
@@ -15,7 +15,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
@@ -72,10 +72,10 @@
    - 时间：08-18 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [MOSS-VL技术报告：将实时交互作为一等能力的开源视觉语言模型家族](https://arxiv.org/abs/2608.15045)
-   - 时间：08-15 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。模...](https://x.com/levie/status/2089921630650925170)
+   - 时间：昨天 11:45
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
@@ -102,24 +102,24 @@
 
 ### 实践技巧与观点
 
-21. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
+21. [FastMetal 让 Mac 本地 30 秒生成视频](https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8)
+   - 时间：49分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
    - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
+23. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
    - 时间：昨天 16:47
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索](https://www.aibase.com/news/30471)
+24. [Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索](https://www.aibase.com/news/30471)
    - 时间：昨天 15:45
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [腾讯"吐司"推一键上架：AI 生成应用直登应用宝](https://www.aibase.com/news/30468)
+25. [腾讯"吐司"推一键上架：AI 生成应用直登应用宝](https://www.aibase.com/news/30468)
    - 时间：昨天 14:56
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？](https://www.aibase.com/news/30465)
-   - 时间：昨天 13:59
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 832/3786 | 22.0% | 高信号源，建议保留 |
-| Buzzing | 714/2789 | 25.6% | 高信号源，建议保留 |
-| Info Flow | 275/950 | 28.9% | 高信号源，建议保留 |
-| Zeli | 83/93 | 89.2% | 高信号源，建议保留 |
+| TopHub | 832/3804 | 21.9% | 高信号源，建议保留 |
+| Buzzing | 718/2819 | 25.5% | 高信号源，建议保留 |
+| Info Flow | 274/952 | 28.8% | 高信号源，建议保留 |
+| Zeli | 79/89 | 88.8% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 28/196 | 14.3% | 高信号源，建议保留 |
+| NewsNow | 28/201 | 13.9% | 高信号源，建议保留 |
 | OPML RSS | 16/27 | 59.3% | 高信号源，建议保留 |
 | AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
