@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T03:53:28.714504Z
-- 24小时AI信号：2100 条
+- 生成时间：2026-08-19T04:44:07.279683Z
+- 24小时AI信号：2124 条
 - 源健康：12/14
-- 原始抓取：7358 条
+- 原始抓取：7376 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [敲代码前先画UI原型！Anthropic官宣Claude Code即将大招整合/design命令](https://www.aibase.com/news/30462)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [蚂蚁阿福发布医生端服务战略全景:从基层到三甲，做好医生的AI好帮手](https://www.aibase.com/news/30461)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严](https://www.aibase.com/news/30450)
@@ -34,34 +34,34 @@
 ### 产品与开发者工具
 
 6. [微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据](https://www.aibase.com/news/30460)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Perplexity印度免费订阅实验显效，应用收入较促销期增长60%](https://www.aibase.com/news/30456)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [腾讯吐司上线App上架能力，打通AI应用开发与分发](https://www.aibase.com/news/30455)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源](https://www.aibase.com/news/30454)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Cursor推出Origin代码托管平台，正式进军GitHub核心领域](https://www.aibase.com/news/30453)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [Claude 如何加速蛋白质设计与分析化学研究](https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [设计 AI 评测：先求清晰，再谈可视化](https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05)
@@ -80,19 +80,19 @@
 ### 产业、算力与机器人
 
 16. [Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议](https://www.aibase.com/news/30463)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [颠覆认知！摆脱独立显卡束缚，阿里5nm RISC-V芯片成功原生跑通270亿大模型](https://www.aibase.com/news/30459)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [市值直逼马斯克！AI新贵Anthropic剑指2026最大IPO，营收狂飙六倍成最大黑马](https://www.aibase.com/news/30458)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超](https://www.aibase.com/news/30457)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [宇树科技今日登陆科创板，开盘暴涨超600%](https://www.aibase.com/news/30451)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 808/3793 | 21.3% | 高信号源，建议保留 |
-| Buzzing | 749/2592 | 28.9% | 高信号源，建议保留 |
-| Info Flow | 271/939 | 28.9% | 高信号源，建议保留 |
-| Zeli | 83/92 | 90.2% | 高信号源，建议保留 |
-| NewsNow | 39/234 | 16.7% | 高信号源，建议保留 |
+| TopHub | 817/3801 | 21.5% | 高信号源，建议保留 |
+| Buzzing | 753/2641 | 28.5% | 高信号源，建议保留 |
+| Info Flow | 280/947 | 29.6% | 高信号源，建议保留 |
+| Zeli | 85/94 | 90.4% | 高信号源，建议保留 |
+| NewsNow | 39/231 | 16.9% | 高信号源，建议保留 |
 | AIbase | 37/37 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 18/27 | 66.7% | 高信号源，建议保留 |
+| OPML RSS | 18/28 | 64.3% | 高信号源，建议保留 |
 | AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
