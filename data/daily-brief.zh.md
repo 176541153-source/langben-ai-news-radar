@@ -1,33 +1,33 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T17:32:53.274367Z
-- 24小时AI信号：2157 条
+- 生成时间：2026-08-19T17:52:33.521918Z
+- 24小时AI信号：2129 条
 - 源健康：12/14
-- 原始抓取：7306 条
+- 原始抓取：7307 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
-   - 时间：3小时前
+1. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
+   - 时间：30分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
-   - 时间：6小时前
+2. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
-   - 时间：8小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型](https://www.aibase.com/news/30470)
+4. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
    - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude Code额度加成延期，Anthropic或将50%提升变成长期方案](https://www.aibase.com/news/30469)
-   - 时间：9小时前
+5. [腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型](https://www.aibase.com/news/30470)
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. ["神奇小子"公司推 chestnut eGPU：车载 AI 算力飙百倍](https://www.aibase.com/news/30473)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议](https://www.aibase.com/news/30463)
@@ -103,15 +103,15 @@
 ### 实践技巧与观点
 
 21. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索](https://www.aibase.com/news/30471)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [腾讯"吐司"推一键上架：AI 生成应用直登应用宝](https://www.aibase.com/news/30468)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 897/3883 | 23.1% | 高信号源，建议保留 |
-| Buzzing | 744/2855 | 26.1% | 高信号源，建议保留 |
-| Info Flow | 272/929 | 29.3% | 高信号源，建议保留 |
-| Zeli | 64/72 | 88.9% | 高信号源，建议保留 |
+| TopHub | 863/3791 | 22.8% | 高信号源，建议保留 |
+| Buzzing | 746/2854 | 26.1% | 高信号源，建议保留 |
+| Info Flow | 271/929 | 29.2% | 高信号源，建议保留 |
+| Zeli | 65/73 | 89.0% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
 | NewsNow | 31/196 | 15.8% | 高信号源，建议保留 |
-| OPML RSS | 15/26 | 57.7% | 高信号源，建议保留 |
-| AI HOT | 10/10 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 17/28 | 60.7% | 高信号源，建议保留 |
+| AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
