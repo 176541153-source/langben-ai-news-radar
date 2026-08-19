@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T23:29:28.604614Z
-- 24小时AI信号：2065 条
+- 生成时间：2026-08-19T23:49:45.453761Z
+- 24小时AI信号：2042 条
 - 源健康：12/14
-- 原始抓取：7283 条
+- 原始抓取：7325 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护](https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法](https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh)
@@ -23,7 +23,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [FastMetal 让 Mac 本地 30 秒生成视频](https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 828/3857 | 21.5% | 高信号源，建议保留 |
-| Buzzing | 717/2822 | 25.4% | 高信号源，建议保留 |
-| Info Flow | 267/934 | 28.6% | 高信号源，建议保留 |
-| Zeli | 78/88 | 88.6% | 高信号源，建议保留 |
+| TopHub | 810/3782 | 21.4% | 高信号源，建议保留 |
+| Buzzing | 719/2823 | 25.5% | 高信号源，建议保留 |
+| Info Flow | 261/931 | 28.0% | 高信号源，建议保留 |
+| Zeli | 80/90 | 88.9% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 28/201 | 13.9% | 高信号源，建议保留 |
-| OPML RSS | 17/28 | 60.7% | 高信号源，建议保留 |
+| NewsNow | 26/196 | 13.3% | 高信号源，建议保留 |
+| OPML RSS | 17/29 | 58.6% | 高信号源，建议保留 |
 | AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
