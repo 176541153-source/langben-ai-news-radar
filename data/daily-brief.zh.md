@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T10:35:55.407288Z
-- 24小时AI信号：2152 条
+- 生成时间：2026-08-19T10:57:48.278191Z
+- 24小时AI信号：2157 条
 - 源健康：12/14
-- 原始抓取：7424 条
+- 原始抓取：7427 条
 
 ## 今日重点
 
@@ -11,19 +11,19 @@
 ### 模型发布与能力更新
 
 1. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
-   - 时间：1分钟前
+   - 时间：21分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型](https://www.aibase.com/news/30470)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Claude Code额度加成延期，Anthropic或将50%提升变成长期方案](https://www.aibase.com/news/30469)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭](https://www.aibase.com/news/30464)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [日本公布 AI 指导草案：敦促开发者披露训练数据来源](https://www.aibase.com/news/30467)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [千问APP上线七夕AI送花助手 还能测情侣默契度](https://www.aibase.com/news/30466)
@@ -80,11 +80,11 @@
 ### 产业、算力与机器人
 
 16. ["神奇小子"公司推 chestnut eGPU：车载 AI 算力飙百倍](https://www.aibase.com/news/30473)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议](https://www.aibase.com/news/30463)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [颠覆认知！摆脱独立显卡束缚，阿里5nm RISC-V芯片成功原生跑通270亿大模型](https://www.aibase.com/news/30459)
@@ -103,19 +103,19 @@
 ### 实践技巧与观点
 
 21. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
-   - 时间：1分钟前
+   - 时间：21分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
-   - 时间：1小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索](https://www.aibase.com/news/30471)
    - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [腾讯"吐司"推一键上架：AI 生成应用直登应用宝](https://www.aibase.com/news/30468)
+23. [Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索](https://www.aibase.com/news/30471)
    - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [腾讯"吐司"推一键上架：AI 生成应用直登应用宝](https://www.aibase.com/news/30468)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？](https://www.aibase.com/news/30465)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 842/3940 | 21.4% | 高信号源，建议保留 |
-| Buzzing | 772/2742 | 28.2% | 高信号源，建议保留 |
-| Info Flow | 265/934 | 28.4% | 高信号源，建议保留 |
+| TopHub | 843/3929 | 21.5% | 高信号源，建议保留 |
+| Buzzing | 777/2791 | 27.8% | 高信号源，建议保留 |
+| Info Flow | 265/939 | 28.2% | 高信号源，建议保留 |
 | Zeli | 83/90 | 92.2% | 高信号源，建议保留 |
-| NewsNow | 37/237 | 15.6% | 高信号源，建议保留 |
-| AIbase | 33/33 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 18/33 | 54.5% | 高信号源，建议保留 |
+| NewsNow | 37/239 | 15.5% | 高信号源，建议保留 |
+| AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 18/32 | 56.2% | 高信号源，建议保留 |
 | AI HOT | 10/10 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
