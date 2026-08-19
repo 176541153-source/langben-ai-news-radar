@@ -1,44 +1,44 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T17:52:33.521918Z
-- 24小时AI信号：2129 条
+- 生成时间：2026-08-19T18:45:33.222095Z
+- 24小时AI信号：2135 条
 - 源健康：12/14
-- 原始抓取：7307 条
+- 原始抓取：7314 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
-   - 时间：30分钟前
+1. [突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法](https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh)
+   - 时间：49分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
+2. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
    - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
-   - 时间：7小时前
+4. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
+5. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
    - 时间：9小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型](https://www.aibase.com/news/30470)
-   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [日本公布 AI 指导草案：敦促开发者披露训练数据来源](https://www.aibase.com/news/30467)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [千问APP上线七夕AI送花助手 还能测情侣默契度](https://www.aibase.com/news/30466)
-   - 时间：11小时前
+   - 时间：昨天 13:59
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据](https://www.aibase.com/news/30460)
@@ -60,7 +60,7 @@
    - 时间：昨天 06:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78)
+12. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
    - 时间：昨天 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -72,10 +72,10 @@
    - 时间：08-18 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [MOSS-VL技术报告：将实时交互作为一等能力的开源视觉语言模型家族](https://arxiv.org/abs/2608.15045)
-   - 时间：08-15 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。模...](https://x.com/levie/status/2089921630650925170)
+   - 时间：昨天 11:45
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [AI 数据中心遭反对潮，硅谷巨头砸钱"灭火"](https://www.aibase.com/news/30474)
@@ -111,15 +111,15 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索](https://www.aibase.com/news/30471)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [腾讯"吐司"推一键上架：AI 生成应用直登应用宝](https://www.aibase.com/news/30468)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？](https://www.aibase.com/news/30465)
-   - 时间：11小时前
+   - 时间：昨天 13:59
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 863/3791 | 22.8% | 高信号源，建议保留 |
-| Buzzing | 746/2854 | 26.1% | 高信号源，建议保留 |
-| Info Flow | 271/929 | 29.2% | 高信号源，建议保留 |
-| Zeli | 65/73 | 89.0% | 高信号源，建议保留 |
+| TopHub | 883/3918 | 22.5% | 高信号源，建议保留 |
+| Buzzing | 734/2849 | 25.8% | 高信号源，建议保留 |
+| Info Flow | 268/928 | 28.9% | 高信号源，建议保留 |
+| Zeli | 70/77 | 90.9% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 31/196 | 15.8% | 高信号源，建议保留 |
-| OPML RSS | 17/28 | 60.7% | 高信号源，建议保留 |
-| AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 30/194 | 15.5% | 高信号源，建议保留 |
+| OPML RSS | 15/25 | 60.0% | 高信号源，建议保留 |
+| AI HOT | 10/10 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
