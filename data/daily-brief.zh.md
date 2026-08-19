@@ -1,33 +1,33 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-19T21:52:53.980923Z
-- 24小时AI信号：2071 条
+- 生成时间：2026-08-19T22:31:56.977468Z
+- 24小时AI信号：2063 条
 - 源健康：12/14
-- 原始抓取：7230 条
+- 原始抓取：7216 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法](https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh)
-   - 时间：3小时前
+1. [Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护](https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4)
+   - 时间：49分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
+2. [突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法](https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh)
    - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
+3. [OpenRouter 加入 Stripe 加速多模型使命](https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk)
+   - 时间：5小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
    - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
+5. [运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案](https://www.aibase.com/news/30477)
    - 时间：11小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日](https://www.aibase.com/news/30472)
-   - 时间：昨天 16:47
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -56,20 +56,20 @@
 
 ### 论文研究与评测
 
-11. [Claude 如何加速蛋白质设计与分析化学研究](https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek)
-   - 时间：昨天 06:27
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+11. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
    - 时间：昨天 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [设计 AI 评测：先求清晰，再谈可视化](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
+12. [设计 AI 评测：先求清晰，再谈可视化](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
    - 时间：08-18 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [StartupBench：面向市场验证端到端工作流的通用智能体基准测试](https://arxiv.org/abs/2608.17800)
+13. [StartupBench：面向市场验证端到端工作流的通用智能体基准测试](https://arxiv.org/abs/2608.17800)
    - 时间：08-18 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [Claude 如何加速蛋白质设计与分析化学研究](https://www.anthropic.com/research/Claude-accelerates-protein-design)
+   - 时间：08-18 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。模...](https://x.com/levie/status/2089921630650925170)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 833/3850 | 21.6% | 高信号源，建议保留 |
-| Buzzing | 712/2813 | 25.3% | 高信号源，建议保留 |
-| Info Flow | 274/951 | 28.8% | 高信号源，建议保留 |
-| Zeli | 78/89 | 87.6% | 高信号源，建议保留 |
+| TopHub | 829/3810 | 21.8% | 高信号源，建议保留 |
+| Buzzing | 709/2797 | 25.3% | 高信号源，建议保留 |
+| Info Flow | 273/945 | 28.9% | 高信号源，建议保留 |
+| Zeli | 78/88 | 88.6% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 27/199 | 13.6% | 高信号源，建议保留 |
-| OPML RSS | 16/26 | 61.5% | 高信号源，建议保留 |
+| NewsNow | 27/201 | 13.4% | 高信号源，建议保留 |
+| OPML RSS | 17/26 | 65.4% | 高信号源，建议保留 |
 | AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
