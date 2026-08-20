@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T19:36:56.282643Z
-- 24小时AI信号：1994 条
+- 生成时间：2026-08-20T19:58:38.105974Z
+- 24小时AI信号：1992 条
 - 源健康：12/14
-- 原始抓取：7243 条
+- 原始抓取：7330 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 如何开展 AI 教学](https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍](https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Claude Code 初创公司指南：五大规则与创始人洞见](https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv)
@@ -23,11 +23,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向](https://www.aibase.com/news/30508)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [美团搜索 3.0如何用大模型表征重构本地生活搜索底座？](https://www.aibase.com/news/30507)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -42,11 +42,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [阿里发布 Qwen-UI-Agent，主打让模型真正&quot;会用&quot;每一块屏幕](https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [OpenAI升级Codex安全防护，新增危险操作拦截与权限控制](https://www.aibase.com/news/30495)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [小米人形机器人首次亮相，已成功注册多枚小米铁大商标](https://www.aibase.com/news/30506)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 830/3994 | 20.8% | 高信号源，建议保留 |
-| Buzzing | 643/2613 | 24.6% | 高信号源，建议保留 |
-| Info Flow | 264/893 | 29.6% | 高信号源，建议保留 |
-| Zeli | 78/86 | 90.7% | 高信号源，建议保留 |
-| NewsNow | 36/221 | 16.3% | 高信号源，建议保留 |
+| TopHub | 816/3950 | 20.7% | 高信号源，建议保留 |
+| Buzzing | 654/2659 | 24.6% | 高信号源，建议保留 |
+| Info Flow | 262/893 | 29.3% | 高信号源，建议保留 |
+| Zeli | 79/86 | 91.9% | 高信号源，建议保留 |
+| NewsNow | 37/225 | 16.4% | 高信号源，建议保留 |
 | AIbase | 30/30 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 13/23 | 56.5% | 高信号源，建议保留 |
+| OPML RSS | 13/24 | 54.2% | 高信号源，建议保留 |
 | AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
