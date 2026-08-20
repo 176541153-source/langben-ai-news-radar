@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T20:59:56.417065Z",
+  "generated_at": "2026-08-20T21:34:53.254665Z",
   "timezone": "Asia/Shanghai",
   "window_hours": 24,
   "upstream_hub_url": "data/upstream-hub.json",
   "summary": {
-    "ai_items": 2006,
-    "raw_items": 7920,
-    "fetched_raw_items": 7314,
+    "ai_items": 1992,
+    "raw_items": 7900,
+    "fetched_raw_items": 7261,
     "successful_sites": 12,
     "site_count": 14,
     "source_quality": {
@@ -15,7 +15,7 @@
       "watch": 2,
       "downgrade": 0,
       "fix_fetch": 2,
-      "average_ai_hit_rate": 0.392
+      "average_ai_hit_rate": 0.384
     }
   },
   "top_stories": [
@@ -26,7 +26,7 @@
       "category_id": "research_paper",
       "category_title": "论文研究与评测",
       "score": 8.6,
-      "time_label": "2小时前",
+      "time_label": "3小时前",
       "source_count": 3,
       "item_count": 3,
       "sources": [
@@ -73,7 +73,7 @@
         "source": "arxiv.org",
         "published_at": "2026-08-20T18:14:18.037000Z",
         "first_seen_at": "2026-08-20T18:51:09.677806Z",
-        "time_label": "2小时前",
+        "time_label": "3小时前",
         "category_id": "research_paper",
         "category_title": "论文研究与评测",
         "score": 8.6,
@@ -114,7 +114,7 @@
           "source": "arxiv.org",
           "published_at": "2026-08-20T18:14:18.037000Z",
           "first_seen_at": "2026-08-20T18:51:09.677806Z",
-          "time_label": "2小时前",
+          "time_label": "3小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 8.6,
@@ -193,7 +193,7 @@
           "source": "Hacker News · 24h最热",
           "published_at": "2026-08-20T13:24:32Z",
           "first_seen_at": "2026-08-20T14:43:17.099517Z",
-          "time_label": "7小时前",
+          "time_label": "8小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 7.3,
@@ -453,18 +453,18 @@
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "zeli",
-          "name": "Hacker News · 24h最热",
-          "source_key": "ai_news_radar::collector::zeli"
+          "source_id": "iris",
+          "name": "Hacker News (黑客新闻)",
+          "source_key": "ai_news_radar::collector::iris"
         },
         {
           "project_id": "ai_news_radar",
           "project_name": "AI News Radar",
           "kind": "collector",
           "kind_label": "采集器",
-          "source_id": "iris",
-          "name": "Hacker News (黑客新闻)",
-          "source_key": "ai_news_radar::collector::iris"
+          "source_id": "zeli",
+          "name": "Hacker News · 24h最热",
+          "source_key": "ai_news_radar::collector::zeli"
         }
       ],
       "primary": {
@@ -545,44 +545,6 @@
           "source_key": "ai_news_radar::collector::buzzing"
         },
         {
-          "id": "f9bc18570ce616f92a1ca6f01a6ae128ef60de14",
-          "title": "科学研究表明，TikTok视频会使大脑中关键的认知区域停止活动",
-          "title_original": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
-          "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions",
-          "site_id": "zeli",
-          "site_name": "Zeli",
-          "source": "Hacker News · 24h最热",
-          "published_at": "2026-08-20T18:54:32Z",
-          "first_seen_at": "2026-08-20T19:36:56.282643Z",
-          "time_label": "2小时前",
-          "category_id": "research_paper",
-          "category_title": "论文研究与评测",
-          "score": 7.3,
-          "ai_score": 0.65,
-          "ai_label": "curated_hotlist",
-          "reason": "zeli_24h_hot_allowlist",
-          "signals": [
-            "zeli_24h_hot"
-          ],
-          "topic_labels": [
-            "字节跳动"
-          ],
-          "topic_sections": [
-            "internet"
-          ],
-          "project_source": "AI News Radar",
-          "source_ref": {
-            "project_id": "ai_news_radar",
-            "project_name": "AI News Radar",
-            "kind": "collector",
-            "kind_label": "采集器",
-            "source_id": "zeli",
-            "name": "Hacker News · 24h最热",
-            "source_key": "ai_news_radar::collector::zeli"
-          },
-          "source_key": "ai_news_radar::collector::zeli"
-        },
-        {
           "id": "1bab671fa6f49fc1fc1f9ff6dc591bcbaff46315",
           "title": "科学研究表明，TikTok视频会使大脑中关键的认知区域停止活动",
           "title_original": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
@@ -619,6 +581,44 @@
             "source_key": "ai_news_radar::collector::iris"
           },
           "source_key": "ai_news_radar::collector::iris"
+        },
+        {
+          "id": "f9bc18570ce616f92a1ca6f01a6ae128ef60de14",
+          "title": "科学研究表明，TikTok视频会使大脑中关键的认知区域停止活动",
+          "title_original": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+          "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions",
+          "site_id": "zeli",
+          "site_name": "Zeli",
+          "source": "Hacker News · 24h最热",
+          "published_at": "2026-08-20T18:54:32Z",
+          "first_seen_at": "2026-08-20T19:36:56.282643Z",
+          "time_label": "2小时前",
+          "category_id": "research_paper",
+          "category_title": "论文研究与评测",
+          "score": 7.3,
+          "ai_score": 0.65,
+          "ai_label": "curated_hotlist",
+          "reason": "zeli_24h_hot_allowlist",
+          "signals": [
+            "zeli_24h_hot"
+          ],
+          "topic_labels": [
+            "字节跳动"
+          ],
+          "topic_sections": [
+            "internet"
+          ],
+          "project_source": "AI News Radar",
+          "source_ref": {
+            "project_id": "ai_news_radar",
+            "project_name": "AI News Radar",
+            "kind": "collector",
+            "kind_label": "采集器",
+            "source_id": "zeli",
+            "name": "Hacker News · 24h最热",
+            "source_key": "ai_news_radar::collector::zeli"
+          },
+          "source_key": "ai_news_radar::collector::zeli"
         }
       ]
     },
@@ -707,7 +707,7 @@
           "source": "Readhub · AI",
           "published_at": null,
           "first_seen_at": "2026-08-20T11:34:08.816938Z",
-          "time_label": "9小时前",
+          "time_label": "10小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 8.2,
@@ -2317,7 +2317,7 @@
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 8.2,
-      "time_label": "1小时前",
+      "time_label": "2小时前",
       "source_count": 2,
       "item_count": 2,
       "sources": [
@@ -2354,7 +2354,7 @@
         "source": "www.danielvaughn.dev",
         "published_at": "2026-08-20T19:18:02.450000Z",
         "first_seen_at": "2026-08-20T19:36:56.282643Z",
-        "time_label": "1小时前",
+        "time_label": "2小时前",
         "category_id": "practice_insight",
         "category_title": "实践技巧与观点",
         "score": 8.2,
@@ -2394,7 +2394,7 @@
           "source": "www.danielvaughn.dev",
           "published_at": "2026-08-20T19:18:02.450000Z",
           "first_seen_at": "2026-08-20T19:36:56.282643Z",
-          "time_label": "1小时前",
+          "time_label": "2小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 8.2,
@@ -2433,7 +2433,7 @@
           "source": "Hacker News (黑客新闻)",
           "published_at": "2026-08-20T19:05:36Z",
           "first_seen_at": "2026-08-20T19:36:56.282643Z",
-          "time_label": "1小时前",
+          "time_label": "2小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 8.2,
@@ -2584,7 +2584,7 @@
           "source": "Hacker News · 24h最热",
           "published_at": "2026-08-20T15:06:53Z",
           "first_seen_at": "2026-08-20T16:42:16.703066Z",
-          "time_label": "5小时前",
+          "time_label": "6小时前",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 6.9,
@@ -2621,7 +2621,7 @@
       "category_id": "model_release",
       "category_title": "模型发布与能力更新",
       "score": 8.2,
-      "time_label": "5小时前",
+      "time_label": "6小时前",
       "source_count": 2,
       "item_count": 3,
       "sources": [
@@ -2649,16 +2649,16 @@
         }
       ],
       "primary": {
-        "id": "cc1b775bba92523b58408a40b7ca2736fd1cd218",
+        "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
         "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-        "title_original": "Clean up Claude 5's token vomit with a separate LLM",
+        "title_original": "Vomit: Clean up Claude 5's token output with a separate LLM",
         "url": "https://github.com/zachahn/vomit",
         "site_id": "iris",
         "site_name": "Info Flow",
         "source": "Hacker News (黑客新闻)",
         "published_at": "2026-08-20T15:26:02Z",
-        "first_seen_at": "2026-08-20T15:40:28.824577Z",
-        "time_label": "5小时前",
+        "first_seen_at": "2026-08-20T20:59:56.417065Z",
+        "time_label": "6小时前",
         "category_id": "model_release",
         "category_title": "模型发布与能力更新",
         "score": 8.2,
@@ -2699,7 +2699,7 @@
           "source": "github.com",
           "published_at": "2026-08-20T18:30:20Z",
           "first_seen_at": "2026-08-20T18:51:09.677806Z",
-          "time_label": "2小时前",
+          "time_label": "3小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 6.9,
@@ -2725,16 +2725,16 @@
           "source_key": "ai_news_radar::collector::buzzing"
         },
         {
-          "id": "cc1b775bba92523b58408a40b7ca2736fd1cd218",
+          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
           "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "title_original": "Clean up Claude 5's token vomit with a separate LLM",
+          "title_original": "Vomit: Clean up Claude 5's token output with a separate LLM",
           "url": "https://github.com/zachahn/vomit",
           "site_id": "iris",
           "site_name": "Info Flow",
           "source": "Hacker News (黑客新闻)",
           "published_at": "2026-08-20T15:26:02Z",
-          "first_seen_at": "2026-08-20T15:40:28.824577Z",
-          "time_label": "5小时前",
+          "first_seen_at": "2026-08-20T20:59:56.417065Z",
+          "time_label": "6小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 8.2,
@@ -2765,16 +2765,16 @@
           "source_key": "ai_news_radar::collector::iris"
         },
         {
-          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
+          "id": "cc1b775bba92523b58408a40b7ca2736fd1cd218",
           "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
-          "title_original": "Vomit: Clean up Claude 5's token output with a separate LLM",
+          "title_original": "Clean up Claude 5's token vomit with a separate LLM",
           "url": "https://github.com/zachahn/vomit",
           "site_id": "iris",
           "site_name": "Info Flow",
           "source": "Hacker News (黑客新闻)",
           "published_at": "2026-08-20T15:26:02Z",
-          "first_seen_at": "2026-08-20T20:59:56.417065Z",
-          "time_label": "5小时前",
+          "first_seen_at": "2026-08-20T15:40:28.824577Z",
+          "time_label": "6小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 8.2,
@@ -2843,7 +2843,7 @@
       "primary": {
         "id": "59f2590b79b16641adbb408a02decbfaae1b9e7e",
         "title": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击",
-        "title_original": "Hacking with Claude on a $27 Smart Watch",
+        "title_original": "Hacking with Claude on a $27 smart watch",
         "url": "https://news.ycombinator.com/item?id=49374772",
         "site_id": "newsnow",
         "site_name": "NewsNow",
@@ -2883,7 +2883,7 @@
         {
           "id": "59f2590b79b16641adbb408a02decbfaae1b9e7e",
           "title": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击",
-          "title_original": "Hacking with Claude on a $27 Smart Watch",
+          "title_original": "Hacking with Claude on a $27 smart watch",
           "url": "https://news.ycombinator.com/item?id=49374772",
           "site_id": "newsnow",
           "site_name": "NewsNow",
@@ -2929,7 +2929,7 @@
           "source": "Hacker News · 24h最热",
           "published_at": "2026-08-20T14:08:09Z",
           "first_seen_at": "2026-08-20T15:40:28.824577Z",
-          "time_label": "6小时前",
+          "time_label": "7小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 6.9,
@@ -2965,7 +2965,7 @@
       "id": "model_release",
       "title": "模型发布与能力更新",
       "description": "新模型、推理能力、上下文、价格和API更新。",
-      "count": 125,
+      "count": 126,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -3138,7 +3138,7 @@
           "source": "Claude：Blog（网页）",
           "published_at": "2026-08-20T13:26:53Z",
           "first_seen_at": "2026-08-20T13:52:18.964598Z",
-          "time_label": "7小时前",
+          "time_label": "8小时前",
           "category_id": "model_release",
           "category_title": "模型发布与能力更新",
           "score": 10.0,
@@ -3371,7 +3371,7 @@
       "id": "product_tool",
       "title": "产品与开发者工具",
       "description": "Agent、开发工具、MCP、应用和工作流。",
-      "count": 192,
+      "count": 187,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -3428,7 +3428,7 @@
           "source": "Claude：Blog（网页）",
           "published_at": "2026-08-20T20:27:01Z",
           "first_seen_at": "2026-08-20T20:59:56.417065Z",
-          "time_label": "32分钟前",
+          "time_label": "1小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -3506,7 +3506,7 @@
           "source": "Mistral AI：News（网页）",
           "published_at": "2026-08-20T16:02:07Z",
           "first_seen_at": "2026-08-20T16:42:16.703066Z",
-          "time_label": "4小时前",
+          "time_label": "5小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -3544,7 +3544,7 @@
           "source": "Google Cloud：Databases（RSS）",
           "published_at": "2026-08-20T16:00:00Z",
           "first_seen_at": "2026-08-20T17:36:46.237218Z",
-          "time_label": "4小时前",
+          "time_label": "5小时前",
           "category_id": "product_tool",
           "category_title": "产品与开发者工具",
           "score": 10.0,
@@ -3791,7 +3791,7 @@
           "source": "arxiv.org",
           "published_at": "2026-08-20T18:14:18.037000Z",
           "first_seen_at": "2026-08-20T18:51:09.677806Z",
-          "time_label": "2小时前",
+          "time_label": "3小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -4056,7 +4056,7 @@
           "source": "www.reuters.com",
           "published_at": "2026-08-20T16:21:58.120000Z",
           "first_seen_at": "2026-08-20T16:42:16.703066Z",
-          "time_label": "4小时前",
+          "time_label": "5小时前",
           "category_id": "research_paper",
           "category_title": "论文研究与评测",
           "score": 7.8,
@@ -4174,7 +4174,7 @@
       "id": "industry_compute",
       "title": "产业、算力与机器人",
       "description": "公司、融资、芯片、算力、机器人和政策生态。",
-      "count": 1341,
+      "count": 1339,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -4263,9 +4263,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "早报",
-          "published_at": "2026-08-20T21:01:14.344000Z",
-          "first_seen_at": "2026-08-20T21:01:14.344000Z",
-          "time_label": "今天 05:01",
+          "published_at": "2026-08-20T21:35:55.309000Z",
+          "first_seen_at": "2026-08-20T21:35:55.309000Z",
+          "time_label": "今天 05:35",
           "category_id": "industry_compute",
           "category_title": "产业、算力与机器人",
           "score": 7.8,
@@ -4567,7 +4567,7 @@
       "id": "practice_insight",
       "title": "实践技巧与观点",
       "description": "教程、经验、观点、方法论和可落地案例。",
-      "count": 319,
+      "count": 311,
       "project_sources": [
         "AI HOT",
         "AI News Radar",
@@ -4651,9 +4651,9 @@
           "site_id": "trendradar",
           "site_name": "TrendRadar",
           "source": "参考消息",
-          "published_at": "2026-08-20T21:01:20.396000Z",
-          "first_seen_at": "2026-08-20T21:01:20.396000Z",
-          "time_label": "今天 05:01",
+          "published_at": "2026-08-20T21:36:00.898000Z",
+          "first_seen_at": "2026-08-20T21:36:00.898000Z",
+          "time_label": "今天 05:36",
           "category_id": "practice_insight",
           "category_title": "实践技巧与观点",
           "score": 7.8,
@@ -4961,46 +4961,14 @@
   ],
   "china_hot_items": [
     {
-      "id": "152500d454b8dcdf",
-      "title": "中国铁路加速驶入AI赋能新阶段",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5%23&t=31&band_rank=3&Refer=top",
-      "source": "微博",
-      "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:40:04.141000Z",
-      "first_seen_at": "2026-08-20T20:40:04.141000Z",
-      "rank": 3,
-      "platform_id": "weibo",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_signals": [
-        "AI"
-      ],
-      "topic_labels": [
-        "AI"
-      ],
-      "topic_sections": [
-        "ai_related"
-      ],
-      "source_ref": {
-        "project_id": "trendradar",
-        "project_name": "TrendRadar",
-        "kind": "platform",
-        "kind_label": "热榜平台",
-        "source_id": "weibo",
-        "name": "微博",
-        "source_key": "trendradar::platform::weibo"
-      },
-      "source_key": "trendradar::platform::weibo"
-    },
-    {
       "id": "8c1c9f8bdd054a72",
       "title": "Meta被曝每周消耗数万亿Token 悄然成为微软AI大客户",
       "url": "https://www.cls.cn/detail/2459905",
       "source": "财联社热门",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:37:57.764000Z",
-      "first_seen_at": "2026-08-20T20:37:57.764000Z",
-      "rank": 4,
+      "published_at": "2026-08-20T21:08:02.424000Z",
+      "first_seen_at": "2026-08-20T21:08:02.424000Z",
+      "rank": 3,
       "platform_id": "cls-hot",
       "ai_is_related": true,
       "ai_score": 0.78,
@@ -5028,14 +4996,46 @@
       "source_key": "trendradar::platform::cls-hot"
     },
     {
+      "id": "152500d454b8dcdf",
+      "title": "中国铁路加速驶入AI赋能新阶段",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5%23&t=31&band_rank=3&Refer=top",
+      "source": "微博",
+      "site_name": "TrendRadar 中文热榜",
+      "published_at": "2026-08-20T21:26:15.418000Z",
+      "first_seen_at": "2026-08-20T21:26:15.418000Z",
+      "rank": 3,
+      "platform_id": "weibo",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_signals": [
+        "AI"
+      ],
+      "topic_labels": [
+        "AI"
+      ],
+      "topic_sections": [
+        "ai_related"
+      ],
+      "source_ref": {
+        "project_id": "trendradar",
+        "project_name": "TrendRadar",
+        "kind": "platform",
+        "kind_label": "热榜平台",
+        "source_id": "weibo",
+        "name": "微博",
+        "source_key": "trendradar::platform::weibo"
+      },
+      "source_key": "trendradar::platform::weibo"
+    },
+    {
       "id": "5cd962ee9dde42a5",
       "title": "AI补全了我对长辈的所有未知",
       "url": "https://www.douyin.com/hot/2617078",
       "source": "抖音",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:13.179000Z",
-      "first_seen_at": "2026-08-20T21:01:13.179000Z",
-      "rank": 6,
+      "published_at": "2026-08-20T21:23:40.008000Z",
+      "first_seen_at": "2026-08-20T21:23:40.008000Z",
+      "rank": 5,
       "platform_id": "douyin",
       "ai_is_related": true,
       "ai_score": 0.78,
@@ -5068,9 +5068,9 @@
       "url": "https://wallstreetcn.com/articles/3779898",
       "source": "华尔街见闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:10.743000Z",
-      "first_seen_at": "2026-08-20T21:01:10.743000Z",
-      "rank": 8,
+      "published_at": "2026-08-20T21:35:52.719000Z",
+      "first_seen_at": "2026-08-20T21:35:52.719000Z",
+      "rank": 7,
       "platform_id": "wallstreetcn-hot",
       "ai_is_related": true,
       "ai_score": 0.78,
@@ -5098,37 +5098,40 @@
       "source_key": "trendradar::platform::wallstreetcn-hot"
     },
     {
-      "id": "a4189604f22f4b2b",
-      "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
-      "url": "https://www.zhihu.com/question/2073476043097359622",
-      "source": "知乎",
+      "id": "f85c47558b89ab1e",
+      "title": "阿里电话会：AI相关产品ARR突破495亿，平头哥芯片下半年将持续放量，Capex投入预计三年内回本",
+      "url": "https://wallstreetcn.com/articles/3779910",
+      "source": "华尔街见闻",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:47:36.114000Z",
-      "first_seen_at": "2026-08-20T20:47:36.114000Z",
-      "rank": 11,
-      "platform_id": "zhihu",
+      "published_at": "2026-08-20T21:35:52.719000Z",
+      "first_seen_at": "2026-08-20T21:35:52.719000Z",
+      "rank": 10,
+      "platform_id": "wallstreetcn-hot",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_signals": [
-        "deepseek",
-        "DeepSeek"
+        "AI",
+        "阿里巴巴",
+        "芯片"
       ],
       "topic_labels": [
-        "DeepSeek"
+        "AI",
+        "阿里巴巴"
       ],
       "topic_sections": [
-        "ai_related"
+        "ai_related",
+        "internet"
       ],
       "source_ref": {
         "project_id": "trendradar",
         "project_name": "TrendRadar",
         "kind": "platform",
         "kind_label": "热榜平台",
-        "source_id": "zhihu",
-        "name": "知乎",
-        "source_key": "trendradar::platform::zhihu"
+        "source_id": "wallstreetcn-hot",
+        "name": "华尔街见闻",
+        "source_key": "trendradar::platform::wallstreetcn-hot"
       },
-      "source_key": "trendradar::platform::zhihu"
+      "source_key": "trendradar::platform::wallstreetcn-hot"
     },
     {
       "id": "7d7ed0989ea7ace8",
@@ -5136,8 +5139,8 @@
       "url": "https://view.inews.qq.com/a/20260820A0A5HG00",
       "source": "腾讯",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:13.954000Z",
-      "first_seen_at": "2026-08-20T21:01:13.954000Z",
+      "published_at": "2026-08-20T21:35:55.029000Z",
+      "first_seen_at": "2026-08-20T21:35:55.029000Z",
       "rank": 11,
       "platform_id": "tencent",
       "ai_is_related": true,
@@ -5166,13 +5169,46 @@
       "source_key": "trendradar::platform::tencent"
     },
     {
+      "id": "a4189604f22f4b2b",
+      "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
+      "url": "https://www.zhihu.com/question/2073476043097359622",
+      "source": "知乎",
+      "site_name": "TrendRadar 中文热榜",
+      "published_at": "2026-08-20T21:17:39.580000Z",
+      "first_seen_at": "2026-08-20T21:17:39.580000Z",
+      "rank": 12,
+      "platform_id": "zhihu",
+      "ai_is_related": true,
+      "ai_score": 0.78,
+      "ai_signals": [
+        "deepseek",
+        "DeepSeek"
+      ],
+      "topic_labels": [
+        "DeepSeek"
+      ],
+      "topic_sections": [
+        "ai_related"
+      ],
+      "source_ref": {
+        "project_id": "trendradar",
+        "project_name": "TrendRadar",
+        "kind": "platform",
+        "kind_label": "热榜平台",
+        "source_id": "zhihu",
+        "name": "知乎",
+        "source_key": "trendradar::platform::zhihu"
+      },
+      "source_key": "trendradar::platform::zhihu"
+    },
+    {
       "id": "bdf8ecde288cd523",
       "title": "Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元",
       "url": "https://www.ithome.com/0/992/397.htm",
       "source": "it之家",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:46:17.791000Z",
-      "first_seen_at": "2026-08-20T20:46:17.791000Z",
+      "published_at": "2026-08-20T21:36:01.494000Z",
+      "first_seen_at": "2026-08-20T21:36:01.494000Z",
       "rank": 14,
       "platform_id": "ithome",
       "ai_is_related": true,
@@ -5201,22 +5237,23 @@
       "source_key": "trendradar::platform::ithome"
     },
     {
-      "id": "e4f3ca1c77f4cb80",
-      "title": "如何看起点中文网治理AI文",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%B5%B7%E7%82%B9%E4%B8%AD%E6%96%87%E7%BD%91%E6%B2%BB%E7%90%86AI%E6%96%87",
-      "source": "哔哩哔哩",
+      "id": "744ee8e2da794a6a",
+      "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
+      "url": "https://www.zhihu.com/question/2072733800774354696",
+      "source": "知乎",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:32:29.987000Z",
-      "first_seen_at": "2026-08-20T20:32:29.987000Z",
-      "rank": 16,
-      "platform_id": "bilibili",
+      "published_at": "2026-08-20T21:17:39.580000Z",
+      "first_seen_at": "2026-08-20T21:17:39.580000Z",
+      "rank": 15,
+      "platform_id": "zhihu",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_signals": [
-        "AI"
+        "deepseek",
+        "DeepSeek"
       ],
       "topic_labels": [
-        "AI"
+        "DeepSeek"
       ],
       "topic_sections": [
         "ai_related"
@@ -5226,11 +5263,11 @@
         "project_name": "TrendRadar",
         "kind": "platform",
         "kind_label": "热榜平台",
-        "source_id": "bilibili",
-        "name": "哔哩哔哩",
-        "source_key": "trendradar::platform::bilibili"
+        "source_id": "zhihu",
+        "name": "知乎",
+        "source_key": "trendradar::platform::zhihu"
       },
-      "source_key": "trendradar::platform::bilibili"
+      "source_key": "trendradar::platform::zhihu"
     },
     {
       "id": "b22a15d4e998749f",
@@ -5238,8 +5275,8 @@
       "url": "https://www.zaochenbao.com/news/politics/202608/2079214.html",
       "source": "早报",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:14.344000Z",
-      "first_seen_at": "2026-08-20T21:01:14.344000Z",
+      "published_at": "2026-08-20T21:35:55.309000Z",
+      "first_seen_at": "2026-08-20T21:35:55.309000Z",
       "rank": 16,
       "platform_id": "zaobao",
       "ai_is_related": true,
@@ -5266,46 +5303,13 @@
       "source_key": "trendradar::platform::zaobao"
     },
     {
-      "id": "744ee8e2da794a6a",
-      "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
-      "url": "https://www.zhihu.com/question/2072733800774354696",
-      "source": "知乎",
-      "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:47:36.114000Z",
-      "first_seen_at": "2026-08-20T20:47:36.114000Z",
-      "rank": 18,
-      "platform_id": "zhihu",
-      "ai_is_related": true,
-      "ai_score": 0.78,
-      "ai_signals": [
-        "deepseek",
-        "DeepSeek"
-      ],
-      "topic_labels": [
-        "DeepSeek"
-      ],
-      "topic_sections": [
-        "ai_related"
-      ],
-      "source_ref": {
-        "project_id": "trendradar",
-        "project_name": "TrendRadar",
-        "kind": "platform",
-        "kind_label": "热榜平台",
-        "source_id": "zhihu",
-        "name": "知乎",
-        "source_key": "trendradar::platform::zhihu"
-      },
-      "source_key": "trendradar::platform::zhihu"
-    },
-    {
       "id": "963d7033f58715c3",
       "title": "欧洲央行警示人工智能泡沫风险",
       "url": "https://ckxxapp.ckxx.net/pages/2026/08/20/a6535c9c83d9487fa32a6ae69fceb669.html",
       "source": "参考消息",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:20.396000Z",
-      "first_seen_at": "2026-08-20T21:01:20.396000Z",
+      "published_at": "2026-08-20T21:36:00.898000Z",
+      "first_seen_at": "2026-08-20T21:36:00.898000Z",
       "rank": 19,
       "platform_id": "cankaoxiaoxi",
       "ai_is_related": true,
@@ -5336,8 +5340,8 @@
       "url": "https://www.douyin.com/hot/2616849",
       "source": "抖音",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:13.179000Z",
-      "first_seen_at": "2026-08-20T21:01:13.179000Z",
+      "published_at": "2026-08-20T21:23:40.008000Z",
+      "first_seen_at": "2026-08-20T21:23:40.008000Z",
       "rank": 1,
       "platform_id": "douyin",
       "ai_is_related": true,
@@ -5368,8 +5372,8 @@
       "url": "https://www.zhihu.com/question/2073734322373267652",
       "source": "知乎",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:47:36.114000Z",
-      "first_seen_at": "2026-08-20T20:47:36.114000Z",
+      "published_at": "2026-08-20T21:17:39.580000Z",
+      "first_seen_at": "2026-08-20T21:17:39.580000Z",
       "rank": 1,
       "platform_id": "zhihu",
       "ai_is_related": true,
@@ -5400,8 +5404,8 @@
       "url": "https://view.inews.qq.com/a/20260820A0DSXR00",
       "source": "腾讯",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:13.954000Z",
-      "first_seen_at": "2026-08-20T21:01:13.954000Z",
+      "published_at": "2026-08-20T21:35:55.029000Z",
+      "first_seen_at": "2026-08-20T21:35:55.029000Z",
       "rank": 1,
       "platform_id": "tencent",
       "ai_is_related": true,
@@ -5432,8 +5436,8 @@
       "url": "https://www.ithome.com/0/992/409.htm",
       "source": "it之家",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T20:46:17.791000Z",
-      "first_seen_at": "2026-08-20T20:46:17.791000Z",
+      "published_at": "2026-08-20T21:36:01.494000Z",
+      "first_seen_at": "2026-08-20T21:36:01.494000Z",
       "rank": 1,
       "platform_id": "ithome",
       "ai_is_related": true,
@@ -5459,13 +5463,13 @@
       "source_key": "trendradar::platform::ithome"
     },
     {
-      "id": "be0ff9d9a0420640",
-      "title": "XLG 1:2 NOVA",
-      "url": "https://www.douyin.com/hot/2617221",
+      "id": "753feb09b65683cd",
+      "title": "我国服务业持续扩能提质",
+      "url": "https://www.douyin.com/hot/2617451",
       "source": "抖音",
       "site_name": "TrendRadar 中文热榜",
-      "published_at": "2026-08-20T21:01:13.179000Z",
-      "first_seen_at": "2026-08-20T21:01:13.179000Z",
+      "published_at": "2026-08-20T21:23:40.008000Z",
+      "first_seen_at": "2026-08-20T21:23:40.008000Z",
       "rank": 2,
       "platform_id": "douyin",
       "ai_is_related": true,
@@ -5502,7 +5506,7 @@
       "source": "Claude：Blog（网页）",
       "published_at": "2026-08-20T20:27:01Z",
       "first_seen_at": "2026-08-20T20:59:56.417065Z",
-      "time_label": "32分钟前",
+      "time_label": "1小时前",
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
@@ -5618,7 +5622,7 @@
       "source": "Mistral AI：News（网页）",
       "published_at": "2026-08-20T16:02:07Z",
       "first_seen_at": "2026-08-20T16:42:16.703066Z",
-      "time_label": "4小时前",
+      "time_label": "5小时前",
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
@@ -5656,7 +5660,7 @@
       "source": "Google Cloud：Databases（RSS）",
       "published_at": "2026-08-20T16:00:00Z",
       "first_seen_at": "2026-08-20T17:36:46.237218Z",
-      "time_label": "4小时前",
+      "time_label": "5小时前",
       "category_id": "product_tool",
       "category_title": "产品与开发者工具",
       "score": 10.0,
@@ -5770,7 +5774,7 @@
       "source": "GitHub Changelog",
       "published_at": "2026-08-20T15:14:31Z",
       "first_seen_at": "2026-08-20T15:40:28.824577Z",
-      "time_label": "5小时前",
+      "time_label": "6小时前",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 8.7,
@@ -5802,7 +5806,7 @@
       "source": "GitHub Changelog",
       "published_at": "2026-08-20T14:29:27Z",
       "first_seen_at": "2026-08-20T15:40:28.824577Z",
-      "time_label": "6小时前",
+      "time_label": "7小时前",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 8.7,
@@ -5834,7 +5838,7 @@
       "source": "GitHub Changelog",
       "published_at": "2026-08-20T14:28:41Z",
       "first_seen_at": "2026-08-20T15:40:28.824577Z",
-      "time_label": "6小时前",
+      "time_label": "7小时前",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 8.7,
@@ -5864,9 +5868,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "参考消息",
-      "published_at": "2026-08-20T21:01:20.396000Z",
-      "first_seen_at": "2026-08-20T21:01:20.396000Z",
-      "time_label": "今天 05:01",
+      "published_at": "2026-08-20T21:36:00.898000Z",
+      "first_seen_at": "2026-08-20T21:36:00.898000Z",
+      "time_label": "今天 05:36",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 7.8,
@@ -5902,9 +5906,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "早报",
-      "published_at": "2026-08-20T21:01:14.344000Z",
-      "first_seen_at": "2026-08-20T21:01:14.344000Z",
-      "time_label": "今天 05:01",
+      "published_at": "2026-08-20T21:35:55.309000Z",
+      "first_seen_at": "2026-08-20T21:35:55.309000Z",
+      "time_label": "今天 05:35",
       "category_id": "industry_compute",
       "category_title": "产业、算力与机器人",
       "score": 7.8,
@@ -5941,9 +5945,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "腾讯",
-      "published_at": "2026-08-20T21:01:13.954000Z",
-      "first_seen_at": "2026-08-20T21:01:13.954000Z",
-      "time_label": "今天 05:01",
+      "published_at": "2026-08-20T21:35:55.029000Z",
+      "first_seen_at": "2026-08-20T21:35:55.029000Z",
+      "time_label": "今天 05:35",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 7.8,
@@ -5975,6 +5979,173 @@
       "source_key": "trendradar::platform::tencent"
     },
     {
+      "id": "trendradar:f85c47558b89ab1e",
+      "title": "阿里电话会：AI相关产品ARR突破495亿，平头哥芯片下半年将持续放量，Capex投入预计三年内回本",
+      "title_original": "阿里电话会：AI相关产品ARR突破495亿，平头哥芯片下半年将持续放量，Capex投入预计三年内回本",
+      "url": "https://wallstreetcn.com/articles/3779910",
+      "site_id": "trendradar",
+      "site_name": "TrendRadar",
+      "source": "华尔街见闻",
+      "published_at": "2026-08-20T21:35:52.719000Z",
+      "first_seen_at": "2026-08-20T21:35:52.719000Z",
+      "time_label": "今天 05:35",
+      "category_id": "industry_compute",
+      "category_title": "产业、算力与机器人",
+      "score": 7.8,
+      "ai_score": 0.78,
+      "ai_label": "infra_compute",
+      "reason": "matched_tracked_ai_keyword",
+      "signals": [
+        "AI",
+        "阿里巴巴",
+        "芯片"
+      ],
+      "topic_labels": [
+        "AI",
+        "阿里巴巴"
+      ],
+      "topic_sections": [
+        "ai_related",
+        "internet"
+      ],
+      "project_source": "TrendRadar",
+      "source_ref": {
+        "project_id": "trendradar",
+        "project_name": "TrendRadar",
+        "kind": "platform",
+        "kind_label": "热榜平台",
+        "source_id": "wallstreetcn-hot",
+        "name": "华尔街见闻",
+        "source_key": "trendradar::platform::wallstreetcn-hot"
+      },
+      "source_key": "trendradar::platform::wallstreetcn-hot"
+    },
+    {
+      "id": "81627d8d698bc9bc57a15b6479bd03e4e91113a4",
+      "title": "王兴兴身家超千亿成90后首富 雷军、梁文锋都跟着赚钱",
+      "title_original": "王兴兴身家超千亿成90后首富 雷军、梁文锋都跟着赚钱",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininwtui9148881.shtml",
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "source": "新浪财经新闻 · 点击量排行",
+      "published_at": null,
+      "first_seen_at": "2026-08-20T21:34:53.254665Z",
+      "time_label": "1分钟前",
+      "category_id": "practice_insight",
+      "category_title": "实践技巧与观点",
+      "score": 7.8,
+      "ai_score": 0.78,
+      "ai_label": "ai_general",
+      "reason": "matched_tracked_ai_keyword",
+      "signals": [
+        "DeepSeek",
+        "宇树机器人"
+      ],
+      "topic_labels": [
+        "DeepSeek",
+        "宇树机器人"
+      ],
+      "topic_sections": [
+        "ai_related",
+        "internet"
+      ],
+      "project_source": "AI News Radar",
+      "source_ref": {
+        "project_id": "ai_news_radar",
+        "project_name": "AI News Radar",
+        "kind": "collector",
+        "kind_label": "采集器",
+        "source_id": "tophub",
+        "name": "新浪财经新闻 · 点击量排行",
+        "source_key": "ai_news_radar::collector::tophub"
+      },
+      "source_key": "ai_news_radar::collector::tophub"
+    },
+    {
+      "id": "7a803f7a154da70e15e6430bf34e24c2d9f7b075",
+      "title": "巴西启动人工智能超级计算机计划，将项目分配给中、美企业",
+      "title_original": "巴西启动人工智能超级计算机计划，将项目分配给中、美企业",
+      "url": "https://www.reuters.com/world/americas/brazil-launches-ai-supercomputer-push-splits-projects-between-chinese-us-firms-2026-08-20",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "www.reuters.com",
+      "published_at": "2026-08-20T21:26:21.307000Z",
+      "first_seen_at": "2026-08-20T21:34:53.254665Z",
+      "time_label": "8分钟前",
+      "category_id": "industry_compute",
+      "category_title": "产业、算力与机器人",
+      "score": 7.8,
+      "ai_score": 0.78,
+      "ai_label": "ai_general",
+      "reason": "matched_tracked_ai_keyword",
+      "signals": [
+        "人工智能",
+        "AI"
+      ],
+      "topic_labels": [
+        "AI",
+        "人工智能"
+      ],
+      "topic_sections": [
+        "ai_related"
+      ],
+      "project_source": "AI News Radar",
+      "source_ref": {
+        "project_id": "ai_news_radar",
+        "project_name": "AI News Radar",
+        "kind": "collector",
+        "kind_label": "采集器",
+        "source_id": "buzzing",
+        "name": "www.reuters.com",
+        "source_key": "ai_news_radar::collector::buzzing"
+      },
+      "source_key": "ai_news_radar::collector::buzzing"
+    },
+    {
+      "id": "6e188fb5f9c4e354e6a11f8486e8977de42b77ba",
+      "title": "Marvell在人工智能芯片交易中向谷歌授予价值122亿美元的股票认购权",
+      "title_original": "Marvell在人工智能芯片交易中向谷歌授予价值122亿美元的股票认购权",
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-grants-google-12-2-133101313.html",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "finance.yahoo.com",
+      "published_at": "2026-08-20T21:26:20.457000Z",
+      "first_seen_at": "2026-08-20T21:34:53.254665Z",
+      "time_label": "8分钟前",
+      "category_id": "industry_compute",
+      "category_title": "产业、算力与机器人",
+      "score": 7.8,
+      "ai_score": 0.78,
+      "ai_label": "infra_compute",
+      "reason": "matched_tracked_ai_keyword",
+      "signals": [
+        "人工智能",
+        "AI",
+        "谷歌",
+        "芯片"
+      ],
+      "topic_labels": [
+        "AI",
+        "人工智能",
+        "谷歌"
+      ],
+      "topic_sections": [
+        "ai_related",
+        "internet"
+      ],
+      "project_source": "AI News Radar",
+      "source_ref": {
+        "project_id": "ai_news_radar",
+        "project_name": "AI News Radar",
+        "kind": "collector",
+        "kind_label": "采集器",
+        "source_id": "buzzing",
+        "name": "finance.yahoo.com",
+        "source_key": "ai_news_radar::collector::buzzing"
+      },
+      "source_key": "ai_news_radar::collector::buzzing"
+    },
+    {
       "id": "trendradar:5cd962ee9dde42a5",
       "title": "AI补全了我对长辈的所有未知",
       "title_original": "AI补全了我对长辈的所有未知",
@@ -5982,9 +6153,9 @@
       "site_id": "trendradar",
       "site_name": "TrendRadar",
       "source": "抖音",
-      "published_at": "2026-08-20T21:01:13.179000Z",
-      "first_seen_at": "2026-08-20T21:01:13.179000Z",
-      "time_label": "今天 05:01",
+      "published_at": "2026-08-20T21:23:40.008000Z",
+      "first_seen_at": "2026-08-20T21:23:40.008000Z",
+      "time_label": "11分钟前",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 7.8,
@@ -6016,55 +6187,16 @@
       "source_key": "trendradar::platform::douyin"
     },
     {
-      "id": "8fadca3f400aad4c6b58e0f099d487c973ec3588",
-      "title": "Anthropic或成最大IPO",
-      "title_original": "Anthropic或成最大IPO",
-      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=Anthropic%E6%88%96%E6%88%90%E6%9C%80%E5%A4%A7IPO&rankType=1",
-      "site_id": "tophub",
-      "site_name": "TopHub",
-      "source": "快手 · 实时热榜",
-      "published_at": null,
-      "first_seen_at": "2026-08-20T20:59:56.417065Z",
-      "time_label": "1分钟前",
-      "category_id": "product_tool",
-      "category_title": "产品与开发者工具",
-      "score": 7.8,
-      "ai_score": 0.78,
-      "ai_label": "ai_product_update",
-      "reason": "matched_tracked_ai_keyword",
-      "signals": [
-        "anthropic",
-        "Anthropic"
-      ],
-      "topic_labels": [
-        "Anthropic"
-      ],
-      "topic_sections": [
-        "ai_related"
-      ],
-      "project_source": "AI News Radar",
-      "source_ref": {
-        "project_id": "ai_news_radar",
-        "project_name": "AI News Radar",
-        "kind": "collector",
-        "kind_label": "采集器",
-        "source_id": "tophub",
-        "name": "快手 · 实时热榜",
-        "source_key": "ai_news_radar::collector::tophub"
-      },
-      "source_key": "ai_news_radar::collector::tophub"
-    },
-    {
-      "id": "e8d1b5d367adcf263ba06bec77092703c091df3f",
-      "title": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "title_original": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
+      "id": "a50812945b07efe4dd97d0970eefcd0833ba8ba7",
+      "title": "人工智能提高了对双希格斯信号的灵敏度，该信号大约每一万亿次碰撞出现一次",
+      "title_original": "人工智能提高了对双希格斯信号的灵敏度，该信号大约每一万亿次碰撞出现一次",
+      "url": "https://phys.org/news/2026-08-ai-boosts-sensitivity-higgs-signatures.html",
       "site_id": "buzzing",
       "site_name": "Buzzing",
-      "source": "www.economist.com",
-      "published_at": "2026-08-20T20:53:55.152000Z",
-      "first_seen_at": "2026-08-20T20:59:56.417065Z",
-      "time_label": "6分钟前",
+      "source": "phys.org",
+      "published_at": "2026-08-20T21:10:32.799000Z",
+      "first_seen_at": "2026-08-20T21:34:53.254665Z",
+      "time_label": "24分钟前",
       "category_id": "practice_insight",
       "category_title": "实践技巧与观点",
       "score": 7.8,
@@ -6089,34 +6221,32 @@
         "kind": "collector",
         "kind_label": "采集器",
         "source_id": "buzzing",
-        "name": "www.economist.com",
+        "name": "phys.org",
         "source_key": "ai_news_radar::collector::buzzing"
       },
       "source_key": "ai_news_radar::collector::buzzing"
     },
     {
-      "id": "86f45a75ac4f7b50395c15ed8319746cab9eb8ab",
-      "title": "据彭博社报道，博通在最新一笔人工智能融资交易中寻求筹集超过600亿美元",
-      "title_original": "据彭博社报道，博通在最新一笔人工智能融资交易中寻求筹集超过600亿美元",
-      "url": "https://www.reuters.com/technology/broadcom-seeks-more-than-60-billion-latest-ai-debt-deal-bloomberg-news-reports-2026-08-20",
+      "id": "ee94741e3ab2279de2cff2b7d4fe36869e1ab4e6",
+      "title": "政府推出23亿雷亚尔的人工智能基础设施投资计划，力求在中美关系中保持平衡",
+      "title_original": "政府推出23亿雷亚尔的人工智能基础设施投资计划，力求在中美关系中保持平衡",
+      "url": "https://www.reuters.com/pt/domestico/75CUKH6VJZIFFNHSIHHUGM7CNA-2026-08-20",
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "source": "www.reuters.com",
-      "published_at": "2026-08-20T20:53:55.135000Z",
-      "first_seen_at": "2026-08-20T20:59:56.417065Z",
-      "time_label": "6分钟前",
-      "category_id": "industry_compute",
-      "category_title": "产业、算力与机器人",
+      "published_at": "2026-08-20T21:10:32.785000Z",
+      "first_seen_at": "2026-08-20T21:34:53.254665Z",
+      "time_label": "24分钟前",
+      "category_id": "practice_insight",
+      "category_title": "实践技巧与观点",
       "score": 7.8,
       "ai_score": 0.78,
-      "ai_label": "industry_business",
+      "ai_label": "ai_general",
       "reason": "matched_tracked_ai_keyword",
       "signals": [
-        "人工智能",
-        "AI"
+        "人工智能"
       ],
       "topic_labels": [
-        "AI",
         "人工智能"
       ],
       "topic_sections": [
@@ -6130,127 +6260,6 @@
         "kind_label": "采集器",
         "source_id": "buzzing",
         "name": "www.reuters.com",
-        "source_key": "ai_news_radar::collector::buzzing"
-      },
-      "source_key": "ai_news_radar::collector::buzzing"
-    },
-    {
-      "id": "60954f1ffa2ccf87741bd112a2bdbdbdca1a39f6",
-      "title": "预测：这家小型人工智能公司股价在光计算领域蕴藏着巨大机遇",
-      "title_original": "预测：这家小型人工智能公司股价在光计算领域蕴藏着巨大机遇",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-tiny-ai-stock-massive-123013428.html",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "finance.yahoo.com",
-      "published_at": "2026-08-20T20:53:54.420000Z",
-      "first_seen_at": "2026-08-20T20:59:56.417065Z",
-      "time_label": "6分钟前",
-      "category_id": "industry_compute",
-      "category_title": "产业、算力与机器人",
-      "score": 7.8,
-      "ai_score": 0.78,
-      "ai_label": "industry_business",
-      "reason": "matched_tracked_ai_keyword",
-      "signals": [
-        "人工智能",
-        "AI"
-      ],
-      "topic_labels": [
-        "AI",
-        "人工智能"
-      ],
-      "topic_sections": [
-        "ai_related"
-      ],
-      "project_source": "AI News Radar",
-      "source_ref": {
-        "project_id": "ai_news_radar",
-        "project_name": "AI News Radar",
-        "kind": "collector",
-        "kind_label": "采集器",
-        "source_id": "buzzing",
-        "name": "finance.yahoo.com",
-        "source_key": "ai_news_radar::collector::buzzing"
-      },
-      "source_key": "ai_news_radar::collector::buzzing"
-    },
-    {
-      "id": "02b246558ec398073474c84ec57a8ed45ec382f3",
-      "title": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "title_original": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "url": "https://bit.ly/4c1sSCY",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "bit.ly",
-      "published_at": "2026-08-20T20:53:54.405000Z",
-      "first_seen_at": "2026-08-20T20:59:56.417065Z",
-      "time_label": "6分钟前",
-      "category_id": "practice_insight",
-      "category_title": "实践技巧与观点",
-      "score": 7.8,
-      "ai_score": 0.78,
-      "ai_label": "ai_general",
-      "reason": "matched_tracked_ai_keyword",
-      "signals": [
-        "人工智能"
-      ],
-      "topic_labels": [
-        "人工智能"
-      ],
-      "topic_sections": [
-        "ai_related"
-      ],
-      "project_source": "AI News Radar",
-      "source_ref": {
-        "project_id": "ai_news_radar",
-        "project_name": "AI News Radar",
-        "kind": "collector",
-        "kind_label": "采集器",
-        "source_id": "buzzing",
-        "name": "bit.ly",
-        "source_key": "ai_news_radar::collector::buzzing"
-      },
-      "source_key": "ai_news_radar::collector::buzzing"
-    },
-    {
-      "id": "e6ec308dd0cf826efd6127c12df32c8a8e4452d5",
-      "title": "Show HN: 通过 MCP Apps 在 ChatGPT 和 Claude 中访问经过验证的企业仪表盘",
-      "title_original": "Show HN: 通过 MCP Apps 在 ChatGPT 和 Claude 中访问经过验证的企业仪表盘",
-      "url": "https://www.corpusiq.io/docs/hermes/mcp/mcp-apps-interactive-ui",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "www.corpusiq.io",
-      "published_at": "2026-08-20T20:53:53.719000Z",
-      "first_seen_at": "2026-08-20T20:59:56.417065Z",
-      "time_label": "6分钟前",
-      "category_id": "industry_compute",
-      "category_title": "产业、算力与机器人",
-      "score": 7.8,
-      "ai_score": 0.78,
-      "ai_label": "model_release",
-      "reason": "matched_tracked_ai_keyword",
-      "signals": [
-        "claude",
-        "gpt",
-        "mcp",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "topic_labels": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "topic_sections": [
-        "ai_related"
-      ],
-      "project_source": "AI News Radar",
-      "source_ref": {
-        "project_id": "ai_news_radar",
-        "project_name": "AI News Radar",
-        "kind": "collector",
-        "kind_label": "采集器",
-        "source_id": "buzzing",
-        "name": "www.corpusiq.io",
         "source_key": "ai_news_radar::collector::buzzing"
       },
       "source_key": "ai_news_radar::collector::buzzing"
@@ -6281,9 +6290,9 @@
             "source_key": "ai_news_radar::collector::tophub",
             "enabled": true,
             "status": "ok",
-            "item_count": 3027,
-            "raw_24h": 3950,
-            "ai_24h": 819,
+            "item_count": 2992,
+            "raw_24h": 3943,
+            "ai_24h": 817,
             "ai_hit_rate": 0.207,
             "decision": "keep",
             "error": null
@@ -6297,9 +6306,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 744,
-            "raw_24h": 2682,
-            "ai_24h": 668,
-            "ai_hit_rate": 0.249,
+            "raw_24h": 2677,
+            "ai_24h": 662,
+            "ai_hit_rate": 0.247,
             "decision": "keep",
             "error": null
           },
@@ -6311,10 +6320,10 @@
             "source_key": "ai_news_radar::collector::iris",
             "enabled": true,
             "status": "ok",
-            "item_count": 324,
-            "raw_24h": 894,
-            "ai_24h": 261,
-            "ai_hit_rate": 0.292,
+            "item_count": 323,
+            "raw_24h": 895,
+            "ai_24h": 260,
+            "ai_hit_rate": 0.291,
             "decision": "keep",
             "error": null
           },
@@ -6326,10 +6335,10 @@
             "source_key": "ai_news_radar::collector::zeli",
             "enabled": true,
             "status": "ok",
-            "item_count": 79,
-            "raw_24h": 89,
-            "ai_24h": 80,
-            "ai_hit_rate": 0.899,
+            "item_count": 76,
+            "raw_24h": 85,
+            "ai_24h": 76,
+            "ai_hit_rate": 0.894,
             "decision": "keep",
             "error": null
           },
@@ -6342,9 +6351,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 127,
-            "raw_24h": 227,
-            "ai_24h": 38,
-            "ai_hit_rate": 0.167,
+            "raw_24h": 224,
+            "ai_24h": 39,
+            "ai_hit_rate": 0.174,
             "decision": "keep",
             "error": null
           },
@@ -6386,10 +6395,10 @@
             "source_key": "ai_news_radar::collector::official_ai",
             "enabled": true,
             "status": "ok",
-            "item_count": 189,
-            "raw_24h": 9,
-            "ai_24h": 6,
-            "ai_hit_rate": 0.667,
+            "item_count": 176,
+            "raw_24h": 8,
+            "ai_24h": 5,
+            "ai_hit_rate": 0.625,
             "decision": "keep",
             "error": null
           },
@@ -6402,9 +6411,9 @@
             "enabled": true,
             "status": "ok",
             "item_count": 31,
-            "raw_24h": 10,
-            "ai_24h": 5,
-            "ai_hit_rate": 0.5,
+            "raw_24h": 9,
+            "ai_24h": 4,
+            "ai_hit_rate": 0.444,
             "decision": "keep",
             "error": null
           },
@@ -6470,8 +6479,8 @@
           }
         ],
         "source_count": 13,
-        "ai_24h": 1917,
-        "raw_24h": 8317
+        "ai_24h": 1903,
+        "raw_24h": 8297
       },
       {
         "id": "aihot",
@@ -6750,7 +6759,7 @@
             "status": "ok",
             "item_count": 30,
             "raw_24h": 30,
-            "ai_24h": 12
+            "ai_24h": 11
           },
           {
             "id": "zaobao",
@@ -6765,11 +6774,11 @@
             "ai_24h": 3
           },
           {
-            "id": "cankaoxiaoxi",
-            "name": "参考消息",
+            "id": "toutiao",
+            "name": "今日头条",
             "kind": "platform",
             "kind_label": "热榜平台",
-            "source_key": "trendradar::platform::cankaoxiaoxi",
+            "source_key": "trendradar::platform::toutiao",
             "enabled": true,
             "status": "ok",
             "item_count": 30,
@@ -6777,11 +6786,11 @@
             "ai_24h": 1
           },
           {
-            "id": "bilibili",
-            "name": "哔哩哔哩",
+            "id": "cankaoxiaoxi",
+            "name": "参考消息",
             "kind": "platform",
             "kind_label": "热榜平台",
-            "source_key": "trendradar::platform::bilibili",
+            "source_key": "trendradar::platform::cankaoxiaoxi",
             "enabled": true,
             "status": "ok",
             "item_count": 30,
@@ -6801,6 +6810,18 @@
             "ai_24h": 1
           },
           {
+            "id": "wallstreetcn-hot",
+            "name": "华尔街见闻",
+            "kind": "platform",
+            "kind_label": "热榜平台",
+            "source_key": "trendradar::platform::wallstreetcn-hot",
+            "enabled": true,
+            "status": "ok",
+            "item_count": 10,
+            "raw_24h": 10,
+            "ai_24h": 1
+          },
+          {
             "id": "ithome",
             "name": "it之家",
             "kind": "platform",
@@ -6813,11 +6834,11 @@
             "ai_24h": 0
           },
           {
-            "id": "toutiao",
-            "name": "今日头条",
+            "id": "bilibili",
+            "name": "哔哩哔哩",
             "kind": "platform",
             "kind_label": "热榜平台",
-            "source_key": "trendradar::platform::toutiao",
+            "source_key": "trendradar::platform::bilibili",
             "enabled": true,
             "status": "ok",
             "item_count": 30,
@@ -6897,18 +6918,6 @@
             "ai_24h": 0
           },
           {
-            "id": "wallstreetcn-hot",
-            "name": "华尔街见闻",
-            "kind": "platform",
-            "kind_label": "热榜平台",
-            "source_key": "trendradar::platform::wallstreetcn-hot",
-            "enabled": true,
-            "status": "ok",
-            "item_count": 10,
-            "raw_24h": 10,
-            "ai_24h": 0
-          },
-          {
             "id": "36kr",
             "name": "36kr",
             "kind": "platform",
@@ -6960,11 +6969,11 @@
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "fetch_item_count": 3027,
-      "raw_24h": 3950,
-      "ai_24h": 819,
+      "fetch_item_count": 2992,
+      "raw_24h": 3943,
+      "ai_24h": 817,
       "ai_hit_rate": 0.207,
-      "duration_ms": 1398,
+      "duration_ms": 1554,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -6974,10 +6983,10 @@
       "site_name": "Buzzing",
       "ok": true,
       "fetch_item_count": 744,
-      "raw_24h": 2682,
-      "ai_24h": 668,
-      "ai_hit_rate": 0.249,
-      "duration_ms": 661,
+      "raw_24h": 2677,
+      "ai_24h": 662,
+      "ai_hit_rate": 0.247,
+      "duration_ms": 261,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -6986,11 +6995,11 @@
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "fetch_item_count": 324,
-      "raw_24h": 894,
-      "ai_24h": 261,
-      "ai_hit_rate": 0.292,
-      "duration_ms": 13958,
+      "fetch_item_count": 323,
+      "raw_24h": 895,
+      "ai_24h": 260,
+      "ai_hit_rate": 0.291,
+      "duration_ms": 11704,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -6999,11 +7008,11 @@
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "fetch_item_count": 79,
-      "raw_24h": 89,
-      "ai_24h": 80,
-      "ai_hit_rate": 0.899,
-      "duration_ms": 1445,
+      "fetch_item_count": 76,
+      "raw_24h": 85,
+      "ai_24h": 76,
+      "ai_hit_rate": 0.894,
+      "duration_ms": 439,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7013,10 +7022,10 @@
       "site_name": "NewsNow",
       "ok": true,
       "fetch_item_count": 127,
-      "raw_24h": 227,
-      "ai_24h": 38,
-      "ai_hit_rate": 0.167,
-      "duration_ms": 4518,
+      "raw_24h": 224,
+      "ai_24h": 39,
+      "ai_hit_rate": 0.174,
+      "duration_ms": 933,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7029,7 +7038,7 @@
       "raw_24h": 30,
       "ai_24h": 30,
       "ai_hit_rate": 1.0,
-      "duration_ms": 1836,
+      "duration_ms": 1524,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7042,7 +7051,7 @@
       "raw_24h": 20,
       "ai_24h": 10,
       "ai_hit_rate": 0.5,
-      "duration_ms": 6352,
+      "duration_ms": 6870,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": "1 feeds failed"
@@ -7051,11 +7060,11 @@
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "fetch_item_count": 49,
+      "fetch_item_count": 48,
       "raw_24h": 9,
       "ai_24h": 9,
       "ai_hit_rate": 1.0,
-      "duration_ms": 652,
+      "duration_ms": 1168,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7064,11 +7073,11 @@
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "fetch_item_count": 189,
-      "raw_24h": 9,
-      "ai_24h": 6,
-      "ai_hit_rate": 0.667,
-      "duration_ms": 3164,
+      "fetch_item_count": 176,
+      "raw_24h": 8,
+      "ai_24h": 5,
+      "ai_hit_rate": 0.625,
+      "duration_ms": 1823,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7078,10 +7087,10 @@
       "site_name": "Follow Builders",
       "ok": true,
       "fetch_item_count": 31,
-      "raw_24h": 10,
-      "ai_24h": 5,
-      "ai_hit_rate": 0.5,
-      "duration_ms": 317,
+      "raw_24h": 9,
+      "ai_24h": 4,
+      "ai_hit_rate": 0.444,
+      "duration_ms": 27,
       "decision": "keep",
       "decision_reason": "高信号源，建议保留",
       "error": null
@@ -7094,7 +7103,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 1385,
+      "duration_ms": 602,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -7107,7 +7116,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 449,
+      "duration_ms": 402,
       "decision": "watch",
       "decision_reason": "24小时没有新内容",
       "error": null
@@ -7120,7 +7129,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 90,
+      "duration_ms": 21,
       "decision": "fix_fetch",
       "decision_reason": "抓取失败，先修复源",
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
@@ -7133,7 +7142,7 @@
       "raw_24h": 0,
       "ai_24h": 0,
       "ai_hit_rate": 0.0,
-      "duration_ms": 4995,
+      "duration_ms": 5048,
       "decision": "fix_fetch",
       "decision_reason": "抓取失败，先修复源",
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
