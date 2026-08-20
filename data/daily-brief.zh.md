@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T20:36:49.512292Z
-- 24小时AI信号：1999 条
+- 生成时间：2026-08-20T20:59:56.417065Z
+- 24小时AI信号：2006 条
 - 源健康：12/14
-- 原始抓取：7310 条
+- 原始抓取：7314 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 如何开展 AI 教学](https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍](https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Claude Code 初创公司指南：五大规则与创始人洞见](https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv)
@@ -23,18 +23,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向](https://www.aibase.com/news/30508)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [美团搜索 3.0如何用大模型表征重构本地生活搜索底座？](https://www.aibase.com/news/30507)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://claude.com/blog/computer-use-skills-api-files-api)
-   - 时间：9分钟前
+6. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew)
+   - 时间：32分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率](https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7)
@@ -46,11 +46,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [阿里发布 Qwen-UI-Agent，主打让模型真正&quot;会用&quot;每一块屏幕](https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [小米人形机器人首次亮相，已成功注册多枚小米铁大商标](https://www.aibase.com/news/30506)
-   - 时间：11小时前
+   - 时间：昨天 16:48
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500)
@@ -114,7 +114,7 @@
    - 时间：昨天 09:43
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [FastMetal 让 Mac 本地 30 秒生成视频](https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8)
+24. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
    - 时间：昨天 04:42
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,11 +127,11 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 822/3958 | 20.8% | 高信号源，建议保留 |
-| Buzzing | 664/2688 | 24.7% | 高信号源，建议保留 |
-| Info Flow | 259/890 | 29.1% | 高信号源，建议保留 |
-| Zeli | 77/84 | 91.7% | 高信号源，建议保留 |
-| NewsNow | 37/222 | 16.7% | 高信号源，建议保留 |
+| TopHub | 819/3950 | 20.7% | 高信号源，建议保留 |
+| Buzzing | 668/2682 | 24.9% | 高信号源，建议保留 |
+| Info Flow | 261/894 | 29.2% | 高信号源，建议保留 |
+| Zeli | 80/89 | 89.9% | 高信号源，建议保留 |
+| NewsNow | 38/227 | 16.7% | 高信号源，建议保留 |
 | AIbase | 30/30 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 10/20 | 50.0% | 高信号源，建议保留 |
 | AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
