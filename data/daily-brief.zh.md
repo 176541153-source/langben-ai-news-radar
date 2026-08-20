@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T22:58:19.133921Z
-- 24小时AI信号：1961 条
+- 生成时间：2026-08-20T23:32:31.849797Z
+- 24小时AI信号：2035 条
 - 源健康：12/14
-- 原始抓取：7254 条
+- 原始抓取：7297 条
 
 ## 今日重点
 
@@ -19,7 +19,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Claude Code 初创公司指南：五大规则与创始人洞见](https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向](https://www.aibase.com/news/30508)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率](https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [阿里发布 Qwen-UI-Agent，主打让模型真正&quot;会用&quot;每一块屏幕](https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby)
@@ -72,9 +72,9 @@
    - 时间：08-18 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [DiffusionGemma 技术报告](https://arxiv.org/abs/2608.00146)
-   - 时间：4小时前
-   - 来源：Buzzing
+15. [皮尤研究中心称 10% 的网络现在显示出人工智能作者身份的迹象](https://thenextweb.com/news/pew-ai-authorship-web-pages-study)
+   - 时间：2小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 800/3885 | 20.6% | 高信号源，建议保留 |
-| Buzzing | 648/2645 | 24.5% | 高信号源，建议保留 |
-| Info Flow | 260/898 | 29.0% | 高信号源，建议保留 |
-| Zeli | 77/86 | 89.5% | 高信号源，建议保留 |
-| NewsNow | 40/224 | 17.9% | 高信号源，建议保留 |
+| TopHub | 800/3905 | 20.5% | 高信号源，建议保留 |
+| Buzzing | 644/2630 | 24.5% | 高信号源，建议保留 |
+| Info Flow | 257/894 | 28.7% | 高信号源，建议保留 |
+| Zeli | 80/89 | 89.9% | 高信号源，建议保留 |
+| TechURLs | 79/212 | 37.3% | 高信号源，建议保留 |
+| NewsNow | 39/222 | 17.6% | 高信号源，建议保留 |
 | AIbase | 30/30 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 10/18 | 55.6% | 高信号源，建议保留 |
-| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
