@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T22:35:34.438179Z
-- 24小时AI信号：1986 条
+- 生成时间：2026-08-20T22:58:19.133921Z
+- 24小时AI信号：1961 条
 - 源健康：12/14
-- 原始抓取：7218 条
+- 原始抓取：7254 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 如何开展 AI 教学](https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍](https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Claude Code 初创公司指南：五大规则与创始人洞见](https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv)
@@ -23,7 +23,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向](https://www.aibase.com/news/30508)
-   - 时间：11小时前
+   - 时间：昨天 18:37
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [美团搜索 3.0如何用大模型表征重构本地生活搜索底座？](https://www.aibase.com/news/30507)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 819/3897 | 21.0% | 高信号源，建议保留 |
-| Buzzing | 650/2650 | 24.5% | 高信号源，建议保留 |
-| Info Flow | 261/899 | 29.0% | 高信号源，建议保留 |
-| Zeli | 79/88 | 89.8% | 高信号源，建议保留 |
-| NewsNow | 40/223 | 17.9% | 高信号源，建议保留 |
+| TopHub | 800/3885 | 20.6% | 高信号源，建议保留 |
+| Buzzing | 648/2645 | 24.5% | 高信号源，建议保留 |
+| Info Flow | 260/898 | 29.0% | 高信号源，建议保留 |
+| Zeli | 77/86 | 89.5% | 高信号源，建议保留 |
+| NewsNow | 40/224 | 17.9% | 高信号源，建议保留 |
 | AIbase | 30/30 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 10/20 | 50.0% | 高信号源，建议保留 |
+| OPML RSS | 10/18 | 55.6% | 高信号源，建议保留 |
 | AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
