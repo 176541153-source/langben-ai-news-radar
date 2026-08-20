@@ -1,6 +1,6 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T11:34:08.816938Z
+- 生成时间：2026-08-20T11:55:59.474363Z
 - 24小时AI信号：2048 条
 - 源健康：12/14
 - 原始抓取：7417 条
@@ -11,19 +11,19 @@
 ### 模型发布与能力更新
 
 1. [DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向](https://www.aibase.com/news/30508)
-   - 时间：56分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [美团搜索 3.0如何用大模型表征重构本地生活搜索底座？](https://www.aibase.com/news/30507)
    - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑](https://www.aibase.com/news/30504)
+2. [美团搜索 3.0如何用大模型表征重构本地生活搜索底座？](https://www.aibase.com/news/30507)
    - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑](https://www.aibase.com/news/30503)
+3. [通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑](https://www.aibase.com/news/30504)
    - 时间：3小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑](https://www.aibase.com/news/30503)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售](https://www.aibase.com/news/30502)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [阿里发布 Qwen-UI-Agent，主打让模型真正&quot;会用&quot;每一块屏幕](https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI升级Codex安全防护，新增危险操作拦截与权限控制](https://www.aibase.com/news/30495)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手](https://www.aibase.com/news/30492)
@@ -50,7 +50,7 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [OpenAI计划2027年完成IPO，已秘密提交上市文件](https://www.aibase.com/news/30483)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -73,14 +73,14 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [马斯克直呼完了：Anthropic 73页论文刷屏，全球大模型中招思想病毒！](https://www.woshipm.com/?p=6451623)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [小米人形机器人首次亮相，已成功注册多枚小米铁大商标](https://www.aibase.com/news/30506)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500)
@@ -96,7 +96,7 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [Stripe完成收购OpenRouter，交易估值据报达75亿美元](https://www.aibase.com/news/30489)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -111,7 +111,7 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备](https://www.aibase.com/news/30482)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [FastMetal 让 Mac 本地 30 秒生成视频](https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8)
@@ -127,11 +127,11 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 840/3910 | 21.5% | 高信号源，建议保留 |
-| Buzzing | 683/2678 | 25.5% | 高信号源，建议保留 |
-| Info Flow | 260/890 | 29.2% | 高信号源，建议保留 |
-| Zeli | 70/80 | 87.5% | 高信号源，建议保留 |
-| NewsNow | 37/196 | 18.9% | 高信号源，建议保留 |
+| TopHub | 843/3938 | 21.4% | 高信号源，建议保留 |
+| Buzzing | 682/2707 | 25.2% | 高信号源，建议保留 |
+| Info Flow | 261/891 | 29.3% | 高信号源，建议保留 |
+| Zeli | 68/78 | 87.2% | 高信号源，建议保留 |
+| NewsNow | 36/197 | 18.3% | 高信号源，建议保留 |
 | AIbase | 30/30 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 22/36 | 61.1% | 高信号源，建议保留 |
 | Follow Builders | 15/31 | 48.4% | 高信号源，建议保留 |
