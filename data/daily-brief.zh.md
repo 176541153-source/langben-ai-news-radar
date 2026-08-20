@@ -1,32 +1,32 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T06:57:30.180401Z
-- 24小时AI信号：2002 条
+- 生成时间：2026-08-20T07:48:08.515629Z
+- 24小时AI信号：2013 条
 - 源健康：12/14
-- 原始抓取：7368 条
+- 原始抓取：7369 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售](https://www.aibase.com/news/30502)
+1. [MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑](https://www.aibase.com/news/30503)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者](https://www.aibase.com/news/30501)
-   - 时间：1分钟前
+2. [宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售](https://www.aibase.com/news/30502)
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”](https://www.aibase.com/news/30498)
-   - 时间：1分钟前
+3. [IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者](https://www.aibase.com/news/30501)
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐](https://www.aibase.com/news/30496)
-   - 时间：3小时前
+4. [王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”](https://www.aibase.com/news/30498)
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务](https://www.aibase.com/news/30491)
+5. [王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐](https://www.aibase.com/news/30496)
    - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -38,19 +38,19 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手](https://www.aibase.com/news/30492)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI计划2027年完成IPO，已秘密提交上市文件](https://www.aibase.com/news/30483)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控](https://www.aibase.com/news/30481)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [谷歌搜索与 Gemini 上线AI学习工具，新增3D模拟和智能测验功能](https://www.aibase.com/news/30480)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -72,50 +72,50 @@
    - 时间：08-18 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [马斯克直呼完了：Anthropic 73页论文刷屏，全球大模型中招思想病毒](https://www.36kr.com/p/3946348355157378)
-   - 时间：5小时前
-   - 来源：TopHub
+15. [应用材料公司2026年股价飙升98%：在AI资本支出推动芯片设备股上涨的背景下，AMAT与Lam Research和KLA相比表现如何？](https://finance.yahoo.com/technology/articles/applied-materials-rockets-98-2026-192238941.html)
+   - 时间：29分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位](https://www.aibase.com/news/30499)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [75亿美元！Stripe正式收购模型路由平台OpenRouter](https://www.aibase.com/news/30497)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [Stripe完成收购OpenRouter，交易估值据报达75亿美元](https://www.aibase.com/news/30489)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [冲击5万亿参数终极目标！字节跳动Seed基模团队架构大洗牌，四大核心一级部门浮出水面](https://www.aibase.com/news/30487)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [CounterPoint预估：智能眼镜与戒指将成未来增长最快品类](https://www.aibase.com/news/30494)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Meta推出Mac版AI助手，支持屏幕共享和语音输入功能](https://www.aibase.com/news/30493)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备](https://www.aibase.com/news/30482)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [FastMetal 让 Mac 本地 30 秒生成视频](https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [国内首个人工与AI客服协同国家标准将于9月1日实施](https://www.aibase.com/news/30476)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 813/3859 | 21.1% | 高信号源，建议保留 |
-| Buzzing | 697/2730 | 25.5% | 高信号源，建议保留 |
-| Info Flow | 247/890 | 27.8% | 高信号源，建议保留 |
-| Zeli | 74/82 | 90.2% | 高信号源，建议保留 |
-| AIbase | 33/33 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 28/188 | 14.9% | 高信号源，建议保留 |
+| TopHub | 819/3852 | 21.3% | 高信号源，建议保留 |
+| Buzzing | 694/2720 | 25.5% | 高信号源，建议保留 |
+| Info Flow | 245/886 | 27.7% | 高信号源，建议保留 |
+| Zeli | 70/79 | 88.6% | 高信号源，建议保留 |
+| AIbase | 31/31 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 29/185 | 15.7% | 高信号源，建议保留 |
 | OPML RSS | 20/35 | 57.1% | 高信号源，建议保留 |
-| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 15/31 | 48.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
