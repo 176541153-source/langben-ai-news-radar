@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T18:51:09.677806Z
-- 24小时AI信号：2015 条
+- 生成时间：2026-08-20T19:36:56.282643Z
+- 24小时AI信号：1994 条
 - 源健康：12/14
-- 原始抓取：7327 条
+- 原始抓取：7243 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 如何开展 AI 教学](https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65)
-   - 时间：54分钟前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍](https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b)
    - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍](https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Claude Code 初创公司指南：五大规则与创始人洞见](https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向](https://www.aibase.com/news/30508)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率](https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [阿里发布 Qwen-UI-Agent，主打让模型真正&quot;会用&quot;每一块屏幕](https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby)
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [DiffusionGemma 技术报告](https://arxiv.org/abs/2608.00146)
-   - 时间：36分钟前
+   - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -84,15 +84,15 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500)
-   - 时间：11小时前
+   - 时间：昨天 14:57
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位](https://www.aibase.com/news/30499)
-   - 时间：11小时前
+   - 时间：昨天 14:57
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [75亿美元！Stripe正式收购模型路由平台OpenRouter](https://www.aibase.com/news/30497)
-   - 时间：11小时前
+   - 时间：昨天 14:57
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [Stripe完成收购OpenRouter，交易估值据报达75亿美元](https://www.aibase.com/news/30489)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 827/3960 | 20.9% | 高信号源，建议保留 |
-| Buzzing | 661/2652 | 24.9% | 高信号源，建议保留 |
-| Info Flow | 264/890 | 29.7% | 高信号源，建议保留 |
-| Zeli | 79/87 | 90.8% | 高信号源，建议保留 |
-| NewsNow | 38/226 | 16.8% | 高信号源，建议保留 |
+| TopHub | 830/3994 | 20.8% | 高信号源，建议保留 |
+| Buzzing | 643/2613 | 24.6% | 高信号源，建议保留 |
+| Info Flow | 264/893 | 29.6% | 高信号源，建议保留 |
+| Zeli | 78/86 | 90.7% | 高信号源，建议保留 |
+| NewsNow | 36/221 | 16.3% | 高信号源，建议保留 |
 | AIbase | 30/30 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 15/26 | 57.7% | 高信号源，建议保留 |
+| OPML RSS | 13/23 | 56.5% | 高信号源，建议保留 |
 | AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
