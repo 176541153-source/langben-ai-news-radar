@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-20T04:44:42.905885Z
+- 生成时间：2026-08-20T05:37:38.895256Z
 - 24小时AI信号：1987 条
 - 源健康：12/14
-- 原始抓取：7355 条
+- 原始抓取：7362 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐](https://www.aibase.com/news/30496)
-   - 时间：51分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务](https://www.aibase.com/news/30491)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [ChatGPT全球故障，用户登录和聊天记录加载功能异常](https://www.aibase.com/news/30490)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [OpenAI升级Codex安全防护，新增危险操作拦截与权限控制](https://www.aibase.com/news/30495)
-   - 时间：51分钟前
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手](https://www.aibase.com/news/30492)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI计划2027年完成IPO，已秘密提交上市文件](https://www.aibase.com/news/30483)
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [CounterPoint预估：智能眼镜与戒指将成未来增长最快品类](https://www.aibase.com/news/30494)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Meta推出Mac版AI助手，支持屏幕共享和语音输入功能](https://www.aibase.com/news/30493)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备](https://www.aibase.com/news/30482)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 811/3859 | 21.0% | 高信号源，建议保留 |
-| Buzzing | 697/2766 | 25.2% | 高信号源，建议保留 |
-| Info Flow | 240/878 | 27.3% | 高信号源，建议保留 |
-| Zeli | 71/79 | 89.9% | 高信号源，建议保留 |
+| TopHub | 810/3864 | 21.0% | 高信号源，建议保留 |
+| Buzzing | 698/2753 | 25.4% | 高信号源，建议保留 |
+| Info Flow | 239/876 | 27.3% | 高信号源，建议保留 |
+| Zeli | 73/81 | 90.1% | 高信号源，建议保留 |
 | AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 26/186 | 14.0% | 高信号源，建议保留 |
-| OPML RSS | 19/33 | 57.6% | 高信号源，建议保留 |
+| NewsNow | 25/184 | 13.6% | 高信号源，建议保留 |
+| OPML RSS | 20/34 | 58.8% | 高信号源，建议保留 |
 | AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
