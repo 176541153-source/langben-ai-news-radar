@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T05:06:23.802068Z
-- 24小时AI信号：2056 条
+- 生成时间：2026-08-21T05:42:41.672145Z
+- 24小时AI信号：2050 条
 - 源健康：12/14
-- 原始抓取：7364 条
+- 原始抓取：7369 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线](https://www.aibase.com/news/30523)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验](https://www.aibase.com/news/30520)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者](https://www.aibase.com/news/30524)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Claude Platform 正式上线Computer Use、Skills API 与 Files API](https://www.aibase.com/news/30522)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效](https://www.aibase.com/news/30519)
@@ -50,14 +50,14 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹](https://www.aibase.com/news/30521)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立](https://www.aibase.com/news/30518)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 810/3842 | 21.1% | 高信号源，建议保留 |
-| Buzzing | 639/2642 | 24.2% | 高信号源，建议保留 |
-| Info Flow | 257/893 | 28.8% | 高信号源，建议保留 |
-| TechURLs | 90/247 | 36.4% | 高信号源，建议保留 |
+| TopHub | 804/3796 | 21.2% | 高信号源，建议保留 |
+| Buzzing | 634/2642 | 24.0% | 高信号源，建议保留 |
+| Info Flow | 262/920 | 28.5% | 高信号源，建议保留 |
+| TechURLs | 90/249 | 36.1% | 高信号源，建议保留 |
 | Zeli | 87/97 | 89.7% | 高信号源，建议保留 |
-| NewsNow | 41/226 | 18.1% | 高信号源，建议保留 |
+| NewsNow | 41/223 | 18.4% | 高信号源，建议保留 |
 | AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 12/22 | 54.5% | 高信号源，建议保留 |
 
