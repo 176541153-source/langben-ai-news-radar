@@ -1,63 +1,63 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T08:50:17.472093Z
-- 24小时AI信号：2022 条
+- 生成时间：2026-08-21T09:44:31.569582Z
+- 24小时AI信号：2037 条
 - 源健康：12/14
-- 原始抓取：7405 条
+- 原始抓取：7408 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍](https://www.aibase.com/news/30528)
-   - 时间：1小时前
+1. [国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型](https://www.aibase.com/news/30534)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑](https://www.aibase.com/news/30527)
-   - 时间：1小时前
+2. [LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍](https://www.aibase.com/news/30528)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线](https://www.aibase.com/news/30523)
-   - 时间：5小时前
+3. [商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑](https://www.aibase.com/news/30527)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验](https://www.aibase.com/news/30520)
-   - 时间：7小时前
+4. [千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线](https://www.aibase.com/news/30523)
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎](https://www.aibase.com/news/30515)
+5. [Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验](https://www.aibase.com/news/30520)
    - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放](https://www.aibase.com/news/30531)
+6. [DeepSeek-V4-Flash-Vision-Exp 发布](https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4)
+   - 时间：18分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放](https://www.aibase.com/news/30531)
    - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [阿里开源 Qwen-UI-Agent：真机多模态基座模型登场](https://www.aibase.com/news/30530)
+8. [阿里开源 Qwen-UI-Agent：真机多模态基座模型登场](https://www.aibase.com/news/30530)
    - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%](https://www.aibase.com/news/30529)
-   - 时间：1小时前
+9. [Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%](https://www.aibase.com/news/30529)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者](https://www.aibase.com/news/30524)
-   - 时间：5小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Claude Platform 正式上线Computer Use、Skills API 与 Files API](https://www.aibase.com/news/30522)
-   - 时间：5小时前
+10. [Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者](https://www.aibase.com/news/30524)
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹](https://www.aibase.com/news/30521)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立](https://www.aibase.com/news/30518)
@@ -102,23 +102,23 @@
 
 ### 实践技巧与观点
 
-21. [韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI](https://www.aibase.com/news/30533)
+21. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析](https://www.aibase.com/news/30526)
-   - 时间：1小时前
+22. [韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI](https://www.aibase.com/news/30533)
+   - 时间：54分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴](https://www.aibase.com/news/30525)
-   - 时间：1小时前
+23. [SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析](https://www.aibase.com/news/30526)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”](https://www.aibase.com/news/30516)
-   - 时间：7小时前
+24. [从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴](https://www.aibase.com/news/30525)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Grok出现异常故障，部分用户遭遇大段乱码回复](https://www.aibase.com/news/30512)
+25. [苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”](https://www.aibase.com/news/30516)
    - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 757/3661 | 20.7% | 高信号源，建议保留 |
-| Buzzing | 631/2647 | 23.8% | 高信号源，建议保留 |
-| Info Flow | 255/924 | 27.6% | 高信号源，建议保留 |
-| TechURLs | 97/274 | 35.4% | 高信号源，建议保留 |
-| Zeli | 90/99 | 90.9% | 高信号源，建议保留 |
-| NewsNow | 43/232 | 18.5% | 高信号源，建议保留 |
-| AIbase | 26/26 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 17/32 | 53.1% | 高信号源，建议保留 |
+| TopHub | 770/3677 | 20.9% | 高信号源，建议保留 |
+| Buzzing | 624/2634 | 23.7% | 高信号源，建议保留 |
+| Info Flow | 255/935 | 27.3% | 高信号源，建议保留 |
+| TechURLs | 102/296 | 34.5% | 高信号源，建议保留 |
+| Zeli | 91/100 | 91.0% | 高信号源，建议保留 |
+| NewsNow | 41/227 | 18.1% | 高信号源，建议保留 |
+| AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 17/26 | 65.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
