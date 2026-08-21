@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T19:30:48.457616Z
-- 24小时AI信号：2043 条
+- 生成时间：2026-08-21T19:49:22.759426Z
+- 24小时AI信号：2039 条
 - 源健康：12/14
-- 原始抓取：7044 条
+- 原始抓取：7311 条
 
 ## 今日重点
 
@@ -23,18 +23,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [长眼！DeepSeek Flash视觉模型突发更新，支持多模态](https://www.aibase.com/news/30536)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型](https://www.aibase.com/news/30534)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [字节Seed再调整:预训练、强化学习与Agent研发全面重构](https://www.aibase.com/news/30537)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [DeepSeek-V4-Flash-Vision-Exp 发布](https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4)
@@ -107,7 +107,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI](https://www.aibase.com/news/30533)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 735/3672 | 20.0% | 高信号源，建议保留 |
-| Buzzing | 654/2545 | 25.7% | 高信号源，建议保留 |
+| TopHub | 726/3636 | 20.0% | 高信号源，建议保留 |
+| Buzzing | 653/2528 | 25.8% | 高信号源，建议保留 |
 | Info Flow | 258/918 | 28.1% | 高信号源，建议保留 |
-| TechURLs | 131/417 | 31.4% | 高信号源，建议保留 |
-| Zeli | 75/89 | 84.3% | 高信号源，建议保留 |
-| NewsNow | 46/224 | 20.5% | 高信号源，建议保留 |
+| TechURLs | 138/437 | 31.6% | 高信号源，建议保留 |
+| Zeli | 75/88 | 85.2% | 高信号源，建议保留 |
+| NewsNow | 45/220 | 20.5% | 高信号源，建议保留 |
 | AIbase | 28/28 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 13/21 | 61.9% | 高信号源，建议保留 |
 
