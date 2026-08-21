@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T15:40:33.457129Z
-- 24小时AI信号：2031 条
+- 生成时间：2026-08-21T16:42:11.567097Z
+- 24小时AI信号：2043 条
 - 源健康：12/14
-- 原始抓取：7453 条
+- 原始抓取：7325 条
 
 ## 今日重点
 
@@ -11,61 +11,61 @@
 ### 模型发布与能力更新
 
 1. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
-   - 时间：1小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt)
    - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt)
+   - 时间：3小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [长眼！DeepSeek Flash视觉模型突发更新，支持多模态](https://www.aibase.com/news/30536)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型](https://www.aibase.com/news/30534)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍](https://www.aibase.com/news/30528)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [字节Seed再调整:预训练、强化学习与Agent研发全面重构](https://www.aibase.com/news/30537)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [DeepSeek-V4-Flash-Vision-Exp 发布](https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放](https://www.aibase.com/news/30531)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [阿里开源 Qwen-UI-Agent：真机多模态基座模型登场](https://www.aibase.com/news/30530)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%](https://www.aibase.com/news/30529)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹](https://www.aibase.com/news/30521)
-   - 时间：今天 11:10
+   - 时间：昨天 11:10
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立](https://www.aibase.com/news/30518)
-   - 时间：今天 09:48
+   - 时间：昨天 09:48
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
@@ -80,46 +80,46 @@
 ### 产业、算力与机器人
 
 16. [AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元](https://www.aibase.com/news/30517)
-   - 时间：今天 09:48
+   - 时间：昨天 09:48
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [OpenAI企业市场份额反超Anthropic，AI支出持续扩张](https://www.aibase.com/news/30511)
-   - 时间：今天 09:48
+   - 时间：昨天 09:48
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
-   - 时间：昨天 08:17
+18. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
+   - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [GLM-5.3上线：AA智能指数60分并列开源第一，成本更低](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7)
+19. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
+   - 时间：08-20 08:17
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [GLM-5.3上线：AA智能指数60分并列开源第一，成本更低](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7)
    - 时间：08-19 09:03
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI 在"关键网络能力"时代放缓模型开发节奏](https://openai.com/index/pacing-model-development-cyber-capabilities)
-   - 时间：08-18 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
-   - 时间：5小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI](https://www.aibase.com/news/30533)
    - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI](https://www.aibase.com/news/30533)
+   - 时间：7小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析](https://www.aibase.com/news/30526)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴](https://www.aibase.com/news/30525)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”](https://www.aibase.com/news/30516)
-   - 时间：今天 09:48
+   - 时间：昨天 09:48
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 744/3606 | 20.6% | 高信号源，建议保留 |
-| Buzzing | 632/2545 | 24.8% | 高信号源，建议保留 |
-| Info Flow | 246/915 | 26.9% | 高信号源，建议保留 |
-| TechURLs | 134/414 | 32.4% | 高信号源，建议保留 |
-| Zeli | 79/89 | 88.8% | 高信号源，建议保留 |
-| NewsNow | 42/226 | 18.6% | 高信号源，建议保留 |
+| TopHub | 761/3792 | 20.1% | 高信号源，建议保留 |
+| Buzzing | 634/2523 | 25.1% | 高信号源，建议保留 |
+| Info Flow | 246/916 | 26.9% | 高信号源，建议保留 |
+| TechURLs | 134/429 | 31.2% | 高信号源，建议保留 |
+| Zeli | 77/88 | 87.5% | 高信号源，建议保留 |
+| NewsNow | 41/223 | 18.4% | 高信号源，建议保留 |
 | AIbase | 28/28 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 19/27 | 70.4% | 高信号源，建议保留 |
+| OPML RSS | 17/26 | 65.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
