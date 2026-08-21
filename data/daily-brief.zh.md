@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T11:00:37.154836Z
-- 24小时AI信号：2030 条
+- 生成时间：2026-08-21T11:32:41.768397Z
+- 24小时AI信号：2039 条
 - 源健康：12/14
-- 原始抓取：7428 条
+- 原始抓取：7433 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [长眼！DeepSeek Flash视觉模型突发更新，支持多模态](https://www.aibase.com/news/30536)
-   - 时间：23分钟前
+   - 时间：55分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型](https://www.aibase.com/news/30534)
@@ -27,18 +27,18 @@
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线](https://www.aibase.com/news/30523)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [字节Seed再调整:预训练、强化学习与Agent研发全面重构](https://www.aibase.com/news/30537)
-   - 时间：23分钟前
+   - 时间：55分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [DeepSeek-V4-Flash-Vision-Exp 发布](https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放](https://www.aibase.com/news/30531)
@@ -57,11 +57,11 @@
 ### 论文研究与评测
 
 11. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹](https://www.aibase.com/news/30521)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立](https://www.aibase.com/news/30518)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 776/3837 | 20.2% | 高信号源，建议保留 |
-| Buzzing | 613/2630 | 23.3% | 高信号源，建议保留 |
-| Info Flow | 250/931 | 26.9% | 高信号源，建议保留 |
-| TechURLs | 105/311 | 33.8% | 高信号源，建议保留 |
-| Zeli | 90/100 | 90.0% | 高信号源，建议保留 |
-| NewsNow | 43/237 | 18.1% | 高信号源，建议保留 |
+| TopHub | 780/3899 | 20.0% | 高信号源，建议保留 |
+| Buzzing | 623/2633 | 23.7% | 高信号源，建议保留 |
+| Info Flow | 248/928 | 26.7% | 高信号源，建议保留 |
+| TechURLs | 103/309 | 33.3% | 高信号源，建议保留 |
+| Zeli | 89/99 | 89.9% | 高信号源，建议保留 |
+| NewsNow | 44/234 | 18.8% | 高信号源，建议保留 |
 | AIbase | 28/28 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 16/24 | 66.7% | 高信号源，建议保留 |
+| OPML RSS | 16/23 | 69.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
