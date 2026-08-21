@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T06:58:44.282393Z
-- 24小时AI信号：2007 条
+- 生成时间：2026-08-21T07:49:25.141757Z
+- 24小时AI信号：2045 条
 - 源健康：12/14
-- 原始抓取：7385 条
+- 原始抓取：7398 条
 
 ## 今日重点
 
@@ -11,57 +11,57 @@
 ### 模型发布与能力更新
 
 1. [LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍](https://www.aibase.com/news/30528)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑](https://www.aibase.com/news/30527)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线](https://www.aibase.com/news/30523)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验](https://www.aibase.com/news/30520)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎](https://www.aibase.com/news/30515)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%](https://www.aibase.com/news/30529)
+6. [OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放](https://www.aibase.com/news/30531)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者](https://www.aibase.com/news/30524)
-   - 时间：3小时前
+7. [阿里开源 Qwen-UI-Agent：真机多模态基座模型登场](https://www.aibase.com/news/30530)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Claude Platform 正式上线Computer Use、Skills API 与 Files API](https://www.aibase.com/news/30522)
-   - 时间：3小时前
+8. [Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%](https://www.aibase.com/news/30529)
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效](https://www.aibase.com/news/30519)
-   - 时间：5小时前
+9. [Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者](https://www.aibase.com/news/30524)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [移动端基准全面超越GPT与Claude！阿里发布Qwen-UI-Agent，开启GUI智能体新纪元](https://www.aibase.com/news/30513)
-   - 时间：5小时前
+10. [Claude Platform 正式上线Computer Use、Skills API 与 Files API](https://www.aibase.com/news/30522)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹](https://www.aibase.com/news/30521)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立](https://www.aibase.com/news/30518)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
@@ -80,11 +80,11 @@
 ### 产业、算力与机器人
 
 16. [AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元](https://www.aibase.com/news/30517)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [OpenAI企业市场份额反超Anthropic，AI支出持续扩张](https://www.aibase.com/news/30511)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [小米人形机器人首次亮相，已成功注册多枚小米铁大商标](https://www.aibase.com/news/30506)
@@ -103,19 +103,19 @@
 ### 实践技巧与观点
 
 21. [SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析](https://www.aibase.com/news/30526)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴](https://www.aibase.com/news/30525)
-   - 时间：1分钟前
+   - 时间：50分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”](https://www.aibase.com/news/30516)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [Grok出现异常故障，部分用户遭遇大段乱码回复](https://www.aibase.com/news/30512)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 767/3733 | 20.5% | 高信号源，建议保留 |
-| Buzzing | 632/2633 | 24.0% | 高信号源，建议保留 |
-| Info Flow | 259/930 | 27.8% | 高信号源，建议保留 |
-| TechURLs | 91/254 | 35.8% | 高信号源，建议保留 |
-| Zeli | 87/95 | 91.6% | 高信号源，建议保留 |
-| NewsNow | 39/223 | 17.5% | 高信号源，建议保留 |
-| AIbase | 26/26 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 14/24 | 58.3% | 高信号源，建议保留 |
+| TopHub | 781/3714 | 21.0% | 高信号源，建议保留 |
+| Buzzing | 626/2636 | 23.7% | 高信号源，建议保留 |
+| Info Flow | 264/939 | 28.1% | 高信号源，建议保留 |
+| TechURLs | 94/267 | 35.2% | 高信号源，建议保留 |
+| Zeli | 89/98 | 90.8% | 高信号源，建议保留 |
+| NewsNow | 41/228 | 18.0% | 高信号源，建议保留 |
+| AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 17/32 | 53.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
