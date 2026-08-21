@@ -1,44 +1,44 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T17:59:31.173162Z
-- 24小时AI信号：2015 条
+- 生成时间：2026-08-21T18:48:05.899819Z
+- 24小时AI信号：2085 条
 - 源健康：12/14
-- 原始抓取：7319 条
+- 原始抓取：7302 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
-   - 时间：1分钟前
+1. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s)
+   - 时间：49分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
-   - 时间：3小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt)
    - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt)
+   - 时间：5小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [长眼！DeepSeek Flash视觉模型突发更新，支持多模态](https://www.aibase.com/news/30536)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型](https://www.aibase.com/news/30534)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [字节Seed再调整:预训练、强化学习与Agent研发全面重构](https://www.aibase.com/news/30537)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [DeepSeek-V4-Flash-Vision-Exp 发布](https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放](https://www.aibase.com/news/30531)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹](https://www.aibase.com/news/30521)
@@ -79,8 +79,8 @@
 
 ### 产业、算力与机器人
 
-16. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell)
-   - 时间：3分钟前
+16. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
+   - 时间：51分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元](https://www.aibase.com/news/30517)
@@ -102,12 +102,12 @@
 
 ### 实践技巧与观点
 
-21. [SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启](https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery)
-   - 时间：3分钟前
+21. [SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启](https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu)
+   - 时间：51分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI](https://www.aibase.com/news/30533)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 713/3537 | 20.2% | 高信号源，建议保留 |
-| Buzzing | 643/2516 | 25.6% | 高信号源，建议保留 |
-| Info Flow | 256/922 | 27.8% | 高信号源，建议保留 |
-| TechURLs | 134/432 | 31.0% | 高信号源，建议保留 |
-| Zeli | 78/91 | 85.7% | 高信号源，建议保留 |
-| NewsNow | 44/222 | 19.8% | 高信号源，建议保留 |
+| TopHub | 772/3769 | 20.5% | 高信号源，建议保留 |
+| Buzzing | 640/2525 | 25.3% | 高信号源，建议保留 |
+| Info Flow | 259/926 | 28.0% | 高信号源，建议保留 |
+| TechURLs | 140/440 | 31.8% | 高信号源，建议保留 |
+| Zeli | 78/92 | 84.8% | 高信号源，建议保留 |
+| NewsNow | 47/225 | 20.9% | 高信号源，建议保留 |
 | AIbase | 28/28 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 16/24 | 66.7% | 高信号源，建议保留 |
+| OPML RSS | 15/23 | 65.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
