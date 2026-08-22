@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T07:37:50.334859Z
-- 24小时AI信号：1895 条
+- 生成时间：2026-08-22T08:39:01.681529Z
+- 24小时AI信号：1870 条
 - 源健康：12/14
-- 原始抓取：7344 条
+- 原始抓取：7343 条
 
 ## 今日重点
 
@@ -41,16 +41,16 @@
    - 时间：昨天 17:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放](https://www.aibase.com/news/30531)
-   - 时间：昨天 15:49
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [阿里开源 Qwen-UI-Agent：真机多模态基座模型登场](https://www.aibase.com/news/30530)
-   - 时间：昨天 15:49
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
+8. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
    - 时间：08-20 17:45
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [Claude Platform 发布 Python SDK v1.0，迁移至 httpx2](https://platform.claude.com/docs/en/release-notes/overview#august-20-2026)
+   - 时间：08-20 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://claude.com/blog/computer-use-skills-api-files-api)
+   - 时间：08-20 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 694/3647 | 19.0% | 高信号源，建议保留 |
-| Buzzing | 614/2307 | 26.6% | 高信号源，建议保留 |
-| Info Flow | 191/723 | 26.4% | 高信号源，建议保留 |
-| TechURLs | 144/430 | 33.5% | 高信号源，建议保留 |
-| Zeli | 84/95 | 88.4% | 高信号源，建议保留 |
-| NewsNow | 43/249 | 17.3% | 高信号源，建议保留 |
+| TopHub | 690/3669 | 18.8% | 高信号源，建议保留 |
+| Buzzing | 611/2264 | 27.0% | 高信号源，建议保留 |
+| Info Flow | 181/701 | 25.8% | 高信号源，建议保留 |
+| TechURLs | 144/424 | 34.0% | 高信号源，建议保留 |
+| Zeli | 83/94 | 88.3% | 高信号源，建议保留 |
+| NewsNow | 38/242 | 15.7% | 高信号源，建议保留 |
 | OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
 | Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
 
