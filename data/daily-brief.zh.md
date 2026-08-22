@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T15:28:27.130956Z
-- 24小时AI信号：1528 条
+- 生成时间：2026-08-22T15:48:51.308656Z
+- 24小时AI信号：1580 条
 - 源健康：12/14
-- 原始抓取：7343 条
+- 原始抓取：7341 条
 
 ## 今日重点
 
@@ -68,13 +68,13 @@
    - 时间：08-18 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [人工智能提高了家庭作业成绩，但考试成绩却下降了：研究](https://news.ycombinator.com/item?id=49357530)
-   - 时间：今天 02:31
-   - 来源：NewsNow
+14. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
+   - 时间：23分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise)
-   - 时间：今天 02:25
-   - 来源：Info Flow
+15. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
+   - 时间：5小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -88,7 +88,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
@@ -114,11 +114,11 @@
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [豆包输入法鸿蒙版 0.9.1 上架尝鲜，语音输入可精准识别快速 / 轻声说话](https://m.ithome.com/html/992930.htm)
-   - 时间：1分钟前
-   - 来源：TopHub
+24. [25岁广州女孩用AI验成了！两大菲尔兹奖得主心血，无误](https://view.inews.qq.com/a/20260822A098OS00)
+   - 时间：今天 23:49
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗](https://www.qbitai.com/2026/08/477155.html)
+25. [Angelababy像是来和我结婚的](https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DAngelababy%25E5%2583%258F%25E6%2598%25AF%25E6%259D%25A5%25E5%2592%258C%25E6%2588%2591%25E7%25BB%2593%25E5%25A9%259A%25E7%259A%2584)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 659/3393 | 19.4% | 高信号源，建议保留 |
-| Buzzing | 400/1458 | 27.4% | 高信号源，建议保留 |
-| Info Flow | 152/580 | 26.2% | 高信号源，建议保留 |
-| TechURLs | 119/328 | 36.3% | 高信号源，建议保留 |
-| Zeli | 58/65 | 89.2% | 高信号源，建议保留 |
-| NewsNow | 33/227 | 14.5% | 高信号源，建议保留 |
+| TopHub | 653/3431 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 461/1654 | 27.9% | 高信号源，建议保留 |
+| Info Flow | 151/577 | 26.2% | 高信号源，建议保留 |
+| TechURLs | 121/336 | 36.0% | 高信号源，建议保留 |
+| Zeli | 56/63 | 88.9% | 高信号源，建议保留 |
+| NewsNow | 31/221 | 14.0% | 高信号源，建议保留 |
 | Follow Builders | 11/28 | 39.3% | 高信号源，建议保留 |
 | OPML RSS | 8/14 | 57.1% | 高信号源，建议保留 |
 
