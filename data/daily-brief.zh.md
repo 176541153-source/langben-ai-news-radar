@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T03:48:03.122033Z
-- 24小时AI信号：1955 条
+- 生成时间：2026-08-22T04:40:52.257620Z
+- 24小时AI信号：1923 条
 - 源健康：12/14
-- 原始抓取：7327 条
+- 原始抓取：7333 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
@@ -73,14 +73,14 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [人工智能提高了家庭作业成绩，但考试成绩却下降了：研究](https://news.ycombinator.com/item?id=49357530)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启](https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 710/3694 | 19.2% | 高信号源，建议保留 |
-| Buzzing | 624/2413 | 25.9% | 高信号源，建议保留 |
-| Info Flow | 234/814 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 144/438 | 32.9% | 高信号源，建议保留 |
-| Zeli | 81/94 | 86.2% | 高信号源，建议保留 |
-| NewsNow | 43/227 | 18.9% | 高信号源，建议保留 |
+| TopHub | 692/3635 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 617/2381 | 25.9% | 高信号源，建议保留 |
+| Info Flow | 228/795 | 28.7% | 高信号源，建议保留 |
+| TechURLs | 143/438 | 32.6% | 高信号源，建议保留 |
+| Zeli | 82/94 | 87.2% | 高信号源，建议保留 |
+| NewsNow | 42/227 | 18.5% | 高信号源，建议保留 |
 | OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
 | AIbase | 12/12 | 100.0% | 高信号源，建议保留 |
 
