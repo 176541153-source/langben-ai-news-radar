@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T16:52:58.126355Z
-- 24小时AI信号：1568 条
+- 生成时间：2026-08-22T17:27:14.509840Z
+- 24小时AI信号：1562 条
 - 源健康：12/14
-- 原始抓取：7280 条
+- 原始抓取：7171 条
 
 ## 今日重点
 
@@ -69,7 +69,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
@@ -80,11 +80,11 @@
 ### 产业、算力与机器人
 
 16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项](https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
@@ -114,27 +114,27 @@
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [25岁广州女孩用AI验成了！两大菲尔兹奖得主心血，无误](https://view.inews.qq.com/a/20260822A098OS00)
-   - 时间：今天 00:53
+24. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
+   - 时间：今天 01:28
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 00:53
-   - 来源：TrendRadar
+25. [人工智能测绘揭示了北极冻结的隐蔽阶段，这将对气候产生影响](https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html)
+   - 时间：17分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 673/3476 | 19.4% | 高信号源，建议保留 |
-| Buzzing | 447/1600 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 151/567 | 26.6% | 高信号源，建议保留 |
-| TechURLs | 113/310 | 36.5% | 高信号源，建议保留 |
-| Zeli | 50/54 | 92.6% | 高信号源，建议保留 |
-| NewsNow | 30/211 | 14.2% | 高信号源，建议保留 |
-| Follow Builders | 11/28 | 39.3% | 高信号源，建议保留 |
-| OPML RSS | 7/13 | 53.8% | 高信号源，建议保留 |
+| TopHub | 695/3567 | 19.5% | 高信号源，建议保留 |
+| Buzzing | 433/1524 | 28.4% | 高信号源，建议保留 |
+| Info Flow | 149/566 | 26.3% | 高信号源，建议保留 |
+| TechURLs | 107/298 | 35.9% | 高信号源，建议保留 |
+| Zeli | 49/53 | 92.5% | 高信号源，建议保留 |
+| NewsNow | 31/213 | 14.6% | 高信号源，建议保留 |
+| Follow Builders | 8/23 | 34.8% | 高信号源，建议保留 |
+| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
