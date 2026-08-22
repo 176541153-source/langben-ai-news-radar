@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T22:29:35.193312Z
-- 24小时AI信号：1367 条
+- 生成时间：2026-08-22T22:50:49.995512Z
+- 24小时AI信号：1375 条
 - 源健康：12/14
-- 原始抓取：7175 条
+- 原始抓取：7178 条
 
 ## 今日重点
 
@@ -111,29 +111,29 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 06:33
+   - 时间：今天 06:55
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [Nvidia AI server prices to rise over 15% next year amid global memory shortage](https://daily.dev/posts/nvidia-ai-server-prices-are-rising-more-than-15-from-early-next-year-neq18uhts)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [燃气轮机短缺已成为人工智能面临的最大制约因素](https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html)
-   - 时间：16分钟前
+24. [摩根大通表示，特斯拉对扩大“Cybercab”业务规模充满信心，并力推基于该平台的未来车型——FSD V15较之前版本实现了“质的飞跃”](https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html)
+   - 时间：5分钟前
    - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [How Will AI Change the Field of Mathematics?](https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics)
+   - 时间：11分钟前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 602/3341 | 18.0% | 高信号源，建议保留 |
-| Buzzing | 388/1259 | 30.8% | 高信号源，建议保留 |
-| Info Flow | 145/558 | 26.0% | 高信号源，建议保留 |
-| TechURLs | 77/243 | 31.7% | 高信号源，建议保留 |
-| Zeli | 43/48 | 89.6% | 高信号源，建议保留 |
+| TopHub | 613/3344 | 18.3% | 高信号源，建议保留 |
+| Buzzing | 384/1255 | 30.6% | 高信号源，建议保留 |
+| Info Flow | 143/558 | 25.6% | 高信号源，建议保留 |
+| TechURLs | 79/248 | 31.9% | 高信号源，建议保留 |
+| Zeli | 44/49 | 89.8% | 高信号源，建议保留 |
 | NewsNow | 24/206 | 11.7% | 高信号源，建议保留 |
-| Follow Builders | 4/10 | 40.0% | 高信号源，建议保留 |
+| Follow Builders | 4/9 | 44.4% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
