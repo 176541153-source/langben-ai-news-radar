@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T12:53:13.324888Z
-- 24小时AI信号：1677 条
+- 生成时间：2026-08-22T13:37:17.948375Z
+- 24小时AI信号：1618 条
 - 源健康：12/14
 - 原始抓取：7350 条
 
@@ -18,7 +18,7 @@
    - 时间：昨天 22:28
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt)
+3. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://x.com/OpenBMB/status/2090786300194590816)
    - 时间：昨天 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
@@ -115,10 +115,10 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [中央网络安全和信息化委员会：加快推进人工智能等新兴领域立法](https://view.inews.qq.com/a/20260821A0D2A000)
-   - 时间：今天 20:54
+   - 时间：今天 21:38
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [Angelababy像是来和我结婚的](https://s.weibo.com/weibo?q=Angelababy%E5%83%8F%E6%98%AF%E6%9D%A5%E5%92%8C%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84)
+25. [AI「觉醒」之后，谁来负责？](https://www.mittrchina.com/news/detail/16832)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 666/3439 | 19.4% | 高信号源，建议保留 |
-| Buzzing | 505/1825 | 27.7% | 高信号源，建议保留 |
-| Info Flow | 156/606 | 25.7% | 高信号源，建议保留 |
-| TechURLs | 130/383 | 33.9% | 高信号源，建议保留 |
-| Zeli | 80/89 | 89.9% | 高信号源，建议保留 |
-| NewsNow | 27/233 | 11.6% | 高信号源，建议保留 |
-| OPML RSS | 12/19 | 63.2% | 高信号源，建议保留 |
+| TopHub | 650/3340 | 19.5% | 高信号源，建议保留 |
+| Buzzing | 470/1714 | 27.4% | 高信号源，建议保留 |
+| Info Flow | 154/596 | 25.8% | 高信号源，建议保留 |
+| TechURLs | 132/376 | 35.1% | 高信号源，建议保留 |
+| Zeli | 73/82 | 89.0% | 高信号源，建议保留 |
+| NewsNow | 29/232 | 12.5% | 高信号源，建议保留 |
 | Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
+| OPML RSS | 10/17 | 58.8% | 高信号源，建议保留 |
 
 ## 维护提示
 
