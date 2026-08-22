@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T03:01:16.937334Z
-- 24小时AI信号：1993 条
+- 生成时间：2026-08-22T03:48:03.122033Z
+- 24小时AI信号：1955 条
 - 源健康：12/14
-- 原始抓取：7323 条
+- 原始抓取：7327 条
 
 ## 今日重点
 
@@ -60,22 +60,22 @@
    - 时间：昨天 17:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹](https://www.aibase.com/news/30521)
-   - 时间：昨天 11:10
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+12. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
    - 时间：08-19 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [设计 AI 评测：先求清晰，再谈可视化](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
+13. [设计 AI 评测：先求清晰，再谈可视化](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
    - 时间：08-18 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [StartupBench：面向市场验证端到端工作流的通用智能体基准测试](https://arxiv.org/abs/2608.17800)
+14. [StartupBench：面向市场验证端到端工作流的通用智能体基准测试](https://arxiv.org/abs/2608.17800)
    - 时间：08-18 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [人工智能提高了家庭作业成绩，但考试成绩却下降了：研究](https://news.ycombinator.com/item?id=49357530)
+   - 时间：9小时前
+   - 来源：NewsNow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 738/3850 | 19.2% | 高信号源，建议保留 |
-| Buzzing | 620/2435 | 25.5% | 高信号源，建议保留 |
-| Info Flow | 239/834 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 145/438 | 33.1% | 高信号源，建议保留 |
+| TopHub | 710/3694 | 19.2% | 高信号源，建议保留 |
+| Buzzing | 624/2413 | 25.9% | 高信号源，建议保留 |
+| Info Flow | 234/814 | 28.7% | 高信号源，建议保留 |
+| TechURLs | 144/438 | 32.9% | 高信号源，建议保留 |
 | Zeli | 81/94 | 86.2% | 高信号源，建议保留 |
-| NewsNow | 47/231 | 20.3% | 高信号源，建议保留 |
-| AIbase | 16/16 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 15/23 | 65.2% | 高信号源，建议保留 |
+| NewsNow | 43/227 | 18.9% | 高信号源，建议保留 |
+| OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
+| AIbase | 12/12 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
