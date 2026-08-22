@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T22:50:49.995512Z
-- 24小时AI信号：1375 条
+- 生成时间：2026-08-22T23:27:28.156975Z
+- 24小时AI信号：1330 条
 - 源健康：12/14
-- 原始抓取：7178 条
+- 原始抓取：7255 条
 
 ## 今日重点
 
@@ -69,22 +69,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)](https://www.techmeme.com/260822/p12)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项](https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
@@ -111,29 +111,29 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 06:55
+   - 时间：今天 07:31
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [摩根大通表示，特斯拉对扩大“Cybercab”业务规模充满信心，并力推基于该平台的未来车型——FSD V15较之前版本实现了“质的飞跃”](https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html)
-   - 时间：5分钟前
+24. [Show HN: MacAIApps——一款汇集了人工智能驱动的 Mac 应用的目录](https://www.macaiapps.com)
+   - 时间：9分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [How Will AI Change the Field of Mathematics?](https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics)
-   - 时间：11分钟前
-   - 来源：Info Flow
+25. [摩根大通表示，特斯拉对扩大“Cybercab”业务规模充满信心，并力推基于该平台的未来车型——FSD V15较之前版本实现了“质的飞跃”](https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html)
+   - 时间：42分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 613/3344 | 18.3% | 高信号源，建议保留 |
-| Buzzing | 384/1255 | 30.6% | 高信号源，建议保留 |
-| Info Flow | 143/558 | 25.6% | 高信号源，建议保留 |
-| TechURLs | 79/248 | 31.9% | 高信号源，建议保留 |
-| Zeli | 44/49 | 89.8% | 高信号源，建议保留 |
-| NewsNow | 24/206 | 11.7% | 高信号源，建议保留 |
-| Follow Builders | 4/9 | 44.4% | 高信号源，建议保留 |
+| TopHub | 579/3328 | 17.4% | 高信号源，建议保留 |
+| Buzzing | 380/1234 | 30.8% | 高信号源，建议保留 |
+| Info Flow | 144/561 | 25.7% | 高信号源，建议保留 |
+| TechURLs | 73/236 | 30.9% | 高信号源，建议保留 |
+| Zeli | 41/46 | 89.1% | 高信号源，建议保留 |
+| NewsNow | 25/205 | 12.2% | 高信号源，建议保留 |
+| Follow Builders | 4/8 | 50.0% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
