@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T23:27:28.156975Z
-- 24小时AI信号：1330 条
+- 生成时间：2026-08-22T23:48:17.171235Z
+- 24小时AI信号：1338 条
 - 源健康：12/14
-- 原始抓取：7255 条
+- 原始抓取：7268 条
 
 ## 今日重点
 
@@ -111,29 +111,29 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 07:31
+   - 时间：今天 07:53
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [Show HN: MacAIApps——一款汇集了人工智能驱动的 Mac 应用的目录](https://www.macaiapps.com)
-   - 时间：9分钟前
-   - 来源：Buzzing
+24. [报道：英伟达客户被告知AI相关服务器涨价超15%](https://wallstreetcn.com/articles/3780066)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [摩根大通表示，特斯拉对扩大“Cybercab”业务规模充满信心，并力推基于该平台的未来车型——FSD V15较之前版本实现了“质的飞跃”](https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html)
-   - 时间：42分钟前
-   - 来源：Buzzing
+25. [怎么看AI证伪YTD猜想](https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E8%AF%81%E4%BC%AAYTD%E7%8C%9C%E6%83%B3)
+   - 时间：7分钟前
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 579/3328 | 17.4% | 高信号源，建议保留 |
-| Buzzing | 380/1234 | 30.8% | 高信号源，建议保留 |
-| Info Flow | 144/561 | 25.7% | 高信号源，建议保留 |
-| TechURLs | 73/236 | 30.9% | 高信号源，建议保留 |
-| Zeli | 41/46 | 89.1% | 高信号源，建议保留 |
-| NewsNow | 25/205 | 12.2% | 高信号源，建议保留 |
-| Follow Builders | 4/8 | 50.0% | 高信号源，建议保留 |
+| TopHub | 584/3318 | 17.6% | 高信号源，建议保留 |
+| Buzzing | 384/1234 | 31.1% | 高信号源，建议保留 |
+| Info Flow | 145/561 | 25.8% | 高信号源，建议保留 |
+| TechURLs | 73/235 | 31.1% | 高信号源，建议保留 |
+| Zeli | 39/44 | 88.6% | 高信号源，建议保留 |
+| NewsNow | 26/202 | 12.9% | 高信号源，建议保留 |
+| Follow Builders | 3/5 | 60.0% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
