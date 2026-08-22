@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T06:52:37.908178Z
-- 24小时AI信号：1931 条
+- 生成时间：2026-08-22T07:37:50.334859Z
+- 24小时AI信号：1895 条
 - 源健康：12/14
-- 原始抓取：7340 条
+- 原始抓取：7344 条
 
 ## 今日重点
 
@@ -49,9 +49,9 @@
    - 时间：昨天 15:49
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%](https://www.aibase.com/news/30529)
-   - 时间：昨天 14:58
-   - 来源：AIbase
+10. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
+   - 时间：08-20 17:45
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：2小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
@@ -114,27 +114,27 @@
    - 时间：昨天 16:50
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [SAP联合Team Liquid推出AI语音应用，助力职业电竞数据分析](https://www.aibase.com/news/30526)
-   - 时间：昨天 14:58
-   - 来源：AIbase
+24. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
+   - 时间：08-20 04:42
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴](https://www.aibase.com/news/30525)
-   - 时间：昨天 14:58
-   - 来源：AIbase
+25. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
+   - 时间：08-19 08:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 711/3757 | 18.9% | 高信号源，建议保留 |
-| Buzzing | 617/2340 | 26.4% | 高信号源，建议保留 |
-| Info Flow | 206/742 | 27.8% | 高信号源，建议保留 |
-| TechURLs | 144/432 | 33.3% | 高信号源，建议保留 |
-| Zeli | 81/93 | 87.1% | 高信号源，建议保留 |
-| NewsNow | 43/230 | 18.7% | 高信号源，建议保留 |
-| OPML RSS | 14/23 | 60.9% | 高信号源，建议保留 |
-| AIbase | 12/12 | 100.0% | 高信号源，建议保留 |
+| TopHub | 694/3647 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 614/2307 | 26.6% | 高信号源，建议保留 |
+| Info Flow | 191/723 | 26.4% | 高信号源，建议保留 |
+| TechURLs | 144/430 | 33.5% | 高信号源，建议保留 |
+| Zeli | 84/95 | 88.4% | 高信号源，建议保留 |
+| NewsNow | 43/249 | 17.3% | 高信号源，建议保留 |
+| OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
+| Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
