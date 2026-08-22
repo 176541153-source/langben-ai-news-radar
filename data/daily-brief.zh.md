@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-21T23:50:39.484745Z
-- 24小时AI信号：2005 条
+- 生成时间：2026-08-22T01:41:30.924349Z
+- 24小时AI信号：2055 条
 - 源健康：12/14
-- 原始抓取：7273 条
+- 原始抓取：7316 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt)
-   - 时间：10小时前
+   - 时间：昨天 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [长眼！DeepSeek Flash视觉模型突发更新，支持多模态](https://www.aibase.com/news/30536)
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元](https://www.aibase.com/news/30517)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启](https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 705/3659 | 19.3% | 高信号源，建议保留 |
-| Buzzing | 626/2446 | 25.6% | 高信号源，建议保留 |
-| Info Flow | 260/906 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 153/445 | 34.4% | 高信号源，建议保留 |
-| Zeli | 74/89 | 83.1% | 高信号源，建议保留 |
-| NewsNow | 48/225 | 21.3% | 高信号源，建议保留 |
+| TopHub | 769/3904 | 19.7% | 高信号源，建议保留 |
+| Buzzing | 622/2445 | 25.4% | 高信号源，建议保留 |
+| Info Flow | 256/882 | 29.0% | 高信号源，建议保留 |
+| TechURLs | 147/441 | 33.3% | 高信号源，建议保留 |
+| Zeli | 77/91 | 84.6% | 高信号源，建议保留 |
+| NewsNow | 48/232 | 20.7% | 高信号源，建议保留 |
 | AIbase | 28/28 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 14/24 | 58.3% | 高信号源，建议保留 |
+| OPML RSS | 15/23 | 65.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
