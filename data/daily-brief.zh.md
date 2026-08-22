@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T18:40:13.669149Z
-- 24小时AI信号：1492 条
+- 生成时间：2026-08-22T19:28:01.719248Z
+- 24小时AI信号：1438 条
 - 源健康：12/14
-- 原始抓取：7262 条
+- 原始抓取：7011 条
 
 ## 今日重点
 
@@ -69,22 +69,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项](https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
@@ -111,28 +111,28 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 02:41
+   - 时间：今天 03:29
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [别急着换赛道：大数据经验在 AI 项目里到底值多少？](https://blog.csdn.net/2601_96285279/article/details/163970751)
-   - 时间：1分钟前
-   - 来源：TopHub
+24. [丰厚的收益吸引垃圾债券投资者涌向投资级AI债券](https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt)
+   - 时间：10分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [【AI】韩系御姐~Joker](http://www.acfun.cn/v/ac48795911)
-   - 时间：50分钟前
-   - 来源：TopHub
+25. [埃隆·马斯克称中国是“迄今为止”最强大的AI竞争对手，重申了2011年的警告，而SPCX正面临新的火箭竞争对手](https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html)
+   - 时间：10分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 657/3561 | 18.4% | 高信号源，建议保留 |
-| Buzzing | 427/1473 | 29.0% | 高信号源，建议保留 |
+| TopHub | 614/3384 | 18.1% | 高信号源，建议保留 |
+| Buzzing | 422/1451 | 29.1% | 高信号源，建议保留 |
 | Info Flow | 147/563 | 26.1% | 高信号源，建议保留 |
-| TechURLs | 100/293 | 34.1% | 高信号源，建议保留 |
+| TechURLs | 92/270 | 34.1% | 高信号源，建议保留 |
 | Zeli | 40/45 | 88.9% | 高信号源，建议保留 |
-| NewsNow | 27/206 | 13.1% | 高信号源，建议保留 |
+| NewsNow | 29/214 | 13.6% | 高信号源，建议保留 |
 | Follow Builders | 8/18 | 44.4% | 高信号源，建议保留 |
 | OPML RSS | 4/10 | 40.0% | 高信号源，建议保留 |
 
