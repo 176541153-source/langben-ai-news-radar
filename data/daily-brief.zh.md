@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T04:40:52.257620Z
-- 24小时AI信号：1923 条
+- 生成时间：2026-08-22T05:34:06.226592Z
+- 24小时AI信号：1910 条
 - 源健康：12/14
-- 原始抓取：7333 条
+- 原始抓取：7336 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
@@ -73,37 +73,37 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [人工智能提高了家庭作业成绩，但考试成绩却下降了：研究](https://news.ycombinator.com/item?id=49357530)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
-   - 时间：10小时前
+16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
+   - 时间：57分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
+17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
+   - 时间：11小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
+19. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
    - 时间：08-20 08:17
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [GLM-5.3上线：AA智能指数60分并列开源第一，成本更低](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7)
+20. [GLM-5.3上线：AA智能指数60分并列开源第一，成本更低](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7)
    - 时间：08-19 09:03
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI 在"关键网络能力"时代放缓模型开发节奏](https://openai.com/index/pacing-model-development-cyber-capabilities)
-   - 时间：08-18 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启](https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu)
-   - 时间：10小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 692/3635 | 19.0% | 高信号源，建议保留 |
-| Buzzing | 617/2381 | 25.9% | 高信号源，建议保留 |
-| Info Flow | 228/795 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 143/438 | 32.6% | 高信号源，建议保留 |
+| TopHub | 690/3606 | 19.1% | 高信号源，建议保留 |
+| Buzzing | 612/2360 | 25.9% | 高信号源，建议保留 |
+| Info Flow | 223/781 | 28.6% | 高信号源，建议保留 |
+| TechURLs | 142/433 | 32.8% | 高信号源，建议保留 |
 | Zeli | 82/94 | 87.2% | 高信号源，建议保留 |
-| NewsNow | 42/227 | 18.5% | 高信号源，建议保留 |
+| NewsNow | 42/228 | 18.4% | 高信号源，建议保留 |
 | OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
 | AIbase | 12/12 | 100.0% | 高信号源，建议保留 |
 
