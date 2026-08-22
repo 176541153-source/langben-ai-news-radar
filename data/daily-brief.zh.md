@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T14:28:53.684413Z
-- 24小时AI信号：1575 条
+- 生成时间：2026-08-22T14:50:41.135888Z
+- 24小时AI信号：1548 条
 - 源健康：12/14
-- 原始抓取：7350 条
+- 原始抓取：7349 条
 
 ## 今日重点
 
@@ -79,24 +79,24 @@
 
 ### 产业、算力与机器人
 
-16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
-   - 时间：15分钟前
+16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项](https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys)
+   - 时间：36分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：9小时前
+17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
+   - 时间：36分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
+18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
+   - 时间：10小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
    - 时间：今天 01:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
+20. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
    - 时间：昨天 00:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
-   - 时间：08-20 08:17
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -114,12 +114,12 @@
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [闪电兑现“带血筹码”！城堡投资披露已出售8成“AI股神”风险敞口](https://www.cls.cn/detail/2461248)
-   - 时间：今天 22:30
-   - 来源：TrendRadar
+24. [利用 AI 合成虚假影像骚扰他人，四川一男子被行拘](https://www.ithome.com/0/993/110.htm)
+   - 时间：6分钟前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [嵌入式人工智能](https://news.ycombinator.com/item?id=49397947)
-   - 时间：18分钟前
+25. [给 AI 时代找工作的同学一些实用建议](https://juejin.cn/post/7676277362519113763)
+   - 时间：10分钟前
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 656/3403 | 19.3% | 高信号源，建议保留 |
-| Buzzing | 437/1605 | 27.2% | 高信号源，建议保留 |
-| Info Flow | 155/590 | 26.3% | 高信号源，建议保留 |
-| TechURLs | 124/346 | 35.8% | 高信号源，建议保留 |
-| Zeli | 65/74 | 87.8% | 高信号源，建议保留 |
-| NewsNow | 31/237 | 13.1% | 高信号源，建议保留 |
+| TopHub | 650/3335 | 19.5% | 高信号源，建议保留 |
+| Buzzing | 415/1534 | 27.1% | 高信号源，建议保留 |
+| Info Flow | 153/584 | 26.2% | 高信号源，建议保留 |
+| TechURLs | 127/354 | 35.9% | 高信号源，建议保留 |
+| Zeli | 63/71 | 88.7% | 高信号源，建议保留 |
+| NewsNow | 32/225 | 14.2% | 高信号源，建议保留 |
 | Follow Builders | 12/31 | 38.7% | 高信号源，建议保留 |
 | OPML RSS | 8/15 | 53.3% | 高信号源，建议保留 |
 
