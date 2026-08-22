@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T09:34:06.795021Z
-- 24小时AI信号：1846 条
+- 生成时间：2026-08-22T09:53:35.991599Z
+- 24小时AI信号：1815 条
 - 源健康：12/14
-- 原始抓取：7340 条
+- 原始抓取：7344 条
 
 ## 今日重点
 
@@ -26,9 +26,9 @@
    - 时间：昨天 18:37
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型](https://www.aibase.com/news/30534)
-   - 时间：昨天 17:44
-   - 来源：AIbase
+5. [测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型"刷分"现象](https://huggingface.co/blog/asr-benchmark-optimization)
+   - 时间：昨天 08:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
@@ -106,33 +106,33 @@
    - 时间：今天 01:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
-   - 时间：昨天 17:44
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
+22. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
    - 时间：08-20 04:42
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
+23. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [中央网络安全和信息化委员会：加快推进人工智能等新兴领域立法](https://view.inews.qq.com/a/20260821A0D2A000)
-   - 时间：今天 17:35
+24. [中央网络安全和信息化委员会：加快推进人工智能等新兴领域立法](https://view.inews.qq.com/a/20260821A0D2A000)
+   - 时间：今天 17:54
    - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [四大AI预测奥基迪vs哈尔姆斯塔德：豆包和Kimi猜1比1平局](https://www.dongqiudi.com/article/6213541)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 688/3604 | 19.1% | 高信号源，建议保留 |
-| Buzzing | 604/2195 | 27.5% | 高信号源，建议保留 |
-| Info Flow | 179/690 | 25.9% | 高信号源，建议保留 |
-| TechURLs | 138/396 | 34.8% | 高信号源，建议保留 |
-| Zeli | 84/95 | 88.4% | 高信号源，建议保留 |
-| NewsNow | 33/232 | 14.2% | 高信号源，建议保留 |
+| TopHub | 669/3526 | 19.0% | 高信号源，建议保留 |
+| Buzzing | 600/2183 | 27.5% | 高信号源，建议保留 |
+| Info Flow | 173/680 | 25.4% | 高信号源，建议保留 |
+| TechURLs | 138/401 | 34.4% | 高信号源，建议保留 |
+| Zeli | 85/96 | 88.5% | 高信号源，建议保留 |
+| NewsNow | 32/233 | 13.7% | 高信号源，建议保留 |
 | OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
 | Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
 
