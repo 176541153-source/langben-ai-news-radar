@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T13:37:17.948375Z
-- 24小时AI信号：1618 条
+- 生成时间：2026-08-22T14:28:53.684413Z
+- 24小时AI信号：1575 条
 - 源健康：12/14
 - 原始抓取：7350 条
 
@@ -14,7 +14,7 @@
    - 时间：今天 01:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
+2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://claude.com/blog/the-ai-native-sdlc-playbook)
    - 时间：昨天 22:28
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -68,35 +68,35 @@
    - 时间：08-18 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [StartupBench：面向市场验证端到端工作流的通用智能体基准测试](https://arxiv.org/abs/2608.17800)
-   - 时间：08-18 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [人工智能提高了家庭作业成绩，但考试成绩却下降了：研究](https://news.ycombinator.com/item?id=49357530)
+14. [人工智能提高了家庭作业成绩，但考试成绩却下降了：研究](https://news.ycombinator.com/item?id=49357530)
    - 时间：今天 02:31
    - 来源：NewsNow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise)
+   - 时间：今天 02:25
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
+16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
+   - 时间：15分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
    - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
+18. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
    - 时间：今天 01:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
+19. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
+20. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
    - 时间：08-20 08:17
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [GLM-5.3上线：AA智能指数60分并列开源第一，成本更低](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7)
-   - 时间：08-19 09:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -114,27 +114,27 @@
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [中央网络安全和信息化委员会：加快推进人工智能等新兴领域立法](https://view.inews.qq.com/a/20260821A0D2A000)
-   - 时间：今天 21:38
+24. [闪电兑现“带血筹码”！城堡投资披露已出售8成“AI股神”风险敞口](https://www.cls.cn/detail/2461248)
+   - 时间：今天 22:30
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [AI「觉醒」之后，谁来负责？](https://www.mittrchina.com/news/detail/16832)
-   - 时间：1分钟前
-   - 来源：TopHub
+25. [嵌入式人工智能](https://news.ycombinator.com/item?id=49397947)
+   - 时间：18分钟前
+   - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 650/3340 | 19.5% | 高信号源，建议保留 |
-| Buzzing | 470/1714 | 27.4% | 高信号源，建议保留 |
-| Info Flow | 154/596 | 25.8% | 高信号源，建议保留 |
-| TechURLs | 132/376 | 35.1% | 高信号源，建议保留 |
-| Zeli | 73/82 | 89.0% | 高信号源，建议保留 |
-| NewsNow | 29/232 | 12.5% | 高信号源，建议保留 |
-| Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
-| OPML RSS | 10/17 | 58.8% | 高信号源，建议保留 |
+| TopHub | 656/3403 | 19.3% | 高信号源，建议保留 |
+| Buzzing | 437/1605 | 27.2% | 高信号源，建议保留 |
+| Info Flow | 155/590 | 26.3% | 高信号源，建议保留 |
+| TechURLs | 124/346 | 35.8% | 高信号源，建议保留 |
+| Zeli | 65/74 | 87.8% | 高信号源，建议保留 |
+| NewsNow | 31/237 | 13.1% | 高信号源，建议保留 |
+| Follow Builders | 12/31 | 38.7% | 高信号源，建议保留 |
+| OPML RSS | 8/15 | 53.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
