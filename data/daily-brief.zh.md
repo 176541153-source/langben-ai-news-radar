@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T10:30:57.781891Z
-- 24小时AI信号：1799 条
+- 生成时间：2026-08-22T10:51:29.405138Z
+- 24小时AI信号：1763 条
 - 源健康：12/14
 - 原始抓取：7343 条
 
@@ -22,34 +22,34 @@
    - 时间：昨天 21:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [长眼！DeepSeek Flash视觉模型突发更新，支持多模态](https://www.aibase.com/news/30536)
-   - 时间：昨天 18:37
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型"刷分"现象](https://huggingface.co/blog/asr-benchmark-optimization)
+4. [测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型"刷分"现象](https://huggingface.co/blog/asr-benchmark-optimization)
    - 时间：昨天 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
+   - 时间：昨天 00:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [字节Seed再调整:预训练、强化学习与Agent研发全面重构](https://www.aibase.com/news/30537)
-   - 时间：昨天 18:37
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [DeepSeek-V4-Flash-Vision-Exp 发布](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21)
+6. [DeepSeek-V4-Flash-Vision-Exp 发布](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21)
    - 时间：昨天 17:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
+7. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
    - 时间：08-20 17:45
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Claude Platform 发布 Python SDK v1.0，迁移至 httpx2](https://platform.claude.com/docs/en/release-notes/overview#august-20-2026)
+8. [Claude Platform 发布 Python SDK v1.0，迁移至 httpx2](https://platform.claude.com/docs/en/release-notes/overview#august-20-2026)
    - 时间：08-20 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://claude.com/blog/computer-use-skills-api-files-api)
+9. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://claude.com/blog/computer-use-skills-api-files-api)
+   - 时间：08-20 00:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率](https://mistral.ai/news/agentic-search)
    - 时间：08-20 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [中央网络安全和信息化委员会：加快推进人工智能等新兴领域立法](https://view.inews.qq.com/a/20260821A0D2A000)
-   - 时间：今天 18:32
+   - 时间：今天 18:52
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [Angelababy蕾丝公主](https://s.weibo.com/weibo?q=Angelababy%E8%95%BE%E4%B8%9D%E5%85%AC%E4%B8%BB)
-   - 时间：1分钟前
+   - 时间：20分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 683/3627 | 18.8% | 高信号源，建议保留 |
-| Buzzing | 579/2088 | 27.7% | 高信号源，建议保留 |
-| Info Flow | 169/638 | 26.5% | 高信号源，建议保留 |
-| TechURLs | 134/391 | 34.3% | 高信号源，建议保留 |
-| Zeli | 85/95 | 89.5% | 高信号源，建议保留 |
-| NewsNow | 32/233 | 13.7% | 高信号源，建议保留 |
+| TopHub | 662/3434 | 19.3% | 高信号源，建议保留 |
+| Buzzing | 570/2045 | 27.9% | 高信号源，建议保留 |
+| Info Flow | 164/627 | 26.2% | 高信号源，建议保留 |
+| TechURLs | 135/392 | 34.4% | 高信号源，建议保留 |
+| Zeli | 86/95 | 90.5% | 高信号源，建议保留 |
+| NewsNow | 31/237 | 13.1% | 高信号源，建议保留 |
 | OPML RSS | 14/23 | 60.9% | 高信号源，建议保留 |
 | Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
 
