@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T05:56:13.132581Z
-- 24小时AI信号：1910 条
+- 生成时间：2026-08-22T06:52:37.908178Z
+- 24小时AI信号：1931 条
 - 源健康：12/14
-- 原始抓取：7336 条
+- 原始抓取：7340 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s)
-   - 时间：11小时前
+   - 时间：今天 01:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
@@ -73,18 +73,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [人工智能提高了家庭作业成绩，但考试成绩却下降了：研究](https://news.ycombinator.com/item?id=49357530)
-   - 时间：11小时前
+   - 时间：今天 02:31
    - 来源：NewsNow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
-   - 时间：11小时前
+   - 时间：今天 01:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启](https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu)
-   - 时间：11小时前
+   - 时间：今天 01:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 692/3615 | 19.1% | 高信号源，建议保留 |
-| Buzzing | 615/2364 | 26.0% | 高信号源，建议保留 |
-| Info Flow | 219/772 | 28.4% | 高信号源，建议保留 |
-| TechURLs | 143/433 | 33.0% | 高信号源，建议保留 |
+| TopHub | 711/3757 | 18.9% | 高信号源，建议保留 |
+| Buzzing | 617/2340 | 26.4% | 高信号源，建议保留 |
+| Info Flow | 206/742 | 27.8% | 高信号源，建议保留 |
+| TechURLs | 144/432 | 33.3% | 高信号源，建议保留 |
 | Zeli | 81/93 | 87.1% | 高信号源，建议保留 |
-| NewsNow | 42/228 | 18.4% | 高信号源，建议保留 |
-| OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
+| NewsNow | 43/230 | 18.7% | 高信号源，建议保留 |
+| OPML RSS | 14/23 | 60.9% | 高信号源，建议保留 |
 | AIbase | 12/12 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
