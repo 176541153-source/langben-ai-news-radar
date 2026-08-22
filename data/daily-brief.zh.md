@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T20:31:16.457882Z
-- 24小时AI信号：1402 条
+- 生成时间：2026-08-22T20:51:02.063683Z
+- 24小时AI信号：1389 条
 - 源健康：12/14
-- 原始抓取：7267 条
+- 原始抓取：7266 条
 
 ## 今日重点
 
@@ -68,13 +68,13 @@
    - 时间：08-18 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
-   - 时间：1小时前
+14. [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)](https://www.techmeme.com/260822/p12)
+   - 时间：50分钟前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
-   - 时间：5小时前
-   - 来源：Buzzing
+15. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
+   - 时间：1小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -111,28 +111,28 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 04:33
+   - 时间：今天 04:53
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [苹果与Meta Platforms：哪家“七大巨头”拥有更强大的人工智能（AI）增长引擎？](https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html)
-   - 时间：9分钟前
+24. [亿万富翁斯坦利·德鲁肯米勒刚刚抛售了部分闪迪股票，并买入了这3只势不可挡的人工智能（AI）股](https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html)
+   - 时间：13分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [Alphabet的搜索业务风险真的已被市场充分反映了吗？对罗森布拉特410美元目标价论点的压力测试](https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html)
-   - 时间：9分钟前
-   - 来源：Buzzing
+25. [AI短片二十二分钟](https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%88%86%E9%92%9F)
+   - 时间：14分钟前
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 610/3360 | 18.2% | 高信号源，建议保留 |
-| Buzzing | 403/1378 | 29.2% | 高信号源，建议保留 |
-| Info Flow | 146/557 | 26.2% | 高信号源，建议保留 |
-| TechURLs | 84/256 | 32.8% | 高信号源，建议保留 |
-| Zeli | 42/47 | 89.4% | 高信号源，建议保留 |
-| NewsNow | 29/218 | 13.3% | 高信号源，建议保留 |
+| TopHub | 602/3329 | 18.1% | 高信号源，建议保留 |
+| Buzzing | 400/1360 | 29.4% | 高信号源，建议保留 |
+| Info Flow | 146/559 | 26.1% | 高信号源，建议保留 |
+| TechURLs | 85/262 | 32.4% | 高信号源，建议保留 |
+| Zeli | 41/46 | 89.1% | 高信号源，建议保留 |
+| NewsNow | 27/215 | 12.6% | 高信号源，建议保留 |
 | Follow Builders | 4/12 | 33.3% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
