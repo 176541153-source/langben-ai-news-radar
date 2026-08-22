@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T21:28:25.464852Z
-- 24小时AI信号：1365 条
+- 生成时间：2026-08-22T21:49:00.564286Z
+- 24小时AI信号：1371 条
 - 源健康：12/14
-- 原始抓取：7266 条
+- 原始抓取：7200 条
 
 ## 今日重点
 
@@ -111,28 +111,28 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 05:31
+   - 时间：今天 05:52
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [亿万富翁斯坦利·德鲁肯米勒刚刚抛售了部分闪迪股票，并买入了这3只势不可挡的人工智能（AI）股](https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html)
-   - 时间：50分钟前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [How to limit Instagram from using your data for AI and ads](https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads)
-   - 时间：58分钟前
+24. [Nvidia AI server prices are rising more than 15% from early next year](https://thenextweb.com/news/nvidia-ai-server-price-increase-memory-costs)
+   - 时间：23分钟前
    - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [亿万富翁斯坦利·德鲁肯米勒刚刚抛售了部分闪迪股票，并买入了这3只势不可挡的人工智能（AI）股](https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html)
+   - 时间：1小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 601/3327 | 18.1% | 高信号源，建议保留 |
-| Buzzing | 382/1293 | 29.5% | 高信号源，建议保留 |
-| Info Flow | 146/562 | 26.0% | 高信号源，建议保留 |
-| TechURLs | 80/251 | 31.9% | 高信号源，建议保留 |
-| Zeli | 41/46 | 89.1% | 高信号源，建议保留 |
-| NewsNow | 27/216 | 12.5% | 高信号源，建议保留 |
+| TopHub | 602/3324 | 18.1% | 高信号源，建议保留 |
+| Buzzing | 383/1295 | 29.6% | 高信号源，建议保留 |
+| Info Flow | 145/561 | 25.8% | 高信号源，建议保留 |
+| TechURLs | 83/255 | 32.5% | 高信号源，建议保留 |
+| Zeli | 44/49 | 89.8% | 高信号源，建议保留 |
+| NewsNow | 26/214 | 12.1% | 高信号源，建议保留 |
 | Follow Builders | 4/11 | 36.4% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
