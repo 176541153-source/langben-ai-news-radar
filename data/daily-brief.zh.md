@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T19:48:14.840266Z
-- 24小时AI信号：1427 条
+- 生成时间：2026-08-22T20:31:16.457882Z
+- 24小时AI信号：1402 条
 - 源健康：12/14
-- 原始抓取：7012 条
+- 原始抓取：7267 条
 
 ## 今日重点
 
@@ -69,22 +69,22 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
-   - 时间：48分钟前
+   - 时间：1小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
-   - 时间：4小时前
+   - 时间：5小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项](https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
@@ -111,15 +111,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 03:50
+   - 时间：今天 04:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [Marvell的投资者必须仔细权衡与谷歌达成的最新协议](https://finance.yahoo.com/technology/ai/articles/marvell-investors-must-carefully-consider-191300245.html)
-   - 时间：14分钟前
+24. [苹果与Meta Platforms：哪家“七大巨头”拥有更强大的人工智能（AI）增长引擎？](https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html)
+   - 时间：9分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [丰厚的收益吸引垃圾债券投资者涌向投资级AI债券](https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt)
-   - 时间：30分钟前
+25. [Alphabet的搜索业务风险真的已被市场充分反映了吗？对罗森布拉特410美元目标价论点的压力测试](https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html)
+   - 时间：9分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 613/3344 | 18.3% | 高信号源，建议保留 |
-| Buzzing | 418/1440 | 29.0% | 高信号源，建议保留 |
-| Info Flow | 145/563 | 25.8% | 高信号源，建议保留 |
-| TechURLs | 93/277 | 33.6% | 高信号源，建议保留 |
-| Zeli | 40/45 | 88.9% | 高信号源，建议保留 |
-| NewsNow | 29/217 | 13.4% | 高信号源，建议保留 |
-| Follow Builders | 5/15 | 33.3% | 高信号源，建议保留 |
+| TopHub | 610/3360 | 18.2% | 高信号源，建议保留 |
+| Buzzing | 403/1378 | 29.2% | 高信号源，建议保留 |
+| Info Flow | 146/557 | 26.2% | 高信号源，建议保留 |
+| TechURLs | 84/256 | 32.8% | 高信号源，建议保留 |
+| Zeli | 42/47 | 89.4% | 高信号源，建议保留 |
+| NewsNow | 29/218 | 13.3% | 高信号源，建议保留 |
+| Follow Builders | 4/12 | 33.3% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
