@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T11:48:37.369335Z
-- 24小时AI信号：1718 条
+- 生成时间：2026-08-22T12:53:13.324888Z
+- 24小时AI信号：1677 条
 - 源健康：12/14
-- 原始抓取：7340 条
+- 原始抓取：7350 条
 
 ## 今日重点
 
@@ -80,7 +80,7 @@
 ### 产业、算力与机器人
 
 16. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
@@ -115,25 +115,25 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [中央网络安全和信息化委员会：加快推进人工智能等新兴领域立法](https://view.inews.qq.com/a/20260821A0D2A000)
-   - 时间：今天 19:49
+   - 时间：今天 20:54
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [Angelababy像是来和我结婚的](https://s.weibo.com/weibo?q=%23Angelababy%E5%83%8F%E6%98%AF%E6%9D%A5%E5%92%8C%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%23&t=31&band_rank=15&Refer=top)
-   - 时间：今天 19:49
-   - 来源：TrendRadar
+25. [Angelababy像是来和我结婚的](https://s.weibo.com/weibo?q=Angelababy%E5%83%8F%E6%98%AF%E6%9D%A5%E5%92%8C%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 661/3368 | 19.6% | 高信号源，建议保留 |
-| Buzzing | 539/1931 | 27.9% | 高信号源，建议保留 |
-| Info Flow | 160/619 | 25.8% | 高信号源，建议保留 |
-| TechURLs | 132/394 | 33.5% | 高信号源，建议保留 |
-| Zeli | 86/95 | 90.5% | 高信号源，建议保留 |
-| NewsNow | 27/231 | 11.7% | 高信号源，建议保留 |
-| OPML RSS | 12/21 | 57.1% | 高信号源，建议保留 |
+| TopHub | 666/3439 | 19.4% | 高信号源，建议保留 |
+| Buzzing | 505/1825 | 27.7% | 高信号源，建议保留 |
+| Info Flow | 156/606 | 25.7% | 高信号源，建议保留 |
+| TechURLs | 130/383 | 33.9% | 高信号源，建议保留 |
+| Zeli | 80/89 | 89.9% | 高信号源，建议保留 |
+| NewsNow | 27/233 | 11.6% | 高信号源，建议保留 |
+| OPML RSS | 12/19 | 63.2% | 高信号源，建议保留 |
 | Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
 
 ## 维护提示
