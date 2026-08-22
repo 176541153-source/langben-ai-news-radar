@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T08:39:01.681529Z
-- 24小时AI信号：1870 条
+- 生成时间：2026-08-22T09:34:06.795021Z
+- 24小时AI信号：1846 条
 - 源健康：12/14
-- 原始抓取：7343 条
+- 原始抓取：7340 条
 
 ## 今日重点
 
@@ -37,7 +37,7 @@
    - 时间：昨天 18:37
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [DeepSeek-V4-Flash-Vision-Exp 发布](https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4)
+7. [DeepSeek-V4-Flash-Vision-Exp 发布](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21)
    - 时间：昨天 17:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -56,7 +56,7 @@
 
 ### 论文研究与评测
 
-11. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs)
+11. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks)
    - 时间：昨天 17:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -110,29 +110,29 @@
    - 时间：昨天 17:44
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI](https://www.aibase.com/news/30533)
-   - 时间：昨天 16:50
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
+23. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
    - 时间：08-20 04:42
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
+24. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [中央网络安全和信息化委员会：加快推进人工智能等新兴领域立法](https://view.inews.qq.com/a/20260821A0D2A000)
+   - 时间：今天 17:35
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 690/3669 | 18.8% | 高信号源，建议保留 |
-| Buzzing | 611/2264 | 27.0% | 高信号源，建议保留 |
-| Info Flow | 181/701 | 25.8% | 高信号源，建议保留 |
-| TechURLs | 144/424 | 34.0% | 高信号源，建议保留 |
-| Zeli | 83/94 | 88.3% | 高信号源，建议保留 |
-| NewsNow | 38/242 | 15.7% | 高信号源，建议保留 |
+| TopHub | 688/3604 | 19.1% | 高信号源，建议保留 |
+| Buzzing | 604/2195 | 27.5% | 高信号源，建议保留 |
+| Info Flow | 179/690 | 25.9% | 高信号源，建议保留 |
+| TechURLs | 138/396 | 34.8% | 高信号源，建议保留 |
+| Zeli | 84/95 | 88.4% | 高信号源，建议保留 |
+| NewsNow | 33/232 | 14.2% | 高信号源，建议保留 |
 | OPML RSS | 15/24 | 62.5% | 高信号源，建议保留 |
 | Follow Builders | 12/33 | 36.4% | 高信号源，建议保留 |
 
