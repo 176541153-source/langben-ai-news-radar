@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T01:41:30.924349Z
-- 24小时AI信号：2055 条
+- 生成时间：2026-08-22T03:01:16.937334Z
+- 24小时AI信号：1993 条
 - 源健康：12/14
-- 原始抓取：7316 条
+- 原始抓取：7323 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
-   - 时间：11小时前
+   - 时间：昨天 22:28
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt)
@@ -64,46 +64,46 @@
    - 时间：昨天 11:10
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立](https://www.aibase.com/news/30518)
-   - 时间：昨天 09:48
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+13. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
    - 时间：08-19 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [设计 AI 评测：先求清晰，再谈可视化](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
+14. [设计 AI 评测：先求清晰，再谈可视化](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
    - 时间：08-18 15:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [StartupBench：面向市场验证端到端工作流的通用智能体基准测试](https://arxiv.org/abs/2608.17800)
+   - 时间：08-18 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产业、算力与机器人
 
 16. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元](https://www.aibase.com/news/30517)
-   - 时间：昨天 09:48
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [OpenAI企业市场份额反超Anthropic，AI支出持续扩张](https://www.aibase.com/news/30511)
-   - 时间：昨天 09:48
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
+17. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
+18. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
    - 时间：08-20 08:17
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [GLM-5.3上线：AA智能指数60分并列开源第一，成本更低](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7)
+   - 时间：08-19 09:03
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [OpenAI 在"关键网络能力"时代放缓模型开发节奏](https://openai.com/index/pacing-model-development-cyber-capabilities)
+   - 时间：08-18 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启](https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆](https://www.aibase.com/news/30535)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 769/3904 | 19.7% | 高信号源，建议保留 |
-| Buzzing | 622/2445 | 25.4% | 高信号源，建议保留 |
-| Info Flow | 256/882 | 29.0% | 高信号源，建议保留 |
-| TechURLs | 147/441 | 33.3% | 高信号源，建议保留 |
-| Zeli | 77/91 | 84.6% | 高信号源，建议保留 |
-| NewsNow | 48/232 | 20.7% | 高信号源，建议保留 |
-| AIbase | 28/28 | 100.0% | 高信号源，建议保留 |
+| TopHub | 738/3850 | 19.2% | 高信号源，建议保留 |
+| Buzzing | 620/2435 | 25.5% | 高信号源，建议保留 |
+| Info Flow | 239/834 | 28.7% | 高信号源，建议保留 |
+| TechURLs | 145/438 | 33.1% | 高信号源，建议保留 |
+| Zeli | 81/94 | 86.2% | 高信号源，建议保留 |
+| NewsNow | 47/231 | 20.3% | 高信号源，建议保留 |
+| AIbase | 16/16 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 15/23 | 65.2% | 高信号源，建议保留 |
 
 ## 维护提示
