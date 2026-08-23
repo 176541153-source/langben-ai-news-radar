@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T04:10:54.115111Z
-- 24小时AI信号：1309 条
+- 生成时间：2026-08-23T05:03:42.535569Z
+- 24小时AI信号：1310 条
 - 源健康：12/14
-- 原始抓取：7274 条
+- 原始抓取：7283 条
 
 ## 今日重点
 
@@ -69,11 +69,11 @@
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)](https://www.techmeme.com/260822/p12)
-   - 时间：8小时前
+   - 时间：9小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -87,7 +87,7 @@
    - 时间：昨天 22:13
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
+18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://x.com/AntLingAGI/status/2091021795373855124)
    - 时间：昨天 12:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图](https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 12:17
+   - 时间：今天 13:11
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [美国大厂重金投入AI收益如何](https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%8E%82%E9%87%8D%E9%87%91%E6%8A%95%E5%85%A5AI%E6%94%B6%E7%9B%8A%E5%A6%82%E4%BD%95)
-   - 时间：今天 12:17
+25. [摸鱼事务所测评AI摸鱼指令](https://search.bilibili.com/all?keyword=%E6%91%B8%E9%B1%BC%E4%BA%8B%E5%8A%A1%E6%89%80%E6%B5%8B%E8%AF%84AI%E6%91%B8%E9%B1%BC%E6%8C%87%E4%BB%A4)
+   - 时间：18分钟前
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 565/3265 | 17.3% | 高信号源，建议保留 |
-| Buzzing | 388/1180 | 32.9% | 高信号源，建议保留 |
-| Info Flow | 130/531 | 24.5% | 高信号源，建议保留 |
-| TechURLs | 71/230 | 30.9% | 高信号源，建议保留 |
-| Zeli | 37/43 | 86.0% | 高信号源，建议保留 |
-| NewsNow | 31/204 | 15.2% | 高信号源，建议保留 |
-| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
+| TopHub | 552/3192 | 17.3% | 高信号源，建议保留 |
+| Buzzing | 396/1180 | 33.6% | 高信号源，建议保留 |
+| Info Flow | 134/540 | 24.8% | 高信号源，建议保留 |
+| TechURLs | 71/233 | 30.5% | 高信号源，建议保留 |
+| Zeli | 40/46 | 87.0% | 高信号源，建议保留 |
+| NewsNow | 31/208 | 14.9% | 高信号源，建议保留 |
+| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 | Follow Builders | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
