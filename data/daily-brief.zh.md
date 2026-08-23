@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T14:30:08.248074Z
-- 24小时AI信号：1437 条
+- 生成时间：2026-08-23T14:51:36.605129Z
+- 24小时AI信号：1449 条
 - 源健康：12/14
-- 原始抓取：7301 条
+- 原始抓取：7309 条
 
 ## 今日重点
 
@@ -69,34 +69,34 @@
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
 14. [明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成](https://www.thepaper.cn/newsDetail_forward_33833618)
-   - 时间：今天 22:43
+   - 时间：今天 23:05
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [2026 Codex与DeepSeek开源Harness对比评测：企业怎么选](https://blog.csdn.net/2401_85300269/article/details/163970776)
-   - 时间：52分钟前
-   - 来源：TopHub
+15. [Show HN: Writing-eval，针对AI生成的草稿进行的局部确定性风格检查](https://github.com/majesticlabs-dev/writing-eval)
+   - 时间：6分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
+16. [OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备](https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k)
+   - 时间：38分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
    - 时间：昨天 22:13
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://x.com/AntLingAGI/status/2091021795373855124)
+18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://x.com/AntLingAGI/status/2091021795373855124)
    - 时间：昨天 12:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell)
+19. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell)
    - 时间：08-21 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
+20. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
    - 时间：08-21 00:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市](https://www.ithome.com/0/991/886.htm)
-   - 时间：08-20 08:17
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 585/3415 | 17.1% | 高信号源，建议保留 |
-| Buzzing | 484/1497 | 32.3% | 高信号源，建议保留 |
-| Info Flow | 125/545 | 22.9% | 高信号源，建议保留 |
-| TechURLs | 62/195 | 31.8% | 高信号源，建议保留 |
-| Zeli | 49/54 | 90.7% | 高信号源，建议保留 |
-| NewsNow | 40/202 | 19.8% | 高信号源，建议保留 |
+| TopHub | 584/3462 | 16.9% | 高信号源，建议保留 |
+| Buzzing | 495/1543 | 32.1% | 高信号源，建议保留 |
+| Info Flow | 123/553 | 22.2% | 高信号源，建议保留 |
+| TechURLs | 62/207 | 30.0% | 高信号源，建议保留 |
+| Zeli | 53/58 | 91.4% | 高信号源，建议保留 |
+| NewsNow | 39/199 | 19.6% | 高信号源，建议保留 |
 | Follow Builders | 8/18 | 44.4% | 高信号源，建议保留 |
 | OPML RSS | 3/9 | 33.3% | 高信号源，建议保留 |
 
