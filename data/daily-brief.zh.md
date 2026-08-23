@@ -1,7 +1,7 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T11:27:09.166055Z
-- 24小时AI信号：1379 条
+- 生成时间：2026-08-23T11:48:39.150854Z
+- 24小时AI信号：1375 条
 - 源健康：12/14
 - 原始抓取：7297 条
 
@@ -69,7 +69,7 @@
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
 14. [明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成](https://www.thepaper.cn/newsDetail_forward_33833618)
-   - 时间：今天 19:39
+   - 时间：今天 20:00
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹](https://www.ithome.com/0/993/234.htm)
@@ -119,7 +119,7 @@
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [Everyone who’s ahead in using AI thinks they’re behind](https://x.com/zarazhangrui/status/2091338374447763481)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 581/3394 | 17.1% | 高信号源，建议保留 |
-| Buzzing | 412/1302 | 31.6% | 高信号源，建议保留 |
-| Info Flow | 135/553 | 24.4% | 高信号源，建议保留 |
-| TechURLs | 63/204 | 30.9% | 高信号源，建议保留 |
-| Zeli | 50/55 | 90.9% | 高信号源，建议保留 |
-| NewsNow | 45/216 | 20.8% | 高信号源，建议保留 |
+| TopHub | 575/3352 | 17.2% | 高信号源，建议保留 |
+| Buzzing | 416/1314 | 31.7% | 高信号源，建议保留 |
+| Info Flow | 136/555 | 24.5% | 高信号源，建议保留 |
+| TechURLs | 64/211 | 30.3% | 高信号源，建议保留 |
+| Zeli | 48/53 | 90.6% | 高信号源，建议保留 |
+| NewsNow | 43/206 | 20.9% | 高信号源，建议保留 |
 | Follow Builders | 8/19 | 42.1% | 高信号源，建议保留 |
 | OPML RSS | 3/9 | 33.3% | 高信号源，建议保留 |
 
