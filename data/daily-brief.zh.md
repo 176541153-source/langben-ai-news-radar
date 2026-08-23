@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T09:54:29.281134Z
-- 24小时AI信号：1349 条
+- 生成时间：2026-08-23T10:31:09.918525Z
+- 24小时AI信号：1339 条
 - 源健康：12/14
-- 原始抓取：7291 条
+- 原始抓取：7294 条
 
 ## 今日重点
 
@@ -65,16 +65,16 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...](https://x.com/levie/status/2091359223368315050)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
-14. [谷歌AI研究科学家来B站了](https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%A0%94%E7%A9%B6%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%A5B%E7%AB%99%E4%BA%86)
-   - 时间：7分钟前
+14. [明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成](https://www.thepaper.cn/newsDetail_forward_33833618)
+   - 时间：今天 18:41
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹](https://www.ithome.com/0/993/234.htm)
-   - 时间：51分钟前
-   - 来源：Info Flow
+15. [谷歌AI研究科学家来B站了](https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%A0%94%E7%A9%B6%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%A5B%E7%AB%99%E4%BA%86)
+   - 时间：11分钟前
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -115,7 +115,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...](https://x.com/zarazhangrui/status/2091379220257603593)
-   - 时间：5小时前
+   - 时间：6小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [Everyone who’s ahead in using AI thinks they’re behind](https://x.com/zarazhangrui/status/2091338374447763481)
@@ -127,11 +127,11 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 575/3245 | 17.7% | 高信号源，建议保留 |
-| Buzzing | 393/1201 | 32.7% | 高信号源，建议保留 |
-| Info Flow | 132/547 | 24.1% | 高信号源，建议保留 |
-| TechURLs | 66/215 | 30.7% | 高信号源，建议保留 |
-| Zeli | 50/55 | 90.9% | 高信号源，建议保留 |
+| TopHub | 570/3240 | 17.6% | 高信号源，建议保留 |
+| Buzzing | 397/1232 | 32.2% | 高信号源，建议保留 |
+| Info Flow | 128/551 | 23.2% | 高信号源，建议保留 |
+| TechURLs | 63/205 | 30.7% | 高信号源，建议保留 |
+| Zeli | 48/53 | 90.6% | 高信号源，建议保留 |
 | NewsNow | 40/203 | 19.7% | 高信号源，建议保留 |
 | Follow Builders | 8/19 | 42.1% | 高信号源，建议保留 |
 | OPML RSS | 3/10 | 30.0% | 高信号源，建议保留 |
