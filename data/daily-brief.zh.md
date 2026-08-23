@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T05:03:42.535569Z
-- 24小时AI信号：1310 条
+- 生成时间：2026-08-23T05:36:55.102322Z
+- 24小时AI信号：1292 条
 - 源健康：12/14
-- 原始抓取：7283 条
+- 原始抓取：7285 条
 
 ## 今日重点
 
@@ -65,7 +65,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [对话 Anthropic 产品负责人：不懂评测的 AI 产品负责人，只是在假装做产品](https://www.woshipm.com/?p=6452857)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)](https://www.techmeme.com/260822/p12)
@@ -115,26 +115,26 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 13:11
+   - 时间：今天 13:43
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [摸鱼事务所测评AI摸鱼指令](https://search.bilibili.com/all?keyword=%E6%91%B8%E9%B1%BC%E4%BA%8B%E5%8A%A1%E6%89%80%E6%B5%8B%E8%AF%84AI%E6%91%B8%E9%B1%BC%E6%8C%87%E4%BB%A4)
-   - 时间：18分钟前
-   - 来源：TrendRadar
+25. [“AI红娘”承诺三年不结婚就退款](https://m.baidu.com/s?wd=%E2%80%9CAI%E7%BA%A2%E5%A8%98%E2%80%9D%E6%89%BF%E8%AF%BA%E4%B8%89%E5%B9%B4%E4%B8%8D%E7%BB%93%E5%A9%9A%E5%B0%B1%E9%80%80%E6%AC%BE)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 552/3192 | 17.3% | 高信号源，建议保留 |
-| Buzzing | 396/1180 | 33.6% | 高信号源，建议保留 |
-| Info Flow | 134/540 | 24.8% | 高信号源，建议保留 |
-| TechURLs | 71/233 | 30.5% | 高信号源，建议保留 |
+| TopHub | 537/3240 | 16.6% | 高信号源，建议保留 |
+| Buzzing | 397/1182 | 33.6% | 高信号源，建议保留 |
+| Info Flow | 132/542 | 24.4% | 高信号源，建议保留 |
+| TechURLs | 70/232 | 30.2% | 高信号源，建议保留 |
 | Zeli | 40/46 | 87.0% | 高信号源，建议保留 |
-| NewsNow | 31/208 | 14.9% | 高信号源，建议保留 |
+| NewsNow | 31/205 | 15.1% | 高信号源，建议保留 |
 | AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 2/2 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 2/9 | 22.2% | 高信号源，建议保留 |
 
 ## 维护提示
 
