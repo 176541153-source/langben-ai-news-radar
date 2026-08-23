@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T10:52:28.091916Z
-- 24小时AI信号：1352 条
+- 生成时间：2026-08-23T11:27:09.166055Z
+- 24小时AI信号：1379 条
 - 源健康：12/14
-- 原始抓取：7294 条
+- 原始抓取：7297 条
 
 ## 今日重点
 
@@ -65,16 +65,16 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...](https://x.com/levie/status/2091359223368315050)
-   - 时间：7小时前
+   - 时间：8小时前
    - 来源：Follow Builders
    - 评分：8.5/10 · matched_tracked_ai_keyword
 14. [明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成](https://www.thepaper.cn/newsDetail_forward_33833618)
-   - 时间：今天 19:04
+   - 时间：今天 19:39
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [谷歌AI研究科学家来B站了](https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%A0%94%E7%A9%B6%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%A5B%E7%AB%99%E4%BA%86)
-   - 时间：1分钟前
-   - 来源：TrendRadar
+15. [皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹](https://www.ithome.com/0/993/234.htm)
+   - 时间：2小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图](https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln)
-   - 时间：9小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
@@ -115,7 +115,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...](https://x.com/zarazhangrui/status/2091379220257603593)
-   - 时间：6小时前
+   - 时间：7小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 25. [Everyone who’s ahead in using AI thinks they’re behind](https://x.com/zarazhangrui/status/2091338374447763481)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 572/3328 | 17.2% | 高信号源，建议保留 |
-| Buzzing | 404/1264 | 32.0% | 高信号源，建议保留 |
-| Info Flow | 130/554 | 23.5% | 高信号源，建议保留 |
-| TechURLs | 65/214 | 30.4% | 高信号源，建议保留 |
-| Zeli | 48/53 | 90.6% | 高信号源，建议保留 |
-| NewsNow | 40/198 | 20.2% | 高信号源，建议保留 |
+| TopHub | 581/3394 | 17.1% | 高信号源，建议保留 |
+| Buzzing | 412/1302 | 31.6% | 高信号源，建议保留 |
+| Info Flow | 135/553 | 24.4% | 高信号源，建议保留 |
+| TechURLs | 63/204 | 30.9% | 高信号源，建议保留 |
+| Zeli | 50/55 | 90.9% | 高信号源，建议保留 |
+| NewsNow | 45/216 | 20.8% | 高信号源，建议保留 |
 | Follow Builders | 8/19 | 42.1% | 高信号源，建议保留 |
-| OPML RSS | 3/10 | 30.0% | 高信号源，建议保留 |
+| OPML RSS | 3/9 | 33.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
