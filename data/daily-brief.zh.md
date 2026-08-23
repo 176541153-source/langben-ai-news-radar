@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T05:58:34.173762Z
-- 24小时AI信号：1284 条
+- 生成时间：2026-08-23T06:53:21.599533Z
+- 24小时AI信号：1318 条
 - 源健康：12/14
-- 原始抓取：7288 条
+- 原始抓取：7273 条
 
 ## 今日重点
 
@@ -64,17 +64,17 @@
    - 时间：08-19 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [对话 Anthropic 产品负责人：不懂评测的 AI 产品负责人，只是在假装做产品](https://www.woshipm.com/?p=6452857)
-   - 时间：2小时前
+13. [AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...](https://x.com/levie/status/2091359223368315050)
+   - 时间：3小时前
+   - 来源：Follow Builders
+   - 评分：8.5/10 · matched_tracked_ai_keyword
+14. [谷歌AI研究科学家来B站了](https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%A0%94%E7%A9%B6%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%A5B%E7%AB%99%E4%BA%86)
+   - 时间：7分钟前
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [对话 Anthropic 产品负责人：不懂评测的 AI 产品负责人，只是在假装做产品](https://www.woshipm.com/?p=6452857)
+   - 时间：3小时前
    - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)](https://www.techmeme.com/260822/p12)
-   - 时间：9小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
-   - 时间：10小时前
-   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -114,27 +114,27 @@
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 14:05
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [重温解放日报评论：警惕宇树IPO资本泡沫！上市当天网下机构90%无限售梁文锋们可能已经套现数钱散户还在做梦](https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphhax0699779.shtml)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+24. [There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...](https://x.com/zarazhangrui/status/2091379220257603593)
+   - 时间：2小时前
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [Everyone who’s ahead in using AI thinks they’re behind](https://x.com/zarazhangrui/status/2091338374447763481)
+   - 时间：5小时前
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 536/3232 | 16.6% | 高信号源，建议保留 |
-| Buzzing | 388/1176 | 33.0% | 高信号源，建议保留 |
-| Info Flow | 132/541 | 24.4% | 高信号源，建议保留 |
-| TechURLs | 71/238 | 29.8% | 高信号源，建议保留 |
-| Zeli | 42/48 | 87.5% | 高信号源，建议保留 |
-| NewsNow | 31/205 | 15.1% | 高信号源，建议保留 |
-| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 2/9 | 22.2% | 高信号源，建议保留 |
+| TopHub | 548/3239 | 16.9% | 高信号源，建议保留 |
+| Buzzing | 398/1187 | 33.5% | 高信号源，建议保留 |
+| Info Flow | 138/542 | 25.5% | 高信号源，建议保留 |
+| TechURLs | 68/235 | 28.9% | 高信号源，建议保留 |
+| Zeli | 43/49 | 87.8% | 高信号源，建议保留 |
+| NewsNow | 30/205 | 14.6% | 高信号源，建议保留 |
+| Follow Builders | 8/19 | 42.1% | 高信号源，建议保留 |
+| OPML RSS | 3/10 | 30.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
