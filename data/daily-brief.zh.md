@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-22T23:48:17.171235Z
-- 24小时AI信号：1338 条
+- 生成时间：2026-08-23T01:51:54.035522Z
+- 24小时AI信号：1312 条
 - 源健康：12/14
-- 原始抓取：7268 条
+- 原始抓取：7270 条
 
 ## 今日重点
 
@@ -64,27 +64,27 @@
    - 时间：08-19 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [设计 AI 评测：先求清晰，再谈可视化](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
-   - 时间：08-18 15:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)](https://www.techmeme.com/260822/p12)
-   - 时间：3小时前
+13. [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)](https://www.techmeme.com/260822/p12)
+   - 时间：5小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
-   - 时间：4小时前
+14. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research)
+   - 时间：6小时前
    - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)
+   - 时间：10小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项](https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
@@ -102,39 +102,39 @@
 
 ### 实践技巧与观点
 
-21. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
+21. [德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图](https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln)
+   - 时间：58分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
    - 时间：08-20 04:42
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
+23. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
-   - 时间：今天 07:53
+24. [AI短片《反正也没时间活》火了，专家：主题引发了网友们对生活的思考](https://view.inews.qq.com/a/20260821A0ADJS00)
+   - 时间：今天 09:58
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [报道：英伟达客户被告知AI相关服务器涨价超15%](https://wallstreetcn.com/articles/3780066)
+25. [如何看待网友发现今年快手校招可选上传近 6 个月 AI 聊天记录？这会涉及「蒸馏」，或者侵犯隐私权吗？](https://www.zhihu.com/question/2073433243970269590)
    - 时间：1分钟前
    - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [怎么看AI证伪YTD猜想](https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E8%AF%81%E4%BC%AAYTD%E7%8C%9C%E6%83%B3)
-   - 时间：7分钟前
-   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 584/3318 | 17.6% | 高信号源，建议保留 |
-| Buzzing | 384/1234 | 31.1% | 高信号源，建议保留 |
-| Info Flow | 145/561 | 25.8% | 高信号源，建议保留 |
-| TechURLs | 73/235 | 31.1% | 高信号源，建议保留 |
-| Zeli | 39/44 | 88.6% | 高信号源，建议保留 |
-| NewsNow | 26/202 | 12.9% | 高信号源，建议保留 |
-| Follow Builders | 3/5 | 60.0% | 高信号源，建议保留 |
-| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
+| TopHub | 568/3282 | 17.3% | 高信号源，建议保留 |
+| Buzzing | 385/1193 | 32.3% | 高信号源，建议保留 |
+| Info Flow | 138/549 | 25.1% | 高信号源，建议保留 |
+| TechURLs | 71/231 | 30.7% | 高信号源，建议保留 |
+| Zeli | 37/43 | 86.0% | 高信号源，建议保留 |
+| NewsNow | 26/201 | 12.9% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 2/3 | 66.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
