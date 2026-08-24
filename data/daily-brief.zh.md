@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-23T14:51:36.605129Z
-- 24小时AI信号：1449 条
+- 生成时间：2026-08-24T11:36:27.747248Z
+- 24小时AI信号：909 条
 - 源健康：12/14
-- 原始抓取：7309 条
+- 原始抓取：7332 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期](https://claude.com/blog/the-ai-native-sdlc-playbook)
-   - 时间：08-21 22:28
-   - 来源：AI HOT
+1. [中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet](https://www.aibase.com/news/30577)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型](https://x.com/OpenBMB/status/2090786300194590816)
-   - 时间：08-21 21:01
-   - 来源：AI HOT
+2. [韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验](https://www.aibase.com/news/30570)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型"刷分"现象](https://huggingface.co/blog/asr-benchmark-optimization)
-   - 时间：08-21 08:00
-   - 来源：AI HOT
+3. [阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤](https://www.aibase.com/news/30568)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
-   - 时间：08-21 00:52
-   - 来源：AI HOT
+4. [阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性](https://www.aibase.com/news/30567)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude Mythos 5 网络安全能力扩展至更多防御者](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
-   - 时间：08-21 00:00
-   - 来源：AI HOT
+5. [达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米"隐形"肿瘤，两月补漏 15 例](https://www.aibase.com/news/30564)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [DeepSeek-V4-Flash-Vision-Exp 发布](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21)
+6. [字节整合AI办公产品，TRAE、扣子团队并入豆包](https://www.aibase.com/news/30576)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [Codex CLI 0.149.1](https://developers.openai.com/codex/changelog)
+   - 时间：11小时前
+   - 来源：Official AI Updates
+   - 评分：10.0/10 · matched_tracked_ai_keyword
+8. [DeepSeek-V4-Flash-Vision-Exp 发布](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21)
    - 时间：08-21 17:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
+9. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
    - 时间：08-20 17:45
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Claude Platform 发布 Python SDK v1.0，迁移至 httpx2](https://platform.claude.com/docs/en/release-notes/overview#august-20-2026)
+10. [Claude Platform 发布 Python SDK v1.0，迁移至 httpx2](https://platform.claude.com/docs/en/release-notes/overview#august-20-2026)
    - 时间：08-20 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具](https://claude.com/blog/computer-use-skills-api-files-api)
-   - 时间：08-20 00:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率](https://mistral.ai/news/agentic-search)
-   - 时间：08-20 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks)
+11. [顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室](https://www.aibase.com/news/30566)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级](https://www.aibase.com/news/30565)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks)
    - 时间：08-21 17:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+14. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
    - 时间：08-19 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...](https://x.com/levie/status/2091359223368315050)
-   - 时间：11小时前
+15. [There are two types of AI evals - tops down and bottoms up. From @sh_reya: “Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up with? Claude does a very good job of hel...](https://x.com/petergyang/status/2091586298779955512)
+   - 时间：今天 02:00
    - 来源：Follow Builders
-   - 评分：8.5/10 · matched_tracked_ai_keyword
-14. [明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成](https://www.thepaper.cn/newsDetail_forward_33833618)
-   - 时间：今天 23:05
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Show HN: Writing-eval，针对AI生成的草稿进行的局部确定性风格检查](https://github.com/majesticlabs-dev/writing-eval)
-   - 时间：6分钟前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+   - 评分：8.9/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备](https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k)
-   - 时间：38分钟前
-   - 来源：AI HOT
+16. [全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代](https://www.aibase.com/news/30580)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [第二届世界人形机器人运动会开幕：2056 台机器人齐聚"冰丝带"，666 支队伍竞技 51 赛项](https://www.ithome.com/0/993/105.htm)
-   - 时间：昨天 22:13
-   - 来源：AI HOT
+17. [具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元](https://www.aibase.com/news/30579)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [蚂蚁百灵为SGLang推出权重缓存守护进程](https://x.com/AntLingAGI/status/2091021795373855124)
-   - 时间：昨天 12:36
-   - 来源：AI HOT
+18. [小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙](https://www.aibase.com/news/30574)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%](https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell)
-   - 时间：08-21 00:00
-   - 来源：AI HOT
+19. [小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座](https://www.aibase.com/news/30572)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量](https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search)
-   - 时间：08-21 00:00
-   - 来源：AI HOT
+20. [“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元](https://www.aibase.com/news/30571)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图](https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln)
-   - 时间：今天 08:53
+21. [韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据](https://www.aibase.com/news/30575)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [雅虎借"互联网 OG"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代](https://www.aibase.com/news/30573)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20)
+   - 时间：昨天 08:53
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
+24. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
    - 时间：08-20 04:42
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
+25. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
    - 时间：08-19 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...](https://x.com/zarazhangrui/status/2091379220257603593)
-   - 时间：10小时前
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [Everyone who’s ahead in using AI thinks they’re behind](https://x.com/zarazhangrui/status/2091338374447763481)
-   - 时间：今天 09:34
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 584/3462 | 16.9% | 高信号源，建议保留 |
-| Buzzing | 495/1543 | 32.1% | 高信号源，建议保留 |
-| Info Flow | 123/553 | 22.2% | 高信号源，建议保留 |
-| TechURLs | 62/207 | 30.0% | 高信号源，建议保留 |
-| Zeli | 53/58 | 91.4% | 高信号源，建议保留 |
-| NewsNow | 39/199 | 19.6% | 高信号源，建议保留 |
-| Follow Builders | 8/18 | 44.4% | 高信号源，建议保留 |
-| OPML RSS | 3/9 | 33.3% | 高信号源，建议保留 |
+| TopHub | 396/1649 | 24.0% | 高信号源，建议保留 |
+| Buzzing | 199/636 | 31.3% | 高信号源，建议保留 |
+| Info Flow | 91/411 | 22.1% | 高信号源，建议保留 |
+| TechURLs | 74/176 | 42.0% | 高信号源，建议保留 |
+| NewsNow | 28/86 | 32.6% | 高信号源，建议保留 |
+| AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 8/14 | 57.1% | 高信号源，建议保留 |
+| Follow Builders | 7/16 | 43.8% | 高信号源，建议保留 |
 
 ## 维护提示
 
