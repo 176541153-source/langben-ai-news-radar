@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-24T11:36:27.747248Z
-- 24小时AI信号：909 条
+- 生成时间：2026-08-28T05:11:11.789144Z
+- 24小时AI信号：975 条
 - 源健康：12/14
-- 原始抓取：7332 条
+- 原始抓取：7381 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet](https://www.aibase.com/news/30577)
+1. [Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展](https://www.aibase.com/news/30690)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验](https://www.aibase.com/news/30570)
+2. [小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍](https://www.aibase.com/news/30689)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤](https://www.aibase.com/news/30568)
+3. [量子技术与AI迎来深度融合！国内首个“玄幂”量子增强大模型正式发布](https://www.aibase.com/news/30688)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性](https://www.aibase.com/news/30567)
+4. [谷歌推出 Gemini Omni 1.1 Flash 视频模型，最高可生成 4K 成片](https://www.aibase.com/news/30682)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米"隐形"肿瘤，两月补漏 15 例](https://www.aibase.com/news/30564)
+5. [直出4K分辨率！谷歌全新Gemini Omni 1.1 Flash视频模型重磅登场](https://www.aibase.com/news/30681)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [字节整合AI办公产品，TRAE、扣子团队并入豆包](https://www.aibase.com/news/30576)
+6. [阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台](https://www.aibase.com/news/30691)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Codex CLI 0.149.1](https://developers.openai.com/codex/changelog)
-   - 时间：11小时前
-   - 来源：Official AI Updates
-   - 评分：10.0/10 · matched_tracked_ai_keyword
-8. [DeepSeek-V4-Flash-Vision-Exp 发布](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21)
-   - 时间：08-21 17:26
+7. [OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案](https://www.aibase.com/news/30686)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布](https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk)
+   - 时间：今天 00:19
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [阿里发布 Qwen-UI-Agent，主打让模型真正"会用"每一块屏幕](https://www.ithome.com/0/992/239.htm)
-   - 时间：08-20 17:45
+9. [OpenAI 失控智能体集体逃逸沙箱并攻击"幽灵"评分器事件调查公布](https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost)
+   - 时间：今天 00:19
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Claude Platform 发布 Python SDK v1.0，迁移至 httpx2](https://platform.claude.com/docs/en/release-notes/overview#august-20-2026)
-   - 时间：08-20 08:00
+10. [实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e)
+   - 时间：08-26 16:27
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室](https://www.aibase.com/news/30566)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级](https://www.aibase.com/news/30565)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks)
-   - 时间：08-21 17:25
+11. [GLM-5.3-Flash：前沿智能进入普惠时代](https://www.zhipuai.cn/zh/research/163)
+   - 时间：08-26 22:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
-   - 时间：08-19 02:09
+12. [Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览](https://qwen.ai/blog?id=qwen3.8-flash-next)
+   - 时间：08-26 20:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [There are two types of AI evals - tops down and bottoms up. From @sh_reya: “Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up with? Claude does a very good job of hel...](https://x.com/petergyang/status/2091586298779955512)
-   - 时间：今天 02:00
-   - 来源：Follow Builders
-   - 评分：8.9/10 · matched_tracked_ai_keyword
+13. [GlucoFM：面向连续血糖监测的基础模型](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring)
+   - 时间：08-26 00:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果](https://www.anthropic.com/research/enabling-independent-research)
+   - 时间：08-26 00:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations)
+   - 时间：昨天 20:59
+   - 来源：OPML RSS
+   - 评分：7.9/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代](https://www.aibase.com/news/30580)
+16. [英伟达急刹"抽成换算力"计划，疑为规避反垄断审查](https://www.aibase.com/news/30684)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元](https://www.aibase.com/news/30579)
+17. [会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地](https://www.aibase.com/news/30679)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙](https://www.aibase.com/news/30574)
-   - 时间：1分钟前
+18. [英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国](https://www.aibase.com/news/30677)
+   - 时间：今天 01:11
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座](https://www.aibase.com/news/30572)
-   - 时间：1分钟前
+19. [小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测](https://www.aibase.com/news/30676)
+   - 时间：今天 01:11
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元](https://www.aibase.com/news/30571)
-   - 时间：1分钟前
+20. [亚马逊订单激增三倍，英伟达芯片成全球大厂“硬通货”](https://www.aibase.com/news/30671)
+   - 时间：昨天 23:11
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据](https://www.aibase.com/news/30575)
+21. [谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订](https://www.aibase.com/news/30687)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [雅虎借"互联网 OG"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代](https://www.aibase.com/news/30573)
+22. [百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入](https://www.aibase.com/news/30685)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20)
-   - 时间：昨天 08:53
+23. [116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心](https://www.aibase.com/news/30683)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [英伟达预计 2028 财年销售额达 6730 亿美元](https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4)
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [FastMetal 让 Mac 本地 30 秒生成视频](https://x.com/haoailab/status/2090177721913770407)
-   - 时间：08-20 04:42
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [OpenRouter 宣布加入 Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
-   - 时间：08-19 08:00
-   - 来源：AI HOT
+25. [央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网](https://www.aibase.com/news/30678)
+   - 时间：11小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 396/1649 | 24.0% | 高信号源，建议保留 |
-| Buzzing | 199/636 | 31.3% | 高信号源，建议保留 |
-| Info Flow | 91/411 | 22.1% | 高信号源，建议保留 |
-| TechURLs | 74/176 | 42.0% | 高信号源，建议保留 |
-| NewsNow | 28/86 | 32.6% | 高信号源，建议保留 |
+| TopHub | 396/1477 | 26.8% | 高信号源，建议保留 |
+| Buzzing | 189/616 | 30.7% | 高信号源，建议保留 |
+| TechURLs | 103/242 | 42.6% | 高信号源，建议保留 |
+| Zeli | 69/75 | 92.0% | 高信号源，建议保留 |
+| Info Flow | 54/280 | 19.3% | 高信号源，建议保留 |
+| NewsNow | 27/100 | 27.0% | 高信号源，建议保留 |
+| OPML RSS | 22/33 | 66.7% | 高信号源，建议保留 |
 | AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 8/14 | 57.1% | 高信号源，建议保留 |
-| Follow Builders | 7/16 | 43.8% | 高信号源，建议保留 |
 
 ## 维护提示
 
