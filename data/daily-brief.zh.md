@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-29T01:42:34.786577Z
-- 24小时AI信号：1553 条
+- 生成时间：2026-08-29T20:50:22.346323Z
+- 24小时AI信号：894 条
 - 源健康：12/14
-- 原始抓取：7353 条
+- 原始抓取：7299 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队](https://www.aibase.com/news/30698)
-   - 时间：10小时前
-   - 来源：AIbase
+1. [在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据](https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4)
+   - 时间：昨天 15:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队](https://www.aibase.com/news/30697)
-   - 时间：10小时前
-   - 来源：AIbase
+2. [Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题](https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i)
+   - 时间：08-28 21:34
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin](https://www.aibase.com/news/30695)
-   - 时间：11小时前
-   - 来源：AIbase
+3. [腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线](https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831)
+   - 时间：08-28 14:03
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M](https://www.aibase.com/news/30694)
-   - 时间：11小时前
-   - 来源：AIbase
+4. [Midjourney 开放 V8.2 图像编辑模型测试](https://updates.midjourney.com/edit-model-for-v8)
+   - 时间：08-28 07:32
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题](https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183)
-   - 时间：昨天 21:34
+5. [Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe)
+   - 时间：08-28 07:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI 攻击 Hugging Face 事件的 5 个教训](https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul)
-   - 时间：7小时前
+6. [开放世界多智能体环境中的自主数学发现](https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn)
+   - 时间：昨天 15:32
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法](https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x)
-   - 时间：7小时前
+7. [智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御](https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli)
+   - 时间：昨天 12:31
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [GLM-5.3 开源权重，智能体编码与网防最强](https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r)
-   - 时间：10小时前
+8. [Cursor回应OpenAI将封禁其模型访问](https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq)
+   - 时间：昨天 10:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控](https://www.aibase.com/news/30693)
-   - 时间：11小时前
-   - 来源：AIbase
+9. [OpenAI 终止与 Cursor 合作，11 月 12 日生效](https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4)
+   - 时间：昨天 09:47
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道](https://www.aibase.com/news/30692)
-   - 时间：11小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Codex CLI 0.151.0](https://developers.openai.com/codex/changelog)
+   - 时间：昨天 08:00
+   - 来源：Official AI Updates
+   - 评分：10.0/10 · matched_tracked_ai_keyword
 
 ### 论文研究与评测
 
-11. [Anthropic 让 Claude 自主训练模型以缓解对齐失败](https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34)
-   - 时间：8小时前
+11. [Open ASR 排行榜新增首个全球南方语言：印地语与印度英语评测集](https://huggingface.co/blog/open-asr-leaderboard-global-south)
+   - 时间：08-28 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Open ASR 排行榜新增首个全球南方语言：印地语与印度英语评测集](https://huggingface.co/blog/open-asr-leaderboard-global-south)
-   - 时间：昨天 08:00
+12. [Anthropic 让 Claude 自主训练模型以缓解对齐失败](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures)
+   - 时间：08-28 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [GLM-5.3-Flash：前沿智能进入普惠时代](https://www.zhipuai.cn/zh/research/163)
-   - 时间：08-26 22:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览](https://qwen.ai/blog?id=qwen3.8-flash-next)
-   - 时间：08-26 20:30
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Anthropic Claude Opus 4.8 agents outperform human alignment researchers in 48-hour trial](https://daily.dev/posts/claude-beat-28-alignment-researchers-then-2-4-of-the-agents-cheated-zkilh0hlh)
+13. [Claude开始训练Claude，4美元一小时，跑赢150美元人类研究员](https://www.36kr.com/p/3960005089770887)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员](https://www.qbitai.com/2026/08/481223.html)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [Anthropic 最新 RSI 实验：Claude 击败人类研究员，训练效率超 1.5 万倍](https://www.mittrchina.com/news/detail/16867)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免](https://www.aibase.com/news/30699)
-   - 时间：9小时前
-   - 来源：AIbase
+16. [OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
+   - 时间：08-28 14:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [英伟达急刹"抽成换算力"计划，疑为规避反垄断审查](https://www.aibase.com/news/30684)
-   - 时间：昨天 13:11
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [会滑旱冰的开源机器人:Hugging Face 推出 Microduck，加速具身智能落地](https://www.aibase.com/news/30679)
-   - 时间：昨天 13:11
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此](https://www.ithome.com/0/994/807.htm)
+17. [英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此](https://www.ithome.com/0/994/807.htm)
    - 时间：08-27 08:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand)
+18. [亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand)
    - 时间：08-27 07:47
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？](https://www.zhihu.com/question/2076984800188093248)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [两家 AI 巨头将吞噬全球近半新增算力](https://hub.baai.ac.cn/view/57548)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭](https://www.aibase.com/news/30696)
-   - 时间：10小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [谷歌升级搜索 AI 模式:支持300多家平台机票追踪与酒店预订](https://www.aibase.com/news/30687)
-   - 时间：昨天 13:11
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入](https://www.aibase.com/news/30685)
-   - 时间：昨天 13:11
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心](https://www.aibase.com/news/30683)
-   - 时间：昨天 13:11
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [英伟达预计 2028 财年销售额达 6730 亿美元](https://forgeeks.net/nvidia-673-billion-ai-growth-forecast)
-   - 时间：昨天 06:29
+21. [英伟达预计 2028 财年销售额达 6730 亿美元](https://forgeeks.net/nvidia-673-billion-ai-growth-forecast)
+   - 时间：08-28 06:29
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [唐杰宣布GLM-5.3 Flash AA登顶OpenRouter](https://x.com/jietang/status/2092850258573471936)
+   - 时间：08-27 13:42
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%](https://www.ithome.com/0/994/791.htm)
+   - 时间：08-27 04:25
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）](https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200)
+   - 时间：08-27 00:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [The average strongly held belief these days in AI has a half life of 6 months at best. Here are just a few the industry has cycled through and probably has no consensus on at the moment: * OSS is too far behind to cat...](https://x.com/levie/status/2093568352736436576)
+   - 时间：昨天 13:16
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 783/2969 | 26.4% | 高信号源，建议保留 |
-| Buzzing | 307/1000 | 30.7% | 高信号源，建议保留 |
-| TechURLs | 113/322 | 35.1% | 高信号源，建议保留 |
-| Info Flow | 103/481 | 21.4% | 高信号源，建议保留 |
-| Zeli | 77/84 | 91.7% | 高信号源，建议保留 |
-| NewsNow | 38/189 | 20.1% | 高信号源，建议保留 |
-| AIbase | 21/21 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 18/26 | 69.2% | 高信号源，建议保留 |
+| TopHub | 393/1475 | 26.6% | 高信号源，建议保留 |
+| Buzzing | 227/661 | 34.3% | 高信号源，建议保留 |
+| TechURLs | 64/189 | 33.9% | 高信号源，建议保留 |
+| Info Flow | 60/279 | 21.5% | 高信号源，建议保留 |
+| Zeli | 37/40 | 92.5% | 高信号源，建议保留 |
+| NewsNow | 16/90 | 17.8% | 有少量有效信号，继续观察 |
+| Follow Builders | 8/13 | 61.5% | 高信号源，建议保留 |
+| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
