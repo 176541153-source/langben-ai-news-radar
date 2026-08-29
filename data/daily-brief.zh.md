@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-29T20:50:22.346323Z
-- 24小时AI信号：894 条
+- 生成时间：2026-08-29T23:12:22.736733Z
+- 24小时AI信号：956 条
 - 源健康：12/14
-- 原始抓取：7299 条
+- 原始抓取：7276 条
 
 ## 今日重点
 
@@ -65,15 +65,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [Claude开始训练Claude，4美元一小时，跑赢150美元人类研究员](https://www.36kr.com/p/3960005089770887)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 14. [Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员](https://www.qbitai.com/2026/08/481223.html)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Anthropic 最新 RSI 实验：Claude 击败人类研究员，训练效率超 1.5 万倍](https://www.mittrchina.com/news/detail/16867)
-   - 时间：1分钟前
+   - 时间：2小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,13 +91,13 @@
    - 时间：08-27 07:47
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？](https://www.zhihu.com/question/2076984800188093248)
-   - 时间：1分钟前
-   - 来源：TopHub
+19. [Quote of the day by tech pioneer Claude Shannon: 'I visualize a time when we will be to robots what dogs are to humans' — a warning about superintelligent AI](https://www.techradar.com/pro/quote-of-the-day-by-tech-pioneer-claude-shannon-i-visualize-a-time-when-we-will-be-to-robots-what-dogs-are-to-humans-a-warning-about-superintelligent-ai)
+   - 时间：1小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [两家 AI 巨头将吞噬全球近半新增算力](https://hub.baai.ac.cn/view/57548)
-   - 时间：1分钟前
-   - 来源：TopHub
+20. [在埃隆·马斯克旗下的SpaceX完成收购后，OpenAI将终止Cursor对模型的访问权限 - CNBC](https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：1小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 393/1475 | 26.6% | 高信号源，建议保留 |
-| Buzzing | 227/661 | 34.3% | 高信号源，建议保留 |
-| TechURLs | 64/189 | 33.9% | 高信号源，建议保留 |
-| Info Flow | 60/279 | 21.5% | 高信号源，建议保留 |
-| Zeli | 37/40 | 92.5% | 高信号源，建议保留 |
-| NewsNow | 16/90 | 17.8% | 有少量有效信号，继续观察 |
-| Follow Builders | 8/13 | 61.5% | 高信号源，建议保留 |
+| TopHub | 463/1655 | 28.0% | 高信号源，建议保留 |
+| Buzzing | 220/654 | 33.6% | 高信号源，建议保留 |
+| Info Flow | 60/270 | 22.2% | 高信号源，建议保留 |
+| TechURLs | 58/178 | 32.6% | 高信号源，建议保留 |
+| Zeli | 42/45 | 93.3% | 高信号源，建议保留 |
+| NewsNow | 17/96 | 17.7% | 有少量有效信号，继续观察 |
+| Follow Builders | 7/9 | 77.8% | 高信号源，建议保留 |
 | AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
