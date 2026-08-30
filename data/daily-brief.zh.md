@@ -1,16 +1,16 @@
 # AI News Radar 日报
 
-- 生成时间：2026-08-30T01:34:32.194765Z
-- 24小时AI信号：977 条
+- 生成时间：2026-08-30T07:18:15.754667Z
+- 24小时AI信号：1092 条
 - 源健康：12/14
-- 原始抓取：7308 条
+- 原始抓取：7323 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据](https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4)
+1. [在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据](https://terminalbytes.com/run-qwen-3-8-27b-locally)
    - 时间：昨天 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -33,23 +33,23 @@
 
 ### 产品与开发者工具
 
-6. [Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长](https://x.com/AYi_AInotes/status/2093864816079208512)
-   - 时间：40分钟前
+6. [Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长](https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed)
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除](https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv)
-   - 时间：2小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [开放世界多智能体环境中的自主数学发现](https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn)
    - 时间：昨天 15:32
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御](https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli)
+9. [智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御](https://www.ithome.com/0/995/896.htm)
    - 时间：昨天 12:31
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Cursor回应OpenAI将封禁其模型访问](https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq)
+10. [Cursor回应OpenAI将封禁其模型访问](https://x.com/mntruell/status/2093532254006063557)
    - 时间：昨天 10:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -64,17 +64,17 @@
    - 时间：08-28 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Claude开始训练Claude，4美元一小时，跑赢150美元人类研究员](https://www.36kr.com/p/3960005089770887)
-   - 时间：4小时前
+13. [https://t.co/OL0LzGtvAw 0.0.7: - hugely improved MCP support, eval'd with top MCPs like @context7ai, @datadoghq, @mongodb, @linear, @notionhq, @supabase, @neondatabase, @stagehanddev, @usekernel… - more minimalist: fe...](https://x.com/rauchg/status/2093736865191076318)
+   - 时间：今天 00:25
+   - 来源：Follow Builders
+   - 评分：8.8/10 · matched_tracked_ai_keyword
+14. [怎么看现在的 AI Benchmark 污染严重，不能表现出 AI 真实水平？](https://www.zhihu.com/question/2076672586570789160)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员](https://www.qbitai.com/2026/08/481223.html)
-   - 时间：4小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Anthropic 最新 RSI 实验：Claude 击败人类研究员，训练效率超 1.5 万倍](https://www.mittrchina.com/news/detail/16867)
-   - 时间：4小时前
-   - 来源：TopHub
+15. [OpenAI's Hugging Face incident report says AI agents used exploits to gain full admin access to OpenAI's own research cluster supporting its VM environments (Dwarkesh Patel/Dwarkesh Podcast)](https://www.techmeme.com/260830/p4)
+   - 时间：1小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -91,13 +91,13 @@
    - 时间：08-27 07:47
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [马斯克：2027 年生产的 AI 算力可能无法在当年全部通电上线](https://wallstreetcn.com/charts/41959719)
+19. [马斯克：2027 年生产的 AI 算力，或许无法在 2027 年真正通电上线](https://www.gelonghui.com/live/2640766)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [三星 PIM 技术分析：AI 内存计算的机会与局限](https://thysrael.github.io/Horizon/2026/08/30/summary-zh.html#item-3)
-   - 时间：1小时前
-   - 来源：Horizon
+20. [AI企业端应用现状：百无一用穷翰林，草台班子数据库](http://xueqiu.com/4381703788/407254217)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -114,12 +114,12 @@
    - 时间：08-27 04:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [The average strongly held belief these days in AI has a half life of 6 months at best. Here are just a few the industry has cycled through and probably has no consensus on at the moment: * OSS is too far behind to cat...](https://x.com/levie/status/2093568352736436576)
-   - 时间：昨天 13:16
+24. [Never had so many AI products looked so similar Even though the number of products is exploding, there aren't that many radical new ideas and everything blurs into each other Every time I open this app it feels like h...](https://x.com/zarazhangrui/status/2093944988262371465)
+   - 时间：1小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [AI product building has a ~3-month playbook half-life. Here’s how to adapt. Most trad product teams are built to discover a playbook and then milk it for the next 5 years. However in the AI labs, we consciously throw...](https://x.com/realmadhuguru/status/2093562783627620456)
-   - 时间：昨天 12:53
+25. [All frontier AI labs are basically working on the same thing: recursive self improvement (RSI), meaning AI building AI This could lead to an AI takeover as early as late 2028 or 2029, says @RyanGreenblatt https://t.co...](https://x.com/mattturck/status/2093794720510062617)
+   - 时间：11小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 507/1913 | 26.5% | 高信号源，建议保留 |
-| Buzzing | 191/592 | 32.3% | 高信号源，建议保留 |
-| Info Flow | 67/266 | 25.2% | 高信号源，建议保留 |
-| TechURLs | 56/178 | 31.5% | 高信号源，建议保留 |
-| Zeli | 44/48 | 91.7% | 高信号源，建议保留 |
-| NewsNow | 17/104 | 16.3% | 有少量有效信号，继续观察 |
-| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 6/7 | 85.7% | 高信号源，建议保留 |
+| TopHub | 562/2056 | 27.3% | 高信号源，建议保留 |
+| Buzzing | 212/701 | 30.2% | 高信号源，建议保留 |
+| Info Flow | 104/377 | 27.6% | 高信号源，建议保留 |
+| TechURLs | 60/191 | 31.4% | 高信号源，建议保留 |
+| Zeli | 44/50 | 88.0% | 高信号源，建议保留 |
+| NewsNow | 20/124 | 16.1% | 高信号源，建议保留 |
+| Follow Builders | 4/18 | 22.2% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
