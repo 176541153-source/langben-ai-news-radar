@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-07T05:55:47.090069Z
-- 24小时AI信号：1252 条
+- 生成时间：2026-09-08T04:19:10.171063Z
+- 24小时AI信号：1040 条
 - 源健康：12/14
-- 原始抓取：7400 条
+- 原始抓取：7375 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [微信视觉团队开源通用多模态嵌入模型WeMM-Embedding，日调用量突破十亿量级](https://www.aibase.com/news/30866)
+1. [AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”](https://www.aibase.com/news/30899)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [警惕免费上门“陷阱”！联通反诈大模型精准揪出涉诈VOIP黑盒，守护百姓通信安全](https://www.aibase.com/news/30862)
+2. [AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见](https://www.aibase.com/news/30897)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手](https://www.aibase.com/news/30861)
+3. [张一鸣亲自督导，字节或将推出实时生成虚拟世界AI模型](https://www.aibase.com/news/30890)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗](https://www.aibase.com/news/30860)
+4. [ChatGPT Work 新增个人写作风格识别功能](https://www.aibase.com/news/30888)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [告别全屏交互，谷歌Gemini升级悬浮气泡推动AI助手轻量化演进](https://www.aibase.com/news/30857)
+5. [AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡](https://www.aibase.com/news/30887)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升](https://www.aibase.com/news/30867)
+6. [抬眼就能完成支付！微信支付智能眼镜 SDK 正式上线，Rokid 成首家适配品牌](https://www.aibase.com/news/30901)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连](https://www.aibase.com/news/30865)
+7. [OpenAI 首席科学家警告：AI 或很快进入自我进化阶段，希望业界自愿放缓](https://www.aibase.com/news/30891)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Anthropic 15 亿美元版权和解金开始发放，作者与出版社分配争议不断](https://www.aibase.com/news/30858)
+8. [OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦](https://www.aibase.com/news/30885)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架](https://www.aibase.com/news/30851)
-   - 时间：1分钟前
+9. [讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升](https://www.aibase.com/news/30867)
+   - 时间：昨天 13:55
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架](https://x.com/rohanpaul_ai/status/2096303922378088854)
-   - 时间：昨天 02:26
-   - 来源：AI HOT
+10. [千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连](https://www.aibase.com/news/30865)
+   - 时间：昨天 13:55
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍](https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4)
-   - 时间：11小时前
+11. [每日调用量破 10 亿次！微信开源 WeMM-Embedding 多模态大模型，全面领跑国际权威榜单](https://www.aibase.com/news/30896)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍](https://x.com/rohanpaul_ai/status/2096665545190043737)
+   - 时间：昨天 02:23
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员](https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v)
-   - 时间：昨天 16:00
+13. [OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员](https://openai.com/index/research-acceleration-view-inside-openai)
+   - 时间：09-06 16:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking](https://x.com/rohanpaul_ai/status/2095931182903107971)
+14. [OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking](https://x.com/rohanpaul_ai/status/2095931182903107971)
    - 时间：09-05 01:45
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration)
+15. [GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration)
    - 时间：09-05 00:04
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来](https://www.36kr.com/p/3972641004843521)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [千亿算力大战背后：OpenAI Astra暴烧百亿美元，国产大模型与美企差距在哪](https://www.aibase.com/news/30864)
+16. [Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹](https://www.aibase.com/news/30898)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [微软发布 MAI-Image-2.6-Flash:图像生成速度提升2.8倍，成本降低逾50%](https://www.aibase.com/news/30853)
+17. [微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次](https://www.aibase.com/news/30895)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱](https://aihot.virxact.com/items/cmtq23v6k01aorotwh8xip8r1)
-   - 时间：昨天 17:00
-   - 来源：AI HOT
+18. [Anthropic 11个月豪掷5170亿美元，狂揽14.8GW惊人算力](https://www.aibase.com/news/30894)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元](https://www.ithome.com/0/998/630.htm)
-   - 时间：09-05 06:52
-   - 来源：AI HOT
+19. [小鹏人形机器人自动化生产线正式启用，核心制程自动化率超80%](https://www.aibase.com/news/30893)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [微软将人工智能治理从政策层面转向运行时执行](https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb)
-   - 时间：今天 20:35
-   - 来源：OPML RSS
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [宇树科技实现全球首次世界模型实时驱动人形机器人自主格斗](https://www.aibase.com/news/30892)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”](https://www.aibase.com/news/30868)
+21. [可灵AI正式官宣亮相2026多伦多国际电影节市场](https://www.aibase.com/news/30900)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容](https://www.aibase.com/news/30863)
-   - 时间：1分钟前
+22. [混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降](https://www.aibase.com/news/30882)
+   - 时间：10小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口](https://www.aibase.com/news/30859)
-   - 时间：1分钟前
+23. [火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”](https://www.aibase.com/news/30868)
+   - 时间：昨天 13:55
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [英伟达两年从零建起近千亿美元股权投资组合](https://www.ithome.com/0/998/620.htm)
-   - 时间：09-04 22:59
-   - 来源：AI HOT
+24. [AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容](https://www.aibase.com/news/30863)
+   - 时间：昨天 13:55
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [“Cheating and explaining the answer 【to your child】 are closer than you’d think.” Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked ab...](https://x.com/petergyang/status/2096612718098911590)
-   - 时间：昨天 22:53
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [AI 食物图攻占餐厅菜单：肉像皮带、面包像爬行动物皮，食客直呼倒胃口](https://www.aibase.com/news/30859)
+   - 时间：昨天 13:55
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 525/2103 | 25.0% | 高信号源，建议保留 |
-| Buzzing | 354/968 | 36.6% | 高信号源，建议保留 |
-| Info Flow | 116/503 | 23.1% | 高信号源，建议保留 |
-| TechURLs | 68/224 | 30.4% | 高信号源，建议保留 |
-| Zeli | 52/59 | 88.1% | 高信号源，建议保留 |
-| NewsNow | 26/150 | 17.3% | 高信号源，建议保留 |
-| AIbase | 18/18 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 6/13 | 46.2% | 高信号源，建议保留 |
+| TopHub | 532/1892 | 28.1% | 高信号源，建议保留 |
+| Buzzing | 161/605 | 26.6% | 高信号源，建议保留 |
+| Info Flow | 78/293 | 26.6% | 高信号源，建议保留 |
+| TechURLs | 67/176 | 38.1% | 高信号源，建议保留 |
+| Zeli | 53/57 | 93.0% | 高信号源，建议保留 |
+| AIbase | 38/38 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 14/22 | 63.6% | 高信号源，建议保留 |
+| NewsNow | 13/109 | 11.9% | 有少量有效信号，继续观察 |
 
 ## 维护提示
 
