@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-10T13:30:55.281185Z
-- 24小时AI信号：1115 条
+- 生成时间：2026-09-11T13:28:24.269673Z
+- 24小时AI信号：1344 条
 - 源健康：12/14
-- 原始抓取：7520 条
+- 原始抓取：7522 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [​Anthropic向欧盟网络安全局敞开大门，Mythos5 模型迎合规大考](https://www.aibase.com/news/30970)
+1. [小米开源工业级目标说话人语音识别大模型 CocktailASR-1](https://www.aibase.com/news/31001)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览](https://www.aibase.com/news/30969)
+2. [告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1](https://www.aibase.com/news/30996)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [ChatGPT 语音模式升级：Pro 可调用 GPT-6 Astra，每日限额规则大改](https://www.aibase.com/news/30968)
+3. [DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用](https://www.aibase.com/news/30995)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro](https://www.aibase.com/news/30957)
-   - 时间：1分钟前
+4. [极摩客EVO-X5 Pro迷你主机亮相，192GB内存支持本地流畅运行300B大模型](https://www.aibase.com/news/30985)
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [财跃星辰联合上海交大开源Alpha-R1：8B小模型如何颠覆资产配置？](https://www.aibase.com/news/30956)
-   - 时间：1分钟前
+5. [OpenAI发布金融服务版ChatGPT：集成GPT-6 Astra重构投行核心业务](https://www.aibase.com/news/30983)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [告别配音“对不上嘴”！亚马逊Prime Video重磅上线AI口型同步技术](https://www.aibase.com/news/30961)
+6. [支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营](https://www.aibase.com/news/31000)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书](https://www.aibase.com/news/30960)
+7. [Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试](https://www.aibase.com/news/30999)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求](https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb)
-   - 时间：50分钟前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [张宏江外滩大会分享：Agent Economy时代，组织层面的“涌现”成核心竞争力](https://www.aibase.com/news/30951)
-   - 时间：1小时前
+8. [蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至](https://www.aibase.com/news/30997)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenAI 新董事严厉警告：AI 失控将是灾难性的，“大多数人可能丧命”](https://www.aibase.com/news/30950)
-   - 时间：2小时前
+9. [OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者](https://www.aibase.com/news/30994)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发](https://www.aibase.com/news/30993)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局](https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t)
-   - 时间：今天 08:08
+11. [Anthropic 评估 AI 模型的战术情报定位与常规武器能力](https://aihot.news/items/cmtvsxbrc068orofbs09dpez3)
+   - 时间：今天 01:28
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告](https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u)
-   - 时间：今天 03:28
+12. [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
+   - 时间：今天 00:00
+   - 来源：Official AI Updates
+   - 评分：10.0/10 · matched_tracked_ai_keyword
+13. [27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb)
+   - 时间：昨天 08:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响](https://www.anthropic.com/institute/econ-scenarios)
-   - 时间：昨天 21:27
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问](https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs)
-   - 时间：昨天 18:27
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [AI Benchmarks with @Benchmark & @Vercel. It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation. The companies that benchmark models and guide the w...](https://x.com/rauchg/status/2097837950612717804)
-   - 时间：今天 08:01
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
+14. [央媒聚焦AI客服转人工难：降本增效不能算偏“服务账”，国标落地立规明界](https://www.thepaper.cn/newsDetail_forward_34048749)
+   - 时间：今天 21:29
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [蚂蚁阿福App加码健康服务:首页新增健康入口，管理健康信息更方便了](https://www.aibase.com/news/30966)
+16. [机器狗替你“打酱油”：支付宝首推“AI 付·具身智能”](https://www.aibase.com/news/30990)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [​Kimi携手华胜天成、金山云等巨头杀入企业核心腹地](https://www.aibase.com/news/30959)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建](https://www.aibase.com/news/30958)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Marvis Windows 版本更新 最低门槛从6核16GB降到4核8GB](https://www.aibase.com/news/30953)
-   - 时间：59分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999](https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j)
-   - 时间：今天 02:15
+17. [OpenAI 在 ChatGPT Work 中推出 Data agent](https://aihot.news/items/cmtvopug40gnbronbmfh6c077)
+   - 时间：昨天 23:00
    - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [蚂蚁阿福App加码健康服务:首页新增健康入口，管理健康信息更方便了](https://www.aibase.com/news/30966)
+   - 时间：昨天 21:30
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [​Kimi携手华胜天成、金山云等巨头杀入企业核心腹地](https://www.aibase.com/news/30959)
+   - 时间：昨天 21:30
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建](https://www.aibase.com/news/30958)
+   - 时间：昨天 21:30
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [刘震云、马毅谈AI时代:机器拿走共性，人更要守住个性](https://www.aibase.com/news/30967)
-   - 时间：1分钟前
+21. [支付宝AI就业助手“晓叶”升级，可上阿宝一句话找工作](https://www.aibase.com/news/30989)
+   - 时间：40分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [千问新款 AI 眼镜 N1“保密式”亮相：首次支持虹膜识别，不带显示屏](https://www.aibase.com/news/30963)
-   - 时间：1分钟前
+22. [环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台](https://www.aibase.com/news/30984)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [AMD：超 20 款锐龙 AI Max+ PRO 495 设备即将上市，迷你主机成绝对主力](https://www.aibase.com/news/30962)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能](https://www.aibase.com/news/30954)
-   - 时间：55分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明](https://x.com/Thom_Wolf/status/2097615465698713666)
-   - 时间：昨天 17:17
+23. [Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点](https://aihot.news/items/cmtw9fws408trrolkp9glkz9j)
+   - 时间：今天 09:09
    - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发](https://aihot.news/items/cmtvom4k90ghtronbwks6e67t)
+   - 时间：昨天 23:04
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [刘震云、马毅谈AI时代:机器拿走共性，人更要守住个性](https://www.aibase.com/news/30967)
+   - 时间：昨天 21:30
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 434/1444 | 30.1% | 高信号源，建议保留 |
-| Buzzing | 207/629 | 32.9% | 高信号源，建议保留 |
-| TechURLs | 129/227 | 56.8% | 高信号源，建议保留 |
-| Info Flow | 109/349 | 31.2% | 高信号源，建议保留 |
-| Zeli | 67/78 | 85.9% | 高信号源，建议保留 |
-| AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 20/34 | 58.8% | 高信号源，建议保留 |
-| AI HOT | 17/17 | 100.0% | 高信号源，建议保留 |
+| TopHub | 724/2587 | 28.0% | 高信号源，建议保留 |
+| Buzzing | 166/602 | 27.6% | 高信号源，建议保留 |
+| Info Flow | 103/378 | 27.2% | 高信号源，建议保留 |
+| TechURLs | 94/221 | 42.5% | 高信号源，建议保留 |
+| Zeli | 72/77 | 93.5% | 高信号源，建议保留 |
+| AIbase | 34/34 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 21/36 | 58.3% | 高信号源，建议保留 |
+| NewsNow | 21/96 | 21.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
