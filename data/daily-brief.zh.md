@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-12T21:21:02.413864Z
-- 24小时AI信号：762 条
+- 生成时间：2026-09-12T23:13:28.524157Z
+- 24小时AI信号：820 条
 - 源健康：12/14
-- 原始抓取：7375 条
+- 原始抓取：7299 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 发布 GPT-6 Astra 并展示社区构建案例](https://aihot.news/items/cmtyof5al04e2rog01a0893gu)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本](https://aihot.news/items/cmtym1wo1039krodl7j8164q8)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据](https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data)
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划](https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w)
-   - 时间：1小时前
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问](https://aihot.news/items/cmtymlrth035dronv9zqv9ccb)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析](https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6)
@@ -49,7 +49,7 @@
    - 时间：昨天 07:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销](https://aihot.news/items/cmtym24xb0002rob419mlyhlb)
+10. [DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销](https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents)
    - 时间：昨天 06:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -65,16 +65,16 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT)
-   - 时间：11小时前
+   - 时间：昨天 18:19
    - 来源：OPML RSS
    - 评分：8.5/10 · matched_tracked_ai_keyword
-14. [we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are here to help run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs](https://x.com/trq212/status/2098531560643539440)
-   - 时间：昨天 05:58
-   - 来源：Follow Builders
-   - 评分：8.5/10 · matched_tracked_ai_keyword
-15. [Anthropic 研究员 Jacob Coxon 离职引上亿次围观，IPO 前夕放弃天价股权](https://hub.baai.ac.cn/view/57908)
-   - 时间：1分钟前
+14. [Anthropic 研究员 Jacob Coxon 离职引上亿次围观，IPO 前夕放弃天价股权](https://hub.baai.ac.cn/view/57908)
+   - 时间：1小时前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [Dario Amodei 表示 Anthropic “单方面承诺”给予第三方评估人员永久访问权限，以验证其遵守安全措施的情况 (Dario Amodei/@darioamodei)](https://www.techmeme.com/260912/p7)
+   - 时间：8小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -91,19 +91,19 @@
    - 时间：09-10 23:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？](https://www.zhihu.com/question/2082035913132193247)
+19. [山姆先森酵素洗洁精两瓶 原价¥22.9 券后¥12.9](https://tophub.today/link?domain=taobao.com&url=https%3A%2F%2Fremai.today%2Flink%2F1%2FxJvgaq0HktqxwKBNaefQbOFAt9-MPGaznpUAB46jVe8CRJ)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [陶哲轩、邓煜等 25 位菲尔兹奖得主联合警告：AI 公司正在把数学变成一场速度竞赛](https://www.mittrchina.com/news/detail/16940)
+20. [A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 最高增幅 51.53%](https://www.ithome.com/1/001/675.htm)
    - 时间：1分钟前
-   - 来源：TopHub
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间](https://aihot.news/items/cmtyth87f098broupl3k186iw)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远](https://www.dwarkesh.com/p/john-beren-charlie)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 309/1041 | 29.7% | 高信号源，建议保留 |
-| Buzzing | 153/461 | 33.2% | 高信号源，建议保留 |
-| TechURLs | 73/164 | 44.5% | 高信号源，建议保留 |
-| Info Flow | 57/202 | 28.2% | 高信号源，建议保留 |
-| Zeli | 53/60 | 88.3% | 高信号源，建议保留 |
-| NewsNow | 13/46 | 28.3% | 高信号源，建议保留 |
-| AI HOT | 9/9 | 100.0% | 高信号源，建议保留 |
+| TopHub | 374/1213 | 30.8% | 高信号源，建议保留 |
+| Buzzing | 145/440 | 33.0% | 高信号源，建议保留 |
+| TechURLs | 76/174 | 43.7% | 高信号源，建议保留 |
+| Info Flow | 65/225 | 28.9% | 高信号源，建议保留 |
+| Zeli | 47/57 | 82.5% | 高信号源，建议保留 |
+| NewsNow | 13/47 | 27.7% | 高信号源，建议保留 |
+| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 7/12 | 58.3% | 高信号源，建议保留 |
 
 ## 维护提示
