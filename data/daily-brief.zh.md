@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-13T21:35:49.035098Z
-- 24小时AI信号：1428 条
+- 生成时间：2026-09-13T23:26:39.170403Z
+- 24小时AI信号：1460 条
 - 源健康：12/14
-- 原始抓取：7251 条
+- 原始抓取：7287 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件](https://aihot.news/items/cmu01iavi08reroymepsxnar2)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI 发布 GPT-6 Astra 并展示社区构建案例](https://x.com/OpenAIDevs/status/2098827327832822014)
@@ -37,20 +37,20 @@
    - 时间：昨天 13:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 将 GPT-Live-1 语音模型开放至 API](https://aihot.news/items/cmtz1a2f10pr2roupq2k1944c)
-   - 时间：昨天 07:16
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问](https://x.com/sama/status/2098811563415150910)
+7. [Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问](https://x.com/sama/status/2098811563415150910)
    - 时间：昨天 00:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码](https://www.minitap.ai/blog/i-expected-better-from-google)
+8. [Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码](https://www.minitap.ai/blog/i-expected-better-from-google)
    - 时间：09-12 10:39
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析](https://www.rubyhack.ai)
+9. [OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析](https://www.rubyhack.ai)
    - 时间：09-12 08:24
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元](https://www.ithome.com/1/001/488.htm)
+   - 时间：09-12 07:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -64,17 +64,17 @@
    - 时间：09-11 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [让野生猴子自愿用上 AI，科学家想借 AI 工具重塑灵长类认知研究](https://www.mittrchina.com/news/detail/16946)
-   - 时间：8小时前
+13. [Anthropic CEO呼吁减速：要是路走错了，AI毁灭人类概率不止10%](https://www.thepaper.cn/newsDetail_forward_34060452)
+   - 时间：今天 07:37
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [让野生猴子自愿用上 AI，科学家想借 AI 工具重塑灵长类认知研究](https://www.mittrchina.com/news/detail/16946)
+   - 时间：10小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [【保研招生】北邮人工智能学院谢鹏瑾老师招收硕士生](https://bbs.byr.cn/article/Paper/50294)
-   - 时间：8小时前
+15. [【保研招生】北邮人工智能学院谢鹏瑾老师招收硕士生](https://bbs.byr.cn/article/Paper/50294)
+   - 时间：10小时前
    - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [谷歌 DeepMind 安全研究员离职，称 AI 五年内造成巨大危害的概率高得吓人](https://www.ithome.com/1/001/843.htm)
-   - 时间：9小时前
-   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -87,23 +87,23 @@
    - 时间：09-10 23:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [随着人工智能网络需求激增，惠普企业上调2027年业绩预期](https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-raises-2027-200203891.html)
-   - 时间：1小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [爱彼迎首席执行官表示，人工智能是该公司有史以来遇到的最好事情。原因如下](https://finance.yahoo.com/markets/stocks/articles/airbnb-ceo-says-ai-best-194029825.html)
-   - 时间：1小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [如何看待 Anthropic 、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？](https://www.zhihu.com/question/2082571703062721521)
-   - 时间：2小时前
+18. [冲击全球最大 IPO：曝 Anthropic 选定纳斯达克上市，目标估值约 2 万亿美元](https://www.ithome.com/1/001/871.htm)
+   - 时间：1分钟前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [Meta enlists tiny Korean startup to build 'one-chip-like datacenter' — CXL architecture introduced by Facebook's parent company and Panmnesia can handle almost 1000 AI GPUs per domain](https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [据《金融时报》报道，Anthropic向投资者表示，公司将连续第二个季度实现盈利](https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13)
+   - 时间：13分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑](https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1)
-   - 时间：3小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间](https://x.com/trq212/status/2098860941391872132)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 570/2352 | 24.2% | 高信号源，建议保留 |
-| Buzzing | 471/1156 | 40.7% | 高信号源，建议保留 |
-| Info Flow | 134/481 | 27.9% | 高信号源，建议保留 |
-| TechURLs | 82/224 | 36.6% | 高信号源，建议保留 |
-| Zeli | 58/72 | 80.6% | 高信号源，建议保留 |
-| NewsNow | 26/60 | 43.3% | 高信号源，建议保留 |
-| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
+| TopHub | 567/2349 | 24.1% | 高信号源，建议保留 |
+| Buzzing | 506/1251 | 40.4% | 高信号源，建议保留 |
+| Info Flow | 129/497 | 26.0% | 高信号源，建议保留 |
+| TechURLs | 88/234 | 37.6% | 高信号源，建议保留 |
+| Zeli | 58/73 | 79.5% | 高信号源，建议保留 |
+| NewsNow | 26/59 | 44.1% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 2/6 | 33.3% | 高信号源，建议保留 |
 
 ## 维护提示
