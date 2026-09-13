@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-12T23:13:28.524157Z
-- 24小时AI信号：820 条
+- 生成时间：2026-09-13T01:21:22.490287Z
+- 24小时AI信号：970 条
 - 源健康：12/14
-- 原始抓取：7299 条
+- 原始抓取：7374 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [OpenAI 发布 GPT-6 Astra 并展示社区构建案例](https://aihot.news/items/cmtyof5al04e2rog01a0893gu)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本](https://aihot.news/items/cmtym1wo1039krodl7j8164q8)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据](https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data)
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划](https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w)
+6. [OpenAI 将 GPT-Live-1 语音模型开放至 API](https://aihot.news/items/cmtz1a2f10pr2roupq2k1944c)
    - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问](https://aihot.news/items/cmtymlrth035dronv9zqv9ccb)
-   - 时间：6小时前
+7. [Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划](https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w)
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析](https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6)
+8. [Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问](https://aihot.news/items/cmtymlrth035dronv9zqv9ccb)
+   - 时间：8小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析](https://www.rubyhack.ai)
    - 时间：昨天 08:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元](https://aihot.news/items/cmtxmd06905q5roi3ds616hwo)
+10. [英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元](https://www.ithome.com/1/001/488.htm)
    - 时间：昨天 07:22
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销](https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents)
-   - 时间：昨天 06:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -68,13 +68,13 @@
    - 时间：昨天 18:19
    - 来源：OPML RSS
    - 评分：8.5/10 · matched_tracked_ai_keyword
-14. [Anthropic 研究员 Jacob Coxon 离职引上亿次围观，IPO 前夕放弃天价股权](https://hub.baai.ac.cn/view/57908)
-   - 时间：1小时前
-   - 来源：TopHub
+14. [一图｜25位菲尔兹奖得主联合发声，OpenAI千禧难题风波如何发酵](https://www.thepaper.cn/newsDetail_forward_33809347)
+   - 时间：今天 09:27
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Dario Amodei 表示 Anthropic “单方面承诺”给予第三方评估人员永久访问权限，以验证其遵守安全措施的情况 (Dario Amodei/@darioamodei)](https://www.techmeme.com/260912/p7)
-   - 时间：8小时前
-   - 来源：TechURLs
+15. [如何看待 25 位菲奖得主发布联合声明《AI 在数学领域的严重错位》？是否意味着传统数学研究模式的崩溃？](https://www.zhihu.com/question/2082049593588634390)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -91,19 +91,19 @@
    - 时间：09-10 23:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [山姆先森酵素洗洁精两瓶 原价¥22.9 券后¥12.9](https://tophub.today/link?domain=taobao.com&url=https%3A%2F%2Fremai.today%2Flink%2F1%2FxJvgaq0HktqxwKBNaefQbOFAt9-MPGaznpUAB46jVe8CRJ)
+19. [Anthropic首席执行官呼吁AI公司放缓研发步伐](https://www.zaochenbao.com/news/politics/202609/1380964.html)
+   - 时间：今天 09:27
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [本轮AI牛市两大“网红”合并！SemiAnalysis收购Citrini](https://wallstreetcn.com/articles/3781619)
    - 时间：1分钟前
    - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 最高增幅 51.53%](https://www.ithome.com/1/001/675.htm)
-   - 时间：1分钟前
-   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间](https://aihot.news/items/cmtyth87f098broupl3k186iw)
-   - 时间：3小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远](https://www.dwarkesh.com/p/john-beren-charlie)
@@ -118,22 +118,22 @@
    - 时间：09-10 23:04
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [I am skeptical of "software factories." Other than for verification & testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop. Whenever I...](https://x.com/petergyang/status/2098565668241334366)
-   - 时间：昨天 08:13
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [日报：AI催生美国年轻人创业热潮](https://ckxxapp.ckxx.net/pages/2026/09/12/018be4aaf4614357815bd3521e8ffd8f.html)
+   - 时间：今天 09:27
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 374/1213 | 30.8% | 高信号源，建议保留 |
-| Buzzing | 145/440 | 33.0% | 高信号源，建议保留 |
-| TechURLs | 76/174 | 43.7% | 高信号源，建议保留 |
-| Info Flow | 65/225 | 28.9% | 高信号源，建议保留 |
-| Zeli | 47/57 | 82.5% | 高信号源，建议保留 |
-| NewsNow | 13/47 | 27.7% | 高信号源，建议保留 |
-| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
+| TopHub | 442/1482 | 29.8% | 高信号源，建议保留 |
+| Buzzing | 213/598 | 35.6% | 高信号源，建议保留 |
+| Info Flow | 82/270 | 30.4% | 高信号源，建议保留 |
+| TechURLs | 78/183 | 42.6% | 高信号源，建议保留 |
+| Zeli | 45/54 | 83.3% | 高信号源，建议保留 |
+| NewsNow | 13/48 | 27.1% | 高信号源，建议保留 |
+| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 7/12 | 58.3% | 高信号源，建议保留 |
 
 ## 维护提示
