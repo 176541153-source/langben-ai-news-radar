@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-16T16:41:18.667902Z
-- 24小时AI信号：1020 条
+- 生成时间：2026-09-18T11:41:04.082642Z
+- 24小时AI信号：1016 条
 - 源健康：12/14
-- 原始抓取：7405 条
+- 原始抓取：7518 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型](https://www.aibase.com/news/31101)
+1. [Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作](https://www.aibase.com/news/31169)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF](https://x.com/bcherny/status/2100260544087535639)
-   - 时间：12分钟前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%](https://www.aibase.com/news/31095)
-   - 时间：1小时前
+2. [特斯拉推送更新：豆包大模型语音助手扩至更多车型，十余项功能一并升级](https://www.aibase.com/news/31164)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解](https://www.aibase.com/news/31094)
-   - 时间：1小时前
+3. [Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品](https://www.aibase.com/news/31162)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配](https://www.aibase.com/news/31093)
-   - 时间：1小时前
+4. [白帽黑客用 Claude 攻破 OpenAI 员工 ChatGPT 账户，拿到 6500 美元赏金](https://www.aibase.com/news/31159)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%](https://www.aibase.com/news/31158)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响](https://www.aibase.com/news/31100)
+6. [智谱GLM-5.3-FlashX上线：最高 200 tokens/s](https://www.aibase.com/news/31166)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运](https://www.aibase.com/news/31099)
-   - 时间：1分钟前
+7. [法官驳回 OpenAI 请求：苹果无需公布与 SpaceXAI 的和解协议](https://www.aibase.com/news/31155)
+   - 时间：19分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练](https://www.aibase.com/news/31098)
-   - 时间：4分钟前
+8. [​OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光](https://www.aibase.com/news/31153)
+   - 时间：52分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手](https://www.aibase.com/news/31097)
-   - 时间：8分钟前
-   - 来源：AIbase
+9. [Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务](https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg)
+   - 时间：今天 06:33
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型](https://www.aibase.com/news/31091)
-   - 时间：1小时前
-   - 来源：AIbase
+10. [纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取](https://aihot.news/items/cmu5y1e61069vroiq1klswjin)
+   - 时间：今天 03:46
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶](https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9)
-   - 时间：昨天 05:20
+11. [千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%](https://www.aibase.com/news/31156)
+   - 时间：16分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照](https://aihot.news/items/cmu605ozy000arok0lxr4x1y8)
+   - 时间：今天 04:49
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading)
-   - 时间：09-15 19:00
+13. [Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码](https://aihot.news/items/cmu5y1dkt069qroiqnnhxz778)
+   - 时间：今天 03:49
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522)
-   - 时间：09-15 15:29
+14. [Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付](https://aihot.news/items/cmu5smj860insroqokcuh0u9v)
+   - 时间：今天 01:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index](https://x.com/ArtificialAnlys/status/2099698254414029207)
-   - 时间：09-15 11:14
+15. [Goodfire Research 发现模型内部信号可规模化检测奖励作弊](https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn)
+   - 时间：今天 00:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [DeepSeek研究员文章走红](https://search.bilibili.com/all?keyword=DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%96%87%E7%AB%A0%E8%B5%B0%E7%BA%A2)
-   - 时间：今天 00:47
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言](https://www.aibase.com/news/31103)
+16. [智谱发布 GLM-5.3-FlashX:速度飙至200tokens/s，国产算力再提速](https://www.aibase.com/news/31160)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练](https://www.aibase.com/news/31102)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [估值冲击1.2万亿美元！OpenAI密谈新一轮融资](https://www.aibase.com/news/31088)
+17. [十部门联合发文：加快 AI、量子计算等新技术赋能药物研发](https://www.aibase.com/news/31150)
    - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资](https://www.aibase.com/news/31086)
-   - 时间：2小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify](https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l)
-   - 时间：3小时前
+18. [OpenAI 发布模型失准披露框架并公开六份失准报告](https://openai.com/index/model-misalignment-reporting-framework)
+   - 时间：昨天 01:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify](https://openai.com/index/reimagining-advertising-with-ai)
+   - 时间：09-16 21:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段](https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l)
+   - 时间：昨天 23:23
+   - 来源：OPML RSS
+   - 评分：7.9/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍](https://www.aibase.com/news/31087)
-   - 时间：2小时前
+21. [Calibre上手 AI 互动写作：电子书管理器摇身变成"文字冒险游戏引擎"](https://www.aibase.com/news/31170)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名](https://www.aibase.com/news/31084)
-   - 时间：5小时前
+22. [千问办公接入高德门店经营专家套件 提升实体店选址与经营效率](https://www.aibase.com/news/31168)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
-   - 时间：09-15 06:59
-   - 来源：AI HOT
+23. [钉钉创始人陈航卸任 CEO 后履新：年薪 10 万出任百望股份非执行董事](https://www.aibase.com/news/31165)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [代码扫描 AI Scan 不再需要 CodeQL 默认设置](https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup)
-   - 时间：3小时前
-   - 来源：Official AI Updates
-   - 评分：9.1/10 · matched_tracked_ai_keyword
-25. [Enforce GitHub Advanced Security configurations](https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations)
-   - 时间：昨天 03:31
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
+24. [吴恩达批评 AI 灭绝论：更像科幻小说，新一波造势或意在影响监管](https://www.aibase.com/news/31163)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题](https://www.aibase.com/news/31161)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 445/1464 | 30.4% | 高信号源，建议保留 |
-| Buzzing | 195/609 | 32.0% | 高信号源，建议保留 |
-| TechURLs | 102/225 | 45.3% | 高信号源，建议保留 |
-| Info Flow | 65/227 | 28.6% | 高信号源，建议保留 |
-| Zeli | 54/65 | 83.1% | 高信号源，建议保留 |
-| NewsNow | 25/88 | 28.4% | 高信号源，建议保留 |
+| TopHub | 408/1422 | 28.7% | 高信号源，建议保留 |
+| Buzzing | 178/617 | 28.8% | 高信号源，建议保留 |
+| TechURLs | 110/216 | 50.9% | 高信号源，建议保留 |
+| Info Flow | 77/330 | 23.3% | 高信号源，建议保留 |
+| Zeli | 69/78 | 88.5% | 高信号源，建议保留 |
+| NewsNow | 25/80 | 31.2% | 高信号源，建议保留 |
 | AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 17/31 | 54.8% | 高信号源，建议保留 |
+| OPML RSS | 18/31 | 58.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
