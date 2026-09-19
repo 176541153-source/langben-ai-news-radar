@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-19T18:46:51.237896Z
-- 24小时AI信号：1623 条
+- 生成时间：2026-09-19T21:23:30.185772Z
+- 24小时AI信号：1586 条
 - 源健康：12/14
-- 原始抓取：7374 条
+- 原始抓取：7338 条
 
 ## 今日重点
 
@@ -41,16 +41,16 @@
    - 时间：昨天 07:47
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元](https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n)
-   - 时间：昨天 04:21
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击](https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually)
+8. [Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击](https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually)
    - 时间：昨天 00:29
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩](https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft)
+9. [《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩](https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft)
    - 时间：09-18 23:27
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务](https://x.com/AIatMeta/status/2100714755568644409)
+   - 时间：09-18 06:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -84,18 +84,18 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周](https://www.cls.cn/detail/2487680)
-   - 时间：今天 02:50
+   - 时间：今天 05:24
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-18. [谷歌AI首次“越狱”：Gemini在测试中入侵三家企业](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7993750.shtml)
+18. [甲骨文180亿AI贷款折价滞销，AI融资链压力浮现](https://wallstreetcn.com/articles/3782134)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [【人工智能每日精选】RoboBallet：我看到的机器人群体协同新范式](https://blog.csdn.net/2402_84593233/article/details/165838614)
-   - 时间：1分钟前
-   - 来源：TopHub
+19. [特朗普将组建人工智能部队——与此同时，有诉讼称多家公司非法达成协议以拖延开发进度](https://news.sky.com/story/trump-to-create-ai-force-as-lawsuit-claims-firms-illegally-agreed-to-slow-development-13589927)
+   - 时间：32分钟前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [思科（CSCO）借助Splunk扩大其在企业人工智能支出中的份额。该公司正面临一场重大考验](https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html)
+20. [随着人们对该技术发展的担忧日益加剧，特朗普宣布成立“人工智能部队”](https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1)
    - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -106,7 +106,7 @@
    - 时间：昨天 07:13
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争](https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d)
+22. [Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争](https://garymarcus.substack.com/p/the-real-reason-trump-is-standing)
    - 时间：昨天 03:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 734/2776 | 26.4% | 高信号源，建议保留 |
-| Buzzing | 462/1277 | 36.2% | 高信号源，建议保留 |
-| Info Flow | 136/485 | 28.0% | 高信号源，建议保留 |
-| TechURLs | 110/293 | 37.5% | 高信号源，建议保留 |
-| Zeli | 46/56 | 82.1% | 高信号源，建议保留 |
-| NewsNow | 27/104 | 26.0% | 高信号源，建议保留 |
-| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 8/15 | 53.3% | 高信号源，建议保留 |
+| TopHub | 734/2678 | 27.4% | 高信号源，建议保留 |
+| Buzzing | 451/1202 | 37.5% | 高信号源，建议保留 |
+| Info Flow | 135/488 | 27.7% | 高信号源，建议保留 |
+| TechURLs | 95/250 | 38.0% | 高信号源，建议保留 |
+| Zeli | 46/54 | 85.2% | 高信号源，建议保留 |
+| NewsNow | 25/104 | 24.0% | 高信号源，建议保留 |
+| OPML RSS | 7/11 | 63.6% | 高信号源，建议保留 |
+| Follow Builders | 7/16 | 43.8% | 高信号源，建议保留 |
 
 ## 维护提示
 
