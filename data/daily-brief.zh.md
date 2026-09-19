@@ -1,33 +1,33 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-19T21:23:30.185772Z
-- 24小时AI信号：1586 条
+- 生成时间：2026-09-19T23:25:54.609927Z
+- 24小时AI信号：1557 条
 - 源健康：12/14
-- 原始抓取：7338 条
+- 原始抓取：7346 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止](https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082)
-   - 时间：昨天 07:11
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽](https://www.oneusefulthing.org/p/the-overhang)
+1. [Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽](https://www.oneusefulthing.org/p/the-overhang)
    - 时间：昨天 01:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户](https://x.com/haider1/status/2100848578340220987)
+2. [3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户](https://x.com/haider1/status/2100848578340220987)
    - 时间：09-18 15:25
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215)
+3. [TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215)
    - 时间：09-18 08:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenRouter 实测 20 个图像生成模型的成本、编辑与质量](https://openrouter.ai/blog/insights/image-generation-models-compared)
+4. [OpenRouter 实测 20 个图像生成模型的成本、编辑与质量](https://openrouter.ai/blog/insights/image-generation-models-compared)
    - 时间：09-18 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增](https://x.com/sherwinwu/status/2100730628673065040)
+   - 时间：09-18 07:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -84,25 +84,25 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周](https://www.cls.cn/detail/2487680)
-   - 时间：今天 05:24
+   - 时间：今天 07:26
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-18. [甲骨文180亿AI贷款折价滞销，AI融资链压力浮现](https://wallstreetcn.com/articles/3782134)
+18. [OpenAI预计2030年前累计烧钱逾2780亿美元，同期营收目标达3500亿](https://wallstreetcn.com/articles/3782117)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [特朗普将组建人工智能部队——与此同时，有诉讼称多家公司非法达成协议以拖延开发进度](https://news.sky.com/story/trump-to-create-ai-force-as-lawsuit-claims-firms-illegally-agreed-to-slow-development-13589927)
-   - 时间：32分钟前
+19. [并非所有人工智能从业者都认为这项技术会杀光所有人](https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss)
+   - 时间：14分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [随着人们对该技术发展的担忧日益加剧，特朗普宣布成立“人工智能部队”](https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1)
-   - 时间：1小时前
-   - 来源：Buzzing
+20. [甲骨文180亿AI贷款折价滞销，AI融资链压力浮现](https://wallstreetcn.com/articles/3782134)
+   - 时间：2小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取](https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk)
+21. [纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取](https://www.ithome.com/1/004/356.htm)
    - 时间：昨天 07:13
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 734/2678 | 27.4% | 高信号源，建议保留 |
-| Buzzing | 451/1202 | 37.5% | 高信号源，建议保留 |
-| Info Flow | 135/488 | 27.7% | 高信号源，建议保留 |
-| TechURLs | 95/250 | 38.0% | 高信号源，建议保留 |
-| Zeli | 46/54 | 85.2% | 高信号源，建议保留 |
-| NewsNow | 25/104 | 24.0% | 高信号源，建议保留 |
-| OPML RSS | 7/11 | 63.6% | 高信号源，建议保留 |
-| Follow Builders | 7/16 | 43.8% | 高信号源，建议保留 |
+| TopHub | 741/2756 | 26.9% | 高信号源，建议保留 |
+| Buzzing | 436/1132 | 38.5% | 高信号源，建议保留 |
+| Info Flow | 131/483 | 27.1% | 高信号源，建议保留 |
+| TechURLs | 87/232 | 37.5% | 高信号源，建议保留 |
+| Zeli | 42/50 | 84.0% | 高信号源，建议保留 |
+| NewsNow | 24/105 | 22.9% | 高信号源，建议保留 |
+| OPML RSS | 7/12 | 58.3% | 高信号源，建议保留 |
+| Follow Builders | 5/13 | 38.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
