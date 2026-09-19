@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-19T04:30:45.541232Z
-- 24小时AI信号：1933 条
+- 生成时间：2026-09-19T08:56:14.849970Z
+- 24小时AI信号：2115 条
 - 源健康：12/14
-- 原始抓取：7421 条
+- 原始抓取：7440 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止](https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082)
-   - 时间：5小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽](https://aihot.news/items/cmu79r5lt0z09rowk1o1z6jnt)
-   - 时间：10小时前
+   - 时间：今天 01:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作](https://www.aibase.com/news/31169)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词](https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8)
-   - 时间：1小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B](https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6)
-   - 时间：4小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元](https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n)
-   - 时间：8小时前
+   - 时间：今天 04:21
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击](https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0)
@@ -56,31 +56,31 @@
 
 ### 论文研究与评测
 
-11. [研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金](https://aihot.news/items/cmu71pa810n45rowkag436ea3)
+11. [WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司](https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6)
+   - 时间：3小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金](https://aihot.news/items/cmu71pa810n45rowkag436ea3)
    - 时间：昨天 22:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%](https://www.aibase.com/news/31156)
+13. [千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%](https://www.aibase.com/news/31156)
    - 时间：昨天 19:25
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明](https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped)
+14. [Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明](https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped)
    - 时间：昨天 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒](https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd)
+15. [Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒](https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd)
    - 时间：昨天 17:30
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照](https://www.anthropic.com/institute/measuring-pace-of-ai-development)
-   - 时间：昨天 04:49
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产业、算力与机器人
 
 16. [Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元](https://aihot.news/items/cmu7nb3bm0jugrogroyv3fm5h)
-   - 时间：4小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [智谱发布 GLM-5.3-FlashX:速度飙至200tokens/s，国产算力再提速](https://www.aibase.com/news/31160)
@@ -91,27 +91,27 @@
    - 时间：昨天 18:41
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [中企：人形机器人最快明年迎来ChatGPT式突破](https://www.zaochenbao.com/news/china/202609/1981422.html)
-   - 时间：今天 12:37
+19. [Anthropic建起生物实验室！Claude指挥机器人做实验，AI制药再进一步](https://view.inews.qq.com/a/20260918A0A29000)
+   - 时间：今天 17:07
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [Anthropic建起生物实验室！Claude指挥机器人做实验，AI制药再进一步](https://view.inews.qq.com/a/20260918A0A29000)
-   - 时间：今天 12:37
-   - 来源：TrendRadar
+20. [AI 算力公司 Nscale 递交美股 IPO 申请，拟募资 30 亿美元，英伟达持股超 5%](https://www.theblockbeats.info/flash/367987)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取](https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk)
-   - 时间：5小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争](https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d)
-   - 时间：8小时前
+   - 时间：今天 03:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [美军因 AI 幻觉情报报告险些拦截中国船只](https://aihot.news/items/cmu7b4t69044mrogrg7zn0p8h)
-   - 时间：11小时前
+   - 时间：今天 01:28
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [Calibre上手 AI 互动写作：电子书管理器摇身变成"文字冒险游戏引擎"](https://www.aibase.com/news/31170)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 846/3186 | 26.6% | 高信号源，建议保留 |
-| Buzzing | 518/1453 | 35.7% | 高信号源，建议保留 |
-| TechURLs | 188/419 | 44.9% | 高信号源，建议保留 |
-| Info Flow | 153/556 | 27.5% | 高信号源，建议保留 |
-| Zeli | 56/68 | 82.4% | 高信号源，建议保留 |
-| NewsNow | 34/122 | 27.9% | 高信号源，建议保留 |
+| TopHub | 966/3655 | 26.4% | 高信号源，建议保留 |
+| Buzzing | 550/1549 | 35.5% | 高信号源，建议保留 |
+| TechURLs | 185/425 | 43.5% | 高信号源，建议保留 |
+| Info Flow | 158/563 | 28.1% | 高信号源，建议保留 |
+| Zeli | 62/76 | 81.6% | 高信号源，建议保留 |
+| NewsNow | 41/151 | 27.2% | 高信号源，建议保留 |
 | AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 18/18 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 17/17 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
