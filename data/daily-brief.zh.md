@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-19T16:21:14.982131Z
-- 24小时AI信号：1596 条
+- 生成时间：2026-09-19T18:46:51.237896Z
+- 24小时AI信号：1623 条
 - 源健康：12/14
-- 原始抓取：7393 条
+- 原始抓取：7374 条
 
 ## 今日重点
 
@@ -14,7 +14,7 @@
    - 时间：昨天 07:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽](https://aihot.news/items/cmu79r5lt0z09rowk1o1z6jnt)
+2. [Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽](https://www.oneusefulthing.org/p/the-overhang)
    - 时间：昨天 01:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -45,7 +45,7 @@
    - 时间：昨天 04:21
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击](https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0)
+9. [Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击](https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually)
    - 时间：昨天 00:29
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司](https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6)
-   - 时间：10小时前
+   - 时间：昨天 13:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai)
@@ -83,21 +83,21 @@
    - 时间：昨天 08:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？](https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3)
-   - 时间：今天 01:20
-   - 来源：OPML RSS
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-18. [从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务](https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re)
-   - 时间：今天 01:02
-   - 来源：OPML RSS
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周](https://www.cls.cn/detail/2487680)
-   - 时间：今天 00:22
+17. [美股收盘：AI芯片股爆发推动纳指走高 华尔街告别动荡一周](https://www.cls.cn/detail/2487680)
+   - 时间：今天 02:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [打脸！Anthropic也开始“蒸馏”别家公司了](https://www.36kr.com/p/3989873824938758)
+18. [谷歌AI首次“越狱”：Gemini在测试中入侵三家企业](https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7993750.shtml)
    - 时间：1分钟前
    - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [【人工智能每日精选】RoboBallet：我看到的机器人群体协同新范式](https://blog.csdn.net/2402_84593233/article/details/165838614)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [思科（CSCO）借助Splunk扩大其在企业人工智能支出中的份额。该公司正面临一场重大考验](https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html)
+   - 时间：1小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -110,7 +110,7 @@
    - 时间：昨天 03:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [美军因 AI 幻觉情报报告险些拦截中国船只](https://aihot.news/items/cmu7b4t69044mrogrg7zn0p8h)
+23. [美军因 AI 幻觉情报报告险些拦截中国船只](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
    - 时间：昨天 01:28
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -118,23 +118,23 @@
    - 时间：09-18 18:35
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [仅阶段性的 npm 令牌可实现更安全的自动化](https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation)
-   - 时间：昨天 00:37
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
+25. [X 上肯定有顶级的人工智能演示，但看到有人称 @jack Cheng 的作品为“假”，我感到非常难过。他是我共事过的最聪明、最诚实、最注重工艺的人之一。还有嗨...](https://x.com/danshipper/status/2101155521818476693)
+   - 时间：昨天 11:44
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 659/2469 | 26.7% | 高信号源，建议保留 |
-| Buzzing | 478/1361 | 35.1% | 高信号源，建议保留 |
-| Info Flow | 141/495 | 28.5% | 高信号源，建议保留 |
-| TechURLs | 117/320 | 36.6% | 高信号源，建议保留 |
-| Zeli | 53/63 | 84.1% | 高信号源，建议保留 |
-| NewsNow | 28/106 | 26.4% | 高信号源，建议保留 |
-| Follow Builders | 14/27 | 51.9% | 高信号源，建议保留 |
-| AI HOT | 11/11 | 100.0% | 高信号源，建议保留 |
+| TopHub | 734/2776 | 26.4% | 高信号源，建议保留 |
+| Buzzing | 462/1277 | 36.2% | 高信号源，建议保留 |
+| Info Flow | 136/485 | 28.0% | 高信号源，建议保留 |
+| TechURLs | 110/293 | 37.5% | 高信号源，建议保留 |
+| Zeli | 46/56 | 82.1% | 高信号源，建议保留 |
+| NewsNow | 27/104 | 26.0% | 高信号源，建议保留 |
+| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 8/15 | 53.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
