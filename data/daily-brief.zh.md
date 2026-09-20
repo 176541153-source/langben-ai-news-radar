@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-20T21:24:15.553583Z
-- 24小时AI信号：1471 条
+- 生成时间：2026-09-20T23:25:22.236700Z
+- 24小时AI信号：1527 条
 - 源健康：12/14
-- 原始抓取：7347 条
+- 原始抓取：7331 条
 
 ## 今日重点
 
@@ -11,23 +11,23 @@
 ### 模型发布与能力更新
 
 1. [Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故](https://aihot.news/items/cmuaajd3y08yjro5tqgc5u6up)
-   - 时间：1小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号](https://aihot.news/items/cmua567e703tmro5t558lzx7o)
    - 时间：3小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号](https://aihot.news/items/cmua567e703tmro5t558lzx7o)
+   - 时间：5小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载](https://aihot.news/items/cmu9w55as056krowjqmhejtmz)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”](https://www.aibase.com/news/31206)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔](https://www.aibase.com/news/31200)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像](https://aihot.news/items/cmu9tfhu904turokx2vfjy34f)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单](https://www.aibase.com/news/31183)
@@ -80,30 +80,30 @@
 ### 产业、算力与机器人
 
 16. [一颗 260 克的"鸡蛋关节"：稚晖君发布启元 Q1、T1 人形机器人](https://www.aibase.com/news/31205)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [东风人形机器人"小东"下月进厂：汽车大模型给具身智能当"师傅"，年底要和真人掰手腕](https://www.aibase.com/news/31204)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 18. [微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”](https://www.aibase.com/news/31201)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 19. [Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的"护身符"](https://www.aibase.com/news/31199)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的"性价比边界"往外推了一格](https://www.aibase.com/news/31196)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先](https://www.aibase.com/news/31203)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天](https://www.aibase.com/news/31194)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 626/2520 | 24.8% | 高信号源，建议保留 |
-| Buzzing | 391/1079 | 36.2% | 高信号源，建议保留 |
-| Info Flow | 157/605 | 26.0% | 高信号源，建议保留 |
-| TechURLs | 70/249 | 28.1% | 高信号源，建议保留 |
-| Zeli | 63/72 | 87.5% | 高信号源，建议保留 |
+| TopHub | 673/2670 | 25.2% | 高信号源，建议保留 |
+| Buzzing | 403/1133 | 35.6% | 高信号源，建议保留 |
+| Info Flow | 158/603 | 26.2% | 高信号源，建议保留 |
+| TechURLs | 68/244 | 27.9% | 高信号源，建议保留 |
+| Zeli | 61/70 | 87.1% | 高信号源，建议保留 |
 | AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
 | NewsNow | 26/107 | 24.3% | 高信号源，建议保留 |
-| OPML RSS | 15/20 | 75.0% | 高信号源，建议保留 |
+| OPML RSS | 16/22 | 72.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
