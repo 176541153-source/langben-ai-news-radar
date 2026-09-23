@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-23T01:42:40.937970Z
-- 24小时AI信号：1335 条
+- 生成时间：2026-09-23T13:33:45.539932Z
+- 24小时AI信号：1777 条
 - 源健康：12/14
-- 原始抓取：7420 条
+- 原始抓取：7556 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [虎鲸文娱发布“鲸锐AI”，布局AI影视制作与管理平台](https://www.aibase.com/news/31288)
+1. [​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态](https://www.aibase.com/news/31314)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [消息称豆包调整Chat团队与后训练资源，对话模型业务进入结构优化阶段](https://www.aibase.com/news/31286)
+2. [阿里千问发布 Qwen-Audio-3.1：五款语音模型同发，ASR 价格直降 95%](https://www.aibase.com/news/31308)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [​江西首个 Token 工厂正式落地南昌高新区，聚合超 300 款主流大模型](https://www.aibase.com/news/31285)
+3. [​全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市](https://www.aibase.com/news/31306)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Anthropic发布Claude Opus5.5:任务成本降40%、输出提速30%，9项测试7项领先GPT-6Astra](https://www.aibase.com/news/31283)
+4. [千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者](https://www.aibase.com/news/31305)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI 宣布将在 AI 模型开发早期阶段引入第三方独立安全评估](https://www.aibase.com/news/31281)
+5. [千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%](https://www.aibase.com/news/31303)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI 重磅发布 GPT-6 Sol 与 Luna 模型：API 价格腰斩，性能直逼顶级旗舰](https://www.aibase.com/news/31284)
+6. [国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作](https://www.aibase.com/news/31312)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [被指“OpenClaw换皮”后，Meta罕见承认:产品设计确实深受其影响](https://www.aibase.com/news/31282)
+7. [最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用](https://www.aibase.com/news/31302)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Grok Bot 上线仅一个月，周活跃用户数正式突破 40 万大关](https://www.aibase.com/news/31280)
+8. [阿里云发布Qwen Book:AI智能体电脑正式亮相](https://www.aibase.com/news/31301)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI 推出 GPT-6 Sol 和 Luna：API 价格大降 50%，单任务成本最低不到竞品一成](https://www.aibase.com/news/31278)
+9. [医疗 AI 走向全球普惠：Anthropic 携手 OpenEvidence，将临床决策支持工具免费覆盖百国](https://www.aibase.com/news/31299)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%](https://aihot.news/items/cmud73hd204tvrora52lp47l0)
-   - 时间：4小时前
-   - 来源：AI HOT
+10. [AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活](https://www.aibase.com/news/31298)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降](https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv)
-   - 时间：6小时前
+   - 时间：今天 03:41
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平](https://aihot.news/items/cmud02r5503swro7nhqpu7dgu)
-   - 时间：7小时前
+   - 时间：今天 02:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API](https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6)
-   - 时间：11小时前
+   - 时间：昨天 22:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8](https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c)
-   - 时间：昨天 09:49
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra)
-   - 时间：昨天 20:00
-   - 来源：OPML RSS
-   - 评分：7.9/10 · matched_tracked_ai_keyword
+14. [We ran fresh Next.js evals. The tally: ① Opus 5.5 【𝟿𝟽%】 ② GPT 6 Sol 【𝟿𝟽%】 ③ Fable 5.1 【𝟿𝟽%】 ④ Grok 4.7 【𝟿𝟺%】 Notably, Grok is 2x-7x cheaper https://t.co/BAUg14981G](https://x.com/rauchg/status/2102519097770885231)
+   - 时间：今天 06:03
+   - 来源：Follow Builders
+   - 评分：8.5/10 · matched_tracked_ai_keyword
+15. [AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本](https://www.thepaper.cn/newsDetail_forward_34130539)
+   - 时间：今天 21:34
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具](https://aihot.news/items/cmud4mu5303n5roa915w7f1ja)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%](https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元](https://www.aibase.com/news/31276)
-   - 时间：8小时前
+16. [杭州一小伙3天搓出100个作品冲击百万大奖，支付宝:别急](https://www.aibase.com/news/31315)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [阿里云栖大会亮出最激进AI蓝图： 5 万亿至 10 万亿参数模型在途，自研真武V900 芯片算力翻三倍](https://www.aibase.com/news/31263)
-   - 时间：11小时前
+17. [Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖](https://www.aibase.com/news/31313)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售](https://aihot.news/items/cmucoqh360i0jroedps8dr2es)
-   - 时间：昨天 20:59
-   - 来源：AI HOT
+18. [麦肯锡泼冷水：智能体账单可能比聊天AI贵 30 倍，企业正被自己的AI热情反噬](https://www.aibase.com/news/31311)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [腾讯WorkBuddy企业版办公套件化升级:多端账号、资产打通，企业生产力再升级](https://www.aibase.com/news/31309)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [​高通发布骁龙 8 Elite Gen 6 与 Extreme 芯片，支持本地运行 300 亿参数大模型](https://www.aibase.com/news/31300)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [谷歌前安全负责人警告：AI 对儿童的伤害恐超社交媒体](https://www.aibase.com/news/31287)
+21. [AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元](https://www.aibase.com/news/31310)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻](https://www.aibase.com/news/31279)
+22. [盒马部署“AI验蟹师”：不到 1 分钟检测 50 只大闸蟹](https://www.aibase.com/news/31304)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse](https://aihot.news/items/cmud3b5q504b9rov6qig73auy)
-   - 时间：6小时前
-   - 来源：AI HOT
+23. [​韶音首款 AI 耳机 OpenFit 2 AI 亮相云栖大会，重磅首发“AI 实验室”四大新功能](https://www.aibase.com/news/31295)
+   - 时间：2小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一](https://aihot.news/items/cmud57mjw02snrora28mvi2h0)
-   - 时间：6小时前
-   - 来源：AI HOT
+24. [谷歌前安全负责人警告：AI 对儿童的伤害恐超社交媒体](https://www.aibase.com/news/31287)
+   - 时间：11小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡](https://aihot.news/items/cmud32gov0427rov6rcxw9xlf)
-   - 时间：6小时前
-   - 来源：AI HOT
+25. [AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻](https://www.aibase.com/news/31279)
+   - 时间：11小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 500/1761 | 28.4% | 高信号源，建议保留 |
-| Buzzing | 293/886 | 33.1% | 高信号源，建议保留 |
-| TechURLs | 158/369 | 42.8% | 高信号源，建议保留 |
-| Info Flow | 121/399 | 30.3% | 高信号源，建议保留 |
-| Zeli | 71/79 | 89.9% | 高信号源，建议保留 |
+| TopHub | 739/2667 | 27.7% | 高信号源，建议保留 |
+| Buzzing | 380/1155 | 32.9% | 高信号源，建议保留 |
+| TechURLs | 188/430 | 43.7% | 高信号源，建议保留 |
+| Info Flow | 165/570 | 28.9% | 高信号源，建议保留 |
+| Zeli | 68/79 | 86.1% | 高信号源，建议保留 |
+| AIbase | 45/45 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 34/34 | 100.0% | 高信号源，建议保留 |
-| AIbase | 32/32 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 20/32 | 62.5% | 高信号源，建议保留 |
+| Follow Builders | 27/43 | 62.8% | 高信号源，建议保留 |
 
 ## 维护提示
 
