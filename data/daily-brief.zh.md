@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-25T10:28:20.596811Z
-- 24小时AI信号：1405 条
+- 生成时间：2026-09-26T11:42:53.964395Z
+- 24小时AI信号：778 条
 - 源健康：12/14
-- 原始抓取：7437 条
+- 原始抓取：7451 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程](https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df)
-   - 时间：今天 02:26
+1. [Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化](https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck)
+   - 时间：今天 02:13
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本](https://aihot.news/items/cmufrangt05nfroxzoslf2b9s)
-   - 时间：今天 00:38
+2. [Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式](https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr)
+   - 时间：今天 02:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账](https://www.aibase.com/news/31356)
-   - 时间：昨天 22:21
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法](https://aihot.news/items/cmufjfzsr04avro6oidhywggl)
-   - 时间：昨天 20:54
+3. [Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算](https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8)
+   - 时间：今天 01:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分](https://x.com/arena/status/2102952767614779403)
-   - 时间：昨天 10:46
+4. [Cognition 宣布年化收入运行率突破 10 亿美元](https://aihot.news/items/cmuh4q0ef044fro55mt9bfnxy)
+   - 时间：昨天 23:42
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent)
+   - 时间：昨天 02:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站](https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c)
-   - 时间：3小时前
+6. [OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件](https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [法典 CLI 0.157.0](https://developers.openai.com/codex/changelog)
-   - 时间：10小时前
+7. [Ethan Mollick 评 OpenAI 披露多起新的对齐事件](https://aihot.news/items/cmuhx6xhk0311ronaycb42uyy)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [法典 CLI 0.157.1](https://developers.openai.com/codex/changelog)
+   - 时间：11小时前
    - 来源：Official AI Updates
    - 评分：10.0/10 · matched_tracked_ai_keyword
-8. [OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站](https://aihot.news/items/cmufmonss05qtro8wec8r2gd3)
-   - 时间：昨天 22:01
+9. [独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节](https://aihot.news/items/cmuhnmnp20fuhrojn1henams8)
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集](https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0)
-   - 时间：昨天 22:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI](https://aihot.news/items/cmufjyocz04u6ro6ohojge69s)
-   - 时间：昨天 20:27
+10. [Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链](https://aihot.news/items/cmuhg4wsw04gprojna9lutexs)
+   - 时间：今天 04:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式](https://aihot.news/items/cmuft4xrw07varoxz9brnf7vh)
-   - 时间：今天 01:19
+11. [OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据](https://aihot.news/items/cmuhftp03045orojn23z3etdc)
+   - 时间：今天 04:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [我尝试了 Proton 的 AI Paper Trail 工具，我简直不敢相信聊天机器人对我了解多少数据](https://www.techradar.com/vpn/vpn-privacy-security/i-tried-protons-ai-paper-trail-tool-and-i-couldnt-believe-how-much-data-chatbots-know-about-me)
-   - 时间：28分钟前
-   - 来源：TechURLs
+12. [Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末](https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk)
+   - 时间：今天 01:59
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)
+   - 时间：昨天 01:19
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo](https://www.qbitai.com/2026/09/498271.html)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [一项新的研究表明，人工智能还无法完全接管你的假日购物。](https://www.businessinsider.com/study-shows-ai-errors-shopping-tools-struggle-accuracy-2026-9)
-   - 时间：51分钟前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [AI机器人正向研究人员发出一波又一波的资金和时间请求](https://www.nature.com/articles/d41586-026-03005-2)
-   - 时间：6小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [专家表示，气隙人工智能可以防止像 Hugging Face 黑客攻击这样的事件，但会削弱评估的价值并减慢研究速度（Robert Hart/The Verge）](https://www.techmeme.com/260924/p55)
-   - 时间：7小时前
+15. [XbotGo Falcon 评测：足球爸爸寻找完美的 AI 运动追踪相机](https://mashable.com/tech/xbotgo-falcon-ai-sports-tracking-camera-review)
+   - 时间：2小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用](https://openrouter.ai/blog/insights/kimi-k3-open-source)
-   - 时间：昨天 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类](https://garymarcus.substack.com/p/historic-un-security-council-briefing)
-   - 时间：昨天 05:46
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data](https://www.youtube.com/@DataDrivenNYC/videos)
-   - 时间：昨天 19:30
+16. [企业管理的设置产品内验证器](https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator)
+   - 时间：今天 07:24
+   - 来源：Official AI Updates
+   - 评分：8.7/10 · matched_ai_signal
+17. [你无法自动化你无法衡量的东西。这意味着评估是人工智能在企业中传播的大门之一。我们可以通过软件来测试我们的确定性流程，但是大多数企业没有有用的...](https://x.com/levie/status/2103629073595728372)
+   - 时间：今天 07:33
    - 来源：Follow Builders
-   - 评分：8.8/10 · matched_tracked_ai_keyword
-19. [In Jensen's 5 layer cake analogy for AI (energy, chips, infrastructure, models, applications), the middle layer (esp the software infra part) is much less understood - and thats where @VAST_Data became a $30B company...](https://x.com/mattturck/status/2103167531917721866)
-   - 时间：今天 00:59
-   - 来源：Follow Builders
-   - 评分：8.4/10 · matched_tracked_ai_keyword
-20. [亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源](https://www.qbitai.com/2026/09/497108.html)
+   - 评分：8.5/10 · matched_tracked_ai_keyword
+18. [谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架](https://www.qbitai.com/2026/09/497425.html)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [索尼芯片子公司将收紧远程办公：要求约 8000 名员工全面返岗，加速物理 AI 研发](https://www.ithome.com/1/007/413.htm)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [【共创稿事节】鸿蒙HarmonyOS7.0端侧AI新能力-图像超分 · 画质增强：基于 Core Vision Kit 的端侧 4 倍高清重建](https://blog.csdn.net/weixin_52908342/article/details/166603282)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万](https://www.aibase.com/news/31357)
-   - 时间：昨天 22:21
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606)
-   - 时间：昨天 13:40
+21. [GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%](https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6)
+   - 时间：昨天 23:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [Require proof of presence for high-impact actions](https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions)
-   - 时间：今天 04:28
+22. [Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment)
+   - 时间：昨天 19:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606)
+   - 时间：09-24 13:40
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [Private saved views for repository issues and “Relates to” issue relationship is generally available](https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more)
+   - 时间：今天 03:05
    - 来源：Official AI Updates
    - 评分：8.7/10 · matched_ai_signal
-24. [这就是所谓的抚慰人工智能的自我，它是有效的 https://t.co/CpSvOv3kmF](https://x.com/petergyang/status/2103310612864569388)
-   - 时间：7小时前
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-25. [this should let you customize the plan mode prompt, create + share your own modes or just ignore it and rebind shift+tab to something else all together](https://x.com/trq212/status/2103212052391354794)
-   - 时间：今天 03:56
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_ai_signal
+25. [龚古尔奖将涉嫌使用AI作品踢出局](https://ckxxapp.ckxx.net/pages/2026/09/26/1c16ad3170844d079c872bb858b56478.html)
+   - 时间：今天 19:44
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 521/1896 | 27.5% | 高信号源，建议保留 |
-| Buzzing | 399/1152 | 34.6% | 高信号源，建议保留 |
-| TechURLs | 187/399 | 46.9% | 高信号源，建议保留 |
-| Info Flow | 102/425 | 24.0% | 高信号源，建议保留 |
-| Zeli | 56/65 | 86.2% | 高信号源，建议保留 |
-| NewsNow | 21/88 | 23.9% | 高信号源，建议保留 |
-| OPML RSS | 12/21 | 57.1% | 高信号源，建议保留 |
-| Follow Builders | 10/24 | 41.7% | 高信号源，建议保留 |
+| TopHub | 249/994 | 25.1% | 高信号源，建议保留 |
+| Buzzing | 167/541 | 30.9% | 高信号源，建议保留 |
+| TechURLs | 91/205 | 44.4% | 高信号源，建议保留 |
+| Info Flow | 69/262 | 26.3% | 高信号源，建议保留 |
+| Zeli | 60/63 | 95.2% | 高信号源，建议保留 |
+| NewsNow | 20/74 | 27.0% | 高信号源，建议保留 |
+| AI HOT | 18/18 | 100.0% | 高信号源，建议保留 |
+| Official AI Updates | 9/10 | 90.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
