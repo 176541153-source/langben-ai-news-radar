@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-26T22:08:29.883238Z
-- 24小时AI信号：1104 条
+- 生成时间：2026-09-27T00:48:36.364718Z
+- 24小时AI信号：1204 条
 - 源健康：12/14
-- 原始抓取：7244 条
+- 原始抓取：7378 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首](https://aihot.news/items/cmuinp76b0smurov0wemcbshl)
-   - 时间：5小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录](https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy)
-   - 时间：6小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化](https://x.com/ClaudeDevs/status/2103548467729887677)
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄](https://aihot.news/items/cmuisvcxk05a2rohyozb492a3)
-   - 时间：8小时前
+6. [Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回](https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp)
+   - 时间：52分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件](https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6)
+7. [消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件](https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄](https://aihot.news/items/cmuisvcxk05a2rohyozb492a3)
+   - 时间：10小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件](https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6)
    - 时间：昨天 17:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Ethan Mollick 评 OpenAI 披露多起新的对齐事件](https://aihot.news/items/cmuhx6xhk0311ronaycb42uyy)
+10. [Ethan Mollick 评 OpenAI 披露多起新的对齐事件](https://aihot.news/items/cmuhx6xhk0311ronaycb42uyy)
    - 时间：昨天 12:54
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [法典 CLI 0.157.1](https://developers.openai.com/codex/changelog)
-   - 时间：昨天 08:00
-   - 来源：Official AI Updates
-   - 评分：10.0/10 · matched_tracked_ai_keyword
-10. [独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节](https://aihot.news/items/cmuhnmnp20fuhrojn1henams8)
-   - 时间：昨天 07:59
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -68,36 +68,36 @@
    - 时间：09-25 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [人工智能代理将人类排除在决策循环之外](https://arxiv.org/abs/2608.23642)
+14. [DeepSeek 弹性计算 (DSec)](https://arxiv.org/abs/2609.22978)
    - 时间：1小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo](https://www.qbitai.com/2026/09/498271.html)
-   - 时间：10小时前
-   - 来源：TopHub
+15. [人工智能代理将人类排除在决策循环之外](https://arxiv.org/abs/2608.23642)
+   - 时间：4小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [企业管理的设置产品内验证器](https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator)
-   - 时间：昨天 07:24
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
-17. [你无法自动化你无法衡量的东西。这意味着评估是人工智能在企业中传播的大门之一。我们可以通过软件来测试我们的确定性流程，但是大多数企业没有有用的...](https://x.com/levie/status/2103629073595728372)
-   - 时间：昨天 07:33
-   - 来源：Follow Builders
-   - 评分：8.5/10 · matched_tracked_ai_keyword
-18. [9月26日外盘头条：霍尔木兹海峡有望重开 白宫试图降低柴油价格 Anthropic投入至少400亿美元租赁算力](https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4055069.shtml)
-   - 时间：2小时前
+16. [Harvey 估值 155 亿美元，法律 AI 的钱究竟好不好赚？](https://www.huxiu.com/article/4893572.html?f=rss)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [OpenAI表示，其人工智能代理上周末再次逃出了安全的“沙盒”，该公司正第二次暂停训练。 - Fortune](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：4小时前
+17. [OpenAI的机器人篡改了多个美国政府机构网站](https://www.bbc.com/news/articles/cw62jje658dlo)
+   - 时间：14分钟前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [迈威尔科技：光学互连、存储器成 AI 下一阶段算力扩张关键](https://www.gelonghui.com/live/2690160)
-   - 时间：5小时前
-   - 来源：TopHub
+18. [Google is launching its AI chips into space — Project Suncatcher MVP sports four TPUs and will be delivered by a SpaceX rocket](https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket)
+   - 时间：43分钟前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [Harvey估值155亿美元，法律AI的钱究竟好不好赚？](https://www.huxiu.com/article/4893572.html?f=rss)
+   - 时间：48分钟前
+   - 来源：Info Flow
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [独家报道：顶尖人工智能企业正在调查数万起安全事件](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents)
+   - 时间：2小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -111,15 +111,15 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [龚古尔奖将涉嫌使用AI作品踢出局](https://ckxxapp.ckxx.net/pages/2026/09/26/1c16ad3170844d079c872bb858b56478.html)
-   - 时间：今天 06:18
+   - 时间：今天 08:59
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 24. [AI成美国人“零食顾问”](https://ckxxapp.ckxx.net/pages/2026/09/26/cb270fb8fe5b40208b343834b7f0b863.html)
-   - 时间：今天 06:18
+   - 时间：今天 08:59
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [美方用“超级智能”代替“人工智能”，外交部回应](https://view.inews.qq.com/a/20260926A08N8Z00)
-   - 时间：今天 06:18
+   - 时间：今天 08:59
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 422/1891 | 22.3% | 高信号源，建议保留 |
-| Buzzing | 332/846 | 39.2% | 高信号源，建议保留 |
-| Info Flow | 100/359 | 27.9% | 高信号源，建议保留 |
-| TechURLs | 86/231 | 37.2% | 高信号源，建议保留 |
-| Zeli | 38/46 | 82.6% | 高信号源，建议保留 |
-| NewsNow | 30/95 | 31.6% | 高信号源，建议保留 |
-| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 4/4 | 100.0% | 高信号源，建议保留 |
+| TopHub | 484/2156 | 22.4% | 高信号源，建议保留 |
+| Buzzing | 362/869 | 41.7% | 高信号源，建议保留 |
+| Info Flow | 115/398 | 28.9% | 高信号源，建议保留 |
+| TechURLs | 86/239 | 36.0% | 高信号源，建议保留 |
+| Zeli | 34/43 | 79.1% | 高信号源，建议保留 |
+| NewsNow | 31/105 | 29.5% | 高信号源，建议保留 |
+| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 4/5 | 80.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
