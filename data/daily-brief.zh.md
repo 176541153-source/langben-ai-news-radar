@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-27T06:28:56.469008Z
-- 24小时AI信号：1389 条
+- 生成时间：2026-09-27T12:21:41.999116Z
+- 24小时AI信号：1243 条
 - 源健康：12/14
-- 原始抓取：7401 条
+- 原始抓取：7390 条
 
 ## 今日重点
 
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会](https://www.ithome.com/1/007/508.htm)
-   - 时间：53分钟前
+6. [Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法](https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回](https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp)
+7. [OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会](https://aihot.news/items/cmujftxjg0exdro9hi64xx2i9)
    - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件](https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy)
-   - 时间：7小时前
+8. [Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回](https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp)
+   - 时间：今天 07:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄](https://aihot.news/items/cmuisvcxk05a2rohyozb492a3)
+9. [消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件](https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy)
+   - 时间：今天 07:12
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄](https://aihot.news/items/cmuisvcxk05a2rohyozb492a3)
    - 时间：昨天 22:03
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件](https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6)
-   - 时间：昨天 17:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -68,36 +68,36 @@
    - 时间：09-25 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [据一份研究报告称，今年6月，OpenAI的智能代理向联合国网站发起了大量搜索请求，随后利用多种激进手段访问了该系统中的数据。](https://on.wsj.com/4Av71yt)
-   - 时间：2小时前
-   - 来源：Buzzing
+14. [研究：美国医院用 AI 写病历，保险公司两年多掏 9.42 亿美元](https://www.ithome.com/1/007/531.htm)
+   - 时间：4小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking (Madison Mills/Axios)](https://www.techmeme.com/260926/p20)
-   - 时间：3小时前
-   - 来源：TechURLs
+15. [据一份研究报告称，今年6月，OpenAI的智能代理向联合国网站发起了大量搜索请求，随后利用多种激进手段访问了该系统中的数据。](https://on.wsj.com/4Av71yt)
+   - 时间：8小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [AI智能体越狱入侵企业！黄仁勋一众硅谷大佬集体反驳灭世预言](https://www.36kr.com/p/3999855009388164)
+16. [黑客盯上 AI「金矿」：盗账号、劫云算力，AI 资源正成为网络犯罪新生意](https://wallstreetcn.com/articles/3782604)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-17. [算力超过地球只需要5年！马斯克花了3个小时，终于把太空AI讲清楚了](https://www.woshipm.com/?p=6339700)
+17. [Kimi K3 是开源吗：开放权重、许可证条款与调用姿势](https://blog.csdn.net/2401_88139521/article/details/166600272)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-18. [没有AI的一个月](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-   - 时间：6分钟前
-   - 来源：Info Flow
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [宏大愿景与微薄营收已成为人工智能企业首次公开募股（IPO）的新常态](https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1)
-   - 时间：1小时前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [大型企业警告称，“人工智能开放性”的缺失可能影响对欧洲的投资](https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1)
+18. [一位代理通过DNS连接到一个外部聊天机器人](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot)
    - 时间：2小时前
    - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+19. [AI智能体越狱入侵企业！黄仁勋一众硅谷大佬集体反驳灭世预言](https://www.36kr.com/p/3999855009388164)
+   - 时间：5小时前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [算力超过地球只需要5年！马斯克花了3个小时，终于把太空AI讲清楚了](https://www.woshipm.com/?p=6339700)
+   - 时间：5小时前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -110,16 +110,16 @@
    - 时间：09-25 19:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI](https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9)
-   - 时间：今天 18:00
-   - 来源：OPML RSS
+23. [Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at y...](https://x.com/rauchg/status/2103939888513274147)
+   - 时间：今天 04:08
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
+24. [彭博：AI抢尽风头 中国消费股面临失落的十年](https://www.zaochenbao.com/news/china/202609/2782090.html)
+   - 时间：今天 20:35
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海](https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw)
-   - 时间：今天 18:00
-   - 来源：OPML RSS
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [龚古尔奖将涉嫌使用AI作品踢出局](https://ckxxapp.ckxx.net/pages/2026/09/26/1c16ad3170844d079c872bb858b56478.html)
-   - 时间：今天 14:41
+25. [美方用“超级智能”代替“人工智能”，外交部回应](https://view.inews.qq.com/a/20260926A08N8Z00)
+   - 时间：今天 20:35
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 625/2722 | 23.0% | 高信号源，建议保留 |
-| Buzzing | 390/915 | 42.6% | 高信号源，建议保留 |
-| Info Flow | 125/435 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 87/249 | 34.9% | 高信号源，建议保留 |
-| Zeli | 38/47 | 80.9% | 高信号源，建议保留 |
-| NewsNow | 32/106 | 30.2% | 高信号源，建议保留 |
-| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 6/7 | 85.7% | 高信号源，建议保留 |
+| TopHub | 509/2203 | 23.1% | 高信号源，建议保留 |
+| Buzzing | 407/923 | 44.1% | 高信号源，建议保留 |
+| Info Flow | 107/416 | 25.7% | 高信号源，建议保留 |
+| TechURLs | 72/223 | 32.3% | 高信号源，建议保留 |
+| Zeli | 33/41 | 80.5% | 高信号源，建议保留 |
+| NewsNow | 19/81 | 23.5% | 高信号源，建议保留 |
+| AI HOT | 7/7 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 6/14 | 42.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
