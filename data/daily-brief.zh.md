@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-09-28T16:58:16.503805Z
-- 24小时AI信号：1534 条
+- 生成时间：2026-09-29T15:38:18.481890Z
+- 24小时AI信号：1095 条
 - 源健康：12/14
-- 原始抓取：7394 条
+- 原始抓取：7580 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一](https://www.aibase.com/news/31389)
+1. [安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家](https://www.aibase.com/news/31419)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁](https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v)
-   - 时间：1小时前
+2. [OpenAI 模型入侵澳大利亚政府 Medicare 门户，阿尔巴尼斯要求调查并追责](https://www.aibase.com/news/31404)
+   - 时间：4小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦](https://www.aibase.com/news/31403)
+   - 时间：5小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [OpenAI 掏 10 亿美元、组专班，回应自家模型闯入澳政府网站](https://www.aibase.com/news/31402)
+   - 时间：5小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布](https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2)
+   - 时间：7小时前
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测](https://www.aibase.com/news/31383)
-   - 时间：8小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别](https://www.aibase.com/news/31382)
-   - 时间：8小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态](https://www.aibase.com/news/31380)
-   - 时间：8小时前
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%](https://x.com/arena/status/2104617283679379704)
-   - 时间：今天 01:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本](https://aihot.news/items/y1thdkq6a9giiitpxb6e13hwo)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统](https://aihot.news/items/l8gn0lz5n5t5zh50w7132enx8)
-   - 时间：7小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI 重排 Pro 档位：5x和20x用量承诺下线](https://www.aibase.com/news/31379)
-   - 时间：8小时前
+6. [OpenAI 抛训练安全新规：高管手握"一票否决"，警报超时自动停训](https://www.aibase.com/news/31417)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路](https://www.aibase.com/news/31377)
-   - 时间：8小时前
+7. [xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元](https://www.aibase.com/news/31414)
+   - 时间：29分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制](https://www.aibase.com/news/31413)
+   - 时间：29分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [英伟达发布 AI 智能体安全工具 OpenShell，称可阻止 Hugging Face 入侵事件重演](https://www.aibase.com/news/31409)
+   - 时间：1小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [Meta AI 智能体 Muse 擅自泄露用户住址并约买家上门，当事人全程不知情](https://www.aibase.com/news/31405)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论](https://www.aibase.com/news/31373)
-   - 时间：8小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据](https://x.com/OpenAI/status/2103587050347995581)
-   - 时间：09-26 04:46
+11. [UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案](https://rdi.berkeley.edu/blog/trustworthy-benchmarks)
+   - 时间：1分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [值得注意的是，有多少人工智能研究人员（了解人工智能实际工作原理的人）既不相信人工智能末日，也不相信大规模的不可控加速，而非人工智能研究人员（知识有限）却……](https://x.com/mattturck/status/2104331402385002831)
-   - 时间：昨天 06:04
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-14. [顶尖 AI 研究人员呼吁对具备自我改进能力的 AI 实施监管](https://www.gelonghui.com/live/2692399)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models (AI Security Institute)](https://www.techmeme.com/260928/p29)
-   - 时间：53分钟前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+12. [Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请](https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图](https://aihot.news/items/k8sujz02e95ov1206fwycu9ci)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05](https://aihot.news/items/d6db33d5gkum5q95ntdszq48b)
+   - 时间：今天 04:44
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测](https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s)
+   - 时间：今天 02:30
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产业、算力与机器人
 
-16. [北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗](https://aihot.news/items/fxee0mj2zabmuypu49wy699z8)
-   - 时间：7小时前
+16. [中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%](https://www.aibase.com/news/31411)
+   - 时间：56分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元](https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu)
+   - 时间：今天 10:21
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击](https://www.aibase.com/news/31384)
-   - 时间：8小时前
-   - 来源：AIbase
+18. [OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施](https://aihot.news/items/o5ty6mik41dkck2ce917m7e7i)
+   - 时间：今天 09:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练](https://www.aibase.com/news/31381)
-   - 时间：8小时前
-   - 来源：AIbase
+19. [北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗](https://x.com/thexpin/status/2104508227451027712)
+   - 时间：昨天 17:47
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [千问APP支持中国移动算力套餐，用户可在工作助理中启用](https://www.aibase.com/news/31376)
-   - 时间：8小时前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价"借用"算力搞攻击](https://www.aibase.com/news/31364)
-   - 时间：昨天 09:56
-   - 来源：AIbase
+20. [Tomer Tunguz 解析 GPU 租金翻倍而 AI 价格下降的并行逻辑](https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper)
+   - 时间：昨天 08:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的](https://www.aibase.com/news/31388)
+21. [央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人](https://www.aibase.com/news/31416)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报](https://www.aibase.com/news/31387)
-   - 时间：11分钟前
+22. [AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁](https://www.aibase.com/news/31415)
+   - 时间：21分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [英伟达联合超100家伙伴推出开放代理安全平台](https://aihot.news/items/qnf8fa8fygvfw23p9if6pvj5c)
-   - 时间：7小时前
-   - 来源：AI HOT
+23. [麦肯锡：十年内约 1100 万美国人或因 AI 丢岗转行，真正的难题是"往哪转"](https://www.aibase.com/news/31412)
+   - 时间：34分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年](https://aihot.news/items/usolnb7i6x3qmicwmoza9dpvl)
-   - 时间：7小时前
-   - 来源：AI HOT
+24. [字节豆包要出独立个人助理App了，内部已秘密内测数月](https://www.aibase.com/news/31410)
+   - 时间：1小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [千问App接入夸克网盘，AI直接翻文件成新内容](https://www.aibase.com/news/31386)
-   - 时间：8小时前
+25. [微软报告：全球打工人里每五人就有一个用 AI，南北差距还在拉大](https://www.aibase.com/news/31408)
+   - 时间：4小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 620/2681 | 23.1% | 高信号源，建议保留 |
-| Buzzing | 430/1070 | 40.2% | 高信号源，建议保留 |
-| Info Flow | 147/542 | 27.1% | 高信号源，建议保留 |
-| TechURLs | 119/291 | 40.9% | 高信号源，建议保留 |
-| Zeli | 66/76 | 86.8% | 高信号源，建议保留 |
-| AIbase | 31/31 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 19/105 | 18.1% | 有少量有效信号，继续观察 |
-| AI HOT | 10/10 | 100.0% | 高信号源，建议保留 |
+| TopHub | 402/1655 | 24.3% | 高信号源，建议保留 |
+| Buzzing | 251/701 | 35.8% | 高信号源，建议保留 |
+| TechURLs | 99/256 | 38.7% | 高信号源，建议保留 |
+| Info Flow | 92/379 | 24.3% | 高信号源，建议保留 |
+| Zeli | 80/82 | 97.6% | 高信号源，建议保留 |
+| AIbase | 23/23 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 20/95 | 21.1% | 高信号源，建议保留 |
+| OPML RSS | 16/33 | 48.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
