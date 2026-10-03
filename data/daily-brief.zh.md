@@ -1,25 +1,25 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-03T19:10:45.993522Z
-- 24小时AI信号：1134 条
+- 生成时间：2026-10-03T22:22:22.544766Z
+- 24小时AI信号：1165 条
 - 源健康：12/14
-- 原始抓取：7158 条
+- 原始抓取：7329 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300](https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z)
-   - 时间：3小时前
+1. [Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点](https://www.primeintellect.ai/blog/prime-inference)
+   - 时间：1分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://aihot.news/items/uwm1ml1igd8k2u81g14uf8pc3)
+2. [LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300](https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z)
+   - 时间：6小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota)
    - 时间：昨天 05:09
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点](https://aihot.news/items/e54qt77e1upo9oqowk38fply1)
-   - 时间：昨天 04:37
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [ChatGPT 推出 Finances 财务管理功能](https://x.com/ChatGPT/status/2106083595433791573)
@@ -34,14 +34,14 @@
 ### 产品与开发者工具
 
 6. [【AIHOT 通知】订阅地址换到 aihot.news 了，请更新](https://aihot.news/agent?tab=rss)
-   - 时间：9小时前
+   - 时间：昨天 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok)
    - 时间：昨天 14:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型](https://aihot.news/items/bzodztryi4kvwm4kz9mrwb6nn)
+8. [GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型](https://x.com/arena/status/2106109027923140928)
    - 时间：昨天 03:48
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -60,20 +60,20 @@
    - 时间：1分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://aihot.news/items/fkxn0msd8ty9lmxchq77chupc)
+12. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m)
+   - 时间：30分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
    - 时间：昨天 03:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文](https://aihot.news/items/mnp85zt9o921l7c28rzor00qy)
+14. [Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文](https://x.com/AIatMeta/status/2106099776035152231)
    - 时间：昨天 03:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大](https://x.com/ArtificialAnlys/status/2105814318294114720)
+15. [Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大](https://x.com/ArtificialAnlys/status/2105814318294114720)
    - 时间：10-02 08:17
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件](https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool)
-   - 时间：10-02 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -95,8 +95,8 @@
    - 时间：10-02 07:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [2 万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停](https://www.huxiu.com/article/4895291.html?f=rss)
-   - 时间：3小时前
+20. [AI辅助重建老游戏遭到版权方打击 是技术实验还是侵权？](https://m.3dmgame.com/news/202610/3955263.html)
+   - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -118,23 +118,23 @@
    - 时间：10-02 04:35
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [无状态 GitHub 应用程序安装令牌推出](https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out)
-   - 时间：昨天 06:18
-   - 来源：Official AI Updates
-   - 评分：8.7/10 · matched_ai_signal
+25. [中国官媒：中美11月AI对话可聚焦风险分类分级标准等议题](https://www.zaochenbao.com/news/china/202610/0382513.html)
+   - 时间：今天 06:23
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 451/2233 | 20.2% | 高信号源，建议保留 |
-| Buzzing | 297/887 | 33.5% | 高信号源，建议保留 |
-| Info Flow | 125/452 | 27.7% | 高信号源，建议保留 |
-| TechURLs | 88/228 | 38.6% | 高信号源，建议保留 |
-| Zeli | 46/50 | 92.0% | 高信号源，建议保留 |
-| NewsNow | 28/133 | 21.1% | 高信号源，建议保留 |
-| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 6/23 | 26.1% | 高信号源，建议保留 |
+| TopHub | 483/2384 | 20.3% | 高信号源，建议保留 |
+| Buzzing | 324/895 | 36.2% | 高信号源，建议保留 |
+| Info Flow | 125/458 | 27.3% | 高信号源，建议保留 |
+| TechURLs | 74/204 | 36.3% | 高信号源，建议保留 |
+| Zeli | 42/44 | 95.5% | 高信号源，建议保留 |
+| NewsNow | 29/141 | 20.6% | 高信号源，建议保留 |
+| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
