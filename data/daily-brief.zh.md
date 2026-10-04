@@ -1,44 +1,44 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-04T14:18:46.205665Z
-- 24小时AI信号：1029 条
+- 生成时间：2026-10-04T18:18:38.797952Z
+- 24小时AI信号：1035 条
 - 源健康：12/14
-- 原始抓取：7455 条
+- 原始抓取：7405 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点](https://www.primeintellect.ai/blog/prime-inference)
-   - 时间：1分钟前
+1. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota)
+   - 时间：10-03 05:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300](https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z)
-   - 时间：昨天 23:50
+2. [ChatGPT 推出 Finances 财务管理功能](https://x.com/ChatGPT/status/2106083595433791573)
+   - 时间：10-03 02:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota)
-   - 时间：昨天 05:09
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [ChatGPT 推出 Finances 财务管理功能](https://x.com/ChatGPT/status/2106083595433791573)
-   - 时间：昨天 02:07
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Ai2 开源 8B 科学报告生成模型 AstaBrief](https://allenai.org/blog/astabrief)
+3. [Ai2 开源 8B 科学报告生成模型 AstaBrief](https://allenai.org/blog/astabrief)
    - 时间：10-02 16:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [OpenAI 披露内部模型从 Slack 获悉可能停机并提前准备重启事件](https://alignment.openai.com/misalignment-reports/preparing-for-a-restart-after-reading-slack)
+   - 时间：10-02 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名](https://x.com/arena/status/2105702037849841954)
+   - 时间：10-02 00:51
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://www.ithome.com/1/009/444.htm)
-   - 时间：昨天 14:18
+   - 时间：10-03 14:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型](https://x.com/arena/status/2106109027923140928)
-   - 时间：昨天 03:48
+   - 时间：10-03 03:48
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险](https://www.ithome.com/1/009/204.htm)
@@ -61,26 +61,26 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://aihot.news/items/gqh4yclcjmaci6uhur56580uh)
-   - 时间：今天 06:56
+   - 时间：昨天 06:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m)
-   - 时间：今天 05:52
+   - 时间：昨天 05:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
-   - 时间：昨天 03:33
+   - 时间：10-03 03:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文](https://x.com/AIatMeta/status/2106099776035152231)
-   - 时间：昨天 03:11
+   - 时间：10-03 03:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产业、算力与机器人
 
 16. [OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理](https://openai.com/index/practical-guide-building-gpt-6)
-   - 时间：昨天 00:15
+   - 时间：10-03 00:15
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [Google Project Suncatcher 首颗原型卫星发射入轨](https://x.com/GoogleAI/status/2106049984164463069)
@@ -96,7 +96,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [代理说已经完成了。数据库不同意。](https://huggingface.co/blog/microsoft/thinkingbox)
-   - 时间：今天 06:56
+   - 时间：昨天 06:56
    - 来源：OPML RSS
    - 评分：7.9/10 · matched_tracked_internet_keyword
 
@@ -119,7 +119,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier.](https://x.com/rauchg/status/2106503460384538793)
-   - 时间：今天 05:55
+   - 时间：昨天 05:55
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 415/2136 | 19.4% | 高信号源，建议保留 |
-| Buzzing | 287/756 | 38.0% | 高信号源，建议保留 |
-| Info Flow | 107/405 | 26.4% | 高信号源，建议保留 |
-| TechURLs | 61/175 | 34.9% | 高信号源，建议保留 |
-| Zeli | 46/48 | 95.8% | 高信号源，建议保留 |
-| NewsNow | 22/110 | 20.0% | 高信号源，建议保留 |
-| Follow Builders | 5/22 | 22.7% | 高信号源，建议保留 |
-| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
+| TopHub | 432/2161 | 20.0% | 高信号源，建议保留 |
+| Buzzing | 296/764 | 38.7% | 高信号源，建议保留 |
+| Info Flow | 103/388 | 26.5% | 高信号源，建议保留 |
+| TechURLs | 56/175 | 32.0% | 高信号源，建议保留 |
+| Zeli | 38/41 | 92.7% | 高信号源，建议保留 |
+| NewsNow | 22/100 | 22.0% | 高信号源，建议保留 |
+| Follow Builders | 4/19 | 21.1% | 高信号源，建议保留 |
+| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
