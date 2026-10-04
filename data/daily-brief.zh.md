@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-03T22:22:22.544766Z
-- 24小时AI信号：1165 条
+- 生成时间：2026-10-04T01:56:26.138502Z
+- 24小时AI信号：1284 条
 - 源健康：12/14
-- 原始抓取：7329 条
+- 原始抓取：7454 条
 
 ## 今日重点
 
@@ -15,7 +15,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300](https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z)
-   - 时间：6小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota)
@@ -60,20 +60,20 @@
    - 时间：1分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m)
-   - 时间：30分钟前
+12. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://aihot.news/items/gqh4yclcjmaci6uhur56580uh)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
+13. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
    - 时间：昨天 03:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文](https://x.com/AIatMeta/status/2106099776035152231)
+15. [Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文](https://x.com/AIatMeta/status/2106099776035152231)
    - 时间：昨天 03:11
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大](https://x.com/ArtificialAnlys/status/2105814318294114720)
-   - 时间：10-02 08:17
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -95,10 +95,10 @@
    - 时间：10-02 07:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [AI辅助重建老游戏遭到版权方打击 是技术实验还是侵权？](https://m.3dmgame.com/news/202610/3955263.html)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [代理说已经完成了。数据库不同意。](https://huggingface.co/blog/microsoft/thinkingbox)
+   - 时间：2小时前
+   - 来源：OPML RSS
+   - 评分：7.9/10 · matched_tracked_internet_keyword
 
 ### 实践技巧与观点
 
@@ -118,8 +118,8 @@
    - 时间：10-02 04:35
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [中国官媒：中美11月AI对话可聚焦风险分类分级标准等议题](https://www.zaochenbao.com/news/china/202610/0382513.html)
-   - 时间：今天 06:23
+25. [朝鲜试射AI中程导弹 韩朝地雷争议再升温](https://www.zaochenbao.com/news/politics/202610/0482536.html)
+   - 时间：今天 09:57
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 483/2384 | 20.3% | 高信号源，建议保留 |
-| Buzzing | 324/895 | 36.2% | 高信号源，建议保留 |
-| Info Flow | 125/458 | 27.3% | 高信号源，建议保留 |
+| TopHub | 563/2722 | 20.7% | 高信号源，建议保留 |
+| Buzzing | 356/917 | 38.8% | 高信号源，建议保留 |
+| Info Flow | 119/462 | 25.8% | 高信号源，建议保留 |
 | TechURLs | 74/204 | 36.3% | 高信号源，建议保留 |
-| Zeli | 42/44 | 95.5% | 高信号源，建议保留 |
-| NewsNow | 29/141 | 20.6% | 高信号源，建议保留 |
-| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 3/5 | 60.0% | 高信号源，建议保留 |
+| Zeli | 52/54 | 96.3% | 高信号源，建议保留 |
+| NewsNow | 31/150 | 20.7% | 高信号源，建议保留 |
+| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 4/6 | 66.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
