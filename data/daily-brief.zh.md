@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-04T08:18:02.781840Z
-- 24小时AI信号：1051 条
+- 生成时间：2026-10-04T14:18:46.205665Z
+- 24小时AI信号：1029 条
 - 源健康：12/14
-- 原始抓取：7439 条
+- 原始抓取：7455 条
 
 ## 今日重点
 
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [【AIHOT 通知】订阅地址换到 aihot.news 了，请更新](https://aihot.news/agent?tab=rss)
-   - 时间：昨天 18:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://www.ithome.com/1/009/444.htm)
+6. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://www.ithome.com/1/009/444.htm)
    - 时间：昨天 14:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型](https://x.com/arena/status/2106109027923140928)
+7. [GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型](https://x.com/arena/status/2106109027923140928)
    - 时间：昨天 03:48
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险](https://www.ithome.com/1/009/204.htm)
+8. [加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险](https://www.ithome.com/1/009/204.htm)
    - 时间：10-02 08:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件](https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file)
+9. [OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件](https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file)
    - 时间：10-02 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑](https://x.com/OpenRouter/status/2105759062835220852)
+   - 时间：10-02 04:37
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -61,11 +61,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://aihot.news/items/gqh4yclcjmaci6uhur56580uh)
-   - 时间：9小时前
+   - 时间：今天 06:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m)
-   - 时间：10小时前
+   - 时间：今天 05:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
@@ -96,7 +96,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [代理说已经完成了。数据库不同意。](https://huggingface.co/blog/microsoft/thinkingbox)
-   - 时间：9小时前
+   - 时间：今天 06:56
    - 来源：OPML RSS
    - 评分：7.9/10 · matched_tracked_internet_keyword
 
@@ -118,23 +118,23 @@
    - 时间：10-02 04:35
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [美情报总监任“AI沙皇” 将起草AI风险评估报告](https://www.zaochenbao.com/news/politics/202610/0482551.html)
-   - 时间：今天 16:19
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+25. [AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier.](https://x.com/rauchg/status/2106503460384538793)
+   - 时间：今天 05:55
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 443/2198 | 20.2% | 高信号源，建议保留 |
-| Buzzing | 276/740 | 37.3% | 高信号源，建议保留 |
-| Info Flow | 102/421 | 24.2% | 高信号源，建议保留 |
-| TechURLs | 70/204 | 34.3% | 高信号源，建议保留 |
-| Zeli | 51/53 | 96.2% | 高信号源，建议保留 |
-| NewsNow | 21/117 | 17.9% | 高信号源，建议保留 |
-| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 4/7 | 57.1% | 高信号源，建议保留 |
+| TopHub | 415/2136 | 19.4% | 高信号源，建议保留 |
+| Buzzing | 287/756 | 38.0% | 高信号源，建议保留 |
+| Info Flow | 107/405 | 26.4% | 高信号源，建议保留 |
+| TechURLs | 61/175 | 34.9% | 高信号源，建议保留 |
+| Zeli | 46/48 | 95.8% | 高信号源，建议保留 |
+| NewsNow | 22/110 | 20.0% | 高信号源，建议保留 |
+| Follow Builders | 5/22 | 22.7% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
