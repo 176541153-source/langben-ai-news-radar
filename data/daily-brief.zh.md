@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-04T01:56:26.138502Z
-- 24小时AI信号：1284 条
+- 生成时间：2026-10-04T08:18:02.781840Z
+- 24小时AI信号：1051 条
 - 源健康：12/14
-- 原始抓取：7454 条
+- 原始抓取：7439 条
 
 ## 今日重点
 
@@ -15,7 +15,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300](https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z)
-   - 时间：10小时前
+   - 时间：昨天 23:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota)
@@ -37,7 +37,7 @@
    - 时间：昨天 18:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://aihot.news/items/cyq72z49wj36fz07iy6o4mvok)
+7. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://www.ithome.com/1/009/444.htm)
    - 时间：昨天 14:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -61,11 +61,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://aihot.news/items/gqh4yclcjmaci6uhur56580uh)
-   - 时间：2小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m)
-   - 时间：4小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
@@ -96,7 +96,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [代理说已经完成了。数据库不同意。](https://huggingface.co/blog/microsoft/thinkingbox)
-   - 时间：2小时前
+   - 时间：9小时前
    - 来源：OPML RSS
    - 评分：7.9/10 · matched_tracked_internet_keyword
 
@@ -118,8 +118,8 @@
    - 时间：10-02 04:35
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [朝鲜试射AI中程导弹 韩朝地雷争议再升温](https://www.zaochenbao.com/news/politics/202610/0482536.html)
-   - 时间：今天 09:57
+25. [美情报总监任“AI沙皇” 将起草AI风险评估报告](https://www.zaochenbao.com/news/politics/202610/0482551.html)
+   - 时间：今天 16:19
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 563/2722 | 20.7% | 高信号源，建议保留 |
-| Buzzing | 356/917 | 38.8% | 高信号源，建议保留 |
-| Info Flow | 119/462 | 25.8% | 高信号源，建议保留 |
-| TechURLs | 74/204 | 36.3% | 高信号源，建议保留 |
-| Zeli | 52/54 | 96.3% | 高信号源，建议保留 |
-| NewsNow | 31/150 | 20.7% | 高信号源，建议保留 |
-| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 4/6 | 66.7% | 高信号源，建议保留 |
+| TopHub | 443/2198 | 20.2% | 高信号源，建议保留 |
+| Buzzing | 276/740 | 37.3% | 高信号源，建议保留 |
+| Info Flow | 102/421 | 24.2% | 高信号源，建议保留 |
+| TechURLs | 70/204 | 34.3% | 高信号源，建议保留 |
+| Zeli | 51/53 | 96.2% | 高信号源，建议保留 |
+| NewsNow | 21/117 | 17.9% | 高信号源，建议保留 |
+| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 4/7 | 57.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
