@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-04T21:51:01.776110Z
-- 24小时AI信号：1051 条
+- 生成时间：2026-10-05T00:41:50.143059Z
+- 24小时AI信号：1104 条
 - 源健康：12/14
-- 原始抓取：7392 条
+- 原始抓取：7410 条
 
 ## 今日重点
 
@@ -60,11 +60,11 @@
    - 时间：1分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://aihot.news/items/gqh4yclcjmaci6uhur56580uh)
+12. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://huggingface.co/blog/microsoft/thinkingbox)
    - 时间：昨天 06:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m)
+13. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://x.com/rohanpaul_ai/status/2106502600703222202)
    - 时间：昨天 05:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -95,46 +95,46 @@
    - 时间：10-02 07:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [代理说已经完成了。数据库不同意。](https://huggingface.co/blog/microsoft/thinkingbox)
-   - 时间：昨天 06:56
-   - 来源：OPML RSS
-   - 评分：7.9/10 · matched_tracked_internet_keyword
+20. [英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元](https://finance.jrj.com.cn/2026/10/05075458615289.shtml)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync)
+21. [PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄](https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n)
+   - 时间：17分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync)
    - 时间：10-02 21:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异](https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing)
+23. [OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异](https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing)
    - 时间：10-02 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成](https://x.com/krea_ai/status/2105769469880799716)
+24. [FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成](https://x.com/krea_ai/status/2105769469880799716)
    - 时间：10-02 05:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Suno 推出 Speech beta：语音与背景音乐一体生成](https://suno.com/blog/introducing-speech-beta)
+25. [Suno 推出 Speech beta：语音与背景音乐一体生成](https://suno.com/blog/introducing-speech-beta)
    - 时间：10-02 04:35
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier.](https://x.com/rauchg/status/2106503460384538793)
-   - 时间：昨天 05:55
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 429/2073 | 20.7% | 高信号源，建议保留 |
-| Buzzing | 315/780 | 40.4% | 高信号源，建议保留 |
-| Info Flow | 105/403 | 26.1% | 高信号源，建议保留 |
-| TechURLs | 58/177 | 32.8% | 高信号源，建议保留 |
-| Zeli | 33/40 | 82.5% | 高信号源，建议保留 |
-| NewsNow | 24/95 | 25.3% | 高信号源，建议保留 |
-| Follow Builders | 3/13 | 23.1% | 高信号源，建议保留 |
-| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
+| TopHub | 466/2187 | 21.3% | 高信号源，建议保留 |
+| Buzzing | 336/832 | 40.4% | 高信号源，建议保留 |
+| Info Flow | 104/399 | 26.1% | 高信号源，建议保留 |
+| TechURLs | 59/172 | 34.3% | 高信号源，建议保留 |
+| Zeli | 34/41 | 82.9% | 高信号源，建议保留 |
+| NewsNow | 22/94 | 23.4% | 高信号源，建议保留 |
+| AI HOT | 1/1 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 1/4 | 25.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
