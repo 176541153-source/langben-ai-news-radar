@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-05T06:49:14.674485Z
-- 24小时AI信号：1211 条
+- 生成时间：2026-10-05T15:50:25.695075Z
+- 24小时AI信号：1146 条
 - 源健康：12/14
-- 原始抓取：7443 条
+- 原始抓取：7458 条
 
 ## 今日重点
 
@@ -26,31 +26,31 @@
    - 时间：10-02 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名](https://x.com/arena/status/2105702037849841954)
-   - 时间：10-02 00:51
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [OpenAI 在 ChatGPT 中推出全新视觉广告形式](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
+   - 时间：5小时前
+   - 来源：OPML RSS
+   - 评分：8.3/10 · matched_tracked_ai_keyword
 
 ### 产品与开发者工具
 
-6. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://www.ithome.com/1/009/444.htm)
+6. [OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具](https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y)
+   - 时间：5小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件](https://www.ithome.com/1/009/444.htm)
    - 时间：10-03 14:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型](https://x.com/arena/status/2106109027923140928)
+8. [GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型](https://x.com/arena/status/2106109027923140928)
    - 时间：10-03 03:48
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险](https://www.ithome.com/1/009/204.htm)
+9. [加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险](https://www.ithome.com/1/009/204.htm)
    - 时间：10-02 08:06
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件](https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file)
+10. [OpenAI 披露一起模型利用 Perl 注入绕过工具限制复制源文件的失准事件](https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file)
    - 时间：10-02 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑](https://x.com/OpenRouter/status/2105759062835220852)
-   - 时间：10-02 04:37
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -60,20 +60,20 @@
    - 时间：1分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://huggingface.co/blog/microsoft/thinkingbox)
+12. [Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%](https://aihot.news/items/ef2o8x2jh4m8n7ggsq5bc5eag)
+   - 时间：今天 08:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体](https://huggingface.co/blog/microsoft/thinkingbox)
    - 时间：昨天 06:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://x.com/rohanpaul_ai/status/2106502600703222202)
+14. [Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善](https://x.com/rohanpaul_ai/status/2106502600703222202)
    - 时间：昨天 05:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
+15. [Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿](https://x.com/arena/status/2106105400487821764)
    - 时间：10-03 03:33
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文](https://x.com/AIatMeta/status/2106099776035152231)
-   - 时间：10-03 03:11
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -95,15 +95,15 @@
    - 时间：10-02 07:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [a16z对话：企业级软件都将被AI Agent重做一遍](https://wallstreetcn.com/articles/3782982)
-   - 时间：1分钟前
-   - 来源：TopHub
+20. [美国AI企业对中国同业领先优势大幅收窄  降至新低](https://www.zaochenbao.com/news/politics/202610/0582642.html)
+   - 时间：今天 23:51
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄](https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n)
-   - 时间：6小时前
+   - 时间：今天 08:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 481/2397 | 20.1% | 高信号源，建议保留 |
-| Buzzing | 399/1021 | 39.1% | 高信号源，建议保留 |
-| Info Flow | 119/447 | 26.6% | 高信号源，建议保留 |
-| TechURLs | 69/186 | 37.1% | 高信号源，建议保留 |
-| Zeli | 37/45 | 82.2% | 高信号源，建议保留 |
-| NewsNow | 24/98 | 24.5% | 高信号源，建议保留 |
-| AI HOT | 1/1 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 1/7 | 14.3% | 有少量有效信号，继续观察 |
+| TopHub | 378/1959 | 19.3% | 高信号源，建议保留 |
+| Buzzing | 377/1085 | 34.7% | 高信号源，建议保留 |
+| TechURLs | 121/246 | 49.2% | 高信号源，建议保留 |
+| Info Flow | 110/457 | 24.1% | 高信号源，建议保留 |
+| Zeli | 45/50 | 90.0% | 高信号源，建议保留 |
+| NewsNow | 22/85 | 25.9% | 高信号源，建议保留 |
+| Follow Builders | 8/18 | 44.4% | 高信号源，建议保留 |
+| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
