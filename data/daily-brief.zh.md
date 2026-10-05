@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-05T00:41:50.143059Z
-- 24小时AI信号：1104 条
+- 生成时间：2026-10-05T06:49:14.674485Z
+- 24小时AI信号：1211 条
 - 源健康：12/14
-- 原始抓取：7410 条
+- 原始抓取：7443 条
 
 ## 今日重点
 
@@ -95,7 +95,7 @@
    - 时间：10-02 07:44
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元](https://finance.jrj.com.cn/2026/10/05075458615289.shtml)
+20. [a16z对话：企业级软件都将被AI Agent重做一遍](https://wallstreetcn.com/articles/3782982)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄](https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n)
-   - 时间：17分钟前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 466/2187 | 21.3% | 高信号源，建议保留 |
-| Buzzing | 336/832 | 40.4% | 高信号源，建议保留 |
-| Info Flow | 104/399 | 26.1% | 高信号源，建议保留 |
-| TechURLs | 59/172 | 34.3% | 高信号源，建议保留 |
-| Zeli | 34/41 | 82.9% | 高信号源，建议保留 |
-| NewsNow | 22/94 | 23.4% | 高信号源，建议保留 |
+| TopHub | 481/2397 | 20.1% | 高信号源，建议保留 |
+| Buzzing | 399/1021 | 39.1% | 高信号源，建议保留 |
+| Info Flow | 119/447 | 26.6% | 高信号源，建议保留 |
+| TechURLs | 69/186 | 37.1% | 高信号源，建议保留 |
+| Zeli | 37/45 | 82.2% | 高信号源，建议保留 |
+| NewsNow | 24/98 | 24.5% | 高信号源，建议保留 |
 | AI HOT | 1/1 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 1/4 | 25.0% | 高信号源，建议保留 |
+| OPML RSS | 1/7 | 14.3% | 有少量有效信号，继续观察 |
 
 ## 维护提示
 
