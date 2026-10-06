@@ -1,48 +1,48 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-05T22:30:02.830809Z
-- 24小时AI信号：1114 条
+- 生成时间：2026-10-06T02:26:54.748698Z
+- 24小时AI信号：1191 条
 - 源健康：12/14
-- 原始抓取：7271 条
+- 原始抓取：7417 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Liquid AI 发布 d1 决策模型并新增图像输入能力](https://aihot.news/items/uu1qa3hh83kc9i4u832wpywyp)
+1. [Anthropic Cowork 改为云端运行模型推理与 VM](https://aihot.news/items/oj7q14paghhkh66541sg0xdgy)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [Liquid AI 发布 d1 决策模型并新增图像输入能力](https://www.liquid.ai/blog/d1-decision-model)
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota)
+3. [Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%](https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota)
    - 时间：10-03 05:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [ChatGPT 推出 Finances 财务管理功能](https://x.com/ChatGPT/status/2106083595433791573)
+4. [ChatGPT 推出 Finances 财务管理功能](https://x.com/ChatGPT/status/2106083595433791573)
    - 时间：10-03 02:07
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Ai2 开源 8B 科学报告生成模型 AstaBrief](https://allenai.org/blog/astabrief)
+5. [Ai2 开源 8B 科学报告生成模型 AstaBrief](https://allenai.org/blog/astabrief)
    - 时间：10-02 16:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Pi 1.0 与 Pi Durable 发布，Latent Space 同时汇总 Gemini 4 Argon、GPT-6.1 Sol 等动态](https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc)
-   - 时间：10-02 14:40
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上](https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1)
-   - 时间：2小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Wikimedia 基金会发现 OpenAI "流氓"智能体在维基媒体平台上的活动](https://aihot.news/items/ncv6u97zqan3hgzng59yel19f)
-   - 时间：4小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印](https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz)
-   - 时间：7小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具](https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y)
@@ -60,7 +60,7 @@
    - 时间：1分钟前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%](https://aihot.news/items/ef2o8x2jh4m8n7ggsq5bc5eag)
+12. [Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%](https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use)
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -91,22 +91,22 @@
    - 时间：10-02 15:23
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast)
-   - 时间：10-02 07:44
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [美国AI企业对中国同业领先优势大幅收窄  降至新低](https://www.zaochenbao.com/news/politics/202610/0582642.html)
-   - 时间：今天 06:31
-   - 来源：TrendRadar
+19. [我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出「磁悬浮」高速轨道](https://www.ithome.com/1/009/941.htm)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [OpenAI 正与阿联酋基金及贝莱德洽谈 300 亿美元融资，投前估值约 1.4 万亿美元](https://www.theblockbeats.info/flash/370362)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄](https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n)
-   - 时间：昨天 08:24
+21. [卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众](https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过控制实现钓鱼与数据外泄](https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n)
+22. [PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过控制实现钓鱼与数据外泄](https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills)
    - 时间：昨天 08:24
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -118,23 +118,23 @@
    - 时间：10-02 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [We’re already starting to see what kind of new jobs AI is creating. AI requires significant technical work and surrounding services to deploy into the economy. This means jobs for AI engineers that build applied AI pr...](https://x.com/levie/status/2106893015063421357)
-   - 时间：昨天 07:43
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [秘密扫描添加了 Lovable、Supabase 等探测器](https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more)
+   - 时间：3小时前
+   - 来源：Official AI Updates
+   - 评分：8.7/10 · matched_ai_signal
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 340/1765 | 19.3% | 高信号源，建议保留 |
-| Buzzing | 325/1094 | 29.7% | 高信号源，建议保留 |
-| TechURLs | 157/303 | 51.8% | 高信号源，建议保留 |
-| Info Flow | 112/471 | 23.8% | 高信号源，建议保留 |
-| Zeli | 63/65 | 96.9% | 高信号源，建议保留 |
-| NewsNow | 22/85 | 25.9% | 高信号源，建议保留 |
-| AI HOT | 8/8 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 4/8 | 50.0% | 高信号源，建议保留 |
+| TopHub | 376/1909 | 19.7% | 高信号源，建议保留 |
+| Buzzing | 328/1126 | 29.1% | 高信号源，建议保留 |
+| TechURLs | 170/333 | 51.1% | 高信号源，建议保留 |
+| Info Flow | 131/486 | 27.0% | 高信号源，建议保留 |
+| Zeli | 74/78 | 94.9% | 高信号源，建议保留 |
+| NewsNow | 22/94 | 23.4% | 高信号源，建议保留 |
+| AI HOT | 6/6 | 100.0% | 高信号源，建议保留 |
+| Official AI Updates | 2/4 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
