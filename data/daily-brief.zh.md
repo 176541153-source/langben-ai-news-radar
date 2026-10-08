@@ -1,63 +1,63 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-08T00:07:59.318810Z
-- 24小时AI信号：1620 条
+- 生成时间：2026-10-08T06:32:59.981054Z
+- 24小时AI信号：1689 条
 - 源健康：12/14
-- 原始抓取：7460 条
+- 原始抓取：7522 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [GPT-6 Luna Decisions 上架 OpenRouter](https://aihot.news/items/x40bi9csoomsdaflejehop22y)
-   - 时间：3小时前
-   - 来源：AI HOT
+1. [谷歌调整Gemini订阅策略:10月9日起免费版仅留Flash-Lite，付费阶梯进一步拉开](https://www.aibase.com/news/31471)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43](https://aihot.news/items/r8dupnljjbgk9r9lio9w0o6u6)
-   - 时间：4小时前
-   - 来源：AI HOT
+2. [PFN发布PLaMo 3 Translate 31B模型，翻译实力叫板顶尖巨头](https://www.aibase.com/news/31470)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题](https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k)
-   - 时间：5小时前
-   - 来源：AI HOT
+3. [AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状](https://www.aibase.com/news/31469)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10](https://aihot.news/items/zn6imszjo14gki6kr2uyydknp)
-   - 时间：6小时前
-   - 来源：AI HOT
+4. [Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本](https://www.aibase.com/news/31467)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI](https://aihot.news/items/uir31g728myjry383z17txvrw)
-   - 时间：6小时前
-   - 来源：AI HOT
+5. [美国地方媒体组团起诉微软OpenAI：数万篇文章被喂进模型，一文钱没给](https://www.aibase.com/news/31466)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [GitHub Copilot 中的克劳德俳句 5.5](https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot)
-   - 时间：3小时前
-   - 来源：Official AI Updates
-   - 评分：10.0/10 · matched_tracked_ai_keyword
-7. [LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载](https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h)
-   - 时间：5小时前
-   - 来源：AI HOT
+6. [微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理](https://www.aibase.com/news/31464)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC](https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd)
-   - 时间：5小时前
-   - 来源：AI HOT
+7. [WordPress 7.1. 3 紧急修补 7 洞：Anthropic反过来给全球建站系统补漏](https://www.aibase.com/news/31460)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格](https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv)
-   - 时间：5小时前
-   - 来源：AI HOT
+8. [Claude悄悄上线简繁体中文界面：产品菜单中文化，官方尚未官宣](https://www.aibase.com/news/31458)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度](https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5)
-   - 时间：5小时前
-   - 来源：AI HOT
+9. [谷歌Gmail暗藏Gemini智能体：APK拆解泄露，未来让AI替你回邮件](https://www.aibase.com/news/31456)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [OpenAI首份青少年报告出炉：日均使用不足 15 分钟，家长提醒机制遭质疑](https://www.aibase.com/news/31454)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架](https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l)
-   - 时间：8小时前
+   - 时间：今天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断](https://research.google/blog/does-better-work-always-mean-better-workers)
@@ -68,58 +68,58 @@
    - 时间：昨天 07:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Stanford HAI 研究：想让员工拥抱 AI，别把它包装成效率工具](https://hai.stanford.edu/news/want-employees-to-embrace-ai-stop-selling-it-as-a-productivity-tool)
+14. [Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 评测得分 43](https://artificialanalysis.ai/articles/claude-haiku-5-5)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [AI公开的722篇论文会影响数学吗](https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97)
-   - 时间：14分钟前
-   - 来源：TrendRadar
+15. [OpenAI称青少年使用ChatGPT的情况有限，但研究发现这存在“不可接受的风险” - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQjdvVUZMXzVVUHE0TDExcHh2ejJWYnJFazh4QTVYSjFfQkcwU21KVjJvRUs4VktZbnpkNzVhSzNhMzZteHp2QnhxTDBXbHB2TWNNYVFocVhFRWM?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：3小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与](https://x.com/thexpin/status/2107524306058289533)
-   - 时间：昨天 01:32
+16. [Manus 母公司完成新一轮超5亿美元融资，腾讯红杉继续加码](https://www.aibase.com/news/31468)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [微软重磅发布全新英伟达芯片 AI PC：搭载 RTX Spark 芯片与全新 Windows 11，起售价 2，600 美元](https://www.aibase.com/news/31463)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？](https://www.aibase.com/news/31462)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目](https://www.aibase.com/news/31457)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移](https://aihot.news/agent?tab=api#legacy-api-migration)
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议](https://sierra.ai/blog/introducing-personal-agent-protocol)
-   - 时间：昨天 01:32
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [网络将成为未来几年人工智能最具定义性的领域之一，也是大多数企业关注的一个巨大领域。人工智能现在将为安全工作创造一个全新的水平，以应对v...](https://x.com/levie/status/2107680435644039269)
-   - 时间：昨天 11:52
-   - 来源：Follow Builders
-   - 评分：8.1/10 · matched_tracked_ai_keyword
-19. [New Constructs 给 Anthropic 估值 1500 亿美元，称其“2026 年最荒唐 IPO”](https://www.ithome.com/1/010/360.htm)
-   - 时间：19分钟前
-   - 来源：Info Flow
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [机器人数据初创公司 Mecka AI 从红杉资本获得 6000 万美元投资](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia)
-   - 时间：31分钟前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑](https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy)
-   - 时间：9小时前
+21. [科技巨头争夺顶级域名！AI 成为新一轮申请热门](https://www.aibase.com/news/31465)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑](https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy)
+   - 时间：昨天 22:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [a16z 解析德州为何让数据中心排队等电](https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki)
-   - 时间：10小时前
+23. [a16z 解析德州为何让数据中心排队等电](https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki)
+   - 时间：昨天 22:01
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平](https://aihot.news/items/r96kyuxfie0w9mup4206gzn29)
-   - 时间：11小时前
+24. [Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平](https://aihot.news/items/r96kyuxfie0w9mup4206gzn29)
+   - 时间：昨天 20:45
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534](https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt)
+25. [Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534](https://x.com/arena/status/2107717155374727602)
    - 时间：昨天 14:18
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑](https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight)
-   - 时间：昨天 03:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 635/2445 | 26.0% | 高信号源，建议保留 |
-| Buzzing | 417/1269 | 32.9% | 高信号源，建议保留 |
-| TechURLs | 180/420 | 42.9% | 高信号源，建议保留 |
-| Info Flow | 178/563 | 31.6% | 高信号源，建议保留 |
-| Zeli | 71/79 | 89.9% | 高信号源，建议保留 |
-| NewsNow | 23/102 | 22.5% | 高信号源，建议保留 |
-| AI HOT | 17/18 | 94.4% | 高信号源，建议保留 |
-| OPML RSS | 9/19 | 47.4% | 高信号源，建议保留 |
+| TopHub | 680/2625 | 25.9% | 高信号源，建议保留 |
+| Buzzing | 411/1282 | 32.1% | 高信号源，建议保留 |
+| Info Flow | 188/619 | 30.4% | 高信号源，建议保留 |
+| TechURLs | 182/422 | 43.1% | 高信号源，建议保留 |
+| Zeli | 64/71 | 90.1% | 高信号源，建议保留 |
+| NewsNow | 26/102 | 25.5% | 高信号源，建议保留 |
+| AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 18/19 | 94.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
