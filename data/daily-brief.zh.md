@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-10T23:24:04.753914Z
-- 24小时AI信号：1286 条
+- 生成时间：2026-10-11T02:06:19.819879Z
+- 24小时AI信号：1282 条
 - 源健康：12/14
-- 原始抓取：7388 条
+- 原始抓取：7442 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了](https://aihot.news/items/o5zngxopb4x93yjjnyafkvgxa)
-   - 时间：9小时前
+   - 时间：昨天 21:56
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感](https://aihot.news/items/z9juuqdd3d8fejwabu0xzvbaa)
-   - 时间：10小时前
+   - 时间：昨天 21:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [多模态决策大模型迎来开源新突破！Cloudflare 正式发布 Clef-omni，全面支持音视频原生输入](https://www.aibase.com/news/31537)
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境](https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp)
-   - 时间：1小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill](https://www.aibase.com/news/31546)
@@ -60,7 +60,7 @@
    - 时间：昨天 17:41
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网](https://aihot.news/items/kurqidh0vhim22o3emphqjv46)
+12. [Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead)
    - 时间：昨天 08:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 581/2298 | 25.3% | 高信号源，建议保留 |
-| Buzzing | 303/789 | 38.4% | 高信号源，建议保留 |
-| Info Flow | 142/494 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 78/219 | 35.6% | 高信号源，建议保留 |
-| Zeli | 46/50 | 92.0% | 高信号源，建议保留 |
+| TopHub | 563/2286 | 24.6% | 高信号源，建议保留 |
+| Buzzing | 316/805 | 39.3% | 高信号源，建议保留 |
+| Info Flow | 147/520 | 28.3% | 高信号源，建议保留 |
+| TechURLs | 77/213 | 36.2% | 高信号源，建议保留 |
+| Zeli | 43/47 | 91.5% | 高信号源，建议保留 |
 | AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 15/84 | 17.9% | 有少量有效信号，继续观察 |
-| OPML RSS | 10/18 | 55.6% | 高信号源，建议保留 |
+| NewsNow | 17/84 | 20.2% | 高信号源，建议保留 |
+| OPML RSS | 11/20 | 55.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
