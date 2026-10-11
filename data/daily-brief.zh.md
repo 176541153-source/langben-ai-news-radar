@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-11T19:39:53.640647Z
-- 24小时AI信号：1146 条
+- 生成时间：2026-10-11T23:33:36.923681Z
+- 24小时AI信号：1008 条
 - 源健康：12/14
-- 原始抓取：7158 条
+- 原始抓取：7352 条
 
 ## 今日重点
 
@@ -33,7 +33,7 @@
 
 ### 产品与开发者工具
 
-6. [OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境](https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp)
+6. [OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out)
    - 时间：昨天 05:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -115,11 +115,11 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [世贸组织：人工智能热正成为全球贸易引擎](https://ckxxapp.ckxx.net/pages/2026/10/11/c3d4baaa614e4843ab884bdbaf55c9d8.html)
-   - 时间：今天 03:45
+   - 时间：今天 07:42
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 25. [特朗普要求人工智能巨头自我监管](https://www.zaochenbao.com/news/politics/202610/1183089.html)
-   - 时间：今天 03:45
+   - 时间：今天 07:42
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 536/2368 | 22.6% | 高信号源，建议保留 |
-| Buzzing | 262/744 | 35.2% | 高信号源，建议保留 |
-| Info Flow | 125/470 | 26.6% | 高信号源，建议保留 |
-| TechURLs | 63/179 | 35.2% | 高信号源，建议保留 |
-| Zeli | 57/60 | 95.0% | 高信号源，建议保留 |
-| NewsNow | 19/106 | 17.9% | 有少量有效信号，继续观察 |
+| TopHub | 439/1955 | 22.5% | 高信号源，建议保留 |
+| Buzzing | 216/631 | 34.2% | 高信号源，建议保留 |
+| Info Flow | 125/485 | 25.8% | 高信号源，建议保留 |
+| Zeli | 65/70 | 92.9% | 高信号源，建议保留 |
+| TechURLs | 61/178 | 34.3% | 高信号源，建议保留 |
+| NewsNow | 19/105 | 18.1% | 有少量有效信号，继续观察 |
 | OPML RSS | 3/6 | 50.0% | 高信号源，建议保留 |
-| AI HOT | 1/1 | 100.0% | 高信号源，建议保留 |
+| AI HOT | 0/0 | 0.0% | 24小时没有新内容 |
 
 ## 维护提示
 
