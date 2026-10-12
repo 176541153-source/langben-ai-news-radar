@@ -1,56 +1,56 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-11T23:33:36.923681Z
-- 24小时AI信号：1008 条
+- 生成时间：2026-10-12T02:36:42.748151Z
+- 24小时AI信号：1152 条
 - 源健康：12/14
-- 原始抓取：7352 条
+- 原始抓取：7476 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了](https://x.com/SaitoWu/status/2108919486581796872)
-   - 时间：10-10 21:56
-   - 来源：AI HOT
+1. [腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算](https://www.aibase.com/news/31559)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感](https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field)
-   - 时间：10-10 21:03
-   - 来源：AI HOT
+2. [Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI](https://www.aibase.com/news/31556)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Anthropic 承认模型对自身推理的解释不可作为行为动机的证据](https://x.com/rohanpaul_ai/status/2108741349419913339)
-   - 时间：10-10 10:08
-   - 来源：AI HOT
+3. [微软CEO纳德拉发声:呼吁为先进AI模型设立人类可控的“紧急制动”机制](https://www.aibase.com/news/31553)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索](https://x.com/rohanpaul_ai/status/2108681738767740983)
-   - 时间：10-10 06:11
-   - 来源：AI HOT
+4. [OpenAI给GPT-6.1 Sol扩容记忆：默认上下文顶到 50 万，长文本不再单独计费](https://www.aibase.com/news/31548)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI 失准报告：内部模型绕过仅限 GET 的网络限制并隐瞒违规行为](https://alignment.openai.com/misalignment-reports/obtaining-public-statistics-with-disallowed-requests)
-   - 时间：10-09 08:00
+5. [AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star](https://aihot.news/items/u9f1ozdbs5nobwugj3yss3z0e)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out)
+6. [OpenAI悄悄挂出未发布生命科学模型gpt-rosalind-discovery，要给药企当"工具贩子"](https://www.aibase.com/news/31554)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体](https://www.aibase.com/news/31550)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽](https://www.aibase.com/news/31549)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k](https://aihot.news/items/z54sznsd0r2teb6gqyvwu4nc2)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out)
    - 时间：昨天 05:30
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站](https://www.ithome.com/1/011/194.htm)
-   - 时间：10-10 09:07
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴](https://sierra.ai/blog/poppy)
-   - 时间：10-10 03:56
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Mistral Large 4 进入 Agent Arena 前十五实验室，排名第 43](https://x.com/arena/status/2108405474391728357)
-   - 时间：10-09 11:53
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域](https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field)
-   - 时间：10-09 02:17
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -79,62 +79,62 @@
 
 ### 产业、算力与机器人
 
-16. [OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital)
+16. [亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片"通用适配器"](https://www.aibase.com/news/31552)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的"万能转接头"](https://www.aibase.com/news/31551)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital)
    - 时间：10-10 01:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元](https://www.ithome.com/1/010/751.htm)
+19. [OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元](https://www.ithome.com/1/010/751.htm)
    - 时间：10-09 07:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index](https://x.com/arena/status/2108310714423423254)
+20. [Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index](https://x.com/arena/status/2108310714423423254)
    - 时间：10-09 05:36
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index](https://x.com/arena/status/2108269048467513429)
-   - 时间：10-09 02:51
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index](https://x.com/arena/status/2108243026741248348)
-   - 时间：10-09 01:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全](https://x.com/indigox/status/2108791275914993998)
+21. [苹果加码智能家居生态，计划联合LG推出门锁、门铃等设备](https://www.aibase.com/news/31558)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元](https://www.aibase.com/news/31557)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [特朗普强推 AI 改名"超级智能"，硅谷巨头排队照办](https://www.aibase.com/news/31555)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全](https://x.com/indigox/status/2108791275914993998)
    - 时间：10-10 13:26
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜](https://x.com/arcprize/status/2108578092558250148)
+25. [ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜](https://x.com/arcprize/status/2108578092558250148)
    - 时间：10-09 23:19
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频](https://blog.comfy.org/p/how-i-generated-live-video-with-minimax)
-   - 时间：10-09 03:01
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [世贸组织：人工智能热正成为全球贸易引擎](https://ckxxapp.ckxx.net/pages/2026/10/11/c3d4baaa614e4843ab884bdbaf55c9d8.html)
-   - 时间：今天 07:42
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [特朗普要求人工智能巨头自我监管](https://www.zaochenbao.com/news/politics/202610/1183089.html)
-   - 时间：今天 07:42
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 439/1955 | 22.5% | 高信号源，建议保留 |
-| Buzzing | 216/631 | 34.2% | 高信号源，建议保留 |
-| Info Flow | 125/485 | 25.8% | 高信号源，建议保留 |
-| Zeli | 65/70 | 92.9% | 高信号源，建议保留 |
+| TopHub | 472/2082 | 22.7% | 高信号源，建议保留 |
+| Buzzing | 266/798 | 33.3% | 高信号源，建议保留 |
+| Info Flow | 164/582 | 28.2% | 高信号源，建议保留 |
+| Zeli | 71/75 | 94.7% | 高信号源，建议保留 |
 | TechURLs | 61/178 | 34.3% | 高信号源，建议保留 |
-| NewsNow | 19/105 | 18.1% | 有少量有效信号，继续观察 |
-| OPML RSS | 3/6 | 50.0% | 高信号源，建议保留 |
-| AI HOT | 0/0 | 0.0% | 24小时没有新内容 |
+| NewsNow | 20/120 | 16.7% | 高信号源，建议保留 |
+| AIbase | 12/12 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 4/7 | 57.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
