@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-17T04:06:45.980104Z
-- 24小时AI信号：2085 条
+- 生成时间：2026-10-17T08:29:54.705874Z
+- 24小时AI信号：2191 条
 - 源健康：13/14
-- 原始抓取：7519 条
+- 原始抓取：7566 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审](https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv)
-   - 时间：2小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一](https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp)
-   - 时间：5小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码](https://aihot.news/items/kygipgwqrajle6hctg9nqid7w)
-   - 时间：9小时前
+   - 时间：今天 03:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型](https://www.aibase.com/news/31699)
@@ -33,23 +33,23 @@
 
 ### 产品与开发者工具
 
-6. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc)
+6. [DeepSeek 开放自研搜索 API](https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg)
+   - 时间：今天 00:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变](https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr)
+   - 时间：今天 00:00
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc)
    - 时间：昨天 22:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [小红书强化 AI 技术与产品协同，明确模型应用优先方向](https://www.aibase.com/news/31701)
+9. [小红书强化 AI 技术与产品协同，明确模型应用优先方向](https://www.aibase.com/news/31701)
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波](https://www.aibase.com/news/31696)
-   - 时间：昨天 17:13
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [“中国版OpenRouter”的基元律动开发者突破30万，推出双11充值永久有效福利](https://www.aibase.com/news/31695)
-   - 时间：昨天 17:13
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Cursor 调查 Grok Bot 内部测试数据或涉机密信息问题](https://www.aibase.com/news/31686)
+10. [Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波](https://www.aibase.com/news/31696)
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -72,10 +72,10 @@
    - 时间：昨天 00:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟](https://www.anthropic.com/research/ai-expectations-gap)
-   - 时间：昨天 00:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
+15. [如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？](https://www.zhihu.com/question/2094037238065714517)
+   - 时间：4小时前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
@@ -91,11 +91,11 @@
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见](https://aihot.news/items/p11tj593iq5nrtiotvoxllop4)
+19. [商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见](https://www.ithome.com/1/013/983.htm)
    - 时间：昨天 16:23
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Waymo 宣布进军多伦多，计划2028年迎接首批乘客](https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es)
+20. [Waymo 宣布进军多伦多，计划2028年迎接首批乘客](https://waymo.com/blog/2026/10/waymo-in-toronto)
    - 时间：昨天 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 962/3239 | 29.7% | 高信号源，建议保留 |
-| Buzzing | 506/1310 | 38.6% | 高信号源，建议保留 |
-| Info Flow | 210/673 | 31.2% | 高信号源，建议保留 |
-| TechURLs | 178/357 | 49.9% | 高信号源，建议保留 |
-| Zeli | 69/77 | 89.6% | 高信号源，建议保留 |
-| NewsNow | 36/134 | 26.9% | 高信号源，建议保留 |
+| TopHub | 1077/3713 | 29.0% | 高信号源，建议保留 |
+| Buzzing | 483/1299 | 37.2% | 高信号源，建议保留 |
+| Info Flow | 214/672 | 31.8% | 高信号源，建议保留 |
+| TechURLs | 174/363 | 47.9% | 高信号源，建议保留 |
+| Zeli | 67/75 | 89.3% | 高信号源，建议保留 |
+| NewsNow | 41/159 | 25.8% | 高信号源，建议保留 |
 | AIbase | 21/21 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 13/19 | 68.4% | 高信号源，建议保留 |
+| OPML RSS | 14/20 | 70.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
