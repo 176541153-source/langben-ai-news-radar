@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-17T18:22:13.759647Z
-- 24小时AI信号：1552 条
+- 生成时间：2026-10-17T20:51:54.975720Z
+- 24小时AI信号：1543 条
 - 源健康：13/14
-- 原始抓取：7477 条
+- 原始抓取：7483 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费](https://aihot.news/items/xgj246drlw70qbgypibz6atla)
-   - 时间：7小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审](https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv)
@@ -22,11 +22,11 @@
    - 时间：昨天 06:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码](https://aihot.news/items/kygipgwqrajle6hctg9nqid7w)
-   - 时间：昨天 03:05
+4. [Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用](https://ollama.com/blog/reflection-beam)
+   - 时间：10-16 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用](https://ollama.com/blog/reflection-beam)
+5. [vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持](https://vllm.ai/blog/2026-10-16-reflection-beam)
    - 时间：10-16 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -68,13 +68,13 @@
    - 时间：10-16 04:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [一位心脏病学研究员构建了一个 3D 工具来帮助学员学习阅读冠状动脉血管造影照片。 https://t.co/IG6JVPawD7](https://x.com/claudeai/status/2111177843413807120)
-   - 时间：昨天 03:29
-   - 来源：Follow Builders
-   - 评分：8.5/10 · matched_tracked_ai_keyword
-15. [人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。](https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10)
-   - 时间：4小时前
+14. [人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。](https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10)
+   - 时间：6小时前
    - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。](https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10)
+   - 时间：6小时前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由](https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 721/2508 | 28.7% | 高信号源，建议保留 |
-| Buzzing | 410/1097 | 37.4% | 高信号源，建议保留 |
-| Info Flow | 177/544 | 32.5% | 高信号源，建议保留 |
-| TechURLs | 91/256 | 35.5% | 高信号源，建议保留 |
-| Zeli | 39/47 | 83.0% | 高信号源，建议保留 |
-| NewsNow | 19/101 | 18.8% | 有少量有效信号，继续观察 |
-| Follow Builders | 7/26 | 26.9% | 高信号源，建议保留 |
-| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
+| TopHub | 753/2673 | 28.2% | 高信号源，建议保留 |
+| Buzzing | 368/976 | 37.7% | 高信号源，建议保留 |
+| Info Flow | 174/538 | 32.3% | 高信号源，建议保留 |
+| TechURLs | 96/268 | 35.8% | 高信号源，建议保留 |
+| Zeli | 45/49 | 91.8% | 高信号源，建议保留 |
+| NewsNow | 18/102 | 17.6% | 有少量有效信号，继续观察 |
+| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 3/19 | 15.8% | 有少量有效信号，继续观察 |
 
 ## 维护提示
 
