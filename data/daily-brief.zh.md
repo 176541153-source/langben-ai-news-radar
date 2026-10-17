@@ -1,32 +1,32 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-16T21:36:09.230942Z
-- 24小时AI信号：1753 条
+- 生成时间：2026-10-16T23:50:04.275658Z
+- 24小时AI信号：1887 条
 - 源健康：13/14
-- 原始抓取：7482 条
+- 原始抓取：7508 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码](https://aihot.news/items/kygipgwqrajle6hctg9nqid7w)
-   - 时间：2小时前
+1. [Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一](https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型](https://www.aibase.com/news/31699)
+2. [Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码](https://aihot.news/items/kygipgwqrajle6hctg9nqid7w)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型](https://www.aibase.com/news/31699)
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [阅文发布首批AI精品动画并升级OPC平台](https://www.aibase.com/news/31698)
+4. [阅文发布首批AI精品动画并升级OPC平台](https://www.aibase.com/news/31698)
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信](https://www.aibase.com/news/31697)
-   - 时间：昨天 17:13
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线](https://www.aibase.com/news/31694)
+5. [ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信](https://www.aibase.com/news/31697)
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [小红书强化 AI 技术与产品协同，明确模型应用优先方向](https://www.aibase.com/news/31701)
@@ -72,7 +72,7 @@
    - 时间：昨天 00:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
+15. [Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟](https://www.anthropic.com/research/ai-expectations-gap)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争](https://www.aibase.com/news/31702)
-   - 时间：7小时前
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明](https://www.aibase.com/news/31692)
@@ -127,12 +127,12 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 718/2481 | 28.9% | 高信号源，建议保留 |
-| Buzzing | 428/1186 | 36.1% | 高信号源，建议保留 |
-| TechURLs | 183/365 | 50.1% | 高信号源，建议保留 |
-| Info Flow | 181/608 | 29.8% | 高信号源，建议保留 |
-| Zeli | 71/81 | 87.7% | 高信号源，建议保留 |
-| NewsNow | 36/127 | 28.3% | 高信号源，建议保留 |
+| TopHub | 788/2672 | 29.5% | 高信号源，建议保留 |
+| Buzzing | 481/1258 | 38.2% | 高信号源，建议保留 |
+| Info Flow | 190/622 | 30.5% | 高信号源，建议保留 |
+| TechURLs | 184/363 | 50.7% | 高信号源，建议保留 |
+| Zeli | 72/81 | 88.9% | 高信号源，建议保留 |
+| NewsNow | 36/126 | 28.6% | 高信号源，建议保留 |
 | AIbase | 21/21 | 100.0% | 高信号源，建议保留 |
 | AI HOT | 16/16 | 100.0% | 高信号源，建议保留 |
 
