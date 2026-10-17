@@ -1,32 +1,32 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-16T23:50:04.275658Z
-- 24小时AI信号：1887 条
+- 生成时间：2026-10-17T04:06:45.980104Z
+- 24小时AI信号：2085 条
 - 源健康：13/14
-- 原始抓取：7508 条
+- 原始抓取：7519 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一](https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp)
-   - 时间：1小时前
+1. [Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审](https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv)
+   - 时间：2小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码](https://aihot.news/items/kygipgwqrajle6hctg9nqid7w)
-   - 时间：4小时前
+2. [Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一](https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp)
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型](https://www.aibase.com/news/31699)
+3. [Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码](https://aihot.news/items/kygipgwqrajle6hctg9nqid7w)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型](https://www.aibase.com/news/31699)
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [阅文发布首批AI精品动画并升级OPC平台](https://www.aibase.com/news/31698)
-   - 时间：昨天 17:13
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信](https://www.aibase.com/news/31697)
+5. [阅文发布首批AI精品动画并升级OPC平台](https://www.aibase.com/news/31698)
    - 时间：昨天 17:13
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc)
-   - 时间：9小时前
+   - 时间：昨天 22:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [小红书强化 AI 技术与产品协同，明确模型应用优先方向](https://www.aibase.com/news/31701)
@@ -56,11 +56,11 @@
 
 ### 论文研究与评测
 
-11. [PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%](https://aihot.news/items/y1c13l53cd5u3wg565qu60q4d)
+11. [PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%](https://www.promptarmor.com/resources/open-weight-susceptibility)
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计](https://aihot.news/items/kovelcbltjj7xf054h8mffaxo)
+12. [Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs)
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -103,11 +103,11 @@
 ### 实践技巧与观点
 
 21. [AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争](https://www.aibase.com/news/31702)
-   - 时间：9小时前
+   - 时间：昨天 22:09
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr)
-   - 时间：11小时前
+   - 时间：昨天 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明](https://www.aibase.com/news/31692)
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 788/2672 | 29.5% | 高信号源，建议保留 |
-| Buzzing | 481/1258 | 38.2% | 高信号源，建议保留 |
-| Info Flow | 190/622 | 30.5% | 高信号源，建议保留 |
-| TechURLs | 184/363 | 50.7% | 高信号源，建议保留 |
-| Zeli | 72/81 | 88.9% | 高信号源，建议保留 |
-| NewsNow | 36/126 | 28.6% | 高信号源，建议保留 |
+| TopHub | 962/3239 | 29.7% | 高信号源，建议保留 |
+| Buzzing | 506/1310 | 38.6% | 高信号源，建议保留 |
+| Info Flow | 210/673 | 31.2% | 高信号源，建议保留 |
+| TechURLs | 178/357 | 49.9% | 高信号源，建议保留 |
+| Zeli | 69/77 | 89.6% | 高信号源，建议保留 |
+| NewsNow | 36/134 | 26.9% | 高信号源，建议保留 |
 | AIbase | 21/21 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 16/16 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 13/19 | 68.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
