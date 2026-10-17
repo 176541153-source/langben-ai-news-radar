@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-17T12:20:32.495142Z
-- 24小时AI信号：1823 条
+- 生成时间：2026-10-17T15:51:38.633933Z
+- 24小时AI信号：1655 条
 - 源健康：13/14
-- 原始抓取：7555 条
+- 原始抓取：7562 条
 
 ## 今日重点
 
@@ -11,11 +11,11 @@
 ### 模型发布与能力更新
 
 1. [WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费](https://aihot.news/items/xgj246drlw70qbgypibz6atla)
-   - 时间：1小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审](https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv)
-   - 时间：10小时前
+   - 时间：今天 09:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一](https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp)
@@ -41,7 +41,7 @@
    - 时间：今天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc)
+8. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://www.a16z.news/p/this-week-in-charts-agents-denied)
    - 时间：昨天 22:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -68,13 +68,13 @@
    - 时间：昨天 04:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？](https://www.zhihu.com/question/2094037238065714517)
-   - 时间：8小时前
-   - 来源：TopHub
+14. [AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机](https://www.thepaper.cn/newsDetail_forward_34263975)
+   - 时间：10-18 00:01
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [请问各位研究生 / 博士生，AI agents 可以代替你的导师指导科研吗？](https://www.zhihu.com/question/2085720951812109785)
-   - 时间：今天 07:50
-   - 来源：TopHub
+15. [DeepSeek releases V4.1-Flash-1017, an update it says offers "stronger benchmark performance, faster task completion, and shorter outputs" than its predecessor (Saritha Rai/Bloomberg)](https://www.techmeme.com/261017/p13)
+   - 时间：51分钟前
+   - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -103,38 +103,38 @@
 ### 实践技巧与观点
 
 21. [卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由](https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz)
-   - 时间：2小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争](https://www.aibase.com/news/31702)
-   - 时间：昨天 22:09
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)
+22. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)
    - 时间：昨天 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑](https://www.ithome.com/1/013/914.htm)
+23. [丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑](https://www.ithome.com/1/013/914.htm)
    - 时间：昨天 14:14
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Meta 如何用 AI 原生工程方式开发 Forum 应用](https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering)
+24. [Meta 如何用 AI 原生工程方式开发 Forum 应用](https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering)
    - 时间：昨天 03:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [ok i really need the prompt(s) for this video because this is near-kurzgesagt level clarity of explanation (not yet illustration) https://t.co/xRkcrZKSqD https://t.co/kZrtDU6IgP](https://x.com/swyx/status/2111265627612787023)
+   - 时间：今天 09:18
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_ai_signal
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 819/2833 | 28.9% | 高信号源，建议保留 |
-| Buzzing | 456/1254 | 36.4% | 高信号源，建议保留 |
-| Info Flow | 193/593 | 32.5% | 高信号源，建议保留 |
-| TechURLs | 142/324 | 43.8% | 高信号源，建议保留 |
-| Zeli | 66/77 | 85.7% | 高信号源，建议保留 |
-| NewsNow | 35/137 | 25.5% | 高信号源，建议保留 |
-| Follow Builders | 12/36 | 33.3% | 高信号源，建议保留 |
-| OPML RSS | 10/15 | 66.7% | 高信号源，建议保留 |
+| TopHub | 745/2645 | 28.2% | 高信号源，建议保留 |
+| Buzzing | 449/1191 | 37.7% | 高信号源，建议保留 |
+| Info Flow | 174/547 | 31.8% | 高信号源，建议保留 |
+| TechURLs | 112/296 | 37.8% | 高信号源，建议保留 |
+| Zeli | 47/56 | 83.9% | 高信号源，建议保留 |
+| NewsNow | 22/104 | 21.2% | 高信号源，建议保留 |
+| Follow Builders | 11/34 | 32.4% | 高信号源，建议保留 |
+| OPML RSS | 8/12 | 66.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
