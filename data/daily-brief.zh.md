@@ -1,32 +1,32 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-18T17:29:47.855243Z
-- 24小时AI信号：1240 条
-- 源健康：12/14
-- 原始抓取：7288 条
+- 生成时间：2026-10-18T19:34:37.592001Z
+- 24小时AI信号：1107 条
+- 源健康：13/14
+- 原始抓取：7173 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费](https://x.com/WorkBuddy_AI/status/2111404103402430558)
+1. [DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首](https://aihot.news/items/bm95oliei5mcgy2tau7e22d59)
+   - 时间：38分钟前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费](https://x.com/WorkBuddy_AI/status/2111404103402430558)
    - 时间：10-17 18:29
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审](https://x.com/shao__meng/status/2111274173192638932)
+3. [Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审](https://x.com/shao__meng/status/2111274173192638932)
    - 时间：10-17 09:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一](https://x.com/arena/status/2111221323217412318)
+4. [Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一](https://x.com/arena/status/2111221323217412318)
    - 时间：10-17 06:22
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用](https://ollama.com/blog/reflection-beam)
-   - 时间：10-16 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持](https://vllm.ai/blog/2026-10-16-reflection-beam)
+5. [Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用](https://ollama.com/blog/reflection-beam)
    - 时间：10-16 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [德国两家法院先后裁定 Google 须为其 AI Overview 内容负责](https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Browser Use 讲解浏览器智能体的工作原理与使用时机](https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍](https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0)
-   - 时间：4小时前
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%](https://www.promptarmor.com/resources/open-weight-susceptibility)
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空](https://www.thepaper.cn/newsDetail_forward_34274620)
-   - 时间：今天 01:31
+   - 时间：今天 03:35
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,16 +127,16 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 581/2353 | 24.7% | 高信号源，建议保留 |
-| Buzzing | 282/722 | 39.1% | 高信号源，建议保留 |
-| Info Flow | 142/493 | 28.8% | 高信号源，建议保留 |
-| TechURLs | 63/205 | 30.7% | 高信号源，建议保留 |
-| Zeli | 58/62 | 93.5% | 高信号源，建议保留 |
-| NewsNow | 23/84 | 27.4% | 抓取失败，先修复源 |
+| TopHub | 492/2125 | 23.2% | 高信号源，建议保留 |
+| Buzzing | 251/645 | 38.9% | 高信号源，建议保留 |
+| Info Flow | 143/493 | 29.0% | 高信号源，建议保留 |
+| Zeli | 53/56 | 94.6% | 高信号源，建议保留 |
+| TechURLs | 53/188 | 28.2% | 高信号源，建议保留 |
+| NewsNow | 23/98 | 23.5% | 高信号源，建议保留 |
+| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 5/8 | 62.5% | 高信号源，建议保留 |
-| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
-- 需要优先修复失败源：aihubtoday, newsnow
+- 需要优先修复失败源：aihubtoday
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
