@@ -1,16 +1,16 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-18T05:41:15.195550Z
-- 24小时AI信号：1339 条
+- 生成时间：2026-10-18T10:51:06.852601Z
+- 24小时AI信号：1320 条
 - 源健康：13/14
-- 原始抓取：7482 条
+- 原始抓取：7489 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费](https://aihot.news/items/xgj246drlw70qbgypibz6atla)
+1. [WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费](https://x.com/WorkBuddy_AI/status/2111404103402430558)
    - 时间：昨天 18:29
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -68,73 +68,73 @@
    - 时间：10-16 04:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [观察｜人工智能时代，如何合力应对反恐新挑战？](https://www.thepaper.cn/newsDetail_forward_34268546)
-   - 时间：今天 13:42
+14. [演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空](https://www.thepaper.cn/newsDetail_forward_34274620)
+   - 时间：今天 18:52
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Anthropic 求助律师，研究如何让 AI 智能体代表用户谈判并达成交易](https://www.theblockbeats.info/flash/372402)
-   - 时间：1分钟前
-   - 来源：TopHub
+15. [观察｜人工智能时代，如何合力应对反恐新挑战？](https://www.thepaper.cn/newsDetail_forward_34268546)
+   - 时间：今天 18:52
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见](https://www.ithome.com/1/013/983.htm)
+16. [卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86)
+   - 时间：昨天 18:19
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见](https://www.ithome.com/1/013/983.htm)
    - 时间：10-16 16:23
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [Waymo 宣布进军多伦多，计划2028年迎接首批乘客](https://waymo.com/blog/2026/10/waymo-in-toronto)
+18. [Waymo 宣布进军多伦多，计划2028年迎接首批乘客](https://waymo.com/blog/2026/10/waymo-in-toronto)
    - 时间：10-16 15:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元](https://www.ithome.com/1/013/723.htm)
+19. [消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元](https://www.ithome.com/1/013/723.htm)
    - 时间：10-16 08:54
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%](https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x)
+20. [vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%](https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x)
    - 时间：10-16 08:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [Musk 称 xAI 2027 年底算力目标可能超过 10GW](https://x.com/elonmusk/status/2110877572011844019)
-   - 时间：10-16 07:36
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
 21. [卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由](https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt)
-   - 时间：3小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由](https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz)
-   - 时间：昨天 18:19
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)
+22. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)
    - 时间：10-16 20:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑](https://www.ithome.com/1/013/914.htm)
+23. [丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑](https://www.ithome.com/1/013/914.htm)
    - 时间：10-16 14:14
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Meta 如何用 AI 原生工程方式开发 Forum 应用](https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering)
+24. [Meta 如何用 AI 原生工程方式开发 Forum 应用](https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering)
    - 时间：10-16 03:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [蒂姆说得太对了。希望构建《星际争霸 3》的开发人员看到这条推文并拥抱人工智能，以便在 2030 年之前推出 🙂 https://t.co/OAFYpl4KR2](https://x.com/petergyang/status/2111663267995361287)
+   - 时间：7小时前
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 614/2437 | 25.2% | 高信号源，建议保留 |
-| Buzzing | 326/847 | 38.5% | 高信号源，建议保留 |
-| Info Flow | 169/522 | 32.4% | 高信号源，建议保留 |
-| TechURLs | 79/250 | 31.6% | 高信号源，建议保留 |
-| Zeli | 44/49 | 89.8% | 高信号源，建议保留 |
-| NewsNow | 21/96 | 21.9% | 高信号源，建议保留 |
-| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 3/8 | 37.5% | 高信号源，建议保留 |
+| TopHub | 601/2368 | 25.4% | 高信号源，建议保留 |
+| Buzzing | 332/836 | 39.7% | 高信号源，建议保留 |
+| Info Flow | 144/485 | 29.7% | 高信号源，建议保留 |
+| TechURLs | 74/229 | 32.3% | 高信号源，建议保留 |
+| Zeli | 56/59 | 94.9% | 高信号源，建议保留 |
+| NewsNow | 23/97 | 23.7% | 高信号源，建议保留 |
+| Follow Builders | 5/12 | 41.7% | 高信号源，建议保留 |
+| OPML RSS | 4/8 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
