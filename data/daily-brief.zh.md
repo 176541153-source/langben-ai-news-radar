@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-17T22:59:32.182557Z
-- 24小时AI信号：1461 条
+- 生成时间：2026-10-18T00:49:05.505765Z
+- 24小时AI信号：1441 条
 - 源健康：13/14
-- 原始抓取：7394 条
+- 原始抓取：7489 条
 
 ## 今日重点
 
@@ -69,12 +69,12 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 14. [观察｜人工智能时代，如何合力应对反恐新挑战？](https://www.thepaper.cn/newsDetail_forward_34268546)
-   - 时间：今天 07:00
+   - 时间：今天 08:50
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [人工智能本该让园丁们省点事。Anthropic的机器人研究却让我开始考虑除草了。](https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10)
-   - 时间：8小时前
-   - 来源：Buzzing
+15. [2026-09-11 — DeepSeek V4.1 Flash 发布：552B 参数与 API 路由调整 DeepSeek V 4 . 1 Flash 1017 - API Pricing & Benchmarks | OpenRouter 标签: #LLM release, #DeepSeek, #model benchmarks, #AI coding, #open models Pele：把 Mermaid 图表变成可主题化 SVG](https://thysrael.github.io/Horizon/2026/10/18/summary-zh.html#item-8)
+   - 时间：49分钟前
+   - 来源：Horizon
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 714/2515 | 28.4% | 高信号源，建议保留 |
-| Buzzing | 337/903 | 37.3% | 高信号源，建议保留 |
-| Info Flow | 168/540 | 31.1% | 高信号源，建议保留 |
-| TechURLs | 88/253 | 34.8% | 高信号源，建议保留 |
-| Zeli | 47/52 | 90.4% | 高信号源，建议保留 |
-| NewsNow | 19/101 | 18.8% | 有少量有效信号，继续观察 |
+| TopHub | 693/2542 | 27.3% | 高信号源，建议保留 |
+| Buzzing | 342/909 | 37.6% | 高信号源，建议保留 |
+| Info Flow | 173/552 | 31.3% | 高信号源，建议保留 |
+| TechURLs | 82/251 | 32.7% | 高信号源，建议保留 |
+| Zeli | 45/50 | 90.0% | 高信号源，建议保留 |
+| NewsNow | 19/98 | 19.4% | 有少量有效信号，继续观察 |
 | AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
-| Follow Builders | 3/17 | 17.6% | 有少量有效信号，继续观察 |
+| OPML RSS | 2/4 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
