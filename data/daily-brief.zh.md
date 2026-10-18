@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-18T10:51:06.852601Z
-- 24小时AI信号：1320 条
+- 生成时间：2026-10-18T14:27:44.985271Z
+- 24小时AI信号：1264 条
 - 源健康：13/14
-- 原始抓取：7489 条
+- 原始抓取：7521 条
 
 ## 今日重点
 
@@ -33,47 +33,47 @@
 
 ### 产品与开发者工具
 
-6. [DeepSeek 开放自研搜索 API](https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api)
+6. [德国两家法院先后裁定 Google 须为其 AI Overview 内容负责](https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f)
+   - 时间：3小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [DeepSeek 开放自研搜索 API](https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变](https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新)
+8. [DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变](https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新)
    - 时间：昨天 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://www.a16z.news/p/this-week-in-charts-agents-denied)
+9. [a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后](https://www.a16z.news/p/this-week-in-charts-agents-denied)
    - 时间：10-16 22:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现](https://x.com/Khazix0918/status/2110914404393091205)
+10. [Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现](https://x.com/Khazix0918/status/2110914404393091205)
    - 时间：10-16 10:03
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [可灵 Kling 4.0 深夜上线，支持30秒一镜到底直出](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198)
-   - 时间：10-16 08:18
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%](https://www.promptarmor.com/resources/open-weight-susceptibility)
+11. [Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍](https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0)
+   - 时间：1小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%](https://www.promptarmor.com/resources/open-weight-susceptibility)
    - 时间：10-16 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs)
+13. [Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs)
    - 时间：10-16 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [Claude Opus 5.5 fast mode 结束研究预览并移除等待名单](https://x.com/ClaudeDevs/status/2110825294655562048)
+14. [Claude Opus 5.5 fast mode 结束研究预览并移除等待名单](https://x.com/ClaudeDevs/status/2110825294655562048)
    - 时间：10-16 04:09
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空](https://www.thepaper.cn/newsDetail_forward_34274620)
-   - 时间：今天 18:52
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [观察｜人工智能时代，如何合力应对反恐新挑战？](https://www.thepaper.cn/newsDetail_forward_34268546)
-   - 时间：今天 18:52
+15. [演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空](https://www.thepaper.cn/newsDetail_forward_34274620)
+   - 时间：今天 22:28
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -103,7 +103,7 @@
 ### 实践技巧与观点
 
 21. [卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由](https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt)
-   - 时间：8小时前
+   - 时间：今天 10:04
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI](https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs)
@@ -119,7 +119,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [蒂姆说得太对了。希望构建《星际争霸 3》的开发人员看到这条推文并拥抱人工智能，以便在 2030 年之前推出 🙂 https://t.co/OAFYpl4KR2](https://x.com/petergyang/status/2111663267995361287)
-   - 时间：7小时前
+   - 时间：10小时前
    - 来源：Follow Builders
    - 评分：8.1/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 601/2368 | 25.4% | 高信号源，建议保留 |
-| Buzzing | 332/836 | 39.7% | 高信号源，建议保留 |
-| Info Flow | 144/485 | 29.7% | 高信号源，建议保留 |
-| TechURLs | 74/229 | 32.3% | 高信号源，建议保留 |
-| Zeli | 56/59 | 94.9% | 高信号源，建议保留 |
-| NewsNow | 23/97 | 23.7% | 高信号源，建议保留 |
-| Follow Builders | 5/12 | 41.7% | 高信号源，建议保留 |
-| OPML RSS | 4/8 | 50.0% | 高信号源，建议保留 |
+| TopHub | 566/2318 | 24.4% | 高信号源，建议保留 |
+| Buzzing | 327/801 | 40.8% | 高信号源，建议保留 |
+| Info Flow | 140/481 | 29.1% | 高信号源，建议保留 |
+| TechURLs | 60/213 | 28.2% | 高信号源，建议保留 |
+| Zeli | 54/57 | 94.7% | 高信号源，建议保留 |
+| NewsNow | 25/92 | 27.2% | 高信号源，建议保留 |
+| Follow Builders | 5/11 | 45.5% | 高信号源，建议保留 |
+| OPML RSS | 4/7 | 57.1% | 高信号源，建议保留 |
 
 ## 维护提示
 
