@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-18T21:46:30.358646Z
-- 24小时AI信号：1126 条
+- 生成时间：2026-10-19T00:05:18.745252Z
+- 24小时AI信号：1171 条
 - 源健康：13/14
-- 原始抓取：7365 条
+- 原始抓取：7465 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首](https://aihot.news/items/bm95oliei5mcgy2tau7e22d59)
-   - 时间：2小时前
+   - 时间：5小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费](https://x.com/WorkBuddy_AI/status/2111404103402430558)
@@ -34,10 +34,10 @@
 ### 产品与开发者工具
 
 6. [德国两家法院先后裁定 Google 须为其 AI Overview 内容负责](https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f)
-   - 时间：10小时前
+   - 时间：昨天 18:52
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Browser Use 讲解浏览器智能体的工作原理与使用时机](https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60)
+7. [Browser Use 讲解浏览器智能体的工作原理与使用时机](https://browser-use.com/posts/browser-agents)
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍](https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0)
-   - 时间：8小时前
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%](https://www.promptarmor.com/resources/open-weight-susceptibility)
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空](https://www.thepaper.cn/newsDetail_forward_34274620)
-   - 时间：今天 05:47
+   - 时间：今天 08:06
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 469/2086 | 22.5% | 高信号源，建议保留 |
-| Buzzing | 288/811 | 35.5% | 高信号源，建议保留 |
-| Info Flow | 142/503 | 28.2% | 高信号源，建议保留 |
+| TopHub | 499/2272 | 22.0% | 高信号源，建议保留 |
+| Buzzing | 293/829 | 35.3% | 高信号源，建议保留 |
+| Info Flow | 146/513 | 28.5% | 高信号源，建议保留 |
 | Zeli | 61/64 | 95.3% | 高信号源，建议保留 |
-| TechURLs | 52/184 | 28.3% | 高信号源，建议保留 |
-| NewsNow | 22/105 | 21.0% | 高信号源，建议保留 |
-| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 5/7 | 71.4% | 高信号源，建议保留 |
+| TechURLs | 56/192 | 29.2% | 高信号源，建议保留 |
+| NewsNow | 24/108 | 22.2% | 高信号源，建议保留 |
+| OPML RSS | 7/9 | 77.8% | 高信号源，建议保留 |
+| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
