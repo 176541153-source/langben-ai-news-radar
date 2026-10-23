@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-23T19:54:10.909896Z
-- 24小时AI信号：1704 条
+- 生成时间：2026-10-23T23:01:33.470941Z
+- 24小时AI信号：1786 条
 - 源健康：13/14
-- 原始抓取：7429 条
+- 原始抓取：7542 条
 
 ## 今日重点
 
@@ -11,30 +11,30 @@
 ### 模型发布与能力更新
 
 1. [月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型](https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4)
-   - 时间：1小时前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出](https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie)
-   - 时间：3小时前
+   - 时间：7小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行](https://www.aibase.com/news/31847)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [月之暗面放 K3.1 预热视频，发布日期仍捂着](https://www.aibase.com/news/31846)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 5. [砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮](https://www.aibase.com/news/31844)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [Kling 4.0 在 fal 上线并向所有客户开放 API 访问](https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh)
-   - 时间：4小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [谷歌推出 ACE：给每个 AI 智能体配一台"专属电脑"，唤醒不到 500 毫秒](https://www.aibase.com/news/31832)
@@ -72,15 +72,15 @@
    - 时间：10-22 21:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [AISI 发现 Mythos 5 促使 GitHub 维护者在 7 月份的评估中接受恶意代码，尽管有证据表明他是真实的；其他模型在模拟中表现相同（AI 安全研究所）](https://www.techmeme.com/261023/p13)
-   - 时间：2小时前
-   - 来源：TechURLs
+15. [Show HN: 我在一块GPU上训练了一个1.6亿行代码的模型，在HumanEval上获得了22.56%的得分](https://jakubcwirlej.com/ai-dev)
+   - 时间：1小时前
+   - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
 16. [OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元](https://aihot.news/items/qexf6est4uitwd71p3ugedxo6)
-   - 时间：10小时前
+   - 时间：昨天 17:49
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 17. [OpenAI 冲刺 300 亿美元融资，投前估值站上 1.25 万亿美元](https://www.aibase.com/news/31824)
@@ -103,23 +103,23 @@
 ### 实践技巧与观点
 
 21. [Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职](https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf)
-   - 时间：55分钟前
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露](https://www.aibase.com/news/31843)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 23. [SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国](https://www.aibase.com/news/31842)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 24. [Hugging Face 推出 Carbon-X：基于千问，让科学家"与 DNA 对话"](https://www.aibase.com/news/31841)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 25. [昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材](https://www.aibase.com/news/31838)
-   - 时间：8小时前
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 727/2698 | 26.9% | 高信号源，建议保留 |
-| Buzzing | 377/1128 | 33.4% | 高信号源，建议保留 |
-| Info Flow | 205/714 | 28.7% | 高信号源，建议保留 |
-| TechURLs | 139/380 | 36.6% | 高信号源，建议保留 |
-| Zeli | 74/78 | 94.9% | 高信号源，建议保留 |
+| TopHub | 807/2932 | 27.5% | 高信号源，建议保留 |
+| Buzzing | 388/1149 | 33.8% | 高信号源，建议保留 |
+| Info Flow | 208/716 | 29.1% | 高信号源，建议保留 |
+| TechURLs | 137/356 | 38.5% | 高信号源，建议保留 |
+| Zeli | 75/80 | 93.8% | 高信号源，建议保留 |
 | AIbase | 33/33 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 19/26 | 73.1% | 高信号源，建议保留 |
-| NewsNow | 18/98 | 18.4% | 有少量有效信号，继续观察 |
+| OPML RSS | 18/25 | 72.0% | 高信号源，建议保留 |
+| NewsNow | 18/101 | 17.8% | 有少量有效信号，继续观察 |
 
 ## 维护提示
 
