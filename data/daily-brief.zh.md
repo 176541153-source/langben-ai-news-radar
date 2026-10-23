@@ -1,67 +1,67 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-23T00:51:43.553608Z
-- 24小时AI信号：1658 条
+- 生成时间：2026-10-23T05:53:56.553258Z
+- 24小时AI信号：1648 条
 - 源健康：13/14
-- 原始抓取：7581 条
+- 原始抓取：7598 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude 网页、桌面和移动端将默认启用 auto mode](https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science](https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u)
-   - 时间：6小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [科大讯飞首发星火语音基座大模型 SparkAudio 1.0](https://www.aibase.com/news/31804)
-   - 时间：昨天 17:34
+1. [讯飞医疗星火 V3.7 升级发布：MedBench 5.0 斩获 99.6 分登顶榜首](https://www.aibase.com/news/31830)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [蚂蚁数科发布LingDT-Decision-1.0 准确率超过微软和JEV等决策模型](https://www.aibase.com/news/31800)
-   - 时间：昨天 17:34
+2. [Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅](https://www.aibase.com/news/31829)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [对标大荧幕级标准:火山引擎4K视频模型首批试用花落20家全球顶级工作室](https://www.aibase.com/news/31797)
-   - 时间：昨天 17:34
+3. [DeepSeek、MiniMax完成相关登记，推进开源与海外授权使用](https://www.aibase.com/news/31828)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [国产旗舰 Kimi K3.1 现身 Arena 测试：性能直追 GPT-6 Astra，月底有望官宣](https://www.aibase.com/news/31827)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [讯飞星火医疗大模型 V3.7 登顶 MedBench5.0：病历生成合理率拉升至 85%](https://www.aibase.com/news/31826)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体](https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb)
-   - 时间：4小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 正式发布 Decisions API，面向低延迟低成本小决策](https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs)
-   - 时间：5小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%](https://aihot.news/items/shd9gpw42uwoxqtenpzhy1je4)
-   - 时间：8小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人](https://www.aibase.com/news/31810)
-   - 时间：10小时前
+6. [谷歌推出 ACE：给每个 AI 智能体配一台"专属电脑"，唤醒不到 500 毫秒](https://www.aibase.com/news/31832)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息](https://aihot.news/items/fjyan16f0mvfywabd78m70hv3)
-   - 时间：10小时前
-   - 来源：AI HOT
+7. [Anthropic 把智能体"说明书"交出去：Agent Skills 标准捐给社区](https://www.aibase.com/news/31831)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [央视曝光豆包会员“无限薅”乱象:多账号循环、API密钥来源存疑](https://www.aibase.com/news/31820)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [OpenAI 全面开放决策 API：基于 GPT-6 Luna，输入每百万 token 仅 0.1 美元](https://www.aibase.com/news/31819)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元](https://www.aibase.com/news/31818)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞](https://aihot.news/items/fcw2s1pdclkgm5kmg2qwginp7)
-   - 时间：9小时前
+   - 时间：昨天 23:32
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商](https://aihot.news/items/n6afjfxhq6vadobu4p0lm6tzm)
-   - 时间：11小时前
+   - 时间：昨天 21:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞](https://x.com/rohanpaul_ai/status/2112962364996038971)
@@ -79,62 +79,62 @@
 
 ### 产业、算力与机器人
 
-16. [The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑](https://aihot.news/items/w7axcg0e1y7uoyro92cmanong)
-   - 时间：5小时前
+16. [OpenAI 冲刺 300 亿美元融资，投前估值站上 1.25 万亿美元](https://www.aibase.com/news/31824)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿](https://www.aibase.com/news/31816)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [王兴兴给宇树画了三条线：量产、小模型、大算力](https://www.aibase.com/news/31814)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑](https://aihot.news/items/w7axcg0e1y7uoyro92cmanong)
+   - 时间：10小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [王兴兴给宇树画了三条线：量产、小模型、大算力](https://www.aibase.com/news/31809)
-   - 时间：昨天 17:34
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [AI日报：讯飞星火X2.6发布；红果短剧上线小果AI；宇树发布H2X人形机器人测试广告](https://www.aibase.com/news/31807)
-   - 时间：昨天 17:34
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力](https://www.aibase.com/news/31806)
-   - 时间：昨天 17:34
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机](https://www.aibase.com/news/31803)
+20. [王兴兴给宇树画了三条线：量产、小模型、大算力](https://www.aibase.com/news/31809)
    - 时间：昨天 17:34
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应](https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46)
-   - 时间：9小时前
+21. [AI 三巨头拟捐近 3000 亿美元，被称"现代史上最大慈善"](https://www.aibase.com/news/31833)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [Arc浏览器将于12月22日停止服务，The Browser Company转向Dia](https://www.aibase.com/news/31823)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [奥尔特曼谈数学家的 AI 心路：从"我们完蛋了"到接受现实](https://www.aibase.com/news/31821)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B](https://aihot.news/items/h0u2sgf6ve6eeu0hmswp2a314)
+   - 时间：4小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局](https://aihot.news/items/pe2uqi2ny6l2lukrqzifbtyum)
-   - 时间：10小时前
+25. [PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应](https://aihot.news/items/m34xrhmqj1is6d1v1jna3ed46)
+   - 时间：昨天 23:25
    - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [“翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品](https://www.aibase.com/news/31808)
-   - 时间：昨天 17:34
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [英伟达砸钱锁定供应链，拉 6 家伙伴扩 AI 产能](https://www.aibase.com/news/31805)
-   - 时间：昨天 17:34
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [特斯拉 AI 豪赌遇阻：2026 支出砍 20%，马斯克转型节奏生变](https://www.aibase.com/news/31793)
-   - 时间：昨天 12:24
-   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 597/2272 | 26.3% | 高信号源，建议保留 |
-| Buzzing | 440/1239 | 35.5% | 高信号源，建议保留 |
-| Info Flow | 239/732 | 32.7% | 高信号源，建议保留 |
-| TechURLs | 148/366 | 40.4% | 高信号源，建议保留 |
-| Zeli | 57/61 | 93.4% | 高信号源，建议保留 |
-| AIbase | 27/27 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 25/101 | 24.8% | 高信号源，建议保留 |
-| AI HOT | 19/19 | 100.0% | 高信号源，建议保留 |
+| TopHub | 618/2317 | 26.7% | 高信号源，建议保留 |
+| Buzzing | 429/1225 | 35.0% | 高信号源，建议保留 |
+| Info Flow | 222/732 | 30.3% | 高信号源，建议保留 |
+| TechURLs | 143/358 | 39.9% | 高信号源，建议保留 |
+| Zeli | 63/66 | 95.5% | 高信号源，建议保留 |
+| AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 20/32 | 62.5% | 高信号源，建议保留 |
+| NewsNow | 17/99 | 17.2% | 有少量有效信号，继续观察 |
 
 ## 维护提示
 
