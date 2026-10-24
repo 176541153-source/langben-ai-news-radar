@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-24T11:28:13.970795Z
-- 24小时AI信号：1529 条
+- 生成时间：2026-10-24T14:46:27.164976Z
+- 24小时AI信号：1635 条
 - 源健康：13/14
-- 原始抓取：7620 条
+- 原始抓取：7619 条
 
 ## 今日重点
 
@@ -11,7 +11,7 @@
 ### 模型发布与能力更新
 
 1. [Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效](https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s)
-   - 时间：9小时前
+   - 时间：今天 10:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型](https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4)
@@ -33,24 +33,24 @@
 
 ### 产品与开发者工具
 
-6. [OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露](https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc)
+6. [OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信](https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1)
+   - 时间：3小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露](https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc)
    - 时间：今天 06:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Kling 4.0 在 fal 上线并向所有客户开放 API 访问](https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh)
+8. [Kling 4.0 在 fal 上线并向所有客户开放 API 访问](https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh)
    - 时间：昨天 23:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计](https://claude.com/blog/claude-duet-safety-privacy-and-security)
+9. [Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计](https://claude.com/blog/claude-duet-safety-privacy-and-security)
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体](https://replit.com/blog/replit-monitoring-agent)
+10. [Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体](https://replit.com/blog/replit-monitoring-agent)
    - 时间：昨天 04:24
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息](https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right)
-   - 时间：10-22 22:02
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -72,8 +72,8 @@
    - 时间：10-22 21:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [抖音通报“AI小海”治理结果：相关人物系AI合成数字人，相关账号及内容已被依规处置](https://www.thepaper.cn/newsDetail_forward_34320317)
-   - 时间：今天 19:30
+15. [《过来人》和Yuri：两场AI音乐试验都在守“人味”](https://www.thepaper.cn/newsDetail_forward_34317944)
+   - 时间：今天 22:47
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 636/2313 | 27.5% | 高信号源，建议保留 |
-| Buzzing | 371/1068 | 34.7% | 高信号源，建议保留 |
-| Info Flow | 185/621 | 29.8% | 高信号源，建议保留 |
-| TechURLs | 117/311 | 37.6% | 高信号源，建议保留 |
-| Zeli | 78/86 | 90.7% | 高信号源，建议保留 |
-| NewsNow | 25/97 | 25.8% | 高信号源，建议保留 |
-| OPML RSS | 13/21 | 61.9% | 高信号源，建议保留 |
+| TopHub | 696/2621 | 26.6% | 高信号源，建议保留 |
+| Buzzing | 429/1212 | 35.4% | 高信号源，建议保留 |
+| Info Flow | 178/588 | 30.3% | 高信号源，建议保留 |
+| TechURLs | 115/297 | 38.7% | 高信号源，建议保留 |
+| Zeli | 71/79 | 89.9% | 高信号源，建议保留 |
+| NewsNow | 30/106 | 28.3% | 高信号源，建议保留 |
+| OPML RSS | 11/19 | 57.9% | 高信号源，建议保留 |
 | Follow Builders | 11/28 | 39.3% | 高信号源，建议保留 |
 
 ## 维护提示
