@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-24T20:35:44.955154Z
-- 24小时AI信号：1420 条
+- 生成时间：2026-10-24T22:42:06.704524Z
+- 24小时AI信号：1369 条
 - 源健康：13/14
-- 原始抓取：7547 条
+- 原始抓取：7542 条
 
 ## 今日重点
 
@@ -34,11 +34,11 @@
 ### 产品与开发者工具
 
 6. [Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视](https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c)
-   - 时间：6小时前
+   - 时间：8小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信](https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1)
-   - 时间：9小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露](https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc)
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [我将 Gemini Notebook 链接到 Gemini，并在一个聊天线程中查询了 4 个研究笔记本](https://www.androidpolice.com/linked-gemini-notebook-to-gemini-queried-notebooks-in-one-chat-thread)
-   - 时间：1小时前
+   - 时间：3小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -95,10 +95,10 @@
    - 时间：10-23 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [使用 Teams 中的 GitHub 应用将通知转换为代码](https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams)
-   - 时间：昨天 05:29
-   - 来源：Official AI Updates
-   - 评分：9.5/10 · matched_tracked_internet_keyword
+20. [关于 Codex cli 更新。我们添加了可重复使用的提示预设、内联模型和权限设置以及企业 MCP 登录。我们还修复了恢复长时间会话时出现的故障，并添加了 Windows 企业代理身份验证...](https://x.com/thsottiaux/status/2113770862860222611)
+   - 时间：昨天 07:13
+   - 来源：Follow Builders
+   - 评分：9.3/10 · matched_tracked_internet_keyword
 
 ### 实践技巧与观点
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 632/2480 | 25.5% | 高信号源，建议保留 |
-| Buzzing | 364/924 | 39.4% | 高信号源，建议保留 |
-| Info Flow | 168/547 | 30.7% | 高信号源，建议保留 |
-| TechURLs | 83/212 | 39.2% | 高信号源，建议保留 |
-| Zeli | 50/59 | 84.7% | 高信号源，建议保留 |
-| NewsNow | 26/91 | 28.6% | 高信号源，建议保留 |
-| Follow Builders | 9/20 | 45.0% | 高信号源，建议保留 |
+| TopHub | 657/2608 | 25.2% | 高信号源，建议保留 |
+| Buzzing | 313/796 | 39.3% | 高信号源，建议保留 |
+| Info Flow | 166/538 | 30.9% | 高信号源，建议保留 |
+| TechURLs | 78/197 | 39.6% | 高信号源，建议保留 |
+| Zeli | 41/49 | 83.7% | 高信号源，建议保留 |
+| NewsNow | 24/88 | 27.3% | 高信号源，建议保留 |
 | AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 4/11 | 36.4% | 高信号源，建议保留 |
 
 ## 维护提示
 
