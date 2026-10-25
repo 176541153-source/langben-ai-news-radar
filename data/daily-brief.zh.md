@@ -1,16 +1,16 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-25T00:58:54.260970Z
-- 24小时AI信号：1327 条
+- 生成时间：2026-10-25T05:52:49.021865Z
+- 24小时AI信号：1367 条
 - 源健康：13/14
-- 原始抓取：7523 条
+- 原始抓取：7575 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效](https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s)
+1. [Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f)
    - 时间：昨天 10:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -34,7 +34,7 @@
 ### 产品与开发者工具
 
 6. [Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视](https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c)
-   - 时间：10小时前
+   - 时间：昨天 22:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信](https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1)
@@ -72,9 +72,9 @@
    - 时间：10-22 21:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [我将 Gemini Notebook 链接到 Gemini，并在一个聊天线程中查询了 4 个研究笔记本](https://www.androidpolice.com/linked-gemini-notebook-to-gemini-queried-notebooks-in-one-chat-thread)
-   - 时间：5小时前
-   - 来源：TechURLs
+15. [2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案](https://www.thepaper.cn/newsDetail_forward_34326151)
+   - 时间：今天 13:54
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
@@ -95,9 +95,9 @@
    - 时间：10-23 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [港交所推AI和半导体指数 追踪智谱MiniMax等公司表现](https://www.zaochenbao.com/news/hkMacao/202610/2484056.html)
-   - 时间：今天 09:00
-   - 来源：TrendRadar
+20. [拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题](https://www.36kr.com/p/4039749830120583)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 657/2681 | 24.5% | 高信号源，建议保留 |
-| Buzzing | 277/710 | 39.0% | 高信号源，建议保留 |
-| Info Flow | 158/538 | 29.4% | 高信号源，建议保留 |
-| TechURLs | 77/201 | 38.3% | 高信号源，建议保留 |
-| Zeli | 47/56 | 83.9% | 高信号源，建议保留 |
-| NewsNow | 26/95 | 27.4% | 高信号源，建议保留 |
-| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 1/4 | 25.0% | 高信号源，建议保留 |
+| TopHub | 700/2955 | 23.7% | 高信号源，建议保留 |
+| Buzzing | 286/720 | 39.7% | 高信号源，建议保留 |
+| Info Flow | 137/493 | 27.8% | 高信号源，建议保留 |
+| TechURLs | 80/205 | 39.0% | 高信号源，建议保留 |
+| Zeli | 45/54 | 83.3% | 高信号源，建议保留 |
+| NewsNow | 35/103 | 34.0% | 高信号源，建议保留 |
+| AI HOT | 2/2 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 2/5 | 40.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
