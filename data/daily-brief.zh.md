@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-25T11:10:47.673188Z
-- 24小时AI信号：1290 条
+- 生成时间：2026-10-25T15:00:56.641621Z
+- 24小时AI信号：1185 条
 - 源健康：13/14
-- 原始抓取：7583 条
+- 原始抓取：7587 条
 
 ## 今日重点
 
@@ -33,11 +33,11 @@
 
 ### 产品与开发者工具
 
-6. [Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视](https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c)
+6. [Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视](https://x.com/emollick/status/2114001653879672877)
    - 时间：昨天 22:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信](https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1)
+7. [OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache)
    - 时间：昨天 19:12
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
@@ -73,7 +73,7 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 15. [2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案](https://www.thepaper.cn/newsDetail_forward_34326151)
-   - 时间：今天 19:12
+   - 时间：今天 23:02
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 656/2802 | 23.4% | 高信号源，建议保留 |
-| Buzzing | 271/700 | 38.7% | 高信号源，建议保留 |
-| Info Flow | 122/457 | 26.7% | 高信号源，建议保留 |
-| TechURLs | 75/173 | 43.4% | 高信号源，建议保留 |
-| Zeli | 45/53 | 84.9% | 高信号源，建议保留 |
-| NewsNow | 31/100 | 31.0% | 高信号源，建议保留 |
-| Follow Builders | 5/23 | 21.7% | 高信号源，建议保留 |
-| OPML RSS | 3/6 | 50.0% | 高信号源，建议保留 |
+| TopHub | 550/2372 | 23.2% | 高信号源，建议保留 |
+| Buzzing | 272/720 | 37.8% | 高信号源，建议保留 |
+| Info Flow | 132/480 | 27.5% | 高信号源，建议保留 |
+| TechURLs | 71/178 | 39.9% | 高信号源，建议保留 |
+| Zeli | 47/55 | 85.5% | 高信号源，建议保留 |
+| NewsNow | 27/102 | 26.5% | 高信号源，建议保留 |
+| Follow Builders | 4/21 | 19.0% | 有少量有效信号，继续观察 |
+| OPML RSS | 2/4 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
