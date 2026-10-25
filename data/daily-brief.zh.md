@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-25T15:00:56.641621Z
-- 24小时AI信号：1185 条
+- 生成时间：2026-10-25T18:19:27.855126Z
+- 24小时AI信号：1195 条
 - 源健康：13/14
-- 原始抓取：7587 条
+- 原始抓取：7523 条
 
 ## 今日重点
 
@@ -11,15 +11,15 @@
 ### 模型发布与能力更新
 
 1. [Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f)
-   - 时间：昨天 10:08
+   - 时间：10-24 10:08
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 2. [月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型](https://x.com/OpenRouter/status/2113699820124934334)
-   - 时间：昨天 02:31
+   - 时间：10-24 02:31
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 3. [月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出](https://www.kimi.com/blog/kimi-k3-1-pro)
-   - 时间：昨天 00:00
+   - 时间：10-24 00:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 4. [AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident)
@@ -34,15 +34,15 @@
 ### 产品与开发者工具
 
 6. [Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视](https://x.com/emollick/status/2114001653879672877)
-   - 时间：昨天 22:30
+   - 时间：10-24 22:30
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache)
-   - 时间：昨天 19:12
+   - 时间：10-24 19:12
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露](https://x.com/OpenAI/status/2113766354386084338)
-   - 时间：昨天 06:55
+   - 时间：10-24 06:55
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [Kling 4.0 在 fal 上线并向所有客户开放 API 访问](https://x.com/fal/status/2113646807997620396)
@@ -72,8 +72,8 @@
    - 时间：10-22 21:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案](https://www.thepaper.cn/newsDetail_forward_34326151)
-   - 时间：今天 23:02
+15. [陶哲轩：数学研究成AI巨头技术竞技场，大量证明沦为“有毒废料”](https://view.inews.qq.com/a/20261025A09ABL00)
+   - 时间：今天 02:23
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -96,14 +96,14 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 20. [有时你会过度引导人工智能。它比你更了解，也比你更聪明。有时你会对人工智能指导不足。它可能会偏离轨道、产生错误的偏见或错过背景。嗬……](https://x.com/rauchg/status/2114085432749347086)
-   - 时间：今天 04:03
+   - 时间：昨天 04:03
    - 来源：Follow Builders
    - 评分：8.4/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职](https://x.com/alexeheath/status/2113706585348600220)
-   - 时间：昨天 02:58
+   - 时间：10-24 02:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响](https://www.ithome.com/1/017/113.htm)
@@ -127,13 +127,13 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 550/2372 | 23.2% | 高信号源，建议保留 |
-| Buzzing | 272/720 | 37.8% | 高信号源，建议保留 |
-| Info Flow | 132/480 | 27.5% | 高信号源，建议保留 |
-| TechURLs | 71/178 | 39.9% | 高信号源，建议保留 |
-| Zeli | 47/55 | 85.5% | 高信号源，建议保留 |
-| NewsNow | 27/102 | 26.5% | 高信号源，建议保留 |
-| Follow Builders | 4/21 | 19.0% | 有少量有效信号，继续观察 |
+| TopHub | 552/2314 | 23.9% | 高信号源，建议保留 |
+| Buzzing | 267/736 | 36.3% | 高信号源，建议保留 |
+| Info Flow | 140/481 | 29.1% | 高信号源，建议保留 |
+| TechURLs | 73/177 | 41.2% | 高信号源，建议保留 |
+| Zeli | 48/57 | 84.2% | 高信号源，建议保留 |
+| NewsNow | 29/101 | 28.7% | 高信号源，建议保留 |
+| Follow Builders | 4/19 | 21.1% | 高信号源，建议保留 |
 | OPML RSS | 2/4 | 50.0% | 高信号源，建议保留 |
 
 ## 维护提示
