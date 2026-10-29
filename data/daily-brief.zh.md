@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-29T01:41:41.051264Z
-- 24小时AI信号：1932 条
+- 生成时间：2026-10-29T08:19:34.279844Z
+- 24小时AI信号：2000 条
 - 源健康：13/14
-- 原始抓取：7610 条
+- 原始抓取：7684 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！](https://www.aibase.com/news/31938)
+1. [智元发布具身智能原生OS灵渠1.0，年底全面开源](https://www.aibase.com/news/31956)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [谷歌新旗舰Gemini 4 Carbon正式发布：综合评分登顶全球第一，全面发力长时程工程与网络安全](https://www.aibase.com/news/31934)
+2. [AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限](https://www.aibase.com/news/31955)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code](https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm)
-   - 时间：8小时前
-   - 来源：AI HOT
+3. [Chrome 开始"翻你的邮箱"帮你填表：Gemini 把 Gmail 变填单助手](https://www.aibase.com/news/31952)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先](https://aihot.news/items/hoim4l9scskfj0obspicyucpw)
-   - 时间：8小时前
-   - 来源：AI HOT
+4. [开源图像生成迎来新突破：OpenMOSS发布MOSS-Image，主打长文本渲染与可编辑布局](https://www.aibase.com/news/31949)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Google DeepMind 发布 Gemini 4 Carbon 前沿模型](https://aihot.news/items/fjeloaahylonpc0pv5tduusud)
-   - 时间：8小时前
-   - 来源：AI HOT
+5. [腾讯混元Hy4、Hy4flash即将发布，模型能力、思维链效率全面提升](https://www.aibase.com/news/31948)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [航班号、订单号一键填入，Chrome AI自动填充正式上线](https://www.aibase.com/news/31939)
+6. [GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比](https://www.aibase.com/news/31962)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [Anthropic拟向英国及欧洲个人投资者开放IPO认购，冲击历史最大规模上市](https://www.aibase.com/news/31935)
+7. [苹果诉 OpenAI 窃密案排期 2027 年夏：一场围绕离职员工的机密拉锯](https://www.aibase.com/news/31957)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性](https://aihot.news/items/x2h1bp5shee6v508nw7pjtvas)
-   - 时间：7小时前
-   - 来源：AI HOT
+8. [微软单季从 OpenAI 卷走 100 亿美元：持股缩水，纽带却越缠越紧](https://www.aibase.com/news/31953)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft](https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8)
-   - 时间：8小时前
-   - 来源：AI HOT
+9. [航班号、订单号一键填入，Chrome AI自动填充正式上线](https://www.aibase.com/news/31939)
+   - 时间：6小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发](https://aihot.news/items/tdp7qmrh74fdfarxbi4jaoc6v)
-   - 时间：8小时前
-   - 来源：AI HOT
+10. [Anthropic拟向英国及欧洲个人投资者开放IPO认购，冲击历史最大规模上市](https://www.aibase.com/news/31935)
+   - 时间：6小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链](https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn)
-   - 时间：3小时前
+11. [大晓机器人推出 ACE-Brain-0.6 空间智能 API，七项评测均分反超 GPT-6 Astra](https://www.aibase.com/news/31961)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [锁屏照片被顺走、 53 分钟攻破Linux！Anthropic内部研究模型连破五大主流系统](https://www.aibase.com/news/31945)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链](https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn)
+   - 时间：9小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [CVE 漏洞数近乎垂直拉升，AI 成安全研究"放大器"](https://www.aibase.com/news/31929)
+14. [CVE 漏洞数近乎垂直拉升，AI 成安全研究"放大器"](https://www.aibase.com/news/31929)
    - 时间：昨天 19:31
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？](https://www.zhihu.com/question/2098949045934880103)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [Anthropic 最新研究：专家决策易受 AI 影响且极难被发现](https://ai.cnmo.com/news/821335.html)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [为何我们应该致力于人工智能的研究，而不是对其感到恐惧：一种哲学视角](https://news.ycombinator.com/item?id=50271924)
-   - 时间：昨天 19:50
-   - 来源：Buzzing
+15. [研究：智谱AI成功模拟复杂网络攻击 测试中多次无视指令](https://www.zaochenbao.com/news/china/202610/2984332.html)
+   - 时间：今天 16:21
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%](https://aihot.news/items/m5st8pvirbas7phreshbzkrc9)
-   - 时间：5小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变](https://www.aibase.com/news/31933)
-   - 时间：昨天 19:31
+16. [宇树三季报营收涨近七成却净利下滑：钱都砸进了算力与大模型](https://www.aibase.com/news/31959)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [腾讯WorkBuddy上线「远程控制」：手机可实时观看并接管电脑桌面，远程操作不消耗Token](https://www.aibase.com/news/31926)
-   - 时间：昨天 19:31
+17. [消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价](https://www.aibase.com/news/31958)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [马斯克前员工创立的AI初创公司仅用 12 小时攻破Anthropic办公系统](https://www.aibase.com/news/31924)
-   - 时间：昨天 19:31
+18. [OpenAI员工撰文详解AI融入企业的未来三种形态](https://www.aibase.com/news/31954)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式](https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr)
-   - 时间：昨天 18:00
-   - 来源：AI HOT
+19. [腾讯发布 Buddy One:打通腾讯文档、会议、网盘与 ima，统一账号与积分池](https://www.aibase.com/news/31951)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+20. [智元提出物理AI价值度量衡Worken，衡量机器人有效产出](https://www.aibase.com/news/31947)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [电商AI模特图价格不到实拍四分之一，产业链加速成型](https://www.aibase.com/news/31941)
+21. [腾讯"懂了鸭"内测：把 AI 生成绘本、动画做成了一个学习社区](https://www.aibase.com/news/31960)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [AI 数据中心狂吞电力，美国十五年减排成果或归零](https://www.aibase.com/news/31940)
+22. [腾讯灯塔AI正式对外开放:十年内部锤炼，一句话完成数据分析](https://www.aibase.com/news/31950)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [AI模式下广告点击率已追平自然结果，谷歌正式推进全球变现](https://www.aibase.com/news/31937)
+23. [英伟达拟投资30亿美元入股Meta，双方扩大AI合作](https://www.aibase.com/news/31944)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [AI 绘出"双头虾"，科普丛书遭全网下架召回](https://www.aibase.com/news/31936)
+24. [AI 垃圾游戏淹没 Steam，Valve 拒当"裁判"：不封禁，只让商店更聪明](https://www.aibase.com/news/31943)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [OpenRouter 教程：用 LLM 从 PDF 中抽取表格](https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z)
-   - 时间：1小时前
-   - 来源：AI HOT
+25. [电商AI模特图价格不到实拍四分之一，产业链加速成型](https://www.aibase.com/news/31941)
+   - 时间：6小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 723/2591 | 27.9% | 高信号源，建议保留 |
-| Buzzing | 487/1222 | 39.9% | 高信号源，建议保留 |
-| Info Flow | 256/727 | 35.2% | 高信号源，建议保留 |
-| TechURLs | 224/453 | 49.4% | 高信号源，建议保留 |
-| Zeli | 62/72 | 86.1% | 高信号源，建议保留 |
-| AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 19/38 | 50.0% | 高信号源，建议保留 |
-| NewsNow | 18/86 | 20.9% | 高信号源，建议保留 |
+| TopHub | 732/2566 | 28.5% | 高信号源，建议保留 |
+| Buzzing | 492/1258 | 39.1% | 高信号源，建议保留 |
+| Info Flow | 266/714 | 37.3% | 高信号源，建议保留 |
+| TechURLs | 229/457 | 50.1% | 高信号源，建议保留 |
+| Zeli | 66/76 | 86.8% | 高信号源，建议保留 |
+| AIbase | 40/40 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 26/115 | 22.6% | 高信号源，建议保留 |
+| OPML RSS | 25/45 | 55.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
