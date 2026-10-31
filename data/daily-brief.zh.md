@@ -1,9 +1,9 @@
 # AI News Radar 日报
 
-- 生成时间：2026-10-31T08:45:05.989689Z
-- 24小时AI信号：1345 条
+- 生成时间：2026-10-31T15:14:27.180229Z
+- 24小时AI信号：1131 条
 - 源健康：13/14
-- 原始抓取：7644 条
+- 原始抓取：7653 条
 
 ## 今日重点
 
@@ -18,35 +18,35 @@
    - 时间：今天 01:42
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”](https://www.aibase.com/news/31995)
-   - 时间：昨天 21:24
-   - 来源：AIbase
+3. [OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个](https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku)
+   - 时间：昨天 08:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑](https://www.aibase.com/news/31992)
-   - 时间：昨天 21:24
-   - 来源：AIbase
+4. [Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型](https://x.com/Khazix0918/status/2115898252004622617)
+   - 时间：昨天 04:07
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病](https://www.aibase.com/news/31989)
-   - 时间：昨天 21:24
-   - 来源：AIbase
+5. [腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench](https://x.com/TencentHunyuan/status/2115851165904814283)
+   - 时间：昨天 01:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
 6. [Anthropic IPO 招股文件披露近 9000 亿美元隐性债务](https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu)
-   - 时间：5小时前
+   - 时间：11小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 7. [Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保](https://aihot.news/items/hx5dsruslfiiqhbsro2tvg1n8)
-   - 时间：7小时前
+   - 时间：今天 09:20
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 8. [Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用](https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c)
-   - 时间：7小时前
+   - 时间：今天 08:58
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 9. [OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News](https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v)
-   - 时间：8小时前
+   - 时间：今天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 10. [Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问](https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4)
@@ -57,7 +57,7 @@
 ### 论文研究与评测
 
 11. [Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件](https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz)
-   - 时间：9小时前
+   - 时间：今天 06:51
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [OpenAI 详解如何监控前沿模型的失对齐行为](https://alignment.openai.com/how-we-detect-frontier-model-misalignment)
@@ -65,76 +65,76 @@
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [阿里宣布与苹果合作，将千问集成至Apple智能](https://www.thepaper.cn/newsDetail_forward_34374626)
-   - 时间：今天 16:50
+   - 时间：今天 23:16
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [何积丰院士谈 AI 时代人才的三种能力：定义问题、验证产出、道德判断](https://m.thepaper.cn/newsDetail_forward_34375821)
-   - 时间：1分钟前
-   - 来源：TopHub
+14. [【分享创造】 做了个类似 Cursor 的写论文的开源工具：直接在 PDF 上批注，让 AI 改稿，然后像 Cursor 一样 Review](https://www.v2ex.com/t/1253422)
+   - 时间：5小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [GPT-6 Astra 深度评测：当 AI 开始自己干活](https://www.woshipm.com/?p=6459562)
+15. [何积丰院士谈 AI 时代人才的三种能力：定义问题、验证产出、道德判断](https://m.thepaper.cn/newsDetail_forward_34375821)
    - 时间：6小时前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [XHEART大模型芯片X7 Ultra交出亮眼答卷，累计出货超 20 万颗](https://www.aibase.com/news/31976)
-   - 时间：昨天 18:24
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [星巴克计划在得来速引入AI技术，提升点餐准确率与出餐效率](https://www.aibase.com/news/31975)
-   - 时间：昨天 18:24
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则](https://openai.com/index/fair-use-benefits-everyone)
+16. [OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则](https://openai.com/index/fair-use-benefits-everyone)
    - 时间：昨天 08:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big)
+17. [Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big)
    - 时间：昨天 07:42
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则](https://openai.com/index/updated-model-spec)
+18. [OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则](https://openai.com/index/updated-model-spec)
    - 时间：昨天 01:00
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+19. [好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单](https://www.qbitai.com/2026/10/506747.html)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+20. [从「懂回答」到「能执行」：Zoho 如何让 AI 走进企业业务](https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
 21. [阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试](https://aihot.news/items/cbggw7imkzd4c01ifblroln6v)
-   - 时间：8小时前
+   - 时间：今天 08:03
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 22. [科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌](https://aihot.news/items/fxxkgtzpf2pb8xjnhu4jtis0b)
-   - 时间：11小时前
+   - 时间：今天 05:17
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%](https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h)
+23. [AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
    - 时间：昨天 22:50
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师](https://www.aibase.com/news/31994)
-   - 时间：昨天 21:24
-   - 来源：AIbase
+24. [Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元](https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth)
+   - 时间：昨天 20:50
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务](https://www.aibase.com/news/31991)
-   - 时间：昨天 21:24
-   - 来源：AIbase
+25. [Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox](https://epochai.substack.com/p/glm-patch-gap-exploit-firefox)
+   - 时间：昨天 20:07
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 726/2776 | 26.2% | 高信号源，建议保留 |
-| Info Flow | 218/656 | 33.2% | 高信号源，建议保留 |
-| TechURLs | 163/365 | 44.7% | 高信号源，建议保留 |
-| Zeli | 74/81 | 91.4% | 高信号源，建议保留 |
-| NewsNow | 24/115 | 20.9% | 高信号源，建议保留 |
-| AIbase | 20/20 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 16/27 | 59.3% | 高信号源，建议保留 |
-| AI HOT | 15/15 | 100.0% | 高信号源，建议保留 |
+| TopHub | 591/2256 | 26.2% | 高信号源，建议保留 |
+| Info Flow | 183/556 | 32.9% | 高信号源，建议保留 |
+| TechURLs | 151/327 | 46.2% | 高信号源，建议保留 |
+| Zeli | 75/79 | 94.9% | 高信号源，建议保留 |
+| NewsNow | 22/110 | 20.0% | 高信号源，建议保留 |
+| OPML RSS | 14/21 | 66.7% | 高信号源，建议保留 |
+| AI HOT | 10/10 | 100.0% | 高信号源，建议保留 |
+| Follow Builders | 5/25 | 20.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
