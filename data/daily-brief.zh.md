@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-11-02T15:31:05.130547Z
-- 24小时AI信号：1394 条
+- 生成时间：2026-11-03T03:59:21.700911Z
+- 24小时AI信号：1414 条
 - 源健康：13/14
-- 原始抓取：7703 条
+- 原始抓取：7663 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [ChatGPT 要能主动挂断危险对话，屡犯者直接封号](https://www.aibase.com/news/32025)
+1. [OpenAI宣布ChatGPT Classic将于2027年1月30日停用](https://www.aibase.com/news/32039)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5](https://www.aibase.com/news/32019)
+2. [人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当"大管家"](https://www.aibase.com/news/32037)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号](https://www.aibase.com/news/32018)
-   - 时间：7分钟前
+3. [撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖](https://www.aibase.com/news/32034)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [我国 AI 推理数据首超训练：日均词元调用破 175 万亿](https://www.aibase.com/news/32015)
-   - 时间：58分钟前
-   - 来源：AIbase
+4. [DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播](https://aihot.news/items/v41vn9hb5ywv10e68wycj1bjk)
+   - 时间：3小时前
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏](https://www.aibase.com/news/32009)
-   - 时间：4小时前
+5. [ChatGPT 要能主动挂断危险对话，屡犯者直接封号](https://www.aibase.com/news/32025)
+   - 时间：昨天 23:31
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化](https://www.aibase.com/news/32023)
+6. [从"禁军用"到拿下五角大楼，OpenAI 请来前陆军部长当顾问](https://www.aibase.com/news/32043)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [DeepSeek 甩出 Super-agent：AI 从"等人派活"变成"自己找活干"](https://www.aibase.com/news/32016)
-   - 时间：53分钟前
+7. [美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一](https://www.aibase.com/news/32040)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型](https://aihot.news/items/l37ydaic43icz85huclc2io6c)
-   - 时间：5小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响](https://www.aibase.com/news/32012)
-   - 时间：9小时前
+8. [蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案](https://www.aibase.com/news/32038)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈](https://www.aibase.com/news/32001)
-   - 时间：9小时前
+9. [一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的"必答题"](https://www.aibase.com/news/32035)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问](https://www.aibase.com/news/32031)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享](https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb)
-   - 时间：11-03 02:33
-   - 来源：OPML RSS
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [澳洲大学生用AI操纵模拟选举 研究社媒如何影响选民](https://www.zaochenbao.com/news/politics/202611/0284642.html)
-   - 时间：今天 23:41
+11. [OpenAI 训练并部署激活分类器作为前沿模型安全监控层](https://aihot.news/items/wlmiqh13694tqabyvu6nzvlrs)
+   - 时间：7小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [LifeVal](https://openai.com/index/lifeval)
+   - 时间：昨天 17:00
+   - 来源：Official AI Updates
+   - 评分：9.5/10 · matched_tracked_ai_keyword
+13. [AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”](https://www.thepaper.cn/newsDetail_forward_34388778)
+   - 时间：今天 12:01
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？](https://www.thepaper.cn/newsDetail_forward_34248283)
-   - 时间：今天 23:41
-   - 来源：TrendRadar
+14. [MIT 研究者提出「权重空间编程」：GPT-6 Astra 仅修改 Qwen3.5-0.8B 约 0.016% 权重，数学成绩提升至原来 6 倍](https://www.ithome.com/1/021/337.htm)
+   - 时间：1小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心](https://www.thepaper.cn/newsDetail_forward_34375606)
-   - 时间：今天 23:41
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [【AI安全】隔离沙箱中的共享状态信道风险研究](https://xz.aliyun.com/news/93045)
-   - 时间：1分钟前
-   - 来源：TopHub
+15. [OpenAI 发布 LifeVal 基准：从选幼儿园到报税，测试 AI 的“人间烟火”技能](https://www.ithome.com/1/021/336.htm)
+   - 时间：2小时前
+   - 来源：Info Flow
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex](https://www.aibase.com/news/32024)
+16. [营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验](https://www.aibase.com/news/32045)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [北京出台智能眼镜消费政策：购新补贴15%，单件最高500元](https://www.aibase.com/news/32020)
+17. [字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买](https://www.aibase.com/news/32041)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人](https://www.aibase.com/news/32017)
-   - 时间：17分钟前
+18. [苹果智能家居机器人J595将延期，最早或推迟至2028年](https://www.aibase.com/news/32036)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管](https://www.aibase.com/news/32014)
-   - 时间：1小时前
+19. [宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军](https://www.aibase.com/news/32033)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售](https://www.aibase.com/news/32010)
-   - 时间：9小时前
+20. [美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求](https://www.aibase.com/news/32032)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用](https://www.aibase.com/news/32026)
+21. [腾讯混元放出"AI 科学家"：自己训蛋白、造机械手，还反手改进下一代 AI](https://www.aibase.com/news/32044)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角](https://www.aibase.com/news/32021)
+22. [苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制](https://www.aibase.com/news/32042)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [四大 AI 巨头联手设"拒爬"标准：网站主有了统一退出开关](https://www.aibase.com/news/32011)
-   - 时间：9小时前
+23. [千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份](https://www.aibase.com/news/32027)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停](https://www.aibase.com/news/32007)
-   - 时间：9小时前
+24. [蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用](https://www.aibase.com/news/32026)
+   - 时间：昨天 23:31
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了](https://www.aibase.com/news/32003)
-   - 时间：9小时前
+25. [韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角](https://www.aibase.com/news/32021)
+   - 时间：昨天 23:31
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 587/2465 | 23.8% | 高信号源，建议保留 |
-| Buzzing | 350/893 | 39.2% | 高信号源，建议保留 |
-| Info Flow | 154/564 | 27.3% | 高信号源，建议保留 |
-| TechURLs | 96/250 | 38.4% | 高信号源，建议保留 |
-| Zeli | 49/51 | 96.1% | 高信号源，建议保留 |
-| AIbase | 31/31 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 24/123 | 19.5% | 高信号源，建议保留 |
-| OPML RSS | 12/25 | 48.0% | 高信号源，建议保留 |
+| TopHub | 556/2235 | 24.9% | 高信号源，建议保留 |
+| Buzzing | 309/895 | 34.5% | 高信号源，建议保留 |
+| Info Flow | 159/574 | 27.7% | 高信号源，建议保留 |
+| TechURLs | 137/310 | 44.2% | 高信号源，建议保留 |
+| Zeli | 71/76 | 93.4% | 高信号源，建议保留 |
+| AIbase | 50/50 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 23/98 | 23.5% | 高信号源，建议保留 |
+| OPML RSS | 19/34 | 55.9% | 高信号源，建议保留 |
 
 ## 维护提示
 
