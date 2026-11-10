@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-11-10T02:38:20.426561Z
-- 24小时AI信号：1136 条
+- 生成时间：2026-11-10T10:57:39.468010Z
+- 24小时AI信号：1214 条
 - 源健康：13/14
-- 原始抓取：7647 条
+- 原始抓取：7744 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [千问 Qwen4 跑分力压 Opus 5.5，极高性价比展现强劲竞争力](https://www.aibase.com/news/32200)
+1. [iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场](https://www.aibase.com/news/32219)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务](https://www.aibase.com/news/32198)
+2. [基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测](https://www.aibase.com/news/32218)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万](https://www.aibase.com/news/32197)
+3. [谷歌给 Gemini 装"删除键"：AI 记住的隐私，现在你能看能改能删](https://www.aibase.com/news/32215)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光](https://www.aibase.com/news/32195)
+4. [个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核](https://www.aibase.com/news/32207)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一](https://www.aibase.com/news/32194)
+5. [通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型](https://www.aibase.com/news/32203)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [你的游戏“最强搭子”上线:腾讯首款AI游戏陪伴Agent鹅次元”内测开启](https://www.aibase.com/news/32199)
+6. [史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务](https://www.aibase.com/news/32209)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [华尔街给 AI 热泼冷水：Anthropic 冲刺"史上最大 IPO"遇降温](https://www.aibase.com/news/32196)
+7. [Anthropic 重夺"全球最强"：Claude Fable 5.2 登顶，还让千个智能体造了系统](https://www.aibase.com/news/32205)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级](https://www.aibase.com/news/32193)
-   - 时间：1分钟前
+8. [给失控 AI 智能体装"急刹车"：OpenAI 35 秒熔断机制上线](https://www.aibase.com/news/32201)
+   - 时间：16分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Meta发布Muse Ember:以极致性价比切入智能体重复性工作](https://www.aibase.com/news/32192)
-   - 时间：1分钟前
+9. [你的游戏“最强搭子”上线:腾讯首款AI游戏陪伴Agent鹅次元”内测开启](https://www.aibase.com/news/32199)
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统](https://www.aibase.com/news/32190)
-   - 时间：1分钟前
+10. [华尔街给 AI 热泼冷水：Anthropic 冲刺"史上最大 IPO"遇降温](https://www.aibase.com/news/32196)
+   - 时间：8小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
 11. [做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系](https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964)
-   - 时间：3小时前
+   - 时间：今天 06:46
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 12. [Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5](https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s)
-   - 时间：6小时前
+   - 时间：今天 03:45
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 13. [Redwood Research 分析 OpenAI Astra 在安全任务上的隐性消极表现](https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo)
-   - 时间：9小时前
+   - 时间：今天 01:33
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-14. [Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务](https://aihot.news/items/cox936nwax49rkiimi1oicgzu)
-   - 时间：昨天 15:00
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-15. [控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载](https://openai.com/index/control-room)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [Claude Fable 5.2 现已在所有付费计划中推出。在网络安全或生物医学研究中寻求有益应用的组织可以申请访问 Claude Mythos 5.2。了解更多：https://t.co/50jMVOmUG7](https://x.com/claudeai/status/2119899492778398163)
+   - 时间：今天 05:06
+   - 来源：Follow Builders
+   - 评分：8.5/10 · matched_tracked_ai_keyword
+15. [Frontier Labs 购买什么：利用 Handshake AI 进行数据深入研究 — Garrett Lord 和团队](https://www.youtube.com/@LatentSpacePod)
+   - 时间：今天 00:41
+   - 来源：Follow Builders
+   - 评分：8.5/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说](https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd)
-   - 时间：昨天 19:38
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元](https://www.aibase.com/news/32177)
-   - 时间：昨天 17:35
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [风波里的站队：马斯克一句"我同意"力挺黄仁勋](https://www.aibase.com/news/32173)
-   - 时间：昨天 17:35
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
-   - 时间：11小时前
-   - 来源：Official AI Updates
-   - 评分：9.8/10 · matched_ai_signal
-20. [欧盟拟向“成瘾设计”开刀：社交媒体、AI聊天机器人面临新规](https://www.cls.cn/detail/2529542)
-   - 时间：今天 10:40
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-
-### 实践技巧与观点
-
-21. [苹果给 AI 收费划了新道：不包月，按用量买断](https://www.aibase.com/news/32191)
+16. [美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%](https://www.aibase.com/news/32206)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响](https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri)
-   - 时间：2小时前
+17. [Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说](https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd)
+   - 时间：昨天 19:38
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元](https://www.aibase.com/news/32187)
-   - 时间：8小时前
+18. [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
+   - 时间：昨天 23:05
+   - 来源：Official AI Updates
+   - 评分：9.8/10 · matched_ai_signal
+19. [顺便说一句，机器人技术也将遭受惨痛的教训 https://t.co/cqftOw2OAM](https://x.com/alexalbert__/status/2119869925288558799)
+   - 时间：今天 03:09
+   - 来源：Follow Builders
+   - 评分：8.3/10 · matched_ai_signal
+20. [如果您在日本，请查看 SMFL 数字创新团队的新书《Enterprise Vibe Coding》，介绍人工智能如何改变企业软件开发。将于 11 月 27 日发布。很荣幸登上封面！ https：/...](https://x.com/amasad/status/2119909166764667292)
+   - 时间：今天 05:45
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
+
+### 实践技巧与观点
+
+21. [字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级](https://www.aibase.com/news/32217)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [实验室里的独角兽要出 App 了：Sakana AI 转向消费端](https://www.aibase.com/news/32180)
-   - 时间：昨天 17:35
+22. [肯德基在日本翻车：AI 画的商品图，连冰块都"染了色"](https://www.aibase.com/news/32216)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作](https://www.aibase.com/news/32179)
-   - 时间：昨天 17:35
+23. [金鸡百花首开 AI 单元：287 支团队拼 72 小时极限创作](https://www.aibase.com/news/32214)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业](https://www.aibase.com/news/32212)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地](https://www.aibase.com/news/32211)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 431/1662 | 25.9% | 高信号源，建议保留 |
-| Buzzing | 242/762 | 31.8% | 高信号源，建议保留 |
-| Info Flow | 115/461 | 24.9% | 高信号源，建议保留 |
-| TechURLs | 103/249 | 41.4% | 高信号源，建议保留 |
-| Zeli | 72/73 | 98.6% | 高信号源，建议保留 |
-| AIbase | 31/31 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 23/98 | 23.5% | 高信号源，建议保留 |
-| OPML RSS | 19/32 | 59.4% | 高信号源，建议保留 |
+| TopHub | 443/1727 | 25.7% | 高信号源，建议保留 |
+| Buzzing | 259/791 | 32.7% | 高信号源，建议保留 |
+| Info Flow | 135/496 | 27.2% | 高信号源，建议保留 |
+| TechURLs | 107/283 | 37.8% | 高信号源，建议保留 |
+| Zeli | 73/75 | 97.3% | 高信号源，建议保留 |
+| AIbase | 33/33 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 29/42 | 69.0% | 高信号源，建议保留 |
+| NewsNow | 25/102 | 24.5% | 高信号源，建议保留 |
 
 ## 维护提示
 
