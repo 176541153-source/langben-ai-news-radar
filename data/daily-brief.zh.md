@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-11-12T02:27:10.461375Z
-- 24小时AI信号：1675 条
+- 生成时间：2026-11-12T10:09:22.369892Z
+- 24小时AI信号：1716 条
 - 源健康：13/14
-- 原始抓取：7710 条
+- 原始抓取：7758 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑](https://www.aibase.com/news/32262)
+1. [冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录](https://www.aibase.com/news/32283)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [谷歌 Gemini 语音助手正式接入苹果 CarPlay：全面拓展车载 AI 生态，支持免提对话与跨设备同步](https://www.aibase.com/news/32257)
+2. [追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标](https://www.aibase.com/news/32280)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可](https://aihot.news/items/bx3sq4dxfqblyztkuiktiz0wv)
-   - 时间：3小时前
-   - 来源：AI HOT
+3. [Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作](https://www.aibase.com/news/32279)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [Claude Code 中如何选择 Fable 5.2 与 Opus 等模型](https://aihot.news/items/ep5oqt7m4l7gn3tqieilznmuk)
-   - 时间：8小时前
-   - 来源：AI HOT
+4. [百度文心大模型再升级：ERNIE 5.5 Flash Preview 亮相，模型权重将于 11 月 25 日前正式开源](https://www.aibase.com/news/32278)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账](https://www.aibase.com/news/32253)
-   - 时间：昨天 21:59
+5. [国产地震大模型“谛听”亮相：汇聚 2000 万数据集，让 AI 听懂地球“心跳”](https://www.aibase.com/news/32276)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断](https://www.aibase.com/news/32265)
+6. [押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元](https://www.aibase.com/news/32286)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [字节跳动计划数周内推出新款AI助手，布局智能体赛道](https://www.aibase.com/news/32256)
+7. [单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成](https://www.aibase.com/news/32285)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒](https://www.aibase.com/news/32255)
+8. [Claude API 加了个"挡位"：聊着聊着，能给 AI 临时加力](https://www.aibase.com/news/32271)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题](https://aihot.news/items/vq9nwgwhtm31cgoliyb7ydyde)
-   - 时间：2小时前
-   - 来源：AI HOT
+9. [Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？](https://www.aibase.com/news/32270)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Gemini Decisions API：快速、经过校准的多模式决策](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api)
-   - 时间：8小时前
-   - 来源：Official AI Updates
-   - 评分：10.0/10 · matched_tracked_ai_keyword
+10. [​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断](https://www.aibase.com/news/32265)
+   - 时间：7小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [Vanda Research表示，Anthropic的首次公开募股（IPO）可能会吸引创纪录数量的散户投资者 - Yahoo Finance](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUNCR0JEN3dTdTNGYWFQMEtjQTl1RUVITk5TcDkwam5jbWpoS2doemZHQUZNRDNYcUhEeDVPU1JYV19zbWRkbGczYmltbC12TmlpN0RQRTVGRzJGTTF1cmVqSWQ2UUcxQXIxeFhfVlNxR1NiNkZaaG11VkRoZUZHdWFkZVNsQ0wtbW1CVjNLZFJtV1J0ckZyRFVOOEVLeC1zbktXY0dnYl82Q2xDUG0tUmcyd3RCb3BNY2ZtUEVVVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：2小时前
+11. [Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源](https://www.aibase.com/news/32267)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+12. [赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖](https://www.thepaper.cn/newsDetail_forward_34458622)
+   - 时间：今天 18:10
+   - 来源：TrendRadar
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [Vanda Research表示，Anthropic的首次公开募股（IPO）可能会吸引创纪录数量的散户投资者 - Yahoo Finance](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUNCR0JEN3dTdTNGYWFQMEtjQTl1RUVITk5TcDkwam5jbWpoS2doemZHQUZNRDNYcUhEeDVPU1JYV19zbWRkbGczYmltbC12TmlpN0RQRTVGRzJGTTF1cmVqSWQ2UUcxQXIxeFhfVlNxR1NiNkZaaG11VkRoZUZHdWFkZVNsQ0wtbW1CVjNLZFJtV1J0ckZyRFVOOEVLeC1zbktXY0dnYl82Q2xDUG0tUmcyd3RCb3BNY2ZtUEVVVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：10小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [《克劳德·科德：超越平均》：让《反重力》来评测一下吧](https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g)
-   - 时间：7小时前
+14. [《克劳德·科德：超越平均》：让《反重力》来评测一下吧](https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g)
+   - 时间：今天 03:09
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [“模型权重需要与代码同等程度的审查”：微软研究人员发现人工智能代理可以通过编辑几个神经元来设置后门](https://www.techradar.com/pro/security/model-weights-need-the-same-level-of-scrutiny-as-code-microsoft-researchers-find-ai-agents-can-be-backdoored-by-editing-just-a-few-neurons)
-   - 时间：8小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [YouGov 发布人工智能孪生验证并向行业标准发起挑战](https://thenextweb.com/news/yougov-ai-twins-validation-research-standards)
-   - 时间：9小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [Google DeepMind 推出 AlphaGenome 2，对 68 个组织的 1 亿多个细胞图谱进行训练，以预测基因突变效应，用于非商业研究（Robert Hart/The Verge）](https://www.techmeme.com/261111/p32)
-   - 时间：11小时前
+15. [“模型权重需要与代码同等程度的审查”：微软研究人员发现人工智能代理可以通过编辑几个神经元来设置后门](https://www.techradar.com/pro/security/model-weights-need-the-same-level-of-scrutiny-as-code-microsoft-researchers-find-ai-agents-can-be-backdoored-by-editing-just-a-few-neurons)
+   - 时间：今天 02:05
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [灵光生态再扩容!新增微信 ClawBot、QQ机器人、瑞幸咖啡等六大连接器](https://www.aibase.com/news/32264)
+16. [李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织](https://www.aibase.com/news/32268)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [AI初创公司Helix获620万美元融资，推出本地语音真人验证技术](https://www.aibase.com/news/32263)
-   - 时间：1分钟前
+17. [灵光生态再扩容!新增微信 ClawBot、QQ机器人、瑞幸咖啡等六大连接器](https://www.aibase.com/news/32264)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波](https://www.aibase.com/news/32260)
-   - 时间：1分钟前
+18. [AI初创公司Helix获620万美元融资，推出本地语音真人验证技术](https://www.aibase.com/news/32263)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户](https://www.aibase.com/news/32259)
-   - 时间：1分钟前
+19. [马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波](https://www.aibase.com/news/32260)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [OpenAI第三季度营收突破100亿美元，环比增长近50%](https://www.aibase.com/news/32258)
-   - 时间：1分钟前
+20. [估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户](https://www.aibase.com/news/32259)
+   - 时间：7小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级](https://www.aibase.com/news/32261)
+21. [微软松口允许关闭必应 AI 答案，但开门要收"过路费"](https://www.aibase.com/news/32284)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋](https://aihot.news/items/aoxmmcsudy1gf9xmti7slu1wd)
-   - 时间：2小时前
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [红果短剧给 AI 角色"上户口"：虚拟形象也能确权了](https://www.aibase.com/news/32254)
-   - 时间：昨天 21:59
+22. [免费相册成引流入口？Win11 照片应用悄悄接入 Adobe](https://www.aibase.com/news/32281)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [北京互联网法院:平台误判AI生成内容未标识构成违约](https://www.aibase.com/news/32251)
-   - 时间：昨天 21:59
+23. [火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%](https://www.aibase.com/news/32277)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [Siri AI 终于要懂你的体检数据了，苹果却把它锁在 Beta 里](https://www.aibase.com/news/32246)
-   - 时间：昨天 21:59
+24. [腾讯辟谣裁员50%:计划将一半力量投入AI Native探索](https://www.aibase.com/news/32275)
+   - 时间：1分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+25. [AI作弊越来越难查，大学开始重新考虑如何给学生打分](https://www.aibase.com/news/32266)
+   - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 673/2479 | 27.1% | 高信号源，建议保留 |
-| Buzzing | 411/1101 | 37.3% | 高信号源，建议保留 |
-| Info Flow | 206/637 | 32.3% | 高信号源，建议保留 |
-| TechURLs | 128/334 | 38.3% | 高信号源，建议保留 |
-| Zeli | 76/82 | 92.7% | 高信号源，建议保留 |
+| TopHub | 676/2519 | 26.8% | 高信号源，建议保留 |
+| Buzzing | 467/1169 | 39.9% | 高信号源，建议保留 |
+| Info Flow | 181/643 | 28.1% | 高信号源，建议保留 |
+| TechURLs | 129/358 | 36.0% | 高信号源，建议保留 |
+| Zeli | 73/79 | 92.4% | 高信号源，建议保留 |
 | AIbase | 43/43 | 100.0% | 高信号源，建议保留 |
 | OPML RSS | 24/37 | 64.9% | 高信号源，建议保留 |
-| NewsNow | 16/87 | 18.4% | 有少量有效信号，继续观察 |
+| NewsNow | 22/116 | 19.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
