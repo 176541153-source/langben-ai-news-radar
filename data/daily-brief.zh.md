@@ -1,142 +1,142 @@
 # AI News Radar 日报
 
-- 生成时间：2026-11-24T05:52:02.625559Z
-- 24小时AI信号：1377 条
-- 源健康：12/14
-- 原始抓取：7748 条
+- 生成时间：2026-11-24T17:27:09.612147Z
+- 24小时AI信号：1337 条
+- 源健康：13/14
+- 原始抓取：7733 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次](https://www.aibase.com/news/32493)
+1. [腾讯混元发布并开源Hy MT3](https://www.aibase.com/news/32503)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [AI 连代码合入权都接走了：Anthropic 上线 Claude Ship](https://www.aibase.com/news/32485)
-   - 时间：1分钟前
+2. [AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”](https://www.aibase.com/news/32500)
+   - 时间：1小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了](https://www.aibase.com/news/32483)
-   - 时间：1分钟前
+3. [“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台](https://www.aibase.com/news/32498)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”](https://www.aibase.com/news/32482)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次](https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8)
+4. [告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力](https://www.aibase.com/news/32496)
    - 时间：3小时前
-   - 来源：AI HOT
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%](https://www.aibase.com/news/32495)
+   - 时间：3小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文](https://www.aibase.com/news/32492)
-   - 时间：1分钟前
+6. [Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day](https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x)
+   - 时间：4小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统](https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [卡兹克分享两个优化用户体验和产品动效的 Prompt](https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0)
+   - 时间：11小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文](https://www.aibase.com/news/32492)
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”](https://www.aibase.com/news/32489)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo](https://www.aibase.com/news/32487)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元](https://www.aibase.com/news/32486)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明](https://www.aibase.com/news/32481)
-   - 时间：1分钟前
+10. [OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”](https://www.aibase.com/news/32489)
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例](https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff)
-   - 时间：昨天 22:46
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [调用量霸榜三十周，赚钱还差一关：国产模型的两张榜单](https://www.aibase.com/news/32467)
-   - 时间：昨天 17:40
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现](https://www.thepaper.cn/newsDetail_forward_34537819)
-   - 时间：今天 13:53
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [研究发现，人工智能编码代理使用公司自己的代码的情况低于 60%](https://thenextweb.com/news/designverse-ai-coding-drift-report-legacy-codebases)
+11. [研究：大多数人工智能部署通过扩大和加速产出而不是降低成本来获取价值，100 个人工智能构建的应用程序中有 80% 实现了手动任务的自动化（人类）](https://www.techmeme.com/261124/p12)
    - 时间：5小时前
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
+12. [关于人工智能意识的科学研究必须承认其中的不确定性](https://www.nature.com/articles/d41586-026-03822-5)
+   - 时间：6小时前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [打击AI垃圾内容，同时不惩罚合法的研究人员](https://www.nature.com/articles/d41586-026-03824-3)
+   - 时间：6小时前
+   - 来源：Buzzing
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [研究发现，人工智能编码代理使用公司自己的代码的情况低于 60%](https://thenextweb.com/news/designverse-ai-coding-drift-report-legacy-codebases)
+   - 时间：昨天 08:01
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 15. [Anthropic 关联仓库发布 VP ≠ VNP 论文，尚待验证](https://thysrael.github.io/Horizon/2026/11/24/summary-zh.html#item-4)
-   - 时间：5小时前
+   - 时间：昨天 08:00
    - 来源：Horizon
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法](https://aihot.news/items/qkxvs90ewfu3k430sdefndv56)
-   - 时间：昨天 23:04
+16. [百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆](https://www.aibase.com/news/32502)
+   - 时间：22分钟前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+17. [修补提速也是一种风险：微软总裁警告“完美风暴”还会再来](https://www.aibase.com/news/32497)
+   - 时间：2小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+18. [ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先](https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2)
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [李泽湘、红杉押注的AI体育硬件再获超亿元融资，众筹百万美元，已出货数万台｜硬氪首发](https://www.36kr.com/p/4057886873441153)
-   - 时间：1分钟前
-   - 来源：TopHub
+19. [外媒关注中国AI机器人为“上岗”做准备](https://ckxxapp.ckxx.net/pages/2026/11/24/fe11c2461d6d4509bda1e823c96c7036.html)
+   - 时间：今天 01:29
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-18. [我想退货了！ #机器人 #人工智能](https://www.douyin.com/video/7710959736392289545)
-   - 时间：1分钟前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-19. [特朗普政府批准向与中国军方有关联的企业出售58万颗英伟达人工智能芯片，并从中抽取部分收益 - Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxOblhqVkt3aDV2aTktV011RFFKUEQzVlhQQ3o0SWtFVV9uc01EV1NUMERjY3dyLVZRS3dQd015OHVfTmxYVUdLaWJyRHBmYXkzUE5Wb1UwYWZFUFR0d2Nhc3lORzhmYlVsVHczSmowT0xodU9veERxVHp3TUZOaFh0OHdCUEl3aWtjWURQYVVxZkVVS0ROb19nZlpXamxELUE?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：39分钟前
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [黄氏回归点燃了饱受重创的亚洲AI交易中的涨停狂潮](https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade)
-   - 时间：55分钟前
-   - 来源：Buzzing
+20. [Anthropic上市5天即破发，2万亿美元估值昙花一现](https://view.inews.qq.com/a/20261124A0EOF800)
+   - 时间：今天 01:29
+   - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
 
-21. [Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局](https://www.aibase.com/news/32491)
-   - 时间：1分钟前
+21. [探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同](https://www.aibase.com/news/32499)
+   - 时间：2小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [黄仁勋官复原职：英伟达董事会一周内戏剧性逆转，股价应声大涨 31%](https://www.aibase.com/news/32490)
-   - 时间：1分钟前
+22. [从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑](https://www.aibase.com/news/32494)
+   - 时间：3小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员](https://www.aibase.com/news/32488)
-   - 时间：1分钟前
+23. [Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局](https://www.aibase.com/news/32491)
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案](https://www.aibase.com/news/32484)
-   - 时间：1分钟前
+24. [黄仁勋官复原职：英伟达董事会一周内戏剧性逆转，股价应声大涨 31%](https://www.aibase.com/news/32490)
+   - 时间：11小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单](https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z)
-   - 时间：4小时前
-   - 来源：AI HOT
+25. [骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员](https://www.aibase.com/news/32488)
+   - 时间：11小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 536/2176 | 24.6% | 高信号源，建议保留 |
-| Buzzing | 318/920 | 34.6% | 高信号源，建议保留 |
-| Info Flow | 178/538 | 33.1% | 高信号源，建议保留 |
-| TechURLs | 104/321 | 32.4% | 高信号源，建议保留 |
-| Zeli | 56/62 | 90.3% | 高信号源，建议保留 |
-| AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 30/111 | 27.0% | 高信号源，建议保留 |
-| OPML RSS | 22/44 | 50.0% | 高信号源，建议保留 |
+| TopHub | 512/2151 | 23.8% | 高信号源，建议保留 |
+| Buzzing | 334/958 | 34.9% | 高信号源，建议保留 |
+| TechURLs | 130/376 | 34.6% | 高信号源，建议保留 |
+| Info Flow | 121/401 | 30.2% | 高信号源，建议保留 |
+| Zeli | 68/70 | 97.1% | 高信号源，建议保留 |
+| AIbase | 24/24 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 23/105 | 21.9% | 高信号源，建议保留 |
+| OPML RSS | 16/31 | 51.6% | 高信号源，建议保留 |
 
 ## 维护提示
 
-- 需要优先修复失败源：aibreakfast, aihubtoday
+- 需要优先修复失败源：aihubtoday
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
