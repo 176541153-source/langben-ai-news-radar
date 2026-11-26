@@ -1,125 +1,125 @@
 # AI News Radar 日报
 
-- 生成时间：2026-11-25T10:19:59.846842Z
-- 24小时AI信号：1475 条
-- 源健康：13/14
-- 原始抓取：7848 条
+- 生成时间：2026-11-26T02:44:54.758538Z
+- 24小时AI信号：1112 条
+- 源健康：12/14
+- 原始抓取：7761 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练](https://www.aibase.com/news/32532)
+1. [英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2](https://www.aibase.com/news/32540)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [谷歌为 Gemini 推出新隐私设置：聊天记录可独立保留，是否用于 AI 训练由用户说了算](https://www.aibase.com/news/32531)
+2. [Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位](https://www.aibase.com/news/32538)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉](https://www.aibase.com/news/32527)
+3. [Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险](https://www.aibase.com/news/32537)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [OpenAI、Anthropic 内部讨论"停训"：前沿模型强到不敢发，员工担忧安全风险失控](https://www.aibase.com/news/32526)
+4. [OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看](https://www.aibase.com/news/32535)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [拒绝“AI 垃圾代码”！LibreOffice 祭出最严 AI 编程新规：用大模型写代码，必须先过“人工解释”关](https://www.aibase.com/news/32515)
+5. [OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限](https://www.aibase.com/news/32533)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座](https://www.aibase.com/news/32524)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力](https://www.aibase.com/news/32522)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [百度开源文心 5.5 Flash Preview，用“测试驱动”重塑长程 AI 编程范式](https://www.aibase.com/news/32521)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [OpenAI 窃听案嫌犯获准保释：100 万美元担保 + 电子脚镣，法官称证据不足以继续关押](https://www.aibase.com/news/32519)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [Anthropic 上市不到一周跌破 83 美元发行价](https://aihot.news/items/yhlpti07v4y216qat3ml1qmca)
-   - 时间：6小时前
+6. [上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法](https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam)
+   - 时间：10小时前
    - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+7. [亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座](https://www.aibase.com/news/32524)
+   - 时间：昨天 18:19
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+8. [PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力](https://www.aibase.com/news/32522)
+   - 时间：昨天 18:19
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+9. [百度开源文心 5.5 Flash Preview，用“测试驱动”重塑长程 AI 编程范式](https://www.aibase.com/news/32521)
+   - 时间：昨天 18:19
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+10. [OpenAI 窃听案嫌犯获准保释：100 万美元担保 + 电子脚镣，法官称证据不足以继续关押](https://www.aibase.com/news/32519)
+   - 时间：昨天 18:19
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集](https://www.aibase.com/news/32523)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%](https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez)
-   - 时间：4小时前
+11. [OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff](https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78)
+   - 时间：昨天 22:05
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-13. [知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答](https://www.thepaper.cn/newsDetail_forward_34548287)
-   - 时间：今天 18:26
+12. [蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集](https://www.aibase.com/news/32523)
+   - 时间：昨天 18:19
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+13. [MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%](https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez)
+   - 时间：昨天 13:29
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+14. [AI世代｜第二层无明：机器知道，人类相信](https://www.thepaper.cn/newsDetail_forward_34539623)
+   - 时间：今天 10:46
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？](https://www.thepaper.cn/newsDetail_forward_34529993)
-   - 时间：今天 18:26
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [鹈鹕骑自行车火了：大家到底在测AI的什么？从meme聊到正式Benchmark](https://www.woshipm.com/?p=6499794)
+15. [如何看待谷歌在 GitHub 上发出的六篇数学论文？更新后的 Gemini 数学能力处于什么水平？](https://www.zhihu.com/question/2109042588002907107)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 产业、算力与机器人
 
-16. [小鹏IRON人形机器人计划2027年二季度发布，1月启动硬件量产](https://www.aibase.com/news/32530)
+16. [OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看](https://www.aibase.com/news/32541)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上](https://www.aibase.com/news/32520)
+17. [SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租](https://www.aibase.com/news/32536)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [隐私AI初创公司Maple完成530万美元融资，推出AI桌面智能体](https://www.aibase.com/news/32517)
+18. [三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元](https://www.aibase.com/news/32534)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [算力提升12倍!特斯拉AI5芯片将率先赋能人形机器人](https://www.aibase.com/news/32516)
-   - 时间：1分钟前
-   - 来源：AIbase
+19. [黄仁勋回归后 Nvidia 仍面临 Megaspeed 芯片出口合规调查](https://aihot.news/items/kzwj96fvnn3whzvnhqdvsh830)
+   - 时间：昨天 21:00
+   - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆](https://www.aibase.com/news/32502)
-   - 时间：今天 01:05
+20. [小鹏IRON人形机器人计划2027年二季度发布，1月启动硬件量产](https://www.aibase.com/news/32530)
+   - 时间：昨天 18:19
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加](https://www.aibase.com/news/32528)
+21. [亚马逊与Meta谈判，考虑开放Muse AI代理购物](https://www.aibase.com/news/32539)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [直接管理60人!黄仁勋为何不愿为英伟达制定接班计划](https://www.aibase.com/news/32525)
-   - 时间：1分钟前
+22. [卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义](https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc)
+   - 时间：2小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录](https://aihot.news/items/j0hoj1rlmltoft6okserijp25)
+   - 时间：9小时前
+   - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加](https://www.aibase.com/news/32528)
+   - 时间：昨天 18:19
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [千问Go全面开放AI代打电话服务，支持预约、查询及定时外呼](https://www.aibase.com/news/32518)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [关闭浏览器仍狂吃数百兆内存！Chrome隐藏的“AI内存刺客”被揪出，一招教你彻底释放资源](https://www.aibase.com/news/32514)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [陈睿:AI将提升优质内容供给效率，B站有望成为AI时代受益平台](https://www.aibase.com/news/32512)
-   - 时间：13分钟前
+25. [直接管理60人!黄仁勋为何不愿为英伟达制定接班计划](https://www.aibase.com/news/32525)
+   - 时间：昨天 18:19
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
@@ -127,16 +127,16 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 538/2052 | 26.2% | 高信号源，建议保留 |
-| Buzzing | 395/999 | 39.5% | 高信号源，建议保留 |
-| Info Flow | 163/532 | 30.6% | 高信号源，建议保留 |
-| TechURLs | 124/367 | 33.8% | 高信号源，建议保留 |
-| Zeli | 71/77 | 92.2% | 高信号源，建议保留 |
-| AIbase | 35/35 | 100.0% | 高信号源，建议保留 |
-| OPML RSS | 22/38 | 57.9% | 高信号源，建议保留 |
-| NewsNow | 19/102 | 18.6% | 有少量有效信号，继续观察 |
+| TopHub | 383/1568 | 24.4% | 高信号源，建议保留 |
+| Buzzing | 272/770 | 35.3% | 高信号源，建议保留 |
+| Info Flow | 129/440 | 29.3% | 高信号源，建议保留 |
+| TechURLs | 96/253 | 37.9% | 高信号源，建议保留 |
+| Zeli | 63/69 | 91.3% | 高信号源，建议保留 |
+| AIbase | 29/29 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 22/32 | 68.8% | 高信号源，建议保留 |
+| NewsNow | 21/90 | 23.3% | 高信号源，建议保留 |
 
 ## 维护提示
 
-- 需要优先修复失败源：aihubtoday
+- 需要优先修复失败源：aibreakfast, aihubtoday
 - 低命中、高产出的聚合源建议先降权观察，不要继续盲目加源。
