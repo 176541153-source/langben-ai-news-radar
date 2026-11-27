@@ -1,140 +1,140 @@
 # AI News Radar 日报
 
-- 生成时间：2026-11-27T04:01:42.854216Z
-- 24小时AI信号：1097 条
+- 生成时间：2026-11-27T13:41:10.595666Z
+- 24小时AI信号：1081 条
 - 源健康：12/14
-- 原始抓取：7437 条
+- 原始抓取：7424 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的](https://www.aibase.com/news/32568)
+1. [Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍](https://www.aibase.com/news/32580)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战](https://www.aibase.com/news/32566)
+2. [谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB](https://www.aibase.com/news/32575)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%](https://www.aibase.com/news/32559)
+3. [首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带](https://www.aibase.com/news/32573)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前](https://www.aibase.com/news/32557)
+4. [告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点](https://www.aibase.com/news/32569)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图](https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj)
-   - 时间：11小时前
+5. [Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报](https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc)
+   - 时间：1小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
 
-6. [OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4](https://www.aibase.com/news/32564)
+6. [JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降](https://www.aibase.com/news/32577)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-7. [AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手](https://www.aibase.com/news/32560)
+7. [豆包独家接入剪映，用“对话式交互”重塑视频创作工作流](https://www.aibase.com/news/32576)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-8. [Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重](https://www.aibase.com/news/32558)
+8. [SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售](https://www.aibase.com/news/32571)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-9. [Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP](https://aihot.news/items/jcdfpftbam647yhc210dbace9)
-   - 时间：昨天 21:30
-   - 来源：AI HOT
+9. [月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持](https://www.aibase.com/news/32570)
+   - 时间：1分钟前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭](https://www.aibase.com/news/32556)
-   - 时间：昨天 20:10
+10. [OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4](https://www.aibase.com/news/32564)
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 论文研究与评测
 
-11. [知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策](https://www.aibase.com/news/32544)
-   - 时间：昨天 19:10
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-12. [OpenAI发布重量级物理论文](https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87)
-   - 时间：今天 12:05
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [GPT-6 Astra或已发现大一统理论？斯坦福物理论文引热议](https://www.36kr.com/p/4086372097206921)
-   - 时间：6小时前
-   - 来源：TopHub
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [资料来源：领先的人工智能实验室正在研究重大的、未发布的算法突破，这些突破可能会破坏已部署的密码系统，但其确切性质尚不清楚（Scott Aaronson/Shtetl-Optimized）](https://www.techmeme.com/261126/p8)
-   - 时间：昨天 17:50
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [针对受限语言的生成式人工智能合成内容进行有意义的人工干预检查](https://www.siddharthaprasad.com/papers/pafk-pick.pdf)
-   - 时间：昨天 14:39
+11. [那些相信“AI末日”的人正将资金投入到他们所担忧的领域](https://www.businessinsider.com/ai-apocalypse-fears-changing-how-researchers-save-invest-retirement-2026-11)
+   - 时间：2小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
+12. [那些相信“AI末日”的人正将资金投入到他们所担忧的领域](https://www.businessinsider.com/ai-apocalypse-fears-changing-how-researchers-save-invest-retirement-2026-11)
+   - 时间：2小时前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [一家研究公司警告称，黄仁勋的回归无法阻止即将到来的 20% 股市下跌](https://www.businessinsider.com/stock-market-drop-sp500-prediction-jensen-huang-ai-bubble-2026-11)
+   - 时间：3小时前
+   - 来源：TechURLs
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+14. [GPT-6 Astra或已发现大一统理论？斯坦福物理论文引热议](https://www.36kr.com/p/4086372097206921)
+   - 时间：今天 05:50
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+15. [俄罗斯对欧洲发动的混合战争正在演变，但已告失败：国际战略研究所（IISS） - Al Jazeera](https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen)
+   - 时间：21分钟前
+   - 来源：Buzzing
+   - 评分：6.5/10 · matched_tracked_internet_keyword
 
 ### 产业、算力与机器人
 
-16. [OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？](https://www.aibase.com/news/32567)
+16. [30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”](https://www.aibase.com/news/32579)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-17. [路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力](https://www.aibase.com/news/32563)
+17. [90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”](https://www.aibase.com/news/32574)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-18. [Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者](https://www.aibase.com/news/32561)
+18. [日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心](https://www.aibase.com/news/32572)
    - 时间：1分钟前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱](https://aihot.news/items/cdkswjz368inpelrz3f52rekx)
-   - 时间：4小时前
-   - 来源：AI HOT
+19. [OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？](https://www.aibase.com/news/32567)
+   - 时间：9小时前
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-20. [SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数](https://www.aibase.com/news/32553)
-   - 时间：昨天 20:10
+20. [路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力](https://www.aibase.com/news/32563)
+   - 时间：9小时前
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 实践技巧与观点
 
-21. [微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”](https://www.aibase.com/news/32565)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因](https://www.aibase.com/news/32562)
-   - 时间：1分钟前
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考](https://www.aibase.com/news/32554)
-   - 时间：昨天 20:10
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-24. [10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作](https://www.aibase.com/news/32547)
-   - 时间：昨天 19:38
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-25. [FT 报道 Nvidia 暂停向东南亚四国发运服务器](https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30)
-   - 时间：昨天 15:00
+21. [Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接](https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96)
+   - 时间：6小时前
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
+22. [微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”](https://www.aibase.com/news/32565)
+   - 时间：9小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+23. [消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因](https://www.aibase.com/news/32562)
+   - 时间：9小时前
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+24. [让 Trainium3 走上正轨：使用 LTX-2.5 生成视频](https://huggingface.co/blog/video-trainium3)
+   - 时间：今天 08:00
+   - 来源：Official AI Updates
+   - 评分：9.5/10 · matched_ai_signal
+25. [“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？](https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE)
+   - 时间：11-28 02:53
+   - 来源：OPML RSS
+   - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ## 源质量建议
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 454/1832 | 24.8% | 高信号源，建议保留 |
-| Buzzing | 327/875 | 37.4% | 高信号源，建议保留 |
-| TechURLs | 104/257 | 40.5% | 高信号源，建议保留 |
-| Zeli | 61/61 | 100.0% | 高信号源，建议保留 |
-| AIbase | 26/26 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 26/87 | 29.9% | 高信号源，建议保留 |
-| OPML RSS | 13/25 | 52.0% | 高信号源，建议保留 |
-| AI HOT | 5/5 | 100.0% | 高信号源，建议保留 |
+| TopHub | 447/1781 | 25.1% | 高信号源，建议保留 |
+| Buzzing | 325/867 | 37.5% | 高信号源，建议保留 |
+| TechURLs | 99/256 | 38.7% | 高信号源，建议保留 |
+| Zeli | 62/62 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 24/82 | 29.3% | 高信号源，建议保留 |
+| AIbase | 23/23 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 12/20 | 60.0% | 高信号源，建议保留 |
+| AI HOT | 4/4 | 100.0% | 高信号源，建议保留 |
 
 ## 维护提示
 
