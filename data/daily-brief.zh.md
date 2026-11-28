@@ -1,34 +1,34 @@
 # AI News Radar 日报
 
-- 生成时间：2026-11-28T04:11:19.950901Z
-- 24小时AI信号：1010 条
+- 生成时间：2026-11-28T13:29:16.371516Z
+- 24小时AI信号：1107 条
 - 源健康：12/14
-- 原始抓取：7414 条
+- 原始抓取：7401 条
 
 ## 今日重点
 
 
 ### 模型发布与能力更新
 
-1. [Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍](https://www.aibase.com/news/32580)
-   - 时间：昨天 21:41
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-2. [谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB](https://www.aibase.com/news/32575)
-   - 时间：昨天 21:41
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-3. [首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带](https://www.aibase.com/news/32573)
-   - 时间：昨天 21:41
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-4. [告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点](https://www.aibase.com/news/32569)
-   - 时间：昨天 21:41
-   - 来源：AIbase
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-5. [Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报](https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc)
-   - 时间：昨天 20:38
+1. [MiniMax 评估内部模型逆向能力：200 万行 Rust 克隆知名二进制分析软件](https://aihot.news/items/j903zx9d0v80rsxi3aw7yj12s)
+   - 时间：36分钟前
    - 来源：AI HOT
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+2. [Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍](https://www.aibase.com/news/32580)
+   - 时间：昨天 21:41
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+3. [谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB](https://www.aibase.com/news/32575)
+   - 时间：昨天 21:41
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+4. [首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带](https://www.aibase.com/news/32573)
+   - 时间：昨天 21:41
+   - 来源：AIbase
+   - 评分：10.0/10 · trusted_ai_source_default_keep
+5. [告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点](https://www.aibase.com/news/32569)
+   - 时间：昨天 21:41
+   - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
 
 ### 产品与开发者工具
@@ -49,31 +49,31 @@
    - 时间：昨天 21:41
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-10. [在第 0 天击败光标和 t3code。强势开始 https://t.co/2xa4bNqUnB https://t.co/QYzyfs0hhV](https://x.com/swyx/status/2126201671026180469)
-   - 时间：昨天 14:29
+10. [例如，我要求克劳德（左）和 Codex（右）为这条推文生成图像，克劳德的看起来更好，并且考虑了矿石问题（+创造力，+耐力），但 Codex 坚持我的精神......](https://x.com/trq212/status/2126386934918651919)
+   - 时间：今天 02:45
    - 来源：Follow Builders
-   - 评分：8.1/10 · matched_ai_signal
+   - 评分：8.9/10 · matched_tracked_ai_keyword
 
 ### 论文研究与评测
 
-11. [人工智能辅助的思维方式是否正在贬低商科学位的价值？](https://phys.org/news/2026-11-aiassisted-devaluing-business-degrees.html)
-   - 时间：7小时前
+11. [Claude暗中破坏AI研究？开发者怒了](https://www.36kr.com/p/4088741898058371)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+12. [【人工智能驱动的电催化研究-13】电催化数据类型与四主线的数据地图](https://blog.csdn.net/2402_84593233/article/details/171535196)
+   - 时间：1分钟前
+   - 来源：TopHub
+   - 评分：7.8/10 · matched_tracked_ai_keyword
+13. [研究人员正在探索利用人工智能和智能传感器，以快速、经济的方式提升食品安全水平](https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html)
+   - 时间：8小时前
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-12. [与人工智能研究人员 Ege Erdil 和 Daniel Kokotajlo 就 2029 年之前智能爆炸的可能性进行问答、暂停人工智能、美国对抗中国等（Dwarkesh Patel/Dwarkesh Podcast）](https://www.techmeme.com/261127/p13)
-   - 时间：7小时前
-   - 来源：TechURLs
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-13. [报告称，美国实施的限制措施导致中国顶尖人工智能实验室的研究进度延误 - The Rundown AI](https://news.google.com/read/CBMibkFVX3lxTE50Y2RhemMycGtTVzJOckxGS21DOGdJZ0lyeVFSMzg0Vk85WlVLWEx3MVk2RnBERlFpcHlpRm1sNG9oczFoem9wb3Y5UXVFczFuZGJ3ajl4aERDMF8yaUhSdGpwdUxtcGw0Sy1KVC1B?hl=en-US&gl=US&ceid=US%3Aen)
-   - 时间：昨天 22:50
+14. [人工智能辅助的思维方式是否正在贬低商科学位的价值？](https://phys.org/news/2026-11-aiassisted-devaluing-business-degrees.html)
+   - 时间：今天 04:47
    - 来源：Buzzing
    - 评分：7.8/10 · matched_tracked_ai_keyword
-14. [那些相信“AI末日”的人正将资金投入到他们所担忧的领域](https://www.businessinsider.com/ai-apocalypse-fears-changing-how-researchers-save-invest-retirement-2026-11)
-   - 时间：昨天 18:55
-   - 来源：Buzzing
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-15. [那些相信“AI末日”的人正将资金投入到他们所担忧的领域](https://www.businessinsider.com/ai-apocalypse-fears-changing-how-researchers-save-invest-retirement-2026-11)
-   - 时间：昨天 18:45
+15. [与人工智能研究人员 Ege Erdil 和 Daniel Kokotajlo 就 2029 年之前智能爆炸的可能性进行问答、暂停人工智能、美国对抗中国等（Dwarkesh Patel/Dwarkesh Podcast）](https://www.techmeme.com/261127/p13)
+   - 时间：今天 04:15
    - 来源：TechURLs
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -91,13 +91,13 @@
    - 时间：昨天 21:41
    - 来源：AIbase
    - 评分：10.0/10 · trusted_ai_source_default_keep
-19. [Datasection 失去腾讯 800 亿日元 AI 订单，全年营收指引暴跌 89%，美收紧 AI 芯片出口管制冲击亚洲算力市场](https://www.theblockbeats.info/flash/379724)
+19. [怎么看 DeepSeek 将多个核心算子优化至华为昇腾 950 的硬件极限，这对国产算力意味着什么？](https://www.zhihu.com/question/2110027159284863346)
    - 时间：1分钟前
    - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
-20. [与 Alice Huang 相关的中国数据中心被发现使用 Nvidia 强大的人工智能芯片](https://hardware.slashdot.org/story/26/11/28/0022257/chinese-data-center-tied-to-alice-huang-found-using-nvidias-powerful-ai-chips)
-   - 时间：3小时前
-   - 来源：TechURLs
+20. [马斯克公开认输 AI 模型之争，向员工承认「落后于对手」，警告浪费 GPU 者将被开除](https://www.cyzone.cn/article/855389.html)
+   - 时间：1分钟前
+   - 来源：TopHub
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
 ### 实践技巧与观点
@@ -106,20 +106,20 @@
    - 时间：昨天 21:32
    - 来源：AI HOT
    - 评分：10.0/10 · trusted_ai_source_default_keep
-22. [Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接](https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96)
-   - 时间：昨天 15:21
-   - 来源：AI HOT
-   - 评分：10.0/10 · trusted_ai_source_default_keep
-23. [华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力](https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT)
-   - 时间：今天 18:00
-   - 来源：OPML RSS
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-24. [Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能](https://www.ithome.com/1/033/822.htm)
-   - 时间：今天 12:15
-   - 来源：TrendRadar
-   - 评分：7.8/10 · matched_tracked_ai_keyword
-25. [Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意](https://www.ithome.com/1/033/810.htm)
-   - 时间：今天 12:15
+22. [AI 训练数据市场内部 — Gabe Greenberg，G2i](https://www.youtube.com/@LatentSpacePod)
+   - 时间：今天 06:19
+   - 来源：Follow Builders
+   - 评分：8.5/10 · matched_tracked_ai_keyword
+23. [简而言之，这就是扩散挑战和机遇。大多数人可能会陷入最初让他们惊叹于人工智能的用例，并且没有动力转向下一个......](https://x.com/levie/status/2126389098227376238)
+   - 时间：今天 02:54
+   - 来源：Follow Builders
+   - 评分：8.5/10 · matched_tracked_ai_keyword
+24. [如果你像我一样带着敬畏、恐惧和不祥的预感看到了图表中人工智能能力的指数级增长，我写过为什么它们是在实验室中衡量人工智能能力的有效方法。以及为什么他们...](https://x.com/danshipper/status/2126397711033438535)
+   - 时间：今天 03:28
+   - 来源：Follow Builders
+   - 评分：8.1/10 · matched_tracked_ai_keyword
+25. [澳媒：中国工业规模助力物理AI发展](https://ckxxapp.ckxx.net/pages/2026/11/28/15c49e328cb543bc830c3fdf7df9cad1.html)
+   - 时间：今天 21:33
    - 来源：TrendRadar
    - 评分：7.8/10 · matched_tracked_ai_keyword
 
@@ -127,14 +127,14 @@
 
 | 来源 | AI/全量 | 命中率 | 建议 |
 | --- | ---: | ---: | --- |
-| TopHub | 413/1645 | 25.1% | 高信号源，建议保留 |
-| Buzzing | 312/798 | 39.1% | 高信号源，建议保留 |
-| TechURLs | 87/268 | 32.5% | 高信号源，建议保留 |
-| Zeli | 70/70 | 100.0% | 高信号源，建议保留 |
-| NewsNow | 21/82 | 25.6% | 高信号源，建议保留 |
-| OPML RSS | 12/19 | 63.2% | 高信号源，建议保留 |
+| TopHub | 544/2172 | 25.0% | 高信号源，建议保留 |
+| Buzzing | 296/742 | 39.9% | 高信号源，建议保留 |
+| TechURLs | 76/239 | 31.8% | 高信号源，建议保留 |
+| Zeli | 61/61 | 100.0% | 高信号源，建议保留 |
+| NewsNow | 24/92 | 26.1% | 高信号源，建议保留 |
 | AIbase | 11/11 | 100.0% | 高信号源，建议保留 |
-| AI HOT | 3/3 | 100.0% | 高信号源，建议保留 |
+| OPML RSS | 8/12 | 66.7% | 高信号源，建议保留 |
+| Follow Builders | 5/23 | 21.7% | 高信号源，建议保留 |
 
 ## 维护提示
 
